@@ -24,6 +24,16 @@ h1 {
     margin-bottom: 20px;
 }
 
+/* NEW: Score Display */
+.score-display {
+    text-align: right;
+    font-weight: bold;
+    color: #00796b;
+    margin-bottom: 15px;
+    padding: 5px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
 #question-text {
     font-size: 1.2em;
     margin-bottom: 20px;
@@ -48,14 +58,39 @@ h1 {
     transition: background-color 0.2s, border-color 0.2s;
 }
 
-.option-btn:hover {
+.option-btn:hover:not(:disabled) {
     background-color: #dcedc8;
 }
 
+/* Base selection color */
 .option-btn.selected {
-    background-color: #a5d6a7;
-    border-color: #66bb6a;
+    border: 3px solid #66bb6a;
+}
+
+/* NEW: Correct Answer highlighting */
+.option-btn.correct-answer {
+    background-color: #c8e6c9;
+    border: 3px solid #004d40;
     font-weight: bold;
+}
+
+/* NEW: Incorrect selection highlighting */
+.option-btn.incorrect {
+    background-color: #ffcdd2; /* Light red */
+    border: 3px solid #e53935; /* Dark red */
+}
+
+.option-btn:disabled {
+    cursor: default;
+    opacity: 0.8;
+}
+
+/* NEW: Feedback Message */
+.feedback {
+    min-height: 40px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 #controls {
