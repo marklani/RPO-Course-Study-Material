@@ -24,7 +24,68 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* NEW: Score Display */
+/* --- Navigation Styles --- */
+
+.navigation-grid {
+    display: grid;
+    gap: 15px;
+    margin-top: 30px;
+}
+
+.nav-button {
+    display: block;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #004d40;
+    background-color: #e8f5e9;
+    border: 2px solid #a5d6a7;
+    border-radius: 8px;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+.nav-button:hover:not(.disabled) {
+    background-color: #dcedc8;
+    border-color: #66bb6a;
+}
+
+.nav-button.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    background-color: #f0f0f0;
+    color: #666;
+    border-color: #ccc;
+}
+
+.nav-button.primary {
+    background-color: #00796b;
+    color: white;
+    border-color: #004d40;
+}
+
+.nav-button.primary:hover:not(.disabled) {
+    background-color: #004d40;
+}
+
+.back-link {
+    margin-top: 20px;
+    text-align: left;
+    font-size: 0.9em;
+}
+
+.back-link a {
+    color: #00796b;
+    text-decoration: none;
+}
+
+.back-link a:hover {
+    text-decoration: underline;
+}
+
+/* --- Quiz Styles (Same as previous step) --- */
+
 .score-display {
     text-align: right;
     font-weight: bold;
@@ -62,22 +123,19 @@ h1 {
     background-color: #dcedc8;
 }
 
-/* Base selection color */
 .option-btn.selected {
     border: 3px solid #66bb6a;
 }
 
-/* NEW: Correct Answer highlighting */
 .option-btn.correct-answer {
     background-color: #c8e6c9;
     border: 3px solid #004d40;
     font-weight: bold;
 }
 
-/* NEW: Incorrect selection highlighting */
 .option-btn.incorrect {
-    background-color: #ffcdd2; /* Light red */
-    border: 3px solid #e53935; /* Dark red */
+    background-color: #ffcdd2;
+    border: 3px solid #e53935;
 }
 
 .option-btn:disabled {
@@ -85,7 +143,6 @@ h1 {
     opacity: 0.8;
 }
 
-/* NEW: Feedback Message */
 .feedback {
     min-height: 40px;
     margin-top: 10px;
@@ -109,12 +166,14 @@ button {
     transition: background-color 0.2s;
 }
 
-#prev-btn, #next-btn {
+#prev-btn,
+#next-btn {
     background-color: #00796b;
     color: white;
 }
 
-#prev-btn:disabled, #next-btn:disabled {
+#prev-btn:disabled,
+#next-btn:disabled {
     background-color: #b2dfdb;
     cursor: not-allowed;
 }
@@ -143,7 +202,6 @@ button {
     color: #004d40;
 }
 
-/* For small screens */
 @media (max-width: 600px) {
     .options-grid {
         grid-template-columns: 1fr;
