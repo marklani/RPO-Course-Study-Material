@@ -1,6 +1,6 @@
 [
     {
-        "question": "1. The purpose of this Code of Practice (CoP) is to provide minimum requirements and guidance for radiation protection in the use of what type(s) of rays in industrial radiography?",
+        "question": "The purpose of this Code of Practice (CoP) is to provide minimum requirements and guidance for radiation protection in the use of what type(s) of rays in industrial radiography?",
         "options": [
             "Alpha and Beta rays",
             "X-ray and Gamma (γ) ray",
@@ -10,7 +10,7 @@
         "answer": "X-ray and Gamma (γ) ray"
     },
     {
-        "question": "2. A requirement that is stated in the regulations or conditions of a licence is expressed using which word in the CoP?",
+        "question": "A requirement that is stated in the regulations or conditions of a licence is expressed using which word in the CoP?",
         "options": [
             "May",
             "Should",
@@ -20,7 +20,7 @@
         "answer": "Shall"
     },
     {
-        "question": "3. Which abbreviation stands for 'As Low As Reasonable Achievable'?",
+        "question": "Which abbreviation stands for 'As Low As Reasonable Achievable'?",
         "options": [
             "ADLS",
             "TVL",
@@ -30,7 +30,7 @@
         "answer": "ALARA"
     },
     {
-        "question": "4. What does the term 'accidental exposure' mean according to the document?",
+        "question": "What does the term 'accidental exposure' mean according to the document?",
         "options": [
             "Any exposure that occurs during an emergency.",
             "A voluntary exposure to save an endangered installation.",
@@ -40,7 +40,7 @@
         "answer": "An unpredictable exposure that results in one or more persons receiving doses exceeding the dose limit."
     },
     {
-        "question": "5. Which term is defined as the thickness of a certain material required to reduce radiation of a known energy range and intensity to half of its original intensity?",
+        "question": "Which term is defined as the thickness of a certain material required to reduce radiation of a known energy range and intensity to half of its original intensity?",
         "options": [
             "Tenth-Value Layer (TVL)",
             "Half-Value Layer (HVL)",
@@ -50,7 +50,7 @@
         "answer": "Half-Value Layer (HVL)"
     },
     {
-        "question": "6. What is the formula used to express Half-Value Layer (HVL) in terms of the linear attenuation coefficient (µ)?",
+        "question": "What is the formula used to express Half-Value Layer (HVL) in terms of the linear attenuation coefficient (µ)?",
         "options": [
             "HVL = μ / 0.693",
             "HVL = 0.693 / μ",
@@ -60,7 +60,7 @@
         "answer": "HVL = 0.693 / μ"
     },
     {
-        "question": "7. In the context of the CoP, what is the role of a collimator?",
+        "question": "In the context of the CoP, what is the role of a collimator?",
         "options": [
             "To measure the radiation dose rate.",
             "To store the sealed source securely.",
@@ -70,7 +70,7 @@
         "answer": "To restrict the beam size and reduce scattering radiation."
     },
     {
-        "question": "8. What is the definition of a controlled area?",
+        "question": "What is the definition of a controlled area?",
         "options": [
             "An area where only members of the public are allowed to enter.",
             "Any area in which specific protection measures and safety provisions are required for controlling normal exposures or preventing the spread of contamination.",
@@ -80,7 +80,7 @@
         "answer": "Any area in which specific protection measures and safety provisions are required for controlling normal exposures or preventing the spread of contamination."
     },
     {
-        "question": "9. What is a 'door interlock'?",
+        "question": "What is a 'door interlock'?",
         "options": [
             "A non-destructive testing method.",
             "A device to change a sealed source.",
@@ -90,7 +90,7 @@
         "answer": "A mechanical and electrical interlock system installed in a shielded enclosure to prevent access to a radiation hazard area."
     },
     {
-        "question": "10. What does the abbreviation RPO stand for in the context of this document?",
+        "question": "What does the abbreviation RPO stand for in the context of this document?",
         "options": [
             "Radiographic Planning Officer",
             "Radiation Protection Organization",
@@ -100,7 +100,7 @@
         "answer": "Radiation Protection Officer"
     },
     {
-        "question": "11. Which term describes the part of the radiation that passes through the window, aperture, cone, or other collimating device?",
+        "question": "Which term describes the part of the radiation that passes through the window, aperture, cone, or other collimating device?",
         "options": [
             "Leakage radiation",
             "Potential exposure",
@@ -110,7 +110,7 @@
         "answer": "Useful beam"
     },
     {
-        "question": "12. Who is referred to as P in the list of abbreviations for workers?",
+        "question": "Who is referred to as P in the list of abbreviations for workers?",
         "options": [
             "Supervisor",
             "Trainee Operator",
@@ -120,7 +120,7 @@
         "answer": "Operator"
     },
     {
-        "question": "13. What is the function of a shutter?",
+        "question": "What is the function of a shutter?",
         "options": [
             "To measure radiation exposure.",
             "To replace the sealed source.",
@@ -130,7 +130,7 @@
         "answer": "A device fixed to the X-ray tube housing or exposure container capable of intercepting the useful beam."
     },
     {
-        "question": "14. The thickness of a certain material required to reduce the radiation intensity to one-tenth of its original intensity is the:",
+        "question": "The thickness of a certain material required to reduce the radiation intensity to one-tenth of its original intensity is the:",
         "options": [
             "Half-Value Layer (HVL)",
             "Tenth-Value Layer (TVL)",
@@ -140,7 +140,7 @@
         "answer": "Tenth-Value Layer (TVL)"
     },
     {
-        "question": "15. What is the name of the principal law governing radiation protection in industrial radiography activities in Malaysia?",
+        "question": "What is the name of the principal law governing radiation protection in industrial radiography activities in Malaysia?",
         "options": [
             "Occupational Safety and Health Act 1994 [Act 514]",
             "Atomic Energy Licensing Act 1984 [Act 304]",
@@ -150,7 +150,7 @@
         "answer": "Atomic Energy Licensing Act 1984 [Act 304]"
     },
     {
-        "question": "16. Which term refers to the testing method that uses X-ray or gamma ray to examine materials in the form of radiographic images?",
+        "question": "Which term refers to the testing method that uses X-ray or gamma ray to examine materials in the form of radiographic images?",
         "options": [
             "Digital Detector Array (DDA)",
             "Image Quality Indicator (IQI)",
@@ -160,7 +160,7 @@
         "answer": "Industrial Radiography"
     },
     {
-        "question": "17. Leakage radiation is defined as all radiation emitted from the exposure container or X-ray tube housing other than the:",
+        "question": "Leakage radiation is defined as all radiation emitted from the exposure container or X-ray tube housing other than the:",
         "options": [
             "Useful beam",
             "Scatter radiation",
@@ -170,7 +170,7 @@
         "answer": "Useful beam"
     },
     {
-        "question": "18. What is a 'source changer'?",
+        "question": "What is a 'source changer'?",
         "options": [
             "A source that changes its energy level.",
             "A device used for replacement of a sealed source in an exposure container.",
@@ -180,7 +180,7 @@
         "answer": "A device used for replacement of a sealed source in an exposure container."
     },
     {
-        "question": "19. What is the definition of 'qualified expert'?",
+        "question": "What is the definition of 'qualified expert'?",
         "options": [
             "Any worker certified by the licensee.",
             "An individual recognized by the Board as having expertise in a relevant field of specialization by virtue of certification, academic qualifications, and experience.",
@@ -190,7 +190,7 @@
         "answer": "An individual recognized by the Board as having expertise in a relevant field of specialization by virtue of certification, academic qualifications, and experience."
     },
     {
-        "question": "20. What is a 'public area'?",
+        "question": "What is a 'public area'?",
         "options": [
             "An area exclusively for trainees.",
             "An area in which protection measures are required.",
@@ -200,7 +200,7 @@
         "answer": "An area which is normally visited or occupied by members of the public."
     },
     {
-        "question": "21. What is the Annual Dose Limit (ADL) for the effective dose (Whole Body) for a worker?",
+        "question": "What is the Annual Dose Limit (ADL) for the effective dose (Whole Body) for a worker?",
         "options": [
             "1 mSv/year",
             "5 mSv/year",
@@ -210,7 +210,7 @@
         "answer": "20 mSv/year"
     },
     {
-        "question": "22. What is the Annual Dose Limit (ADL) for the effective dose (Whole Body) for a member of the public?",
+        "question": "What is the Annual Dose Limit (ADL) for the effective dose (Whole Body) for a member of the public?",
         "options": [
             "1 mSv/year",
             "15 mSv/year",
@@ -220,7 +220,7 @@
         "answer": "1 mSv/year"
     },
     {
-        "question": "23. What is the dose limit for the foetus accumulated over the period between confirmation of pregnancy and date of delivery for a pregnant worker?",
+        "question": "What is the dose limit for the foetus accumulated over the period between confirmation of pregnancy and date of delivery for a pregnant worker?",
         "options": [
             "It must not be exceeded.",
             "1 mSv",
@@ -230,7 +230,7 @@
         "answer": "1 mSv"
     },
     {
-        "question": "24. What is the Annual Dose Limit for the equivalent dose to the lens of the eye for a worker?",
+        "question": "What is the Annual Dose Limit for the equivalent dose to the lens of the eye for a worker?",
         "options": [
             "15 mSv/year",
             "50 mSv/year",
@@ -240,7 +240,7 @@
         "answer": "150 mSv/year"
     },
     {
-        "question": "25. What is the Annual Dose Limit for the equivalent dose to the hands and feet of a worker?",
+        "question": "What is the Annual Dose Limit for the equivalent dose to the hands and feet of a worker?",
         "options": [
             "15 mSv/year",
             "150 mSv/year",
@@ -250,7 +250,7 @@
         "answer": "500 mSv/year"
     },
     {
-        "question": "26. According to the subsidiary legislations, the licensee shall employ a Radiation Protection Officer (RPO) or a qualified expert to carry out the duties of an RPO based on which Regulation?",
+        "question": "According to the subsidiary legislations, the licensee shall employ a Radiation Protection Officer (RPO) or a qualified expert to carry out the duties of an RPO based on which Regulation?",
         "options": [
             "Regulation 6, P.U.(A) 46",
             "Regulation 16, P.U.(A) 46",
@@ -260,7 +260,7 @@
         "answer": "Regulation 16, P.U.(A) 46"
     },
     {
-        "question": "27. Which medical surveillance requirement is NOT listed in Table 2 for a worker?",
+        "question": "Which medical surveillance requirement is NOT listed in Table 2 for a worker?",
         "options": [
             "Pre-employment medical examinations.",
             "Quarterly dose check-ups.",
@@ -270,7 +270,7 @@
         "answer": "Quarterly dose check-ups."
     },
     {
-        "question": "28. Personnel monitoring is mandatory for workers who normally work in a:",
+        "question": "Personnel monitoring is mandatory for workers who normally work in a:",
         "options": [
             "Public area",
             "Storage enclosure",
@@ -280,7 +280,7 @@
         "answer": "Controlled area"
     },
     {
-        "question": "29. Which personnel monitoring device is mandatory for workers?",
+        "question": "Which personnel monitoring device is mandatory for workers?",
         "options": [
             "Direct Reading Dosimeters",
             "Personal Alarm Monitors",
@@ -290,7 +290,7 @@
         "answer": "Thermoluminescent Dosimeter (TLD), Optically Stimulated Luminescence (OSL), or Radiophotoluminescence (RPL)"
     },
     {
-        "question": "30. How often should TLDs, OSL, or RPL dosimeters usually be read in normal conditions?",
+        "question": "How often should TLDs, OSL, or RPL dosimeters usually be read in normal conditions?",
         "options": [
             "Weekly",
             "Bi-annually",
@@ -300,7 +300,7 @@
         "answer": "Monthly"
     },
     {
-        "question": "31. Where should a formal record dosimetry device (TLD, OSL, RPL) be worn visibly?",
+        "question": "Where should a formal record dosimetry device (TLD, OSL, RPL) be worn visibly?",
         "options": [
             "On the head or shoulder level.",
             "At the wrist or ankle.",
@@ -310,7 +310,7 @@
         "answer": "At chest or waist level in front of the body."
     },
     {
-        "question": "32. What is the required action if occupationally related radiation-induced diseases are suspected?",
+        "question": "What is the required action if occupationally related radiation-induced diseases are suspected?",
         "options": [
             "The worker must resign immediately.",
             "The licensee shall provide medical examinations, investigations, and treatments as appropriate.",
@@ -320,7 +320,7 @@
         "answer": "The licensee shall provide medical examinations, investigations, and treatments as appropriate."
     },
     {
-        "question": "33. What must a licensee establish which is a dose constraint lower than the ADL and shall not be exceeded during operation?",
+        "question": "What must a licensee establish which is a dose constraint lower than the ADL and shall not be exceeded during operation?",
         "options": [
             "Maximum Dose Limit",
             "Emergency Exposure Limit",
@@ -330,7 +330,7 @@
         "answer": "Operational Limit"
     },
     {
-        "question": "34. What is the recommended frequency for workers to be given general refresher training?",
+        "question": "What is the recommended frequency for workers to be given general refresher training?",
         "options": [
             "Once per quarter",
             "Once per year",
@@ -340,7 +340,7 @@
         "answer": "Once per year"
     },
     {
-        "question": "35. How soon must the licensee submit a notice of site radiography work to the Board before the work begins?",
+        "question": "How soon must the licensee submit a notice of site radiography work to the Board before the work begins?",
         "options": [
             "Not later than 7 days",
             "Not later than 48 hours",
@@ -350,7 +350,7 @@
         "answer": "Not later than 24 hours"
     },
     {
-        "question": "36. A radiography job should not be carried out in a public area. If it must be carried out in a public area, what must the licensee obtain?",
+        "question": "A radiography job should not be carried out in a public area. If it must be carried out in a public area, what must the licensee obtain?",
         "options": [
             "Verbal approval from the RPO.",
             "Written approval from the Board.",
@@ -360,7 +360,7 @@
         "answer": "Written approval from the Board."
     },
     {
-        "question": "37. What is the minimum staff requirement for each radiography job?",
+        "question": "What is the minimum staff requirement for each radiography job?",
         "options": [
             "One Operator (P)",
             "One Supervisor (PY) and one Trainee Operator (PP)",
@@ -370,7 +370,7 @@
         "answer": "A minimum of two workers consisting of at least one Operator (P) and one Trainee Operator (PP)."
     },
     {
-        "question": "38. What is a Class P Gamma Radiography device?",
+        "question": "What is a Class P Gamma Radiography device?",
         "options": [
             "Fixed, installed exposure device.",
             "Mobile, but not portable, exposure device.",
@@ -380,7 +380,7 @@
         "answer": "Portable exposure device, designed to be carried by one or more persons, with a mass not exceeding 50 kg."
     },
     {
-        "question": "39. What is a Class F Gamma Radiography device?",
+        "question": "What is a Class F Gamma Radiography device?",
         "options": [
             "Fixed, installed exposure device or one with mobility restricted to the confines of a defined working location.",
             "Portable exposure device with a mass of more than 50 kg.",
@@ -390,7 +390,7 @@
         "answer": "Fixed, installed exposure device or one with mobility restricted to the confines of a defined working location."
     },
     {
-        "question": "40. According to ISO 3999, what is the maximum radiation leakage dose rate (µSv/hr) 1 m from the surface of a Class P exposure container when in the locked position?",
+        "question": "According to ISO 3999, what is the maximum radiation leakage dose rate (µSv/hr) 1 m from the surface of a Class P exposure container when in the locked position?",
         "options": [
             "2000",
             "500",
@@ -400,7 +400,7 @@
         "answer": "20"
     },
     {
-        "question": "41. According to ISO 3999, what is the maximum radiation leakage dose rate (µSv/hr) 50 mm from the external surface of a Class M exposure container when in the locked position?",
+        "question": "According to ISO 3999, what is the maximum radiation leakage dose rate (µSv/hr) 50 mm from the external surface of a Class M exposure container when in the locked position?",
         "options": [
             "2000 or 1000",
             "500",
@@ -410,7 +410,7 @@
         "answer": "50"
     },
     {
-        "question": "42. What action shall be taken if the radiation leakage from an exposure container exceeds the maximum dose rate limits shown in Table 6?",
+        "question": "What action shall be taken if the radiation leakage from an exposure container exceeds the maximum dose rate limits shown in Table 6?",
         "options": [
             "The RPO must be notified within 7 days.",
             "The exposure container shall be withdrawn from use and arrangements shall be made immediately for its repair and decontamination.",
@@ -420,7 +420,7 @@
         "answer": "The exposure container shall be withdrawn from use and arrangements shall be made immediately for its repair and decontamination."
     },
     {
-        "question": "43. Who shall perform the periodic maintenance of Gamma Radiography Equipment?",
+        "question": "Who shall perform the periodic maintenance of Gamma Radiography Equipment?",
         "options": [
             "Any worker who is a certified operator.",
             "The licensee's internal technical team.",
@@ -430,7 +430,7 @@
         "answer": "Only a service provider recognized by the Board."
     },
     {
-        "question": "44. What should be used whenever possible in gamma radiography to reduce radiation levels and subsequent doses?",
+        "question": "What should be used whenever possible in gamma radiography to reduce radiation levels and subsequent doses?",
         "options": [
             "Longer control cables.",
             "Collimator and local shielding.",
@@ -440,7 +440,7 @@
         "answer": "Collimator and local shielding."
     },
     {
-        "question": "45. What shall be checked frequently during the inspection and maintenance of X-Ray Equipment?",
+        "question": "What shall be checked frequently during the inspection and maintenance of X-Ray Equipment?",
         "options": [
             "The manufacturer's financial records.",
             "All cables for cuts or damages.",
@@ -450,7 +450,7 @@
         "answer": "All cables for cuts or damages."
     },
     {
-        "question": "46. What standard should the exposure device comply with, as mentioned in Table 7?",
+        "question": "What standard should the exposure device comply with, as mentioned in Table 7?",
         "options": [
             "ISO 9001",
             "ISO 14001",
@@ -460,7 +460,7 @@
         "answer": "ISO 3999"
     },
     {
-        "question": "47. What is the typical length range for a control cable for a gamma exposure device?",
+        "question": "What is the typical length range for a control cable for a gamma exposure device?",
         "options": [
             "2–6.5 m",
             "7–15 m",
@@ -470,7 +470,7 @@
         "answer": "7–15 m"
     },
     {
-        "question": "48. Warning signs and notices shall be clearly posted at all accessible walls of a shielded enclosure site, and the warning sign should preferably be:",
+        "question": "Warning signs and notices shall be clearly posted at all accessible walls of a shielded enclosure site, and the warning sign should preferably be:",
         "options": [
             "Self-illuminated",
             "Fire resistant",
@@ -480,7 +480,7 @@
         "answer": "Fire resistant"
     },
     {
-        "question": "49. In a shielded enclosure, a warning signal (light) shall be actuated before and until:",
+        "question": "In a shielded enclosure, a warning signal (light) shall be actuated before and until:",
         "options": [
             "The RPO has signed off.",
             "Completion of the operation.",
@@ -490,7 +490,7 @@
         "answer": "Completion of the operation."
     },
     {
-        "question": "50. What is the required language for notices posted at a radiographic site?",
+        "question": "What is the required language for notices posted at a radiographic site?",
         "options": [
             "English only.",
             "Bahasa Malaysia and, if necessary, in any other languages.",
@@ -500,7 +500,7 @@
         "answer": "Bahasa Malaysia and, if necessary, in any other languages."
     },
     {
-        "question": "51. For site radiography, the boundary of the controlled area should be set to ensure that the possible dose to people outside the controlled area are below the relevant:",
+        "question": "For site radiography, the boundary of the controlled area should be set to ensure that the possible dose to people outside the controlled area are below the relevant:",
         "options": [
             "Half-Value Layer (HVL)",
             "Reference dose levels",
@@ -510,7 +510,7 @@
         "answer": "Reference dose levels"
     },
     {
-        "question": "52. For X-Ray Radiography in a shielded enclosure, what must the door interlock do immediately if the door is opened while X-rays are being generated?",
+        "question": "For X-Ray Radiography in a shielded enclosure, what must the door interlock do immediately if the door is opened while X-rays are being generated?",
         "options": [
             "Trigger an audible siren.",
             "Automatically re-energize the X-ray generator.",
@@ -520,7 +520,7 @@
         "answer": "Immediately terminate the production of X-rays."
     },
     {
-        "question": "53. In a shielded enclosure for X-Ray Radiography, subsequent closing of the door should not automatically:",
+        "question": "In a shielded enclosure for X-Ray Radiography, subsequent closing of the door should not automatically:",
         "options": [
             "Terminate the exposure.",
             "Re-energize the X-ray generator.",
@@ -530,7 +530,7 @@
         "answer": "Re-energize the X-ray generator."
     },
     {
-        "question": "54. What feature must be built into the door interlock and warning signal systems for X-ray Radiography?",
+        "question": "What feature must be built into the door interlock and warning signal systems for X-ray Radiography?",
         "options": [
             "Automatic dose recording.",
             "Fail-to-safe features.",
@@ -540,7 +540,7 @@
         "answer": "Fail-to-safe features."
     },
     {
-        "question": "55. In site radiography, what is generally the type of signal used for an 'exposure pre-warning'?",
+        "question": "In site radiography, what is generally the type of signal used for an 'exposure pre-warning'?",
         "options": [
             "Visible light (flashing beacon)",
             "Audible (a siren, whistle or bell)",
@@ -550,7 +550,7 @@
         "answer": "Audible (a siren, whistle or bell)"
     },
     {
-        "question": "56. For a shielded enclosure's external wall, the dose rate at any point outside, including doors, should not cause an exposure exceeding what limit for a worker?",
+        "question": "For a shielded enclosure's external wall, the dose rate at any point outside, including doors, should not cause an exposure exceeding what limit for a worker?",
         "options": [
             "1 mSv/y",
             "5 mSv/y",
@@ -560,7 +560,7 @@
         "answer": "20 mSv/y"
     },
     {
-        "question": "57. For a shielded enclosure's external wall, the dose rate at any point outside, including doors, should not cause an exposure exceeding what limit for members of the public?",
+        "question": "For a shielded enclosure's external wall, the dose rate at any point outside, including doors, should not cause an exposure exceeding what limit for members of the public?",
         "options": [
             "1 mSv/y",
             "5 mSv/y",
@@ -570,7 +570,7 @@
         "answer": "1 mSv/y"
     },
     {
-        "question": "58. What is the maximum dose rate (uSv/h) allowed on the accessible surface of the pipe under test from a Pipeline Crawler (sum of exposure container, tell-tale, and control sources) during temporary interruption of use?",
+        "question": "What is the maximum dose rate (uSv/h) allowed on the accessible surface of the pipe under test from a Pipeline Crawler (sum of exposure container, tell-tale, and control sources) during temporary interruption of use?",
         "options": [
             "1 uSv/h",
             "10 uSv/h",
@@ -580,7 +580,7 @@
         "answer": "100 uSv/h"
     },
     {
-        "question": "59. What should be installed in a shielded enclosure to enable any person inside to immediately terminate or prevent radiation exposure?",
+        "question": "What should be installed in a shielded enclosure to enable any person inside to immediately terminate or prevent radiation exposure?",
         "options": [
             "Door Interlock systems.",
             "Survey meters.",
@@ -590,7 +590,7 @@
         "answer": "Emergency stop buttons or pull-cords with manual resets."
     },
     {
-        "question": "60. Which is a mandatory device that must be available to all workers involved in a radiographic operation?",
+        "question": "Which is a mandatory device that must be available to all workers involved in a radiographic operation?",
         "options": [
             "Mobile phone",
             "Approved personal monitoring device",
@@ -600,7 +600,7 @@
         "answer": "Approved personal monitoring device"
     },
     {
-        "question": "61. Radiographic operation shall not proceed if what condition is met regarding the calibrated area monitoring device?",
+        "question": "Radiographic operation shall not proceed if what condition is met regarding the calibrated area monitoring device?",
         "options": [
             "If it is not the latest model.",
             "If it is only calibrated monthly.",
@@ -610,7 +610,7 @@
         "answer": "If it is not available or is not in good working order or is damaged."
     },
     {
-        "question": "62. Area monitoring for supervised and controlled areas shall be done for all the following cases except:",
+        "question": "Area monitoring for supervised and controlled areas shall be done for all the following cases except:",
         "options": [
             "Before the operation.",
             "During the operation.",
@@ -620,7 +620,7 @@
         "answer": "Once every five years, regardless of operation."
     },
     {
-        "question": "63. What is the recommended method of area monitoring for continuous monitoring with monthly changes of the monitoring device in the outside area of a shielded enclosure?",
+        "question": "What is the recommended method of area monitoring for continuous monitoring with monthly changes of the monitoring device in the outside area of a shielded enclosure?",
         "options": [
             "Portable survey meter",
             "Integrating dosimeter (e.g., TLD, OSL, RPL)",
@@ -630,7 +630,7 @@
         "answer": "Integrating dosimeter (e.g., TLD, OSL, RPL)"
     },
     {
-        "question": "64. When planning a working procedure, the radiographic technique should be that which involves the least exposures consistent with the needs of an acceptable:",
+        "question": "When planning a working procedure, the radiographic technique should be that which involves the least exposures consistent with the needs of an acceptable:",
         "options": [
             "License requirement",
             "Shielding design",
@@ -640,7 +640,7 @@
         "answer": "Radiograph"
     },
     {
-        "question": "65. Before a sealed source is brought to the site, what should be prepared if a storage pit is to be used?",
+        "question": "Before a sealed source is brought to the site, what should be prepared if a storage pit is to be used?",
         "options": [
             "A new licence must be applied for.",
             "The pit should be prepared.",
@@ -650,7 +650,7 @@
         "answer": "The pit should be prepared."
     },
     {
-        "question": "66. The dose rate at any point outside a storage facility (storage room, storage pit) should not cause an exposure exceeding what limit for members of the public?",
+        "question": "The dose rate at any point outside a storage facility (storage room, storage pit) should not cause an exposure exceeding what limit for members of the public?",
         "options": [
             "0.1 mSv/y",
             "1 mSv/y",
@@ -660,7 +660,7 @@
         "answer": "1 mSv/y"
     },
     {
-        "question": "67. Which type of warning signs shall be clearly posted on the lid of the storage pit and on the four walls of the fence?",
+        "question": "Which type of warning signs shall be clearly posted on the lid of the storage pit and on the four walls of the fence?",
         "options": [
             "Visible light signals.",
             "Audible warnings.",
@@ -670,7 +670,7 @@
         "answer": "Embossed type warning signs and notices."
     },
     {
-        "question": "68. Who should keep the key to the storage room where exposure containers are stored?",
+        "question": "Who should keep the key to the storage room where exposure containers are stored?",
         "options": [
             "The Board.",
             "RPO/Supervisor/Operator.",
@@ -680,7 +680,7 @@
         "answer": "RPO/Supervisor/Operator."
     },
     {
-        "question": "69. The use of a storage enclosure is allowed only where the construction of a storage room or storage pit is not possible (e.g.: at barges or offshore) and is regulated under which subsidiary legislation?",
+        "question": "The use of a storage enclosure is allowed only where the construction of a storage room or storage pit is not possible (e.g.: at barges or offshore) and is regulated under which subsidiary legislation?",
         "options": [
             "Regulation 12(b), P.U.(A)149 (Radiation Protection (Licensing) Regulations 1986)",
             "Regulation 68, P.U.(A)46",
@@ -690,7 +690,7 @@
         "answer": "Regulation 12(b), P.U.(A)149 (Radiation Protection (Licensing) Regulations 1986)"
     },
     {
-        "question": "70. The boundary of a storage enclosure shall be formed by a what to prevent access?",
+        "question": "The boundary of a storage enclosure shall be formed by a what to prevent access?",
         "options": [
             "A rope barrier.",
             "A physical barrier.",
@@ -700,7 +700,7 @@
         "answer": "A physical barrier."
     },
     {
-        "question": "71. Transportation of a package containing a sealed source must be in accordance with which regulation?",
+        "question": "Transportation of a package containing a sealed source must be in accordance with which regulation?",
         "options": [
             "Radiation Protection (Licensing) Regulations 1986",
             "Occupational Safety and Health Act 1994",
@@ -710,7 +710,7 @@
         "answer": "Radiation Protection (Transport) Regulations 1989"
     },
     {
-        "question": "72. What is an emergency exposure?",
+        "question": "What is an emergency exposure?",
         "options": [
             "An unpredictable exposure that exceeds the dose limit.",
             "A voluntary exposure justified in abnormal conditions for the purpose of bringing help to endangered individuals, preventing exposure to a large number of people or saving a valuable installation.",
@@ -720,7 +720,7 @@
         "answer": "A voluntary exposure justified in abnormal conditions for the purpose of bringing help to endangered individuals, preventing exposure to a large number of people or saving a valuable installation."
     },
     {
-        "question": "73. What must a licensee establish for responding to and correcting every reasonably foreseeable emergency situation?",
+        "question": "What must a licensee establish for responding to and correcting every reasonably foreseeable emergency situation?",
         "options": [
             "A new set of ADLs.",
             "A new RPO.",
@@ -730,7 +730,7 @@
         "answer": "An emergency plan."
     },
     {
-        "question": "74. Which of the following is NOT listed as a type of emergency involving Gamma Radiography?",
+        "question": "Which of the following is NOT listed as a type of emergency involving Gamma Radiography?",
         "options": [
             "A source becomes stuck in the guide tube.",
             "A pipeline crawler becomes stuck in a pipe with the source exposed.",
@@ -740,7 +740,7 @@
         "answer": "Generation of radiation fails to terminate after the intended time period."
     },
     {
-        "question": "75. Which of the following is a type of emergency involving X-Ray Equipment?",
+        "question": "Which of the following is a type of emergency involving X-Ray Equipment?",
         "options": [
             "A source is projected out of the end of the guide tube.",
             "Generation of radiation fails to terminate after the intended time period.",
@@ -750,7 +750,7 @@
         "answer": "Generation of radiation fails to terminate after the intended time period."
     },
     {
-        "question": "76. Which type of emergency equipment is preferred over quartz fibre electroscopes?",
+        "question": "Which type of emergency equipment is preferred over quartz fibre electroscopes?",
         "options": [
             "TLDs.",
             "Electronic personal dosimeters.",
@@ -760,7 +760,7 @@
         "answer": "Electronic personal dosimeters."
     },
     {
-        "question": "77. Which item is required in the Emergency Equipment list as part of a suitable tool kit for source recovery?",
+        "question": "Which item is required in the Emergency Equipment list as part of a suitable tool kit for source recovery?",
         "options": [
             "Scissors and rulers.",
             "Long handling tongs, pliers, and bolt cutters.",
@@ -770,7 +770,7 @@
         "answer": "Long handling tongs, pliers, and bolt cutters."
     },
     {
-        "question": "78. What must the worker (response initiator) do first in an abnormal situation involving an X-ray generator?",
+        "question": "What must the worker (response initiator) do first in an abnormal situation involving an X-ray generator?",
         "options": [
             "Inform the RPO immediately.",
             "Turn off the electrical power to the radiography equipment.",
@@ -780,7 +780,7 @@
         "answer": "Turn off the electrical power to the radiography equipment."
     },
     {
-        "question": "79. What must the worker (response initiator) not do with the X-ray radiography equipment after an abnormal situation?",
+        "question": "What must the worker (response initiator) not do with the X-ray radiography equipment after an abnormal situation?",
         "options": [
             "Inform the RPO.",
             "Record the exposure settings.",
@@ -790,7 +790,7 @@
         "answer": "Use the X-ray generator until it has been examined and repaired by the manufacturer or by a qualified expert."
     },
     {
-        "question": "80. What must the RPO do as part of the emergency procedure for X-ray generators?",
+        "question": "What must the RPO do as part of the emergency procedure for X-ray generators?",
         "options": [
             "Assess the possible doses that could have been received and prepare a report.",
             "Immediately enter the controlled area to manually terminate the exposure.",
@@ -800,7 +800,7 @@
         "answer": "Assess the possible doses that could have been received and prepare a report."
     },
     {
-        "question": "81. In a Gamma Radiography emergency, what should the worker (response initiator) do after recognizing an abnormal situation and moving away from the exposed source?",
+        "question": "In a Gamma Radiography emergency, what should the worker (response initiator) do after recognizing an abnormal situation and moving away from the exposed source?",
         "options": [
             "Immediately attempt to fix the equipment.",
             "Measure the radiation dose rates and record any doses measured by direct reading dosimeters.",
@@ -810,7 +810,7 @@
         "answer": "Measure the radiation dose rates and record any doses measured by direct reading dosimeters."
     },
     {
-        "question": "82. In a Gamma Radiography emergency, what is the crucial safety instruction the RPO must adhere to when implementing the planned course of action?",
+        "question": "In a Gamma Radiography emergency, what is the crucial safety instruction the RPO must adhere to when implementing the planned course of action?",
         "options": [
             "Under no circumstances allow the source to come into contact with the hands or other parts of the body.",
             "Ensure that the guide tube is longer than 15 m.",
@@ -820,7 +820,7 @@
         "answer": "Under no circumstances allow the source to come into contact with the hands or other parts of the body."
     },
     {
-        "question": "83. Upon suspicion of an overdose, what must the licensee carry out and submit to the Board?",
+        "question": "Upon suspicion of an overdose, what must the licensee carry out and submit to the Board?",
         "options": [
             "An annual audit.",
             "A pre-employment medical examination.",
@@ -830,7 +830,7 @@
         "answer": "An investigation to determine the circumstances and consequences."
     },
     {
-        "question": "84. Practice-specific guidance recommending good practices is expressed using which word?",
+        "question": "Practice-specific guidance recommending good practices is expressed using which word?",
         "options": [
             "Shall",
             "Should",
@@ -840,7 +840,7 @@
         "answer": "Should"
     },
     {
-        "question": "85. What is the full meaning of DDA?",
+        "question": "What is the full meaning of DDA?",
         "options": [
             "Dose Detail Assessment",
             "Digital Detector Array",
@@ -850,7 +850,7 @@
         "answer": "Digital Detector Array"
     },
     {
-        "question": "86. What is the full meaning of IQI?",
+        "question": "What is the full meaning of IQI?",
         "options": [
             "Industrial Quality Indicator",
             "Isotope Quality Index",
@@ -860,7 +860,7 @@
         "answer": "Image Quality Indicator"
     },
     {
-        "question": "87. The term 'calibrated' means an instrument has undergone standard measurement or adjustment performed by an agency recognized and approved by which body?",
+        "question": "The term 'calibrated' means an instrument has undergone standard measurement or adjustment performed by an agency recognized and approved by which body?",
         "options": [
             "The Licensee",
             "The Ministry of Health",
@@ -870,7 +870,7 @@
         "answer": "The Board"
     },
     {
-        "question": "88. The Atomic Energy Licensing (Basic Safety Radiation Protection) Regulations 2010 is identified by which P.U. number?",
+        "question": "The Atomic Energy Licensing (Basic Safety Radiation Protection) Regulations 2010 is identified by which P.U. number?",
         "options": [
             "P.U.(A) 456",
             "P.U.(A) 149",
@@ -880,7 +880,7 @@
         "answer": "P.U.(A) 46"
     },
     {
-        "question": "89. A licensee who wishes to practice industrial radiography shall obtain a licence for which classes (as applicable)?",
+        "question": "A licensee who wishes to practice industrial radiography shall obtain a licence for which classes (as applicable)?",
         "options": [
             "Class A, B, C, D, E, G, H",
             "Class 1, 2, 3, 4, 5",
@@ -890,7 +890,7 @@
         "answer": "Class A, B, C, D, E, G, H"
     },
     {
-        "question": "90. Which Act is listed as another related act (besides Act 304 and its subsidiaries) that the licensee shall comply with?",
+        "question": "Which Act is listed as another related act (besides Act 304 and its subsidiaries) that the licensee shall comply with?",
         "options": [
             "Malaysian Communications and Multimedia Act 1998",
             "Copyright Act 1987",
@@ -900,7 +900,7 @@
         "answer": "Occupational Safety and Health Act 1994 [Act 514]"
     },
     {
-        "question": "91. Direct Reading Dosimeters give a direct dose reading and workers should check them how often to monitor their doses?",
+        "question": "Direct Reading Dosimeters give a direct dose reading and workers should check them how often to monitor their doses?",
         "options": [
             "Monthly",
             "Daily",
@@ -910,7 +910,7 @@
         "answer": "During the day"
     },
     {
-        "question": "92. Personal Alarm Monitors give a warning signal when a preset Dose or Dose rate is exceeded. How often should this device be tested?",
+        "question": "Personal Alarm Monitors give a warning signal when a preset Dose or Dose rate is exceeded. How often should this device be tested?",
         "options": [
             "Monthly",
             "Weekly",
@@ -920,7 +920,7 @@
         "answer": "Daily"
     },
     {
-        "question": "93. Where should a Direct Reading Dosimeter or Personal Alarm Monitor be worn?",
+        "question": "Where should a Direct Reading Dosimeter or Personal Alarm Monitor be worn?",
         "options": [
             "On the leg.",
             "At chest level in front of the body.",
@@ -930,7 +930,7 @@
         "answer": "At chest level in front of the body."
     },
     {
-        "question": "94. What must operators ensure when radiography work is performed on a construction site with several floors?",
+        "question": "What must operators ensure when radiography work is performed on a construction site with several floors?",
         "options": [
             "That all workers have the same type of dosimeter.",
             "That the exposure is terminated within 5 minutes.",
@@ -940,7 +940,7 @@
         "answer": "That access is prevented to any controlled areas on floors above and below the work area."
     },
     {
-        "question": "95. For a shielded enclosure's Gamma Radiography door interlock, if it's not possible to install an interlock system due to a manually operated device, what must the worker do immediately prior to exposing the source?",
+        "question": "For a shielded enclosure's Gamma Radiography door interlock, if it's not possible to install an interlock system due to a manually operated device, what must the worker do immediately prior to exposing the source?",
         "options": [
             "Stand outside the facility.",
             "Lock the door closed.",
@@ -950,7 +950,7 @@
         "answer": "Lock the door closed."
     },
     {
-        "question": "96. A pre-warning signal for a shielded enclosure (visible or audible) should last sufficiently long to enable persons to:",
+        "question": "A pre-warning signal for a shielded enclosure (visible or audible) should last sufficiently long to enable persons to:",
         "options": [
             "Collect their equipment.",
             "Vacate the inside of the enclosure.",
@@ -960,7 +960,7 @@
         "answer": "Vacate the inside of the enclosure."
     },
     {
-        "question": "97. Area monitoring must also be done in a new facility, whenever there are fundamental changes to the pre-existing facility, and when practical changes in the protection system have been made. This is based on which regulation?",
+        "question": "Area monitoring must also be done in a new facility, whenever there are fundamental changes to the pre-existing facility, and when practical changes in the protection system have been made. This is based on which regulation?",
         "options": [
             "Regulation 6, P.U.(A) 46",
             "Regulation 21, P.U.(A) 46",
@@ -970,7 +970,7 @@
         "answer": "Regulation 21, P.U.(A) 46"
     },
     {
-        "question": "98. When the emergency is over and the source has been made safe, what is one action the RPO must take regarding the dosimeters?",
+        "question": "When the emergency is over and the source has been made safe, what is one action the RPO must take regarding the dosimeters?",
         "options": [
             "Dispose of the dosimeters immediately.",
             "Return personal dosimeters to the dosimetry service for the purpose of accurate assessment of exposures.",
@@ -980,7 +980,7 @@
         "answer": "Return personal dosimeters to the dosimetry service for the purpose of accurate assessment of exposures."
     },
     {
-        "question": "99. How many individuals are generally involved in the review of this Code of Practice (Rev. 3 on 10 Dec 2021) from the Agensi Nuklear Malaysia?",
+        "question": "How many individuals are generally involved in the review of this Code of Practice (Rev. 3 on 10 Dec 2021) from the Agensi Nuklear Malaysia?",
         "options": [
             "One",
             "Two",

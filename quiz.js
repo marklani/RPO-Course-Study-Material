@@ -7,8 +7,8 @@ const userAnswers = new Map();
 
 const questionArea = document.getElementById('question-area');
 const loadingMessage = document.getElementById('loading-message');
-const scoreStatusElement = document.getElementById('score-status'); // NEW
-const feedbackMessageElement = document.getElementById('feedback-message'); // NEW
+const scoreStatusElement = document.getElementById('score-status');
+const feedbackMessageElement = document.getElementById('feedback-message');
 const questionTextElement = document.getElementById('question-text');
 const optionsContainer = document.getElementById('options-container');
 const prevBtn = document.getElementById('prev-btn');
@@ -20,6 +20,28 @@ const quizContainer = document.getElementById('quiz-container');
 const scoreText = document.getElementById('score-text');
 
 // --- Helper Functions ---
+
+/**
+ * Shuffles array in place using the Fisher-Yates (Knuth) algorithm.
+ * @param {Array} array The array to shuffle.
+ */
+function shuffleArray(array) {
+    let currentIndex = array.length, randomIndex;
+
+    // While there remain elements to shuffle.
+    while (currentIndex != 0) {
+
+        // Pick a remaining element.
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex--;
+
+        // And swap it with the current element.
+        [array[currentIndex], array[randomIndex]] = [
+            array[randomIndex], array[currentIndex]];
+    }
+
+    return array;
+}
 
 function updateScoreDisplay() {
     let score = 0;
@@ -48,15 +70,15 @@ function loadQuestion() {
     const currentQuestion = quizData[currentQuestionIndex];
     const answerData = userAnswers.get(currentQuestionIndex);
     const questionWasAnswered = !!answerData;
-    
+
     // Clear feedback before loading
     feedbackMessageElement.innerHTML = '';
-    
+
     // Update question number text
     qNumberSpan.textContent = `Question ${currentQuestionIndex + 1} of ${totalQuestions}`;
 
     // Update question text
-    questionTextElement.innerHTML = currentQuestion.question;
+    questionTextElement.innerHTML = `${currentQuestionIndex + 1}. ${currentQuestion.question}`;
     optionsContainer.innerHTML = ''; // Clear previous options
 
     // Create option buttons
@@ -65,10 +87,10 @@ function loadQuestion() {
         button.classList.add('option-btn');
         button.textContent = option;
         button.dataset.option = option;
-        
+
         if (questionWasAnswered) {
             button.disabled = true; // Lock options if already answered
-            
+
             // Apply styling based on stored result
             if (option === answerData.selected) {
                 button.classList.add('selected');
@@ -80,10 +102,10 @@ function loadQuestion() {
                 button.classList.add('correct-answer'); // Highlight the correct answer
             }
         } else {
-             // Attach event listener only if not answered
-             button.addEventListener('click', () => selectOption(option, button));
+            // Attach event listener only if not answered
+            button.addEventListener('click', () => selectOption(option, button));
         }
-        
+
         optionsContainer.appendChild(button);
     });
 
@@ -95,13 +117,13 @@ function loadQuestion() {
             feedbackMessageElement.innerHTML = `<span style="color: #e53935; font-weight: bold;">❌ Incorrect.</span> The correct answer was: <strong>${currentQuestion.answer}</strong>.`;
         }
     }
-    
+
     // Update the score display on every load
     updateScoreDisplay();
 
     // Update control button visibility
     prevBtn.disabled = currentQuestionIndex === 0;
-    
+
     if (currentQuestionIndex === totalQuestions - 1) {
         nextBtn.style.display = 'none';
         submitBtn.style.display = 'block';
@@ -114,16 +136,16 @@ function loadQuestion() {
 function selectOption(selectedOption, button) {
     // Prevent re-selection once an answer is chosen for this question
     if (userAnswers.has(currentQuestionIndex)) {
-        return; 
+        return;
     }
 
     const currentQuestion = quizData[currentQuestionIndex];
     const isCorrect = selectedOption === currentQuestion.answer;
 
     // 1. Save and check the user's choice
-    userAnswers.set(currentQuestionIndex, { 
-        selected: selectedOption, 
-        isCorrect: isCorrect 
+    userAnswers.set(currentQuestionIndex, {
+        selected: selectedOption,
+        isCorrect: isCorrect
     });
 
     // 2. Visually update and show feedback
@@ -154,16 +176,6 @@ function selectOption(selectedOption, button) {
     updateScoreDisplay();
 }
 
-function showResults() {
-    // Recalculate score just in case, though it should be current
-    const finalScore = calculateScore(); 
-    const totalQuestions = quizData.length;
-    
-    questionArea.style.display = 'none';
-    resultContainer.style.display = 'block';
-    scoreText.textContent = `You scored ${finalScore} out of ${totalQuestions} (${((finalScore / totalQuestions) * 100).toFixed(1)}%).`;
-}
-
 function calculateScore() {
     let score = 0;
     quizData.forEach((_, index) => {
@@ -184,8 +196,11 @@ async function loadQuizData() {
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-        quizData = await response.json();
-        
+        let data = await response.json();
+
+        // 🚨 NEW: Shuffle the loaded data array
+        quizData = shuffleArray(data);
+
         // Hide loading message, show quiz area, and start the quiz
         loadingMessage.style.display = 'none';
         questionArea.style.display = 'block';
