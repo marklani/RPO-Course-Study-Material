@@ -4,16 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Industrial Radiography CoP Quiz</title>
-    <link rel="stylesheet" href="style.css">
+    <title>LemTek Quiz</title>
+    <link rel="stylesheet" href="../../style.css">
 </head>
 
 <body>
 
     <div class="container">
+        <script>console.log(sessionStorage.getItem('count'));</script>
         <h1>Radiation Protection Officer Category 2 Quiz</h1>
         <div class="back-link">
-            <a href="ndt_category.html">← Back to NDT Category</a>
+            <a href="/NDT-Category/">← Back to NDT Category</a>
         </div>
         <div id="quiz-container">
             <div id="loading-message">Loading quiz data...</div>
@@ -30,19 +31,19 @@
                     <button id="prev-btn" disabled>Previous</button>
                     <span id="q-number"></span>
                     <button id="next-btn">Next</button>
-                    <button id="submit-btn" style="display:none;">Submit Quiz</button>
+                    <button id="submit-btn">Submit Quiz</button>
                 </div>
             </div>
+        </div>
 
-            <div id="result-container" style="display:none;">
-                <h2>Quiz Results</h2>
-                <p id="score-text"></p>
-                <button onclick="location.reload()">Retake Quiz</button>
-            </div>
+        <div id="result-container" style="display:none;">
+            <h2>Quiz Results</h2>
+            <p id="score-text"></p>
+            <button onclick="location.reload()">Retake Quiz</button>
         </div>
     </div>
 
-    <script src="quiz.js"></script>
+    <script src="../../logic/quiz.js"></script>
 </body>
 
 </html>

@@ -18,6 +18,8 @@ const qNumberSpan = document.getElementById('q-number');
 const resultContainer = document.getElementById('result-container');
 const quizContainer = document.getElementById('quiz-container');
 const scoreText = document.getElementById('score-text');
+// 1. Get the requested number of questions from sessionStorage
+const requestedCount = sessionStorage.getItem('count');
 
 // --- Helper Functions ---
 
@@ -56,17 +58,17 @@ function updateScoreDisplay() {
         }
     });
 
-    scoreStatusElement.innerHTML = `✅ **Current Score:** ${score} / ${quizData.length} | **Answered:** ${answeredCount} / ${quizData.length}`;
+    scoreStatusElement.innerHTML = `✅ **Current Score:** ${score} / ${requestedCount} | **Answered:** ${answeredCount} / ${requestedCount}`;
 }
 
 // --- Core Quiz Functions ---
 
 function loadQuestion() {
-    if (quizData.length === 0 || currentQuestionIndex >= quizData.length) {
+    if (requestedCount === 0 || currentQuestionIndex >= requestedCount) {
         return;
     }
 
-    const totalQuestions = quizData.length;
+    const totalQuestions = requestedCount;
     const currentQuestion = quizData[currentQuestionIndex];
     const answerData = userAnswers.get(currentQuestionIndex);
     const questionWasAnswered = !!answerData;
@@ -75,7 +77,7 @@ function loadQuestion() {
     feedbackMessageElement.innerHTML = '';
 
     // Update question number text
-    qNumberSpan.textContent = `Question ${currentQuestionIndex + 1} of ${totalQuestions}`;
+    qNumberSpan.textContent = `Question ${currentQuestionIndex + 1} of ${sessionStorage.getItem('count')}`;
 
     // Update question text
     questionTextElement.innerHTML = `${currentQuestionIndex + 1}. ${currentQuestion.question}`;
@@ -187,6 +189,15 @@ function calculateScore() {
     return score;
 }
 
+function showResults() {
+    const finalScore = calculateScore();
+    const totalQuestions = quizData.length;
+
+    quizContainer.style.display = 'none';
+    resultContainer.style.display = 'block';
+    scoreText.textContent = `You scored ${finalScore} out of ${totalQuestions} (${((finalScore / totalQuestions) * 100).toFixed(1)}%).`;
+}
+
 
 // --- Data Loading and Initialization ---
 
@@ -198,8 +209,17 @@ async function loadQuizData() {
         }
         let data = await response.json();
 
-        // 🚨 NEW: Shuffle the loaded data array
-        quizData = shuffleArray(data);
+        // Check for invalid input: not a number, less than 1, or more than available data
+        if (isNaN(requestedCount) || requestedCount < 1 || requestedCount > data.length) {
+            // Default to max (100) if invalid or not specified
+            requestedCount = data.length;
+        }
+
+        // 2. Shuffle the full data array (essential for random subset)
+        let shuffledData = shuffleArray(data);
+
+        // 3. Slice the array to the requested size
+        quizData = shuffledData.slice(0, requestedCount);
 
         // Hide loading message, show quiz area, and start the quiz
         loadingMessage.style.display = 'none';
@@ -212,7 +232,6 @@ async function loadQuizData() {
     }
 }
 
-
 // --- Event Listeners ---
 
 prevBtn.addEventListener('click', () => {
@@ -223,7 +242,7 @@ prevBtn.addEventListener('click', () => {
 });
 
 nextBtn.addEventListener('click', () => {
-    if (currentQuestionIndex < quizData.length - 1) {
+    if (currentQuestionIndex < requestedCount - 1) {
         currentQuestionIndex++;
         loadQuestion();
     }
@@ -231,8 +250,8 @@ nextBtn.addEventListener('click', () => {
 
 submitBtn.addEventListener('click', () => {
     // Check if all questions are answered before submitting
-    if (userAnswers.size < quizData.length) {
-        if (!confirm(`You have only answered ${userAnswers.size} of ${quizData.length} questions. Are you sure you want to submit?`)) {
+    if (userAnswers.size < requestedCount) {
+        if (!confirm(`You have only answered ${userAnswers.size} of ${requestedCount} questions. Are you sure you want to submit?`)) {
             return;
         }
     }
