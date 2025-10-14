@@ -11,35 +11,23 @@
 <body>
     <script>sessionStorage.setItem('count', 50)</script>
     <div class="container">
-        <h1>Non-Destructive Testing (NDT)</h1>
+        <h1>General</h1>
         <div class="back-link">
             <a href="../">← Back to Main Menu</a>
         </div>
-        <p>Choose a specific quiz based on the Code of Practice.</p>
-        <!-- <form action="quiz.html" method="GET" class="selection-form">
-            <div class="selection-box">
-                <label for="question-count">Select Number of Questions:</label>
-                <select id="question-count"
-                    onchange="sessionStorage.setItem('count', value); document.getElementById('lemtek-quiz').innerHTML = `Lem Tek 33 based Quiz (${sessionStorage.getItem('count')} Q)`;">
-                    <option value="10">10 Questions</option>
-                    <option value="25">25 Questions</option>
-                    <option value="50">50 Questions</option>
-                    <option value="100" selected>100 Questions (Full)</option>
-                </select>
-            </div>
-        </form> -->
+        <p>Choose a specific quiz based on the syllabus</p>
         <div class="navigation-grid">
-            <a href="LemTek-Quiz-Bm/" class="nav-button primary" id="lemtek-quiz">
+            <a href="LemTek-Quiz-Bm/" class="nav-button primary">
                 Lem Tek 18 based Quiz - BM
             </a>
         </div>
         <div class="navigation-grid">
-            <a href="LemTek-Quiz-En/" class="nav-button primary" id="lemtek-quiz">
+            <a href="LemTek-Quiz-En/" class="nav-button primary">
                 Lem Tek 18 based Quiz - EN
             </a>
         </div>
         <div class="navigation-grid">
-            <a href="slides_quiz.html" class="nav-button disabled">
+            <a href="Slides-Quiz/" class="nav-button primary">
                 Slides based Quiz
             </a>
         </div>
