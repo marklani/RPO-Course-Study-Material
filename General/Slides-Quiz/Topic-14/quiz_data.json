@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What is one of the primary objectives of radiological monitoring, according to the document?",
+        "options": [
+            "To calculate the total cost of operations",
+            "To assess the radiation exposure situation to ensure compliance with BSRP 2010 requirements",
+            "To determine the half-life of radioactive sources",
+            "To schedule annual maintenance of the facility"
+        ],
+        "answer": "To assess the radiation exposure situation to ensure compliance with BSRP 2010 requirements"
+    },
+    {
+        "question": "The objective 'To verify the effectiveness of radiation protective measures provided at work places' is characteristic of which activity?",
+        "options": [
+            "Financial auditing",
+            "Chemical inventory management",
+            "Radiological monitoring",
+            "Equipment calibration"
+        ],
+        "answer": "Radiological monitoring"
+    },
+    {
+        "question": "What is the ICRP-recommended annual dose limit for the public from radiation sources under management (excluding medical exposure)?",
+        "options": [
+            "50 mSv",
+            "10 mSv",
+            "1 mSv",
+            "100 mSv"
+        ],
+        "answer": "1 mSv"
+    },
+    {
+        "question": "What is the dose limit for workers handling nuclear energy or radiation, over a period of 5 years?",
+        "options": [
+            "250 mSv/5 years",
+            "50 mSv/5 years",
+            "100 mSv/5 years",
+            "500 mSv/5 years"
+        ],
+        "answer": "100 mSv/5 years"
+    },
+    {
+        "question": "Which health effect is associated with an acute radiation dose of approximately 1000 mSv?",
+        "options": [
+            "Hypofunction of the hematopoietic system",
+            "Immediate death",
+            "Temporary loss of smell",
+            "Minor skin burn"
+        ],
+        "answer": "Hypofunction of the hematopoietic system"
+    },
+    {
+        "question": "According to the chart on radiation exposure in daily life, what is the approximate annual natural radiation dose per person?",
+        "options": [
+            "0.3 mSv per year",
+            "1.0 mSv per year",
+            "2.1 mSv per year",
+            "10 mSv per year"
+        ],
+        "answer": "2.1 mSv per year"
+    },
+    {
+        "question": "The dose from which source of natural radiation is approximately 0.99 mSv, the highest single contribution listed in the natural radiation chart?",
+        "options": [
+            "From outer space",
+            "From the ground",
+            "Inhalation of radon, etc",
+            "From foods"
+        ],
+        "answer": "From foods"
+    },
+    {
+        "question": "In the Australian average yearly radiation exposure data, which source contributes the largest dose at 1.7 mSv?",
+        "options": [
+            "Terrestrial",
+            "Medical",
+            "Cosmic",
+            "Potassium-40 in the body"
+        ],
+        "answer": "Medical"
+    },
+    {
+        "question": "What does the unit 'mSv' stand for, as it measures ionising radiation exposure levels?",
+        "options": [
+            "Megasiemens",
+            "Millisievert",
+            "Milli-Source Velocity",
+            "Mega-Squared Volume"
+        ],
+        "answer": "Millisievert"
+    },
+    {
+        "question": "According to the document, what is the average yearly radiation dose in Australia from Radon and its decay products?",
+        "options": [
+            "1.7 mSv",
+            "0.6 mSv",
+            "0.5 mSv",
+            "0.3 mSv"
+        ],
+        "answer": "0.5 mSv"
+    },
+    {
+        "question": "Under the Basic Safety Radiation Protection (BSRP 2010), individual monitoring is required for any worker normally employed in which type of area?",
+        "options": [
+            "Uncontrolled Area",
+            "Supervised Area",
+            "Controlled Area",
+            "Clean Area"
+        ],
+        "answer": "Controlled Area"
+    },
+    {
+        "question": "Which factor must be known to derive a worker's dose from the results of workplace monitoring?",
+        "options": [
+            "The worker's salary",
+            "The location and duration of the worker's exposure",
+            "The type of building material used",
+            "The ambient temperature"
+        ],
+        "answer": "The location and duration of the worker's exposure"
+    },
+    {
+        "question": "Worker exposure may be derived from workplace monitoring if the doses are relatively what?",
+        "options": [
+            "High and unpredictable",
+            "Measured by TLD only",
+            "Relatively invariant and can be reliably assessed by other means",
+            "Above the annual limit"
+        ],
+        "answer": "Relatively invariant and can be reliably assessed by other means"
+    },
+    {
+        "question": "What is the typical annual radiation dose received by aircrew flying long-haul polar routes?",
+        "options": [
+            "< 1 mSv",
+            "6 mSv",
+            "20 mSv",
+            "50 mSv"
+        ],
+        "answer": "6 mSv"
+    },
+    {
+        "question": "What is the average annual radiation dose received by aircrew where all routes flown do not exceed an altitude of about 9000 metres?",
+        "options": [
+            "> 6 mSv",
+            "1 - 5 mSv",
+            "< 1 mSv",
+            "Exactly 20 mSv"
+        ],
+        "answer": "< 1 mSv"
+    },
+    {
+        "question": "Which of the following must a workplace monitoring programme specify, in addition to quantities to be measured and measurement frequency?",
+        "options": [
+            "The emergency contact list for all staff",
+            "Reference levels and actions to be taken if they are exceeded",
+            "The brand of the monitoring equipment used",
+            "The annual budget for radiation protection"
+        ],
+        "answer": "Reference levels and actions to be taken if they are exceeded"
+    },
+    {
+        "question": "Workplace monitoring plays a role in 'Estimating exposure retrospectively' under what condition?",
+        "options": [
+            "When the air-conditioning unit fails",
+            "When individual dosimeters are lost or damaged",
+            "When the power is shut off for maintenance",
+            "When new staff are hired"
+        ],
+        "answer": "When individual dosimeters are lost or damaged"
+    },
+    {
+        "question": "Which area is one of the primary objectives of the additional workplace monitoring roles?",
+        "options": [
+            "Detecting abnormal conditions to allow an appropriate corrective response in a timely manner",
+            "Calculating the annual depreciation of radiation equipment",
+            "Designing new plant blueprints",
+            "Managing the facility's overall utility bills"
+        ],
+        "answer": "Detecting abnormal conditions to allow an appropriate corrective response in a timely manner"
+    },
+    {
+        "question": "What is the term for the process where exposure and contamination data are analyzed with reference to authorized and acceptable standards?",
+        "options": [
+            "Data Collection",
+            "Data Interpretation",
+            "Data Archiving",
+            "Data Encryption"
+        ],
+        "answer": "Data Interpretation"
+    },
+    {
+        "question": "For individual monitoring, which two limits are most commonly used in the control of external radiation?",
+        "options": [
+            "Activity and Activity Concentration",
+            "Derived Dose Limits and Source Leak Limit",
+            "Equivalent Dose and Effective Dose",
+            "Count Rate and Dose Rate"
+        ],
+        "answer": "Equivalent Dose and Effective Dose"
+    },
+    {
+        "question": "What are Derived Dose Limits, such as ALI, primarily used for?",
+        "options": [
+            "Estimating risk from intake of radioactive materials",
+            "Determining the external radiation dose rate",
+            "Setting the threshold for instrument calibration",
+            "Classifying the radiation work area"
+        ],
+        "answer": "Estimating risk from intake of radioactive materials"
+    },
+    {
+        "question": "For a worker, what is the annual effective dose limit for the Whole Body (W Body)?",
+        "options": [
+            "1 mSv/yr",
+            "6 mSv/yr",
+            "20 mSv/yr",
+            "50 mSv/yr"
+        ],
+        "answer": "20 mSv/yr"
+    },
+    {
+        "question": "What is the annual equivalent dose limit for the **lens of the eye** for a worker?",
+        "options": [
+            "15 mSv/yr",
+            "50 mSv/yr",
+            "150 mSv/yr",
+            "500 mSv/yr"
+        ],
+        "answer": "150 mSv/yr"
+    },
+    {
+        "question": "What is the annual equivalent dose limit for the **skin** for a worker?",
+        "options": [
+            "20 mSv/yr",
+            "100 mSv/yr",
+            "250 mSv/yr",
+            "500 mSv/yr"
+        ],
+        "answer": "500 mSv/yr"
+    },
+    {
+        "question": "What is the annual dose limit for a **Student**?",
+        "options": [
+            "1 mSv/yr",
+            "6 mSv/yr",
+            "20 mSv/yr",
+            "50 mSv/yr"
+        ],
+        "answer": "6 mSv/yr"
+    },
+    {
+        "question": "What is the annual dose limit for **Supporting personnel**?",
+        "options": [
+            "1 mSv/yr",
+            "5 mSv/yr",
+            "20 mSv/yr",
+            "100 mSv/yr"
+        ],
+        "answer": "5 mSv/yr"
+    },
+    {
+        "question": "What are the two main ways radiological risk is calculated and reported for **area monitoring**?",
+        "options": [
+            "Temperature and Pressure",
+            "Air flow rate and Humidity",
+            "Activity concentrations of radionuclides and external radiation",
+            "Effective Dose and Equivalent Dose"
+        ],
+        "answer": "Activity concentrations of radionuclides and external radiation"
+    },
+    {
+        "question": "What is the annual dose limit used to classify an **Uncontrolled Area**?",
+        "options": [
+            "10 mSv/yr",
+            "≥ 6 mSv/yr",
+            "1-6 mSv/yr",
+            "< 1 mSv/yr"
+        ],
+        "answer": "< 1 mSv/yr"
+    },
+    {
+        "question": "A dose rate of **>3 µSv/hr** is the threshold for classifying an area as which type?",
+        "options": [
+            "Uncontrolled Area",
+            "Supervised Area",
+            "Controlled Area",
+            "Clean Area"
+        ],
+        "answer": "Controlled Area"
+    },
+    {
+        "question": "A dose rate that falls within the range of **0.5 - 3 µSv/hr** classifies an area as which type?",
+        "options": [
+            "Controlled Area",
+            "Supervised Area",
+            "Uncontrolled Area",
+            "Restricted Area"
+        ],
+        "answer": "Supervised Area"
+    },
+    {
+        "question": "The accepted limit for surface contamination by **Alpha** emitters is:",
+        "options": [
+            "3.7 Bq/cm²",
+            "0.37 Bq/cm²",
+            "37 Bq/cm²",
+            "370 Bq/cm²"
+        ],
+        "answer": "0.37 Bq/cm²"
+    },
+    {
+        "question": "The accepted limit for surface contamination by **Beta and Gamma** emitters is:",
+        "options": [
+            "370 Bq/cm²",
+            "0.37 Bq/cm²",
+            "3.7 Bq/cm²",
+            "37 Bq/cm²"
+        ],
+        "answer": "3.7 Bq/cm²"
+    },
+    {
+        "question": "What level of activity from a source leak is considered unacceptable (in Bq)?",
+        "options": [
+            "< 1 Bq",
+            "> 185 Bq",
+            "> 1850 Bq",
+            "Exactly 5 nCi"
+        ],
+        "answer": "> 185 Bq"
+    },
+    {
+        "question": "For airborne contamination, what is the activity concentration typically measured in?",
+        "options": [
+            "Bq/cm²",
+            "µSv/hr",
+            "Bq/m³",
+            "cpm/cps"
+        ],
+        "answer": "Bq/m³"
+    },
+    {
+        "question": "The records kept regarding all radiation activities represent the main proof an authorized user has of what?",
+        "options": [
+            "Financial solvency",
+            "Compliance with the radiation protection regulations",
+            "Staff attendance",
+            "Instrument purchase date"
+        ],
+        "answer": "Compliance with the radiation protection regulations"
+    },
+    {
+        "question": "In addition to legal purposes, record keeping is important for which other function?",
+        "options": [
+            "Effective administration of the radiation protection program",
+            "Marketing and public relations",
+            "Reducing the facility's tax burden",
+            "Ordering new radiation sources"
+        ],
+        "answer": "Effective administration of the radiation protection program"
+    },
+    {
+        "question": "What is the retention period required for **Medical records** for each worker (LPTA/BM/5 (A))?",
+        "options": [
+            "2 years",
+            "5 years",
+            "10 years",
+            "30 years"
+        ],
+        "answer": "30 years"
+    },
+    {
+        "question": "What is the retention period required for **Personnel radiation exposure records** (LPTA/BM/5 (B))?",
+        "options": [
+            "1 year",
+            "5 years",
+            "15 years",
+            "30 years"
+        ],
+        "answer": "30 years"
+    },
+    {
+        "question": "What is the retention period required for **Results from workplace monitoring**?",
+        "options": [
+            "1 year",
+            "2 years",
+            "5 years",
+            "30 years"
+        ],
+        "answer": "2 years"
+    },
+    {
+        "question": "What is the retention period required for **Instrument calibration** records?",
+        "options": [
+            "1 year",
+            "2 years",
+            "3 years",
+            "5 years"
+        ],
+        "answer": "2 years"
+    },
+    {
+        "question": "The retention period for **Radiation surveys or wipe tests** is typically 1 year, but for unused sources, it is 2 years with permission from which body?",
+        "options": [
+            "ICRP",
+            "IAEA",
+            "JTA",
+            "WHO"
+        ],
+        "answer": "JTA"
+    },
+    {
+        "question": "The retention period required for **Training provided (initial and refresher)** records is:",
+        "options": [
+            "1 year",
+            "2 years",
+            "3 years",
+            "5 years"
+        ],
+        "answer": "3 years"
+    },
+    {
+        "question": "What is the required retention period for records of **Waste disposal**?",
+        "options": [
+            "6 months",
+            "1 year",
+            "2 years",
+            "5 years"
+        ],
+        "answer": "2 years"
+    },
+    {
+        "question": "Records of **Radiation incidents** must be maintained for how long?",
+        "options": [
+            "1 year",
+            "2 years",
+            "5 years",
+            "Until expiry of authorization"
+        ],
+        "answer": "2 years"
+    },
+    {
+        "question": "Workplace monitoring helps in 'Confirming that design safeguards, such as shielding, are effective' during which phase?",
+        "options": [
+            "Routine maintenance",
+            "Commissioning tests, following plant construction and modification",
+            "Annual general meeting",
+            "Hiring new personnel"
+        ],
+        "answer": "Commissioning tests, following plant construction and modification"
+    },
+    {
+        "question": "Which record is part of the 'Senarai Rekod; Program Perlindungan Sinaran' (Radiation Protection Program Records List)?",
+        "options": [
+            "Rekod Jualan Harian (Daily Sales Record)",
+            "Rekod Perubahan Pekerja Sinaran (Worker Medical Records)",
+            "Rekod Kuantiti Makanan (Food Quantity Record)",
+            "Rekod Tempahan Bilik (Room Booking Record)"
+        ],
+        "answer": "Rekod Perubahan Pekerja Sinaran (Worker Medical Records)"
+    },
+    {
+        "question": "Which document is listed as 'Penyata Pemilikan Bahan Radioaktif/Peralatan Sinaran/Kemudahan Utama'?",
+        "options": [
+            "LPTA/BM/1",
+            "LPTA/BM/3",
+            "LPTA/BM/5 (A)",
+            "LPTA/BM/7"
+        ],
+        "answer": "LPTA/BM/3"
+    },
+    {
+        "question": "What is the instantaneous dose rate limit used to classify an **Uncontrolled Area**?",
+        "options": [
+            "0.5 - 3 µSv/hr",
+            "< 0.5 µSv/hr",
+            "3 - 6 µSv/hr",
+            "> 10 µSv/hr"
+        ],
+        "answer": "< 0.5 µSv/hr"
+    },
+    {
+        "question": "What is the annual dose limit for a **Visitor (<16 years old)**?",
+        "options": [
+            "0.1 mSv/yr",
+            "1 mSv/yr",
+            "5 mSv/yr",
+            "6 mSv/yr"
+        ],
+        "answer": "1 mSv/yr"
+    },
+    {
+        "question": "Which unit of measurement is listed for the quantity 'Activity' under Internal Contamination monitoring for personnel?",
+        "options": [
+            "mR/hr",
+            "mSv/month",
+            "Ci (Curie)",
+            "Bq/cm²"
+        ],
+        "answer": "Ci (Curie)"
+    }
+]

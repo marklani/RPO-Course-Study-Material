@@ -1,0 +1,252 @@
+[
+    {
+        "question": "The RSH 300 course on Radiological Emergency Preparedness and Response is intended for which personnel?",
+        "options": [
+            "Laboratory Assistants",
+            "Radiation Engineers",
+            "Radiation Protection Officer",
+            "Truck Drivers"
+        ],
+        "answer": "Radiation Protection Officer"
+    },
+    {
+        "question": "What is the primary aim of this radiological emergency exercise, especially since it is given early in the course?",
+        "options": [
+            "To measure participant performance",
+            "To sensitize participants to the need for radiological emergencies",
+            "To certify participants in emergency response",
+            "To test the existing emergency plan"
+        ],
+        "answer": "To sensitize participants to the need for radiological emergencies"
+    },
+    {
+        "question": "Which of the following is an objective of the exercise?",
+        "options": [
+            "Awarding a certificate of competence",
+            "Familiarizing participants with the complexity of radiological emergencies",
+            "Measuring the speed of response",
+            "Providing advanced training on radiation physics"
+        ],
+        "answer": "Familiarizing participants with the complexity of radiological emergencies"
+    },
+    {
+        "question": "The introduction states the exercise is intended to act as a catalyst for discussion on the need to prepare and on what aspect of the response?",
+        "options": [
+            "Financial costs of a response",
+            "What degree of preparedness is required",
+            "Legal repercussions of an incident",
+            "Public relations strategy"
+        ],
+        "answer": "What degree of preparedness is required"
+    },
+    {
+        "question": "How will the class be divided for the Role Play activity?",
+        "options": [
+            "Into 3 groups, 1 scenario each",
+            "Into 2 groups, 1 scenario each",
+            "Into individual participants",
+            "Into large groups for a single scenario"
+        ],
+        "answer": "Into 2 groups, 1 scenario each"
+    },
+    {
+        "question": "Approximately how long is allotted for discussion *before* the role play starts?",
+        "options": [
+            "15 minutes",
+            "30 - 45 minutes",
+            "1 hour",
+            "More than 1 hour"
+        ],
+        "answer": "30 - 45 minutes"
+    },
+    {
+        "question": "In **Scenario 2**, what type of incident occurred?",
+        "options": [
+            "A laboratory spill",
+            "A fire in the storage facility",
+            "A transportation accident",
+            "Theft of radioactive sources"
+        ],
+        "answer": "A transportation accident"
+    },
+    {
+        "question": "Which two specific radioactive sources were involved in the transportation accident in **Scenario 2**?",
+        "options": [
+            "Iodine-131 and Cobalt-60",
+            "Americium-241 and Barium-133",
+            "Strontium-90 (Sr-90) and Cesium-137 (Cs-137)",
+            "Plutonium-238 and Uranium-235"
+        ],
+        "answer": "Strontium-90 (Sr-90) and Cesium-137 (Cs-137)"
+    },
+    {
+        "question": "What happened to the container carrying the sources in **Scenario 2**?",
+        "options": [
+            "It was stolen from the vehicle.",
+            "It was thrown out of the vehicle onto the road.",
+            "It was dropped inside the distributor's premises.",
+            "It caught fire inside the vehicle."
+        ],
+        "answer": "It was thrown out of the vehicle onto the road."
+    },
+    {
+        "question": "In **Scenario 2**, who was immediately informed of the incident by the driver?",
+        "options": [
+            "The Police and AELB",
+            "The Supervisor in charge and the Radiation Protection Officer (RPO)",
+            "The distributor in Petaling Jaya",
+            "The local fire department"
+        ],
+        "answer": "The Supervisor in charge and the Radiation Protection Officer (RPO)"
+    },
+    {
+        "question": "One required action of the RPO and assistants in **Scenario 2** is to check and ensure the affected area is safe for whom before leaving?",
+        "options": [
+            "The distributor's staff",
+            "The company's employees",
+            "The public",
+            "Emergency services"
+        ],
+        "answer": "The public"
+    },
+    {
+        "question": "Which authority is listed as an 'Actor' to be involved in the **Scenario 2** role-play?",
+        "options": [
+            "Fire Department",
+            "AELB",
+            "Customs Officer",
+            "Ambulance Service"
+        ],
+        "answer": "AELB"
+    },
+    {
+        "question": "What type of incident is described in **Scenario 3**?",
+        "options": [
+            "A sealed source leak",
+            "A contaminated gas release",
+            "A radioactive solution spill (beaker drop)",
+            "An industrial radiography incident"
+        ],
+        "answer": "A radioactive solution spill (beaker drop)"
+    },
+    {
+        "question": "Who immediately informed workmates and the supervisor in **Scenario 3** after the incident?",
+        "options": [
+            "A passing worker",
+            "The Supervisor",
+            "The Laboratory assistant",
+            "A security guard"
+        ],
+        "answer": "The Laboratory assistant"
+    },
+    {
+        "question": "What is the main question presented to the group for **Scenario 3**?",
+        "options": [
+            "How to file an insurance claim?",
+            "What are the necessary procedures to be taken to contain the situation and make the affected area safe for workers?",
+            "How to repair the damaged floor?",
+            "How to transport the assistant to the hospital?"
+        ],
+        "answer": "What are the necessary procedures to be taken to contain the situation and make the affected area safe for workers?"
+    },
+    {
+        "question": "Which actor is *not* listed for the **Scenario 3** role-play?",
+        "options": [
+            "Laboratory assistant",
+            "Supervisor",
+            "Work mates I",
+            "Police"
+        ],
+        "answer": "Police"
+    },
+    {
+        "question": "What personal monitoring equipment is listed for use in the emergency response?",
+        "options": [
+            "TLDs",
+            "Pen Dosimeter",
+            "Ring Badges",
+            "Whole Body Counter"
+        ],
+        "answer": "Pen Dosimeter"
+    },
+    {
+        "question": "The equipment list specifies two types of survey meters: one for radiation and one for what other hazard?",
+        "options": [
+            "Pressure",
+            "Temperature",
+            "Contamination",
+            "Humidity"
+        ],
+        "answer": "Contamination"
+    },
+    {
+        "question": "Which item is listed for the containment/storage of sources/waste?",
+        "options": [
+            "Duct tape",
+            "Absorbent paper",
+            "Lead pot/storage container",
+            "Laboratory Coats"
+        ],
+        "answer": "Lead pot/storage container"
+    },
+    {
+        "question": "What item is listed for isolating the incident area in the equipment list?",
+        "options": [
+            "Stand for roping + radiation sign",
+            "Fire extinguishers",
+            "Flashing lights",
+            "Barricades"
+        ],
+        "answer": "Stand for roping + radiation sign"
+    },
+    {
+        "question": "Which of these is explicitly listed under 'Gloves' in the equipment section?",
+        "options": [
+            "Lead-lined and cotton",
+            "Disposable, rubber & surgical",
+            "Kevlar and disposable",
+            "Leather and surgical"
+        ],
+        "answer": "Disposable, rubber & surgical"
+    },
+    {
+        "question": "The equipment list includes absorbent paper and tissue, but also what specific type of paper for checking contamination?",
+        "options": [
+            "Litmus paper",
+            "Smear paper",
+            "Filter paper",
+            "Chromatography paper"
+        ],
+        "answer": "Smear paper"
+    },
+    {
+        "question": "What is the instruction for participants who are *not* involved in the actions for the scenarios?",
+        "options": [
+            "They are requested to leave the room.",
+            "They are requested to remain silent and observe the actions.",
+            "They must assist the actors with equipment.",
+            "They should conduct an immediate after-action review."
+        ],
+        "answer": "They are requested to remain silent and observe the actions."
+    },
+    {
+        "question": "The non-involved participants are requested to take notes and make necessary comments for what purpose?",
+        "options": [
+            "To write a final report.",
+            "To submit to Nuklear Malaysia.",
+            "For later discussions.",
+            "For an immediate scoring of the actors."
+        ],
+        "answer": "For later discussions."
+    },
+    {
+        "question": "What is one of the three required actions for the RPO and assistants in Scenario 2?",
+        "options": [
+            "Evacuate the entire city of Petaling Jaya.",
+            "Collect the necessary equipments to be brought along to the area of incident.",
+            "Perform immediate radiation treatment on the driver.",
+            "Contact the media for a statement."
+        ],
+        "answer": "Collect the necessary equipments to be brought along to the area of incident."
+    }
+]

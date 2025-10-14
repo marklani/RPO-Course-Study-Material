@@ -1,0 +1,502 @@
+[
+    {
+        "question": "According to the document's objectives, what is the primary expected benefit of proper maintenance for radiation equipment?",
+        "options": [
+            "Lowering licensing fees",
+            "Extending the life of the equipment and preventing failure",
+            "Increasing the radioactive source strength",
+            "Simplifying radiation safety protocols"
+        ],
+        "answer": "Extending the life of the equipment and preventing failure"
+    },
+    {
+        "question": "Verification of all radiation sources, including X-ray machines and gauging equipment, should occur at least how often to ensure compliance with safety standards?",
+        "options": [
+            "Once every three months",
+            "Once a year",
+            "Once every two years",
+            "Only after a major repair"
+        ],
+        "answer": "Once a year"
+    },
+    {
+        "question": "How often must radiation monitoring instruments, such as dosimeters and Geiger counters, be calibrated to maintain precision and reliability?",
+        "options": [
+            "Every six months",
+            "At least once a year",
+            "Upon change of ownership",
+            "Before every use"
+        ],
+        "answer": "At least once a year"
+    },
+    {
+        "question": "Which term is defined as 'The ability of an equipment to perform a required function without failure under stated conditions for a specified period of time'?",
+        "options": [
+            "Precision",
+            "Calibration",
+            "Reliability",
+            "Availability"
+        ],
+        "answer": "Reliability"
+    },
+    {
+        "question": "Who is authorized to perform maintenance, calibration, and verification tasks on radiation equipment?",
+        "options": [
+            "Any technician in the organization",
+            "Only individuals who are trained and authorized",
+            "Security personnel with basic training",
+            "The Radiation Protection Officer (RPO) alone"
+        ],
+        "answer": "Only individuals who are trained and authorized"
+    },
+    {
+        "question": "What is the primary goal of Dose Optimization Procedures (DOP) in the context of maintenance and verification?",
+        "options": [
+            "To maximize radiation output",
+            "To generate safety reports",
+            "To ensure that radiation doses are kept as low as reasonably achievable (ALARA)",
+            "To extend the manufacturer's warranty"
+        ],
+        "answer": "To ensure that radiation doses are kept as low as reasonably achievable (ALARA)"
+    },
+    {
+        "question": "Which type of maintenance is defined as 'Any action taken to avoid a failure'?",
+        "options": [
+            "Corrective Maintenance",
+            "Emergency Maintenance",
+            "Preventive Maintenance",
+            "Adaptive Maintenance"
+        ],
+        "answer": "Preventive Maintenance"
+    },
+    {
+        "question": "Which type of maintenance is defined as 'Any action taken to solve a failure'?",
+        "options": [
+            "Preventive Maintenance",
+            "Corrective Maintenance",
+            "Predictive Maintenance",
+            "Routine Maintenance"
+        ],
+        "answer": "Corrective Maintenance"
+    },
+    {
+        "question": "What is the act of checking or adjusting the accuracy of a measuring instrument by comparison with a standard called?",
+        "options": [
+            "Verification",
+            "Certification",
+            "Audit",
+            "Calibration"
+        ],
+        "answer": "Calibration"
+    },
+    {
+        "question": "Who typically performs the initial Verification of a radiation system?",
+        "options": [
+            "The internal RPO",
+            "The equipment user/operator",
+            "Third party testing personnel",
+            "The regulatory authority (AELB)"
+        ],
+        "answer": "Third party testing personnel"
+    },
+    {
+        "question": "A Leak test is a physical test conducted on which specific type of source?",
+        "options": [
+            "All X-ray tubes",
+            "Irradiating apparatus",
+            "Radiation monitoring equipment",
+            "Sealed sources"
+        ],
+        "answer": "Sealed sources"
+    },
+    {
+        "question": "What is the primary purpose of a Leak test on a sealed source?",
+        "options": [
+            "To measure radiation leaking level from the apparatus",
+            "To measure seepage of radionuclide from the capsule",
+            "To check the source's activity level",
+            "To inspect the source's positioning"
+        ],
+        "answer": "To measure seepage of radionuclide from the capsule"
+    },
+    {
+        "question": "What is normally measured during a Leakage test?",
+        "options": [
+            "Internal pressure of the source capsule",
+            "The radiation leaking level from irradiating apparatus",
+            "The ambient temperature and humidity",
+            "The source's half-life"
+        ],
+        "answer": "The radiation leaking level from irradiating apparatus"
+    },
+    {
+        "question": "Which type of device requires a Leak test by authorized personnel, Maintenance, and a Leakage test?",
+        "options": [
+            "Irradiating Apparatus",
+            "Radiation Monitoring Equipment",
+            "Gamma/Neutron Exposure Device",
+            "Personal Dosimeters"
+        ],
+        "answer": "Gamma/Neutron Exposure Device"
+    },
+    {
+        "question": "Which piece of equipment, according to the document's summary table, requires Maintenance and only Calibration, but not Verification or a Leak test?",
+        "options": [
+            "Irradiating Apparatus",
+            "Gamma/Neutron Exposure Device",
+            "Radiation Monitoring Equipment",
+            "Nuclear Gauges"
+        ],
+        "answer": "Radiation Monitoring Equipment"
+    },
+    {
+        "question": "Who is responsible for performing the routine check or care (Preventive Maintenance) of a Neutron or Gamma Source Exposure device?",
+        "options": [
+            "The regulatory authority",
+            "The Radiation Protection Officer (RPO)",
+            "The licensee/user/operator",
+            "The manufacturer/supplier"
+        ],
+        "answer": "The licensee/user/operator"
+    },
+    {
+        "question": "What is one specific component of the Neutron or Gamma Source Exposure device system that requires a physical visual check for issues like denting or smoothness?",
+        "options": [
+            "The source capsule",
+            "The control panel fuse",
+            "The guide tube",
+            "The pen dosimeter"
+        ],
+        "answer": "The guide tube"
+    },
+    {
+        "question": "Visual checks of the Neutron or Gamma Source Exposure device body appearances include looking for cleanliness, worn out, corrosion, and what else?",
+        "options": [
+            "Radioactive activity",
+            "Denting",
+            "Internal circuitry faults",
+            "Temperature variation"
+        ],
+        "answer": "Denting"
+    },
+    {
+        "question": "The drive cable of a Neutron or Gamma Source Exposure device should be checked for which two specific components?",
+        "options": [
+            "Length and weight",
+            "Male connector and brake system",
+            "Insulation and voltage",
+            "Smoothness and pressure"
+        ],
+        "answer": "Male connector and brake system"
+    },
+    {
+        "question": "Maintenance of the Neutron or Gamma Source Exposure device system must be conducted how often by an approved maintenance center or supplier?",
+        "options": [
+            "Quarterly",
+            "Bi-annually",
+            "Annually",
+            "After every 100 operations"
+        ],
+        "answer": "Annually"
+    },
+    {
+        "question": "Warm-up procedures for X-ray tubes are recommended upon installation and at what other frequency?",
+        "options": [
+            "Monthly",
+            "Weekly",
+            "Daily",
+            "After every repair"
+        ],
+        "answer": "Daily"
+    },
+    {
+        "question": "Performing X-ray tube warm-up procedures is recommended to maintain the tube manufacturer's what?",
+        "options": [
+            "Extended warranty",
+            "Calibration certificate",
+            "Maximum kV setting",
+            "Cooling system pressure"
+        ],
+        "answer": "Extended warranty"
+    },
+    {
+        "question": "In the Preventive Maintenance Physical Visual Check for an X-ray Machine, which item's labeling must be checked to ensure clear and permanent marking?",
+        "options": [
+            "The tube housing",
+            "The high voltage cable",
+            "The control panel",
+            "The water pump"
+        ],
+        "answer": "The control panel"
+    },
+    {
+        "question": "During the X-ray Machine Preventive Maintenance check, what must be ensured regarding the protection of all electrical cables?",
+        "options": [
+            "They must be color-coded",
+            "They must be routed through metal conduits",
+            "They must be protected against undue wear and strain",
+            "They must be replaced every year"
+        ],
+        "answer": "They must be protected against undue wear and strain"
+    },
+    {
+        "question": "For an X-ray machine with an available water cooling system, what is the required maintenance check?",
+        "options": [
+            "Check the temperature and pressure only",
+            "Change the water if it is not in good condition",
+            "Add a chemical coolant annually",
+            "Verify the flow rate of the water"
+        ],
+        "answer": "Change the water if it is not in good condition"
+    },
+    {
+        "question": "The Corrective Maintenance and Calibration of X-ray equipment is typically performed by whom?",
+        "options": [
+            "The RPO and the licensee",
+            "An approved maintenance centre or the supplier/Manufacturer",
+            "An internal electrical engineer",
+            "A certified third-party auditor"
+        ],
+        "answer": "An approved maintenance centre or the supplier/Manufacturer"
+    },
+    {
+        "question": "The LEM/TEK/42 guideline for the Verification of Industrial X-ray Machines was published by AELB in collaboration with which agency?",
+        "options": [
+            "Department of Standards Malaysia",
+            "National Metrology Institute of Malaysia",
+            "Malaysian Nuclear Agency",
+            "Malaysian Institute of Physics"
+        ],
+        "answer": "Malaysian Nuclear Agency"
+    },
+    {
+        "question": "Which of the following is checked on the control panel of an Industrial X-ray Machine during the Verification process?",
+        "options": [
+            "Cooling system pressure",
+            "Focal spot size",
+            "The Main safety key",
+            "Tube casing structure"
+        ],
+        "answer": "The Main safety key"
+    },
+    {
+        "question": "During the tube head check of an Industrial X-ray Machine, what specific reading, if applicable, must be confirmed to be within the specification of the manual?",
+        "options": [
+            "The temperature reading",
+            "The pressure reading",
+            "The flow rate reading",
+            "The output current reading"
+        ],
+        "answer": "The pressure reading"
+    },
+    {
+        "question": "When checking all cables of an X-ray Machine, what must be ensured regarding the high voltage cable?",
+        "options": [
+            "It is painted red",
+            "It has a metal sheath",
+            "No bend or crack or worn out",
+            "It is certified by an external vendor"
+        ],
+        "answer": "No bend or crack or worn out"
+    },
+    {
+        "question": "In the Physical Parameter Test for X-ray verification, the Earthing test measures the value between neutral and ground in what unit?",
+        "options": [
+            "Amperes (A)",
+            "Ohms ($\\Omega$)",
+            "Watts (W)",
+            "Volts (V)"
+        ],
+        "answer": "Volts (V)"
+    },
+    {
+        "question": "The Electrical test (Insulation resistance test) of the power source side for an X-ray machine uses what kind of input?",
+        "options": [
+            "AC 240 Volt input",
+            "AC 415 Volt input",
+            "DC 500 Volt input",
+            "Pulse 1000 Volt input"
+        ],
+        "answer": "DC 500 Volt input"
+    },
+    {
+        "question": "During the Performance test (X-ray on), which components' functionality are checked (e.g., at 30 sec or 1 min)?",
+        "options": [
+            "The focal spot size",
+            "The timer test",
+            "The water purity",
+            "The ambient temperature"
+        ],
+        "answer": "The timer test"
+    },
+    {
+        "question": "To check for radiation leakage on an X-ray machine, at what distance from the focal spot is the measurement taken with the window closed?",
+        "options": [
+            "0.1 meter distance",
+            "0.5 meter distance",
+            "1 meter distance",
+            "5 meter distance"
+        ],
+        "answer": "1 meter distance"
+    },
+    {
+        "question": "Which rule is given for the end-user's routine inspection and care of radiation monitoring instruments?",
+        "options": [
+            "Always keep the instrument in the ON position",
+            "Only use the instrument on Mondays",
+            "Avoid dropping the instrument hardly",
+            "Change detector probes while the instrument is ON"
+        ],
+        "answer": "Avoid dropping the instrument hardly"
+    },
+    {
+        "question": "What should the end-user do with the radiation monitoring instrument when it is not being used?",
+        "options": [
+            "Keep the instrument ON for fast response",
+            "Expose it to sunlight for sterilization",
+            "Turn the instrument OFF (including the audible response switch)",
+            "Store it next to a check source"
+        ],
+        "answer": "Turn the instrument OFF (including the audible response switch)"
+    },
+    {
+        "question": "What action is explicitly forbidden for the user to perform while the radiation monitoring instrument is ON?",
+        "options": [
+            "Changing the battery",
+            "Changing detector probes",
+            "Performing a response check",
+            "Cleaning the device exterior"
+        ],
+        "answer": "Changing detector probes"
+    },
+    {
+        "question": "As part of the routine inspection, which condition of the detector probe must be avoided?",
+        "options": [
+            "Applying a lead shield",
+            "Puncturing the window",
+            "Wiping it with a dry cloth",
+            "Exposing it to low temperatures"
+        ],
+        "answer": "Puncturing the window"
+    },
+    {
+        "question": "Prior to performing a survey, the user must verify the instrument's battery voltage, calibration status, physical condition, and what other response check?",
+        "options": [
+            "A response check by using a check source",
+            "A zero-background check in a lead cave",
+            "A check for high voltage spikes",
+            "A frequency check of the internal oscillator"
+        ],
+        "answer": "A response check by using a check source"
+    },
+    {
+        "question": "Recalibration of radiation monitoring instruments must be conducted before what specific date?",
+        "options": [
+            "The end of the current fiscal year",
+            "The date of next inventory",
+            "The expiry date of the calibration certificate",
+            "The date of the next annual audit"
+        ],
+        "answer": "The expiry date of the calibration certificate"
+    },
+    {
+        "question": "By whom must the calibration and recalibration of radiation monitoring instruments be conducted?",
+        "options": [
+            "The equipment manufacturer only",
+            "The Radiation Protection Officer (RPO)",
+            "A recognized calibration center",
+            "The Nuclear Technology Training Centre"
+        ],
+        "answer": "A recognized calibration center"
+    },
+    {
+        "question": "One of the outcomes of proper maintenance is to fulfill which requirements?",
+        "options": [
+            "Technical specifications",
+            "Regulatory requirements",
+            "Law requirements",
+            "Manufacturer's warranty"
+        ],
+        "answer": "Law requirements"
+    },
+    {
+        "question": "What is included in the definition of Maintenance activity?",
+        "options": [
+            "Servicing, tuning, calibrating, and replacement of parts",
+            "Licensing, auditing, and source disposal",
+            "Design, manufacturing, and shipping",
+            "Procurement, installation, and commissioning"
+        ],
+        "answer": "Servicing, tuning, calibrating, and replacement of parts"
+    },
+    {
+        "question": "What is the consequence mentioned for the continued usage of a Neutron or Gamma Source Exposure device without proper maintenance?",
+        "options": [
+            "Minor delays in work",
+            "Increased cost of operation",
+            "A serious accident and incident",
+            "Slight increase in background radiation"
+        ],
+        "answer": "A serious accident and incident"
+    },
+    {
+        "question": "Which of these is a component of a Gamma Source Exposure Device system illustrated in the document?",
+        "options": [
+            "A high-voltage power supply",
+            "A linear accelerator",
+            "A control unit & winder",
+            "A medical X-ray head"
+        ],
+        "answer": "A control unit & winder"
+    },
+    {
+        "question": "In the X-ray Machine's Preventive Maintenance, what must be checked to ensure it is adequate?",
+        "options": [
+            "The input power supply",
+            "The timer accuracy",
+            "The ambient humidity",
+            "The operator's training records"
+        ],
+        "answer": "The input power supply"
+    },
+    {
+        "question": "Information on abnormal conditions and events of significance to safety should be made available to the regulatory authority for what primary purpose regarding other users?",
+        "options": [
+            "To restrict the number of users",
+            "To advise other users",
+            "To report their non-compliance",
+            "To increase their licensing fees"
+        ],
+        "answer": "To advise other users"
+    },
+    {
+        "question": "Information on abnormal conditions and events of significance to safety should be made available to the regulatory authority for what primary purpose regarding suppliers?",
+        "options": [
+            "To terminate their contract",
+            "To provide feedback for future improvements in design and construction",
+            "To negotiate lower prices",
+            "To initiate legal action"
+        ],
+        "answer": "To provide feedback for future improvements in design and construction"
+    },
+    {
+        "question": "Which of the following records is explicitly required to be maintained by the licensee?",
+        "options": [
+            "Daily stock prices of the manufacturer",
+            "Inventory of all radiation sources and monitoring equipment used",
+            "Personal medical records of all workers",
+            "The entire country's weather forecast history"
+        ],
+        "answer": "Inventory of all radiation sources and monitoring equipment used"
+    },
+    {
+        "question": "The conclusion of the document states that numerous accidents are associated with what factor, often resulting in severe radiation injury to personnel?",
+        "options": [
+            "Operator error",
+            "Design failure of the radiation equipment",
+            "Poor maintenance of radiation equipment",
+            "Insufficient radiation shielding"
+        ],
+        "answer": "Poor maintenance of radiation equipment"
+    }
+]

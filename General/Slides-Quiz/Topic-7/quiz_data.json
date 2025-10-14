@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Which type of workplace monitoring is intended to show that the working environment is satisfactory for continued operations and that no change has taken place?",
+        "options": [
+            "Operational Monitoring",
+            "Special Monitoring",
+            "Routine Monitoring",
+            "Personnel Monitoring"
+        ],
+        "answer": "Routine Monitoring"
+    },
+    {
+        "question": "What is the primary characteristic of 'Special Monitoring'?",
+        "options": [
+            "It is a daily routine check",
+            "It is intended to provide a check on a particular operation",
+            "It is carried out in abnormal circumstances, including accidents",
+            "It only monitors airborne contamination"
+        ],
+        "answer": "It is carried out in abnormal circumstances, including accidents"
+    },
+    {
+        "question": "Operational Monitoring is primarily intended to provide a basis for:",
+        "options": [
+            "Immediate decision on the conduct of the operation",
+            "Reviewing the operating procedures annually",
+            "Determining the long-term effectiveness of shielding",
+            "Establishing the initial classification of the work area"
+        ],
+        "answer": "Immediate decision on the conduct of the operation"
+    },
+    {
+        "question": "Workplace monitoring typically covers which two main areas?",
+        "options": [
+            "Temperature and Humidity",
+            "External Radiation and Contamination",
+            "Noise and Vibration",
+            "Pressure and Flow Rate"
+        ],
+        "answer": "External Radiation and Contamination"
+    },
+    {
+        "question": "What is one important purpose of regular radiation monitoring in workplaces with radiation sources?",
+        "options": [
+            "To calculate employee salaries",
+            "To verify the validity of classification of the work area",
+            "To determine the half-life of sources",
+            "To control access to non-radiation areas"
+        ],
+        "answer": "To verify the validity of classification of the work area"
+    },
+    {
+        "question": "What type of monitor is described as usually equipped with an alarm system that can be triggered off if the radiation level exceeds its preset limit?",
+        "options": [
+            "Portable survey meter",
+            "Personal electronic dosimeter",
+            "Stationary (or fixed installed) monitor",
+            "Thermoluminescent Dosimeter (TLD)"
+        ],
+        "answer": "Stationary (or fixed installed) monitor"
+    },
+    {
+        "question": "Which devices are examples of personnel dosimeters that can be used for workplace monitoring over a certain period of time (e.g., one month)?",
+        "options": [
+            "Portable survey meters and G-M detectors",
+            "TLD and OSL",
+            "Area Monitors and Air Samplers",
+            "Proportional counters and Scintillation detectors"
+        ],
+        "answer": "TLD and OSL"
+    },
+    {
+        "question": "Active area monitoring typically uses which type of equipment?",
+        "options": [
+            "Integrated dosimeter (TLD/OSL)",
+            "Mobile/portable radiation detector (e.g., survey meter)",
+            "Charcoal filter",
+            "Environmental sample collectors"
+        ],
+        "answer": "Mobile/portable radiation detector (e.g., survey meter)"
+    },
+    {
+        "question": "Passive area monitoring for external radiation uses which type of equipment fixed at a strategic location?",
+        "options": [
+            "A G-M survey meter",
+            "A handheld scintillation detector",
+            "A fixed installed alarm monitor",
+            "An integrated dosimeter (e.g., TLD/OSL)"
+        ],
+        "answer": "An integrated dosimeter (e.g., TLD/OSL)"
+    },
+    {
+        "question": "Measurements for external radiation monitoring can be made in situ using which two general types of instrumentation?",
+        "options": [
+            "Air samplers or smear counters",
+            "Portable survey meters or fixed installed monitors",
+            "Personal dosimeters or film badges",
+            "GM detectors or proportional counters"
+        ],
+        "answer": "Portable survey meters or fixed installed monitors"
+    },
+    {
+        "question": "What is the first step listed in the standard operating procedures for using portable survey meters?",
+        "options": [
+            "Switch on audible signal",
+            "Measure background (BG) reading",
+            "Check calibration validity period of the instruments",
+            "Switch the instrument's scale to the maximum range"
+        ],
+        "answer": "Check calibration validity period of the instruments"
+    },
+    {
+        "question": "Which component of the survey meter should be checked for an appropriate level before taking measurements?",
+        "options": [
+            "The check source",
+            "The calibration certificate",
+            "The battery level",
+            "The audible signal"
+        ],
+        "answer": "The battery level"
+    },
+    {
+        "question": "What must be done to the probe protective cover when measuring beta radiation with a survey meter?",
+        "options": [
+            "It must be replaced with a lead cover",
+            "It should be removed",
+            "It should remain in place",
+            "It must be checked for an audible signal"
+        ],
+        "answer": "It should be removed"
+    },
+    {
+        "question": "The net reading (Net Reading) is calculated by which formula?",
+        "options": [
+            "Net Reading = Actual Reading x Correction Factor (J)",
+            "Net Reading = Gross Reading + Background (BG) Reading",
+            "Net Reading = Gross Reading - Background (BG) Reading",
+            "Net Reading = Background (BG) Reading / Calibration Factor (CF)"
+        ],
+        "answer": "Net Reading = Gross Reading - Background (BG) Reading"
+    },
+    {
+        "question": "The Actual Reading is obtained by multiplying the Net Reading with which two factors?",
+        "options": [
+            "Temperature and Pressure",
+            "Relative Humidity and Scale Reading",
+            "Calibration Factor (CF) and Correction Factor (J)",
+            "Tube Voltage and HVL"
+        ],
+        "answer": "Calibration Factor (CF) and Correction Factor (J)"
+    },
+    {
+        "question": "If there is no response when the survey meter is brought to the workplace on the maximum range, what is the proper procedure?",
+        "options": [
+            "Assume the reading is zero",
+            "Switch the instrument OFF immediately",
+            "Switch to a lower scale",
+            "Repeat the calibration check"
+        ],
+        "answer": "Switch to a lower scale"
+    },
+    {
+        "question": "When performing measurements, how should the detector's position relate to its calibration position?",
+        "options": [
+            "It should be inverted",
+            "It should be similar to its position when calibrated",
+            "It must be held 1 meter away from the body",
+            "It should be randomly varied"
+        ],
+        "answer": "It should be similar to its position when calibrated"
+    },
+    {
+        "question": "According to the document, checking the response of a survey meter against a check source should yield what result?",
+        "options": [
+            "A zero reading",
+            "A reading as expected",
+            "The maximum possible reading",
+            "The background reading only"
+        ],
+        "answer": "A reading as expected"
+    },
+    {
+        "question": "What is one requirement for the Workplace Monitoring Programme to specify regarding measurements?",
+        "options": [
+            "The model of the user's mobile phone",
+            "The appropriate measurement methods and procedures",
+            "The cost of the TLD/OSL dosimeters",
+            "The number of radiation signs required per room"
+        ],
+        "answer": "The appropriate measurement methods and procedures"
+    },
+    {
+        "question": "What is the correct mathematical representation for determining the Dose Rate True Value (D) in Sv/h?",
+        "options": [
+            "D = Gross Reading x (CF + J)",
+            "D = Instrument Reading x J x CF",
+            "D = Net Reading / (CF x J)",
+            "D = Instrument Reading - Background (BG) Reading"
+        ],
+        "answer": "D = Instrument Reading x J x CF"
+    },
+    {
+        "question": "Contamination monitoring is important in places where what is likely to occur?",
+        "options": [
+            "High external radiation doses",
+            "Radioactive contamination",
+            "Loud noise levels",
+            "Extremely high temperatures"
+        ],
+        "answer": "Radioactive contamination"
+    },
+    {
+        "question": "Which type of detector is typically used for monitoring Alpha contamination, in addition to proportional counters and solid state detectors?",
+        "options": [
+            "G-M detector",
+            "Scintillation type (ZnS)",
+            "Fixed installed monitor",
+            "Optical Stimulated Luminescence (OSL)"
+        ],
+        "answer": "Scintillation type (ZnS)"
+    },
+    {
+        "question": "For Beta-gamma contamination, which two detectors are the most commonly used?",
+        "options": [
+            "Proportional counter and TLD",
+            "Solid state detector and OSL",
+            "G-M detector and scintillation detector",
+            "Air sampler and film badge"
+        ],
+        "answer": "G-M detector and scintillation detector"
+    },
+    {
+        "question": "What is the primary **advantage** of the G-M detector in contamination monitoring compared to other detectors?",
+        "options": [
+            "Better response time",
+            "More sensitive",
+            "Can identify radionuclides",
+            "Lower cost"
+        ],
+        "answer": "More sensitive"
+    },
+    {
+        "question": "What is the primary **disadvantage** of the G-M detector in contamination monitoring compared to other detectors?",
+        "options": [
+            "Lower sensitivity",
+            "Poor energy resolution",
+            "Looses out in terms of response time",
+            "Higher cost"
+        ],
+        "answer": "Looses out in terms of response time"
+    },
+    {
+        "question": "Contamination monitoring consists of monitoring for personnel contamination, surface contamination, airborne contamination, and what other type of contamination?",
+        "options": [
+            "Water contamination",
+            "Soil contamination",
+            "Environmental contamination",
+            "Product contamination"
+        ],
+        "answer": "Environmental contamination"
+    },
+    {
+        "question": "Monitoring for contamination includes which of the following areas?",
+        "options": [
+            "Personnel contamination",
+            "External radiation dose",
+            "Gamma radiation flux",
+            "Neutron activation"
+        ],
+        "answer": "Personnel contamination"
+    },
+    {
+        "question": "The choice of detector for contamination monitoring depends on the type of:",
+        "options": [
+            "Monitoring equipment used",
+            "Radiation involved in the contamination",
+            "Ambient temperature",
+            "Operator's experience level"
+        ],
+        "answer": "Radiation involved in the contamination"
+    },
+    {
+        "question": "For Alpha contamination, the document lists which three types of detectors?",
+        "options": [
+            "TLD, OSL, and Film Badge",
+            "Scintillation (ZnS), Proportional Counter, and Solid State Detector",
+            "G-M Detector, Ionization Chamber, and Area Monitor",
+            "Air Sampler, Charcoal Filter, and Glass Filter"
+        ],
+        "answer": "Scintillation (ZnS), Proportional Counter, and Solid State Detector"
+    },
+    {
+        "question": "The two types of area monitoring and measurement methods used in radioactive contamination depend on whether they are for Surface or what other type of contamination?",
+        "options": [
+            "Airborne contamination",
+            "Internal contamination",
+            "Personnel contamination",
+            "Environmental contamination"
+        ],
+        "answer": "Environmental contamination"
+    },
+    {
+        "question": "Which method of surface contamination monitoring is carried out **in-situ** using a portable contamination monitor?",
+        "options": [
+            "Indirect method",
+            "Smear sample method",
+            "Direct method",
+            "Environmental sampling"
+        ],
+        "answer": "Direct method"
+    },
+    {
+        "question": "In the direct method of surface contamination monitoring, what is the correct procedure regarding the probe's distance from the surface?",
+        "options": [
+            "It should touch the surface being monitored",
+            "It should be held one meter away",
+            "It should be brought as close as possible but without touching the surface",
+            "It should be fully shielded"
+        ],
+        "answer": "It should be brought as close as possible but without touching the surface"
+    },
+    {
+        "question": "In the indirect method for surface contamination, what is collected from the contaminated surfaces?",
+        "options": [
+            "Air samples",
+            "Water samples",
+            "A smear sample",
+            "Soil samples"
+        ],
+        "answer": "A smear sample"
+    },
+    {
+        "question": "What is a primary **advantage** of the indirect (smear sample) method over the direct method?",
+        "options": [
+            "Higher collection efficiency",
+            "Measurements are made in-situ",
+            "Advantageous in case of high background radiation",
+            "Reflects the actual level of contamination from direct readings"
+        ],
+        "answer": "Advantageous in case of high background radiation"
+    },
+    {
+        "question": "What is a primary **disadvantage** of the indirect (smear sample) method?",
+        "options": [
+            "It does not work for beta-gamma contamination",
+            "It suffers from lower collection efficiency of the contaminants",
+            "It requires specialized in-situ calibration",
+            "It cannot be used for high-background areas"
+        ],
+        "answer": "It suffers from lower collection efficiency of the contaminants"
+    },
+    {
+        "question": "Which factor does the collection efficiency of the contaminant on the smear sample **NOT** depend on?",
+        "options": [
+            "Physical condition of surface",
+            "Smear material used",
+            "Distance to the nearest wall",
+            "Pressure applied when taking sample"
+        ],
+        "answer": "Distance to the nearest wall"
+    },
+    {
+        "question": "What must be done to the instrumentation used for the direct method to reflect the actual level of contamination from its direct readings?",
+        "options": [
+            "It must be stored in a clean area",
+            "It should be properly calibrated",
+            "It must be switched off immediately after use",
+            "It should be used with a protective probe cover at all times"
+        ],
+        "answer": "It should be properly calibrated"
+    },
+    {
+        "question": "Once a smear sample is collected, how is the contamination level determined?",
+        "options": [
+            "It is incinerated",
+            "It is counted for its contamination level using a suitable counter",
+            "It is stored for 2 years",
+            "It is wiped with a chemical agent"
+        ],
+        "answer": "It is counted for its contamination level using a suitable counter"
+    },
+    {
+        "question": "Environmental contamination monitoring is carried out to ensure the amount of radioactive materials released is within what limit?",
+        "options": [
+            "The background level",
+            "The authorized limit",
+            "The minimum detectable activity",
+            "The maximum possible level"
+        ],
+        "answer": "The authorized limit"
+    },
+    {
+        "question": "Environmental contamination may be measured in which two general systems?",
+        "options": [
+            "Surface and Subsurface",
+            "Atmospheric and Aquatic",
+            "Biotic and Abiotic",
+            "Primary and Secondary"
+        ],
+        "answer": "Biotic and Abiotic"
+    },
+    {
+        "question": "What components are included in the **abiotic** system for environmental monitoring?",
+        "options": [
+            "Animals, plants, and man",
+            "Water, air, land, and non-living components",
+            "Bacteria and fungi",
+            "The radiation monitoring record and logbook"
+        ],
+        "answer": "Water, air, land, and non-living components"
+    },
+    {
+        "question": "Which components are included in the **biotic** system for environmental monitoring?",
+        "options": [
+            "Water, air, and land",
+            "Organisms living in ecosystem like animal, plants, man",
+            "Fixed installed monitors",
+            "Calibration certificates and logbooks"
+        ],
+        "answer": "Organisms living in ecosystem like animal, plants, man"
+    },
+    {
+        "question": "Airborne contamination is typically monitored **indirectly** using which two main components?",
+        "options": [
+            "TLD/OSL and a G-M detector",
+            "A fixed installed area monitor and a personal dosimeter",
+            "An air sampler together with a filter system",
+            "A survey meter and a check source"
+        ],
+        "answer": "An air sampler together with a filter system"
+    },
+    {
+        "question": "Airborne contamination monitors may be divided based on monitoring for radioactive particles in air, radioactive gases in air, and what other specific contaminant?",
+        "options": [
+            "Radionuclides with short half-lives",
+            "Radioiodine in air",
+            "Transuranic elements",
+            "Uranium dust"
+        ],
+        "answer": "Radioiodine in air"
+    },
+    {
+        "question": "What type of filter is specifically mentioned for monitoring **radioiodine in air**?",
+        "options": [
+            "Glass fiber filter",
+            "Charcoal filter",
+            "Absolute HEPA filter",
+            "Cellulose filter"
+        ],
+        "answer": "Charcoal filter"
+    },
+    {
+        "question": "What is the required retention period for the area monitoring record?",
+        "options": [
+            "1 year",
+            "2 years",
+            "5 years",
+            "10 years"
+        ],
+        "answer": "2 years"
+    },
+    {
+        "question": "What is the minimum annual effective dose rate (mSv/y) that defines a **Controlled Area**?",
+        "options": [
+            "< 1 mSv/y",
+            "1 – 6 mSv/y",
+            "≥ 6 mSv/y",
+            "≥ 10 mSv/y"
+        ],
+        "answer": "≥ 6 mSv/y"
+    },
+    {
+        "question": "What is the range for the instantaneous dose rate (in µSv/h) that defines a **Supervised Area**?",
+        "options": [
+            "< 0.5 µSv/h",
+            "0.5 – 3 µSv/h",
+            "≥ 3 µSv/h",
+            "≥ 10 µSv/h"
+        ],
+        "answer": "0.5 – 3 µSv/h"
+    },
+    {
+        "question": "Which area classification has an annual dose rate limit of **< 1 mSv/y**?",
+        "options": [
+            "Controlled Area",
+            "Supervised Area",
+            "Clean Area",
+            "Restricted Area"
+        ],
+        "answer": "Clean Area"
+    },
+    {
+        "question": "Which detail is required to be recorded in the radiation monitoring logbook?",
+        "options": [
+            "The temperature outside the facility",
+            "The name of the instrument manufacturer",
+            "Type, model, serial number and date of calibration of monitoring equipment",
+            "The shift schedule of all personnel"
+        ],
+        "answer": "Type, model, serial number and date of calibration of monitoring equipment"
+    }
+]

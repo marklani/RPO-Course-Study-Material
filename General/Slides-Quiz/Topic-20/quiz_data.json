@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What is the primary objective of the Radiation Protection Programme (RPP)?",
+        "options": [
+            "To calculate the annual budget for equipment purchase",
+            "To ensure all administrative reports are filed on time",
+            "To systematically manage the radiation safety and health at the workplace",
+            "To determine the half-life of all radioactive sources"
+        ],
+        "answer": "To systematically manage the radiation safety and health at the workplace"
+    },
+    {
+        "question": "Which of the following parties does the RPP act as a directive to regarding their responsibilities for radiation safety implementation?",
+        "options": [
+            "The individual worker only",
+            "Management and licensee only",
+            "The individual worker, management, and licensee",
+            "AELB inspectors only"
+        ],
+        "answer": "The individual worker, management, and licensee"
+    },
+    {
+        "question": "According to the RPP guidelines, in which language shall the document be primarily written?",
+        "options": [
+            "English",
+            "Mandarin",
+            "Bahasa Melayu",
+            "Tamil"
+        ],
+        "answer": "Bahasa Melayu"
+    },
+    {
+        "question": "Who must sign the Radiation Protection Programme (RPP) document to include the declaration?",
+        "options": [
+            "The Licensee and the Chief Financial Officer",
+            "The OBTL and the RPO",
+            "All radiation workers and the RPO",
+            "The AELB Director"
+        ],
+        "answer": "The OBTL and the RPO"
+    },
+    {
+        "question": "The RPP must be revised from time to time according to present activities or when directed by which authority?",
+        "options": [
+            "The International Atomic Energy Agency (IAEA)",
+            "The Board of Directors (BOD)",
+            "The Department of Atomic Energy (Atom Malaysia)",
+            "The World Health Organization (WHO)"
+        ],
+        "answer": "The Department of Atomic Energy (Atom Malaysia)"
+    },
+    {
+        "question": "Which specific regulation mandates that the licensee shall establish and maintain a radiation protection programme and safety procedure, including emergency plans?",
+        "options": [
+            "Radiation Protection (Licensing) Regulations 1986, Regulation 13",
+            "Atomic Energy Licensing (Basic Safety Radiation Protection) Regulation 2010, Regulation 15 (4)",
+            "Atomic Energy Licensing Act 1984, Section 304",
+            "Radiation Protection (Transport) Regulations 1989, Regulation 5"
+        ],
+        "answer": "Atomic Energy Licensing (Basic Safety Radiation Protection) Regulation 2010, Regulation 15 (4)"
+    },
+    {
+        "question": "Which Malaysian government body must endorse the Radiation Protection Programme prepared by the applicant?",
+        "options": [
+            "Department of Environmental Protection (DEP)",
+            "Department of Atomic Energy (Atom Malaysia)",
+            "Ministry of Finance (MOF)",
+            "Ministry of Health (MOH)"
+        ],
+        "answer": "Department of Atomic Energy (Atom Malaysia)"
+    },
+    {
+        "question": "Which guideline document outlines the requirements for preparing the Security Plan for radioactive sources?",
+        "options": [
+            "LEM/TEK/18",
+            "LEM/TEK/45",
+            "LEM/TEK/62",
+            "LEM/TEK/66"
+        ],
+        "answer": "LEM/TEK/62"
+    },
+    {
+        "question": "Which part of the Radiation Protection Programme (RPP) contains the safety procedure before, during, and after using radiation apparatus?",
+        "options": [
+            "Part 3: Training Programme for Workers",
+            "Part 5: Security Plan",
+            "Part 7: Handling Procedures",
+            "Part 8: Abnormal Situation Procedures"
+        ],
+        "answer": "Part 7: Handling Procedures"
+    },
+    {
+        "question": "Which is the governing legislation that requires all activities involving ionising radiation to comply with its requirements?",
+        "options": [
+            "Environmental Quality Act 1974",
+            "Atomic Energy Licensing Act 1984 (Act 304)",
+            "Occupational Safety and Health Act 1994",
+            "Factories and Machinery Act 1967"
+        ],
+        "answer": "Atomic Energy Licensing Act 1984 (Act 304)"
+    },
+    {
+        "question": "Who is defined as the holder of a licence issued under the Atomic Energy Licensing (Act 304)?",
+        "options": [
+            "The RPO",
+            "The Operator",
+            "The Licensee",
+            "The RPS"
+        ],
+        "answer": "The Licensee"
+    },
+    {
+        "question": "The Person Responsible for the Licence (OBTL) must be assigned by the licensee from which group of personnel?",
+        "options": [
+            "The RPO and RPS",
+            "The Technical Team Leaders",
+            "A member of the Board of Directors",
+            "The Safety and Health Committee"
+        ],
+        "answer": "A member of the Board of Directors"
+    },
+    {
+        "question": "Who is the technically competent person appointed by the licensee and **approved by the appropriate authority** to supervise radiation protection?",
+        "options": [
+            "Radiation Protection Supervisor (RPS)",
+            "Person Responsible for the Licence (OBTL)",
+            "Radiation Protection Officer (RPO)",
+            "Trainee Operator"
+        ],
+        "answer": "Radiation Protection Officer (RPO)"
+    },
+    {
+        "question": "An Operator (Radiation Worker) is recognized to perform radiation work under whose supervision?",
+        "options": [
+            "Security Personnel",
+            "Human Resources Manager",
+            "RPO or RPS",
+            "Any member of the Board of Directors"
+        ],
+        "answer": "RPO or RPS"
+    },
+    {
+        "question": "For industrial radiography activities, a Trainee Operator is restricted to performing radiation work in whose presence?",
+        "options": [
+            "In the presence of the Licensee only",
+            "In the presence of the OBTL only",
+            "In the presence of an RPO, RPS, or RW only",
+            "In the presence of AELB inspection officers only"
+        ],
+        "answer": "In the presence of an RPO, RPS, or RW only"
+    },
+    {
+        "question": "For which categories of radioactive sources is the Licensee required to provide a Security Plan?",
+        "options": [
+            "Category 1 only",
+            "Category 1 and 2 only",
+            "Category 1, 2, and 3",
+            "All categories (1-5)"
+        ],
+        "answer": "Category 1, 2, and 3"
+    },
+    {
+        "question": "Who is responsible for ensuring that all activities involving ionising radiation comply with the requirements of Act 304?",
+        "options": [
+            "The Licensee",
+            "The Radiation Protection Supervisor (RPS)",
+            "The Maintenance Contractor",
+            "The External Auditor"
+        ],
+        "answer": "The Licensee"
+    },
+    {
+        "question": "Who is responsible for providing the necessary **infrastructure (including finance and training)** required by the RPO?",
+        "options": [
+            "The Radiation Protection Committee",
+            "The Person Responsible for the Licence (OBTL)",
+            "The Head of Security",
+            "The Radiation Protection Supervisor (RPS)"
+        ],
+        "answer": "The Person Responsible for the Licence (OBTL)"
+    },
+    {
+        "question": "Who is responsible for ensuring that all medical examinations are carried out by a registered medical practitioner approved by the AELB?",
+        "options": [
+            "The RPO",
+            "The Radiation Worker",
+            "The Person Responsible for the Licence (OBTL)",
+            "The General Practitioner"
+        ],
+        "answer": "The Person Responsible for the Licence (OBTL)"
+    },
+    {
+        "question": "What must the OBTL do if an overexposure occurs, after receiving a caution letter from AELB?",
+        "options": [
+            "Conduct an investigation immediately",
+            "Suspend the radiation worker for 30 days",
+            "Inform AELB and send an explanation letter within 21 days",
+            "Update the Medical Record within 7 days"
+        ],
+        "answer": "Inform AELB and send an explanation letter within 21 days"
+    },
+    {
+        "question": "Which party's responsibility includes advising license holders regarding safety, security and regulatory aspects of radiation equipment?",
+        "options": [
+            "Radiation Protection Committee",
+            "External Training Provider",
+            "Building Management",
+            "Financial Auditor"
+        ],
+        "answer": "Radiation Protection Committee"
+    },
+    {
+        "question": "What is one of the RPO's responsibilities related to managing the physical safety of the equipment over time?",
+        "options": [
+            "Implement the annual financial review",
+            "Implement annual maintenance program",
+            "Manage public relations campaigns",
+            "Update the company's social media"
+        ],
+        "answer": "Implement annual maintenance program"
+    },
+    {
+        "question": "The RPO is responsible for classifying and labeling the work area according to which set of regulations?",
+        "options": [
+            "The Factories and Machinery Act 1967",
+            "Atomic Energy Licensing Regulations (Basic Safety Radiation Protection) 2010",
+            "The International Standards Organization (ISO) guidelines",
+            "The local Fire Department's standards"
+        ],
+        "answer": "Atomic Energy Licensing Regulations (Basic Safety Radiation Protection) 2010"
+    },
+    {
+        "question": "What must the RPO ensure is obtained in advance from AELB for any location changes of the radiation equipment?",
+        "options": [
+            "A verbal agreement",
+            "The financial clearance",
+            "Permission in advance",
+            "A simple notification after the move"
+        ],
+        "answer": "Permission in advance"
+    },
+    {
+        "question": "Within how many hours must the RPO report any abnormal incident that threatened the security elements?",
+        "options": [
+            "1 hour",
+            "12 hours",
+            "24 hours",
+            "48 hours"
+        ],
+        "answer": "24 hours"
+    },
+    {
+        "question": "The RPO must conduct a background check on which group of personnel before employment?",
+        "options": [
+            "All new employees",
+            "New Radiation Workers",
+            "New administrative staff",
+            "New security guards"
+        ],
+        "answer": "New Radiation Workers"
+    },
+    {
+        "question": "What must the RPO stop if there is a breach of the provisions of Act 304 done by radiation workers?",
+        "options": [
+            "The worker's salary payment",
+            "The operation of radiation equipment",
+            "The RPO's annual leave",
+            "The supply of coffee to the workers"
+        ],
+        "answer": "The operation of radiation equipment"
+    },
+    {
+        "question": "Which RPO responsibility is specifically related to a female worker who is or may become pregnant?",
+        "options": [
+            "Ensuring she takes annual leave",
+            "Informing her of the risk to the fetus due to exposure during pregnancy",
+            "Removing her from the company payroll immediately",
+            "Transferring her to a management position"
+        ],
+        "answer": "Informing her of the risk to the fetus due to exposure during pregnancy"
+    },
+    {
+        "question": "Which document record is identified by the reference LPTA/BM/5 (Section B)?",
+        "options": [
+            "Medical records of radiation workers",
+            "Radiation equipment maintenance records",
+            "Exposure records for radiation workers",
+            "Statements of sales on radioactive materials"
+        ],
+        "answer": "Exposure records for radiation workers"
+    },
+    {
+        "question": "How often must the RPO record all medical exposure in the Exposure Record (LPTA/BM/5-Section B)?",
+        "options": [
+            "Every day",
+            "Every week",
+            "Every month",
+            "Every quarter"
+        ],
+        "answer": "Every month"
+    },
+    {
+        "question": "During the absence of the RPO (e.g., holiday or training), who is primarily responsible for taking over their duties and responsibilities?",
+        "options": [
+            "The Licensee",
+            "The Person Responsible for the Licence (OBTL)",
+            "The Radiation Protection Supervisor (RPS)",
+            "The most senior Operator"
+        ],
+        "answer": "The Radiation Protection Supervisor (RPS)"
+    },
+    {
+        "question": "What is one of the high-risk work activities the RPO must supervise?",
+        "options": [
+            "Data entry tasks",
+            "Planned exposure",
+            "Attending safety meetings",
+            "Routine office cleaning"
+        ],
+        "answer": "Planned exposure"
+    },
+    {
+        "question": "The RPO is responsible for implementing programs to keep radiation sources, calibration and maintenance of radiation equipment, and planning appropriate disposal methods for which type of waste?",
+        "options": [
+            "General office waste",
+            "Chemical waste",
+            "Hazardous biological waste",
+            "Radioactive waste"
+        ],
+        "answer": "Radioactive waste"
+    },
+    {
+        "question": "What must the RPS do upon the RPO's return to work after an absence?",
+        "options": [
+            "Send a thank you email",
+            "Report all matters that occur",
+            "Take an immediate vacation",
+            "File a new license application"
+        ],
+        "answer": "Report all matters that occur"
+    },
+    {
+        "question": "What must the RPO ensure regarding the security of radioactive materials and facilities?",
+        "options": [
+            "It is monitored from time to time to avoid any risk of loss, sabotage or theft",
+            "It is entirely outsourced to a third-party security company",
+            "It is solely managed by the OBTL",
+            "It is checked only once per year during the audit"
+        ],
+        "answer": "It is monitored from time to time to avoid any risk of loss, sabotage or theft"
+    },
+    {
+        "question": "What must an Operator check using a radiation detector before a radiation container is transferred or used?",
+        "options": [
+            "The color of the container",
+            "The weight of the container",
+            "To make sure that the radiation source is in a safe position and shielded",
+            "The expiration date of the container"
+        ],
+        "answer": "To make sure that the radiation source is in a safe position and shielded"
+    },
+    {
+        "question": "What type of device is listed as a personnel monitoring device that an operator must report if lost or damaged?",
+        "options": [
+            "CCTV camera",
+            "OSL badge",
+            "Personal mobile phone",
+            "Car key"
+        ],
+        "answer": "OSL badge"
+    },
+    {
+        "question": "In an abnormal condition, what is the Operator's immediate action after taking necessary measures according to the specified procedure?",
+        "options": [
+            "Resume normal operations immediately",
+            "Immediately notify the RPO or RPS about the situation",
+            "Begin a detailed financial audit",
+            "Send a mass email to all company personnel"
+        ],
+        "answer": "Immediately notify the RPO or RPS about the situation"
+    },
+    {
+        "question": "What must a female radiation worker report immediately to the RPO/RPS and approved registered medical practitioner?",
+        "options": [
+            "Any change in job designation",
+            "Any family vacation plans",
+            "Pregnancy",
+            "A decision to change their personal dosimeter"
+        ],
+        "answer": "Pregnancy"
+    },
+    {
+        "question": "If a leak is detected on a package during transport, what is the first measurement the RPO/Operator must perform?",
+        "options": [
+            "Measure the package's external temperature",
+            "Measure contamination level on the surface",
+            "Measure the package's dimensions",
+            "Measure the ambient air pressure"
+        ],
+        "answer": "Measure contamination level on the surface"
+    },
+    {
+        "question": "How often should refresher and awareness training on radiation protection be provided to workers?",
+        "options": [
+            "Every month",
+            "At least once in three years",
+            "Only upon hiring",
+            "Every five years"
+        ],
+        "answer": "At least once in three years"
+    },
+    {
+        "question": "What is the **Constraint dose limit** for personnel set at or lower than, subject to AELB approval?",
+        "options": [
+            "5 mSv/year",
+            "10 mSv/year",
+            "20 mSv/year",
+            "50 mSv/year"
+        ],
+        "answer": "10 mSv/year"
+    },
+    {
+        "question": "What is the annual dose limit for radiation workers that the constraint dose limit is designed to prevent from being exceeded?",
+        "options": [
+            "10 mSv/year",
+            "20 mSv/year",
+            "50 mSv/year",
+            "100 mSv/year"
+        ],
+        "answer": "20 mSv/year"
+    },
+    {
+        "question": "In the event the operational limit is exceeded, who is responsible for informing AELB immediately?",
+        "options": [
+            "The Operator",
+            "The RPO",
+            "The Licensee",
+            "The Security Guard"
+        ],
+        "answer": "The Licensee"
+    },
+    {
+        "question": "What is the required retention period for an **AELB Inspection Visit Record**?",
+        "options": [
+            "1 year",
+            "2 years",
+            "5 years",
+            "30 years"
+        ],
+        "answer": "5 years"
+    },
+    {
+        "question": "What is the required retention period for a **Leak Test Record** of sealed sources?",
+        "options": [
+            "1 year",
+            "2 years",
+            "3 years",
+            "5 years"
+        ],
+        "answer": "2 years"
+    },
+    {
+        "question": "How often must the **inventory of radioactive material** in a storage facility be conducted?",
+        "options": [
+            "Every day",
+            "Every week",
+            "Every month",
+            "Every quarter"
+        ],
+        "answer": "Every week"
+    },
+    {
+        "question": "If a License is to be posted at the radiation apparatus, what document is posted?",
+        "options": [
+            "The original License",
+            "A copy of the License",
+            "Only the RPO's approval letter",
+            "The entire RPP document"
+        ],
+        "answer": "A copy of the License"
+    },
+    {
+        "question": "What is the required retention period for **Medical Records (LPTA/BM/5-Section A)** and **Exposure Records (LPTA/BM/5-Section B)**?",
+        "options": [
+            "1 year",
+            "2 years",
+            "5 years",
+            "Until the worker left the company, then transferred to AELB"
+        ],
+        "answer": "Until the worker left the company, then transferred to AELB"
+    },
+    {
+        "question": "During a **radiological incident/accident**, within how many days shall a written investigation report be sent to AELB?",
+        "options": [
+            "7 days",
+            "14 days",
+            "30 days",
+            "60 days"
+        ],
+        "answer": "30 days"
+    }
+]

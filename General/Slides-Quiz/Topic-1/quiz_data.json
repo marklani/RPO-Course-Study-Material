@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Which of the following formulas is used for the calculation of 'Received dose' in radiation safety?",
+        "options": [
+            "Dose = Dose Rate + Time",
+            "Dose = Dose Rate × Time",
+            "Dose = Dose Rate / Time",
+            "Dose = $\\sqrt{\\text{Dose Rate}} \\times \\text{Time}$"
+        ],
+        "answer": "Dose = Dose Rate × Time"
+    },
+    {
+        "question": "If the Dose Rate is $15 \\text{ mSv/hr}$ and the exposure time is $4 \\text{ hours}$, what is the total dose received?",
+        "options": [
+            "3.75 mSv",
+            "15 mSv",
+            "60 mSv",
+            "75 mSv"
+        ],
+        "answer": "60 mSv"
+    },
+    {
+        "question": "Which mathematical relationship is used to determine the 'Safe distance' for radiation protection?",
+        "options": [
+            "Exponential Decay Formula",
+            "Exponential Attenuation Formula",
+            "Inverse Square Law",
+            "Linear Decay Formula"
+        ],
+        "answer": "Inverse Square Law"
+    },
+    {
+        "question": "According to the Inverse Square Law, if the intensity $I_1$ at distance $d_1$ is $100 \\text{ }\\mu\\text{Sv/hr}$, what is the intensity $I_2$ at distance $d_2 = 2d_1$?",
+        "options": [
+            "50 $\\mu$Sv/hr",
+            "200 $\\mu$Sv/hr",
+            "25 $\\mu$Sv/hr",
+            "400 $\\mu$Sv/hr"
+        ],
+        "answer": "25 $\\mu$Sv/hr"
+    },
+    {
+        "question": "The formula $I_{x}=I_{o}.e^{-\\mu x}$ is used in radiation safety to calculate what?",
+        "options": [
+            "Radioactive decay over time",
+            "Safe distance from a source",
+            "Received dose from exposure",
+            "Intensity after passing through a thickness (shielding)"
+        ],
+        "answer": "Intensity after passing through a thickness (shielding)"
+    },
+    {
+        "question": "In the exponential attenuation formula $I_{x}=I_{o}.e^{-\\mu x}$, what does the variable 'x' represent?",
+        "options": [
+            "Initial intensity",
+            "Attenuation coefficient",
+            "Thickness of the shielding material",
+            "Radioactive half-life"
+        ],
+        "answer": "Thickness of the shielding material"
+    },
+    {
+        "question": "What is the relationship between the Linear Attenuation Coefficient ($\\mu$) and the Half-Value Layer (HVL)?",
+        "options": [
+            "$\\mu = \\text{HVL} / 0.693$",
+            "$\\mu = 0.693 \\times \\text{HVL}$",
+            "$\\mu = 0.693 / \\text{HVL}$",
+            "$\\mu = 1 / \\text{HVL}$"
+        ],
+        "answer": "$\\mu = 0.693 / \\text{HVL}$"
+    },
+    {
+        "question": "The formula $A_{t}=A_{o}.e^{-\\lambda t}$ is used to calculate what quantity in radiation protection?",
+        "options": [
+            "Attenuation of photon intensity",
+            "Activity of a source at a future time",
+            "Dose received from a source",
+            "Half-Value Layer of a material"
+        ],
+        "answer": "Activity of a source at a future time"
+    },
+    {
+        "question": "In the radioactive decay formula $A_{t}=A_{o}.e^{-\\lambda t}$, what does $\\lambda$ represent?",
+        "options": [
+            "Activity at time t",
+            "Initial activity",
+            "Decay constant",
+            "Half-life"
+        ],
+        "answer": "Decay constant"
+    },
+    {
+        "question": "If the Half-Value Layer (HVL) of a material is $1 \\text{ cm}$, what is the linear attenuation coefficient ($\\mu$)?",
+        "options": [
+            "$1.0 \\text{ cm}^{-1}$",
+            "$0.693 \\text{ cm}^{-1}$",
+            "$0.5 \\text{ cm}^{-1}$",
+            "$1.44 \\text{ cm}^{-1}$"
+        ],
+        "answer": "$0.693 \\text{ cm}^{-1}$"
+    },
+    {
+        "question": "If the Half-Life ($T_{1/2}$) of a source is 10 days, what is the decay constant ($\\lambda$)?",
+        "options": [
+            "$10 \\text{ days}^{-1}$",
+            "$0.693 \\text{ days}^{-1}$",
+            "$0.0693 \\text{ days}^{-1}$",
+            "$1.44 \\text{ days}^{-1}$"
+        ],
+        "answer": "$0.0693 \\text{ days}^{-1}$"
+    },
+    {
+        "question": "What is the primary application of the Inverse Square Law in radiation safety?",
+        "options": [
+            "Determining the dose rate at different distances from a point source",
+            "Calculating the thickness needed to stop alpha radiation",
+            "Measuring the half-life of a radionuclide",
+            "Calculating the total dose for a known exposure time"
+        ],
+        "answer": "Determining the dose rate at different distances from a point source"
+    },
+    {
+        "question": "To reduce the radiation intensity by a factor of 4, the distance from a point source must be increased by a factor of:",
+        "options": [
+            "4",
+            "2",
+            "16",
+            "0.5"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "In the exponential attenuation formula, what does $I_{o}$ represent?",
+        "options": [
+            "The measured intensity after attenuation",
+            "The initial intensity before attenuation",
+            "The attenuation coefficient",
+            "The thickness of the shield"
+        ],
+        "answer": "The initial intensity before attenuation"
+    },
+    {
+        "question": "What quantity does the constant $\\lambda$ (decay constant) relate to using the formula $\\lambda=0.693/T_{\\frac{1}{2}}$?",
+        "options": [
+            "Linear Attenuation Coefficient",
+            "Shielding Thickness",
+            "Radioactive Half-Life",
+            "Dose Rate"
+        ],
+        "answer": "Radioactive Half-Life"
+    },
+    {
+        "question": "What mathematical function is necessary to solve for time ($t$) in the radioactive decay equation, $A_{t}=A_{o}.e^{-\\lambda t}$?",
+        "options": [
+            "Trigonometry",
+            "Logarithm",
+            "Square Root",
+            "Polynomial"
+        ],
+        "answer": "Logarithm"
+    },
+    {
+        "question": "The value $0.693$ that appears in both $\\mu$ and $\\lambda$ formulas is the natural logarithm of which number?",
+        "options": [
+            "10",
+            "1",
+            "2",
+            "$e$"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "If a radiation source has an initial activity ($A_o$) of $200 \\text{ mCi}$, what is its activity ($A_t$) after two half-lives?",
+        "options": [
+            "100 mCi",
+            "50 mCi",
+            "25 mCi",
+            "400 mCi"
+        ],
+        "answer": "50 mCi"
+    },
+    {
+        "question": "What is the main reason basic mathematics, including formulas for received dose and safe distance, are used extensively in radiation safety?",
+        "options": [
+            "To comply with administrative rules",
+            "To minimize risk and ensure safety protocols are met",
+            "To increase the speed of operations",
+            "To avoid the use of physical monitoring devices"
+        ],
+        "answer": "To minimize risk and ensure safety protocols are met"
+    },
+    {
+        "question": "What does a larger value for the linear attenuation coefficient ($\\mu$) of a material generally indicate?",
+        "options": [
+            "The material is less effective as a shield",
+            "The material is more effective as a shield",
+            "The material has a longer half-life",
+            "The material is more transparent to radiation"
+        ],
+        "answer": "The material is more effective as a shield"
+    },
+    {
+        "question": "The relationship $\\mu = 0.693 / \\text{HVL}$ is a key concept used in calculating which radiation safety protocol?",
+        "options": [
+            "Time",
+            "Distance",
+            "Shielding",
+            "Dose Rate"
+        ],
+        "answer": "Shielding"
+    },
+    {
+        "question": "If the initial intensity is $250 \\text{ mSv/hr}$ at $0.5 \\text{ m}$, what is the intensity at $1.5 \\text{ m}$ based on the Inverse Square Law?",
+        "options": [
+            "83.33 mSv/hr",
+            "55.56 mSv/hr",
+            "27.78 mSv/hr",
+            "111.11 mSv/hr"
+        ],
+        "answer": "27.78 mSv/hr"
+    },
+    {
+        "question": "If the required exposure time for a task is 45 minutes and the Dose Rate is $2 \\text{ mSv/hr}$, what is the total dose in $\\text{mSv}$?",
+        "options": [
+            "1.5 mSv",
+            "90 mSv",
+            "0.5 mSv",
+            "2.0 mSv"
+        ],
+        "answer": "1.5 mSv"
+    },
+    {
+        "question": "What is the general unit for the Decay Constant ($\\lambda$)?",
+        "options": [
+            "Meter per second (m/s)",
+            "Inverse time unit (e.g., $\\text{min}^{-1}, \\text{day}^{-1}$)",
+            "Curie (Ci)",
+            "Sievert (Sv)"
+        ],
+        "answer": "Inverse time unit (e.g., $\\text{min}^{-1}, \\text{day}^{-1}$)"
+    },
+    {
+        "question": "In the radioactive decay formula, what does $A_{o}$ represent?",
+        "options": [
+            "Activity at time t",
+            "The final activity after decay",
+            "The original (initial) activity",
+            "The dose received"
+        ],
+        "answer": "The original (initial) activity"
+    },
+    {
+        "question": "The Inverse Square Law is only strictly valid for what type of radiation source?",
+        "options": [
+            "Extended line source",
+            "Surface source",
+            "Point source",
+            "Shielded source"
+        ],
+        "answer": "Point source"
+    },
+    {
+        "question": "To calculate the thickness ($x$) of a shield given $I_x$, $I_o$, and $\\mu$, the RPO must solve an equation involving which term?",
+        "options": [
+            "Natural logarithm ($\\ln$)",
+            "Square root ($\\sqrt{}$)",
+            "Tangent ($\\tan$)",
+            "The constant $\\pi$"
+        ],
+        "answer": "Natural logarithm ($\\ln$)"
+    },
+    {
+        "question": "If the half-life of a radioactive material is very short, its decay constant ($\\lambda$) will be:",
+        "options": [
+            "Zero",
+            "Small",
+            "Large",
+            "0.693"
+        ],
+        "answer": "Large"
+    },
+    {
+        "question": "Which of the following is an example of an exponential function used in radiation safety mathematics?",
+        "options": [
+            "$\text{Dose} = \\text{Rate} \\times \\text{Time}$",
+            "$I_{1}/I_{2}=(d_{2}/d_{1})^{2}$",
+            "$A_{t}=A_{o}.e^{-\\lambda t}$",
+            "$\\mu = 0.693 / \\text{HVL}$"
+        ],
+        "answer": "$A_{t}=A_{o}.e^{-\\lambda t}$"
+    },
+    {
+        "question": "If the intensity of radiation is reduced to $1/8$ of its initial value, how many Half-Value Layers ($HVL$) of shielding have been used?",
+        "options": [
+            "1 HVL",
+            "2 HVL",
+            "3 HVL",
+            "8 HVL"
+        ],
+        "answer": "3 HVL"
+    },
+    {
+        "question": "The use of 'Exponents and Scientific Notation' in basic mathematics is essential for RPOs to handle:",
+        "options": [
+            "Calculations of angle and velocity",
+            "Very large and very small numerical values (e.g., activity)",
+            "Calculations of chemical reactions",
+            "Estimating financial costs"
+        ],
+        "answer": "Very large and very small numerical values (e.g., activity)"
+    },
+    {
+        "question": "The concept of rounding numbers in basic mathematics is important in radiation safety to ensure:",
+        "options": [
+            "The answer is always larger than the initial value",
+            "The final result is appropriate for reporting and regulatory standards",
+            "The inverse square law is correctly applied",
+            "The exponential factor remains positive"
+        ],
+        "answer": "The final result is appropriate for reporting and regulatory standards"
+    },
+    {
+        "question": "If the Half-Life is 6 months, how much time is required for the activity to decay to $12.5\\%$ of its initial value?",
+        "options": [
+            "6 months",
+            "12 months",
+            "18 months",
+            "24 months"
+        ],
+        "answer": "18 months"
+    },
+    {
+        "question": "What is the formula used to calculate the linear attenuation coefficient ($\\mu$)?",
+        "options": [
+            "$\\mu = 0.693 \\times T_{\\frac{1}{2}}$",
+            "$\\mu = 0.693 / \\text{HVL}$",
+            "$\\mu = I_{o} / I_{x}$",
+            "$\\mu = (d_{2}/d_{1})^{2}$"
+        ],
+        "answer": "$\\mu = 0.693 / \\text{HVL}$"
+    },
+    {
+        "question": "The Inverse Square Law is an example of which type of mathematical relationship?",
+        "options": [
+            "Linear relationship",
+            "Directly proportional relationship",
+            "Inverse exponential relationship",
+            "Inverse square proportional relationship"
+        ],
+        "answer": "Inverse square proportional relationship"
+    },
+    {
+        "question": "If a worker's total exposure time is 15 minutes at a Dose Rate of $10 \\text{ mSv/hr}$, the total dose is:",
+        "options": [
+            "10 mSv",
+            "2.5 mSv",
+            "0.667 mSv",
+            "150 mSv"
+        ],
+        "answer": "2.5 mSv"
+    },
+    {
+        "question": "What does $I_{x}$ represent in the formula for Attenuation of Photon, $I_{x}=I_{o}.e^{-\\mu x}$?",
+        "options": [
+            "Initial Intensity",
+            "Intensity after passing through thickness x",
+            "Linear Attenuation Coefficient",
+            "Distance from the source"
+        ],
+        "answer": "Intensity after passing through thickness x"
+    },
+    {
+        "question": "The principle of 'Time' for radiation protection is mathematically represented by which formula?",
+        "options": [
+            "$\text{Dose}=\\text{Dose Rate} \\times \\text{Time}$",
+            "$I_{x}=I_{o}.e^{-\\mu x}$",
+            "$I_{1}(d_{1})^{2}=I_{2}(d_{2})^{2}$",
+            "$A_{t}=A_{o}.e^{-\\lambda t}$"
+        ],
+        "answer": "$\text{Dose}=\\text{Dose Rate} \\times \\text{Time}$"
+    },
+    {
+        "question": "What is the primary unit of time commonly used for Half-Life ($T_{1/2}$)?",
+        "options": [
+            "Seconds",
+            "Any unit of time (seconds, days, years)",
+            "Hours",
+            "Millimeters"
+        ],
+        "answer": "Any unit of time (seconds, days, years)"
+    },
+    {
+        "question": "What does $A_{t}$ represent in the radioactive decay equation?",
+        "options": [
+            "Decay constant",
+            "Activity at the beginning of the period",
+            "Activity remaining after time $t$",
+            "The maximum permissible activity"
+        ],
+        "answer": "Activity remaining after time $t$"
+    },
+    {
+        "question": "If the dose rate at $d_1 = 10 \\text{ m}$ is $5 \\text{ }\\mu\\text{Sv/hr}$, what is the dose rate at $d_2 = 5 \\text{ m}$?",
+        "options": [
+            "2.5 $\\mu$Sv/hr",
+            "10 $\\mu$Sv/hr",
+            "20 $\\mu$Sv/hr",
+            "40 $\\mu$Sv/hr"
+        ],
+        "answer": "20 $\\mu$Sv/hr"
+    },
+    {
+        "question": "The concept of 'Distance' in radiation protection is represented by which part of the formula $I_{1}/I_{2}=(d_{2}/d_{1})^{2}$?",
+        "options": [
+            "The intensity ($I$)",
+            "The distance ($d$)",
+            "The exponent (2)",
+            "The equals sign (=)"
+        ],
+        "answer": "The distance ($d$)"
+    },
+    {
+        "question": "If the Half-Value Layer (HVL) for a gamma source in lead is $0.5 \\text{ cm}$, how much lead is needed to reduce the intensity to $50\\%$?",
+        "options": [
+            "0.5 cm",
+            "1.0 cm",
+            "2.5 cm",
+            "5.0 cm"
+        ],
+        "answer": "0.5 cm"
+    },
+    {
+        "question": "The exponential term ($e^{-\\mu x}$) in the attenuation formula describes how radiation intensity changes as it interacts with:",
+        "options": [
+            "Magnetic fields",
+            "Atmospheric pressure",
+            "Shielding material",
+            "Distance from the source"
+        ],
+        "answer": "Shielding material"
+    },
+    {
+        "question": "If a radiation worker receives a dose of $3 \\text{ mSv}$ over $30 \\text{ minutes}$ of work, what was the average Dose Rate?",
+        "options": [
+            "90 mSv/hr",
+            "1 mSv/hr",
+            "6 mSv/hr",
+            "12 mSv/hr"
+        ],
+        "answer": "6 mSv/hr"
+    },
+    {
+        "question": "In the formula $I_{1}(d_{1})^{2}=I_{2}(d_{2})^{2}$, what are $I_1$ and $I_2$ commonly measured in?",
+        "options": [
+            "Meters (m)",
+            "Sieverts per hour (Sv/hr)",
+            "Kilograms (kg)",
+            "Curie (Ci)"
+        ],
+        "answer": "Sieverts per hour (Sv/hr)"
+    },
+    {
+        "question": "If the decay constant ($\\lambda$) is $0.05 \\text{ year}^{-1}$, what is the approximate Half-Life ($T_{1/2}$) of the radionuclide?",
+        "options": [
+            "13.86 years",
+            "1.386 years",
+            "6.93 years",
+            "69.3 years"
+        ],
+        "answer": "13.86 years"
+    },
+    {
+        "question": "Which of the following is NOT one of the calculations listed in the document as using basic mathematics in radiation safety?",
+        "options": [
+            "Received dose",
+            "Safe distance",
+            "Shielding thickness",
+            "Source density"
+        ],
+        "answer": "Source density"
+    },
+    {
+        "question": "Which constant is used in the relationship $\\lambda=0.693/T_{\\frac{1}{2}}$?",
+        "options": [
+            "Pi ($\\pi$)",
+            "Planck's constant ($h$)",
+            "The natural logarithm of 2 ($\\ln 2$)",
+            "Avogadro's number ($N_A$)"
+        ],
+        "answer": "The natural logarithm of 2 ($\\ln 2$)"
+    },
+    {
+        "question": "In the context of the Inverse Square Law, what does the exponent '2' signify?",
+        "options": [
+            "The source is radioactive",
+            "The intensity drops off linearly with distance",
+            "The intensity drops off as the square of the distance",
+            "The material is always a gas"
+        ],
+        "answer": "The intensity drops off as the square of the distance"
+    }
+]

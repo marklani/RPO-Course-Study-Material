@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What does RSMS stand for?",
+        "options": [
+            "Radiation Safety Monitoring Standard",
+            "Radiation Source Management System",
+            "Radiation Safety Management System",
+            "Radioactive Source Measurement System"
+        ],
+        "answer": "Radiation Safety Management System"
+    },
+    {
+        "question": "The RSMS is described as a **system approach** to manage hazards and risks. What is a key characteristic of this approach?",
+        "options": [
+            "It is done on an ad-hoc procedural basis.",
+            "It is non-motivational and does not encourage self-regulation.",
+            "It views the organization in totality and is self-regulated.",
+            "It implements numerous safety procedures that are independent of each other."
+        ],
+        "answer": "It views the organization in totality and is self-regulated."
+    },
+    {
+        "question": "How many major elements interact to achieve the set radiation safety and health goals in the RSMS?",
+        "options": [
+            "Three",
+            "Five",
+            "Seven",
+            "Four"
+        ],
+        "answer": "Five"
+    },
+    {
+        "question": "Which of the following is NOT one of the five major elements of the Radiation Safety Management System (RSMS)?",
+        "options": [
+            "Policy",
+            "Organization",
+            "Resources",
+            "Evaluation"
+        ],
+        "answer": "Resources"
+    },
+    {
+        "question": "What is the definition of **Hazard** in the context of RSMS?",
+        "options": [
+            "Probability of harm actually happening and its impact of loss.",
+            "Radionuclides and radiation emitting machine.",
+            "Freedom from acceptable risk.",
+            "Source or condition that has a potential to cause harm, damage to property and environment."
+        ],
+        "answer": "Source or condition that has a potential to cause harm, damage to property and environment."
+    },
+    {
+        "question": "What is the definition of **Risk** in the context of RSMS?",
+        "options": [
+            "Source or condition that has a potential to cause harm.",
+            "Freedom from acceptable risk.",
+            "Radionuclides and radiation emitting machine.",
+            "Probability of harm actually happening and its impact of loss (severity)."
+        ],
+        "answer": "Probability of harm actually happening and its impact of loss (severity)"
+    },
+    {
+        "question": "The Radiation Safety Policy is a **written statement** by an employer stating the company's commitment for the protection of whom?",
+        "options": [
+            "Only the management team.",
+            "Only the public.",
+            "Employees and the public.",
+            "Only the Radiation Protection Officer (RPO)."
+        ],
+        "answer": "Employees and the public."
+    },
+    {
+        "question": "To ensure relevancy and appropriateness with time, the Radiation Safety Policy must be what?",
+        "options": [
+            "Signed",
+            "Communicated",
+            "Dated",
+            "Reviewed only every ten years"
+        ],
+        "answer": "Dated"
+    },
+    {
+        "question": "The 'Organization' element of RSMS is primarily concerned with what?",
+        "options": [
+            "Financial budgeting for radiation sources.",
+            "Personnel and their roles and responsibilities.",
+            "Establishing the radiation safety policy.",
+            "The physical location of the radiation equipment."
+        ],
+        "answer": "Personnel and their roles and responsibilities."
+    },
+    {
+        "question": "What are the two types of radiation safety organizations mentioned in the document?",
+        "options": [
+            "Local and International operations",
+            "Controlled and Supervised operations",
+            "Normal and Abnormal/Emergency response operations",
+            "External and Internal operations"
+        ],
+        "answer": "Normal and Abnormal/Emergency response operations"
+    },
+    {
+        "question": "Which of the following is an example of a group of personnel in an organization in **normal operation**?",
+        "options": [
+            "Emergency Response Team",
+            "Fire Fighters",
+            "Radiation Safety Committee",
+            "Security Personnel in an emergency"
+        ],
+        "answer": "Radiation Safety Committee"
+    },
+    {
+        "question": "The proposed functions of the Radiation Safety Committee include identifying which of the following?",
+        "options": [
+            "Annual sales targets.",
+            "Infrastructure requirements (including financial and training).",
+            "Public relations strategy.",
+            "Non-radiation related safety issues."
+        ],
+        "answer": "Infrastructure requirements (including financial and training)."
+    },
+    {
+        "question": "Who is responsible for appointing a **Person Responsible to the License (OBTL)**?",
+        "options": [
+            "The Radiation Protection Officer (RPO)",
+            "Atom Malaysia",
+            "The Licensee",
+            "The Supervisor (PY)"
+        ],
+        "answer": "The Licensee"
+    },
+    {
+        "question": "Which of the following is a responsibility of the **Licensee**?",
+        "options": [
+            "To deal with all regulatory bodies including Atom Malaysia and DOSH.",
+            "To ensure only OBTL and RPO deal with Atom Malaysia.",
+            "To personally supervise all radiation workers.",
+            "To carry out medical surveillance programs for radiation workers."
+        ],
+        "answer": "To ensure only OBTL and RPO deal with Atom Malaysia."
+    },
+    {
+        "question": "The **Person Responsible to the License (OBTL)** is responsible for ensuring all activities involving ionizing radiation comply with which act?",
+        "options": [
+            "Occupational Safety & Health Act 1994 (OSHA)",
+            "Environmental Quality Act 1974",
+            "Atomic Energy Licensing Act 1984 (Act 304)",
+            "Factories and Machinery Act 1967"
+        ],
+        "answer": "Atomic Energy Licensing Act 1984 (Act 304)"
+    },
+    {
+        "question": "What is one of the **OBTL's** key responsibilities regarding the RSMS?",
+        "options": [
+            "To calculate the workers' annual dose limits.",
+            "To establish and review the RSMS (if related).",
+            "To supervise high-risk radiation activities.",
+            "To report pregnancy of female workers."
+        ],
+        "answer": "To establish and review the RSMS (if related)."
+    },
+    {
+        "question": "Which individual is responsible for **identifying and analyzing radiological hazard** in the work place and surrounding?",
+        "options": [
+            "Licensee",
+            "Supervisor (PY)",
+            "Radiation Worker",
+            "Radiation Protection Officer (RPO)"
+        ],
+        "answer": "Radiation Protection Officer (RPO)"
+    },
+    {
+        "question": "If a radiation worker violates Act 304, who has the responsibility to **stop the operation of the radiation equipment**?",
+        "options": [
+            "The Licensee",
+            "The Radiation Protection Officer (RPO)",
+            "The Person Responsible to the License (OBTL)",
+            "The Security Personnel"
+        ],
+        "answer": "The Radiation Protection Officer (RPO)"
+    },
+    {
+        "question": "Which individual is responsible for **taking over the duties and responsibilities of the RPO** during the RPO's absence?",
+        "options": [
+            "Licensee",
+            "Person Responsible to the License (OBTL)",
+            "Supervisor (PY)",
+            "A registered Medical Practitioner"
+        ],
+        "answer": "Supervisor (PY)"
+    },
+    {
+        "question": "Which individual has the responsibility to **report pregnancy (for female workers) immediately** to the RPO/PY and approved registered medical practitioner?",
+        "options": [
+            "The Licensee",
+            "The Supervisor (PY)",
+            "The Radiation Worker",
+            "The OBTL"
+        ],
+        "answer": "The Radiation Worker"
+    },
+    {
+        "question": "In an **Abnormal or Emergency Response Operation**, what must be clearly defined and documented for all teams and individuals in the emergency response team?",
+        "options": [
+            "Their medical history.",
+            "Their future career path.",
+            "Duties and responsibilities.",
+            "Their annual leave schedule."
+        ],
+        "answer": "Duties and responsibilities."
+    },
+    {
+        "question": "To ensure continuous competency, all personnel involved in the RSMS organization must be provided with what?",
+        "options": [
+            "Higher salaries.",
+            "A new license.",
+            "Training and retraining.",
+            "Additional safety equipment."
+        ],
+        "answer": "Training and retraining."
+    },
+    {
+        "question": "RSMS documentation is generally divided into two types: Legal compliance records and what other type?",
+        "options": [
+            "Internal audit reports.",
+            "Voluntary records (management).",
+            "Financial statements.",
+            "Personnel employment contracts."
+        ],
+        "answer": "Voluntary records (management)"
+    },
+    {
+        "question": "Which of the following is an example of a **Legal compliance** documentation in RSMS?",
+        "options": [
+            "Safety campaign records.",
+            "Exposure records.",
+            "Performance measurement charts.",
+            "Public relation announcements."
+        ],
+        "answer": "Exposure records."
+    },
+    {
+        "question": "What is the primary function of **Communication** in the RSMS?",
+        "options": [
+            "To inform the public about radiation activities.",
+            "To ensure correct and effective transmission of information.",
+            "To advertise the company's safety culture.",
+            "To reduce the financial cost of the RSMS."
+        ],
+        "answer": "To ensure correct and effective transmission of information."
+    },
+    {
+        "question": "The **Planning and Implementation** element of RSMS begins with which step?",
+        "options": [
+            "Accident Investigation",
+            "Management Review",
+            "Initial Review (Gap analysis)",
+            "Action for Improvement"
+        ],
+        "answer": "Initial Review (Gap analysis)"
+    },
+    {
+        "question": "In the Initial Review phase of Planning and Implementation, what process is used to assess the current status in terms of performance standards?",
+        "options": [
+            "Dose Limit Analysis",
+            "Gap Analysis",
+            "Risk Evaluation",
+            "ALARA Principle"
+        ],
+        "answer": "Gap Analysis"
+    },
+    {
+        "question": "Radiation safety objectives must be **SMART**. What does the 'M' stand for?",
+        "options": [
+            "Monitored",
+            "Mandatory",
+            "Measurable",
+            "Managed"
+        ],
+        "answer": "Measurable"
+    },
+    {
+        "question": "What are the three main Radiation Protection Principles upon which preventive and protective measures are based?",
+        "options": [
+            "Justification, Optimization (ALARA), Dose Limit",
+            "Planning, Implementation, Review",
+            "Risk, Hazard, Source",
+            "Reduce, Reuse, Recycle"
+        ],
+        "answer": "Justification, Optimization (ALARA), Dose Limit"
+    },
+    {
+        "question": "What acronym represents the systematic process of identifying radiological hazards, estimating, evaluating, and controlling risk in the planning and implementation element?",
+        "options": [
+            "SMART",
+            "QAP",
+            "HIRAC",
+            "OBTL"
+        ],
+        "answer": "HIRAC"
+    },
+    {
+        "question": "The Management of Change process requires that all impact of changes be evaluated and preventive steps taken **prior to** what?",
+        "options": [
+            "Hiring new workers.",
+            "Introduction of the changes.",
+            "Periodic audit.",
+            "License renewal."
+        ],
+        "answer": "Introduction of the changes."
+    },
+    {
+        "question": "In Radiological Emergency Planning, what is the first step the organization must take?",
+        "options": [
+            "Conduct training for all workers.",
+            "Identify and categorize all types of emergency and accident situations.",
+            "Establish a clear chain of command.",
+            "Provide all related information to the public."
+        ],
+        "answer": "Identify and categorize all types of emergency and accident situations."
+    },
+    {
+        "question": "Integrating safety in which procedure is considered the most efficient way of controlling hazards by controlling it at the source?",
+        "options": [
+            "Accident Investigation",
+            "Procurement and Contracting",
+            "Medical Surveillance",
+            "Waste Disposal"
+        ],
+        "answer": "Procurement and Contracting"
+    },
+    {
+        "question": "Which RSMS element is defined by the necessity of evaluating the performance of activities implemented?",
+        "options": [
+            "Policy",
+            "Organization",
+            "Planning and Implementation",
+            "Evaluation"
+        ],
+        "answer": "Evaluation"
+    },
+    {
+        "question": "Which method of performance monitoring is **based on injury, damage, or loss**?",
+        "options": [
+            "Reactive monitoring",
+            "Proactive monitoring",
+            "Active monitoring",
+            "Continuous monitoring"
+        ],
+        "answer": "Reactive monitoring"
+    },
+    {
+        "question": "Which method of performance monitoring is **based on non-injurious indicators**, such as the frequency of workers trained?",
+        "options": [
+            "Reactive monitoring",
+            "Proactive monitoring",
+            "Active monitoring",
+            "Direct monitoring"
+        ],
+        "answer": "Proactive monitoring"
+    },
+    {
+        "question": "Which method of performance monitoring involves **continuous monitoring of hazards and risks**, such as using a survey meter?",
+        "options": [
+            "Reactive monitoring",
+            "Proactive monitoring",
+            "Active monitoring",
+            "Intermittent monitoring"
+        ],
+        "answer": "Active monitoring"
+    },
+    {
+        "question": "Who is responsible for ensuring that all radiation accidents are investigated and reported to the relevant authorities?",
+        "options": [
+            "The Radiation Worker",
+            "The Supervisor (PY) only",
+            "The OBTL or/and employer",
+            "The Safety and Health Committee"
+        ],
+        "answer": "The OBTL or/and employer"
+    },
+    {
+        "question": "The RSMS **Audit** is carried out periodically to ensure the existence, adequacy, and effectiveness of which items?",
+        "options": [
+            "Only the radiation safety policy.",
+            "Only the radiation safety budget.",
+            "Every RSMS element and applicable sub-elements.",
+            "Only the RPO's performance."
+        ],
+        "answer": "Every RSMS element and applicable sub-elements."
+    },
+    {
+        "question": "Which evaluation method is conducted by the highest authority in an organization to review RSMS performance and evaluate the overall strategy?",
+        "options": [
+            "Accident Investigation",
+            "Performance Monitoring",
+            "RSMS Audit",
+            "Management Review"
+        ],
+        "answer": "Management Review"
+    },
+    {
+        "question": "In the **Action for Improvement** element, arrangements shall be established to continually improve the RSMS based on what?",
+        "options": [
+            "Increasing the number of radiation workers.",
+            "Continual reduction in the number of audits.",
+            "Justification of radiation technology, optimization (ALARA), and dose limit.",
+            "The company's marketing strategy."
+        ],
+        "answer": "Justification of radiation technology, optimization (ALARA), and dose limit."
+    },
+    {
+        "question": "Continual improvement can be achieved by increasing the **efficiency** of RSMS, which is described as achieving the desired aims by employing what?",
+        "options": [
+            "Fewer resources.",
+            "More supervisors.",
+            "More radiation sources.",
+            "More frequent audits."
+        ],
+        "answer": "Fewer resources."
+    },
+    {
+        "question": "What is the Radiation Safety Audit (RSA) defined as?",
+        "options": [
+            "An ad-hoc inspection by a regulatory body.",
+            "A systematic, independent and documented process for obtaining evidence on RSMS implementation.",
+            "A review carried out only when an accident occurs.",
+            "A mandatory annual requirement by the Atomic Energy Licensing Board."
+        ],
+        "answer": "A systematic, independent and documented process for obtaining evidence on RSMS implementation."
+    },
+    {
+        "question": "According to the document, is the Radiation Safety Audit (RSA) mandatory for an organization under AELA 1984 and OSHA 1994?",
+        "options": [
+            "Yes, it is mandatory annually.",
+            "No, it is not mandatory.",
+            "Yes, it is mandatory only for high-risk operations.",
+            "Only if required by the RPO."
+        ],
+        "answer": "No, it is not mandatory."
+    },
+    {
+        "question": "Compliance to AELA 1984 and OSHA 1994 is ensured by Jabatan Tenaga Atom (Atom Malaysia) and DOSH via periodic inspection or what other basis?",
+        "options": [
+            "Annual licensing renewal.",
+            "Financial audit.",
+            "On 'ad-hoc' basis or when situation demands inspection.",
+            "Random public polls."
+        ],
+        "answer": "On 'ad-hoc' basis or when situation demands inspection."
+    },
+    {
+        "question": "Which of the following is an objective of a Radiation Safety Audit?",
+        "options": [
+            "To determine the financial stability of the organization.",
+            "To look for opportunities of improvement in the radiation safety system.",
+            "To increase the market share of the company.",
+            "To reduce the number of radiation workers."
+        ],
+        "answer": "To look for opportunities of improvement in the radiation safety system."
+    },
+    {
+        "question": "An audit is typically initiated when there are amendments made in AELA 1984 and OSHA 1994, changes in activities, or what other reason related to facilities?",
+        "options": [
+            "An increase in employee benefits.",
+            "Alteration/renovation made to the building, facility, instrumentation, etc. which affect safety.",
+            "The launch of a new product.",
+            "The retirement of the Licensee."
+        ],
+        "answer": "Alteration/renovation made to the building, facility, instrumentation, etc. which affect safety."
+    },
+    {
+        "question": "Which type of approach to radiation safety management is usually associated with a compliance culture that is non-motivational and does not encourage self-regulation?",
+        "options": [
+            "System approach",
+            "Procedural approach",
+            "Integrated approach",
+            "Holistic approach"
+        ],
+        "answer": "Procedural approach"
+    },
+    {
+        "question": "What does **Source** mean in the context of RSMS definition?",
+        "options": [
+            "The person responsible for the license.",
+            "Any document related to radiation safety.",
+            "Radionuclides and radiation emitting machine.",
+            "A location that stores radioactive material."
+        ],
+        "answer": "Radionuclides and radiation emitting machine."
+    },
+    {
+        "question": "Which of the following is a responsibility of the **RPO** regarding new radiation workers?",
+        "options": [
+            "To approve their salary.",
+            "To prepare their annual leave schedule.",
+            "Research and investigate background of new radiation worker before employment.",
+            "To appoint the Supervisor (PY)."
+        ],
+        "answer": "Research and investigate background of new radiation worker before employment."
+    }
+]

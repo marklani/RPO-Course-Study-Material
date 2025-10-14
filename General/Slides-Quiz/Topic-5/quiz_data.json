@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What are the three fundamental principles used to reduce external radiation hazards?",
+        "options": [
+            "Justification, Optimization, Dose Limitation",
+            "Time, Distance, Shielding",
+            "Survey, Containment, Decontamination",
+            "Half-Life, Activity, Energy"
+        ],
+        "answer": "Time, Distance, Shielding"
+    },
+    {
+        "question": "According to the Time concept in radiation protection, the dose received is directly proportional to:",
+        "options": [
+            "The square of the distance",
+            "The density of the shielding material",
+            "The dose rate multiplied by the exposure time",
+            "The activity of the source"
+        ],
+        "answer": "The dose rate multiplied by the exposure time"
+    },
+    {
+        "question": "What is the recommended approach for the 'Time' principle in minimizing radiation dose?",
+        "options": [
+            "Maximum Time",
+            "Appropriate Time",
+            "Shortest Time",
+            "Constant Time"
+        ],
+        "answer": "Shortest Time"
+    },
+    {
+        "question": "If the dose rate is $5.0\\ \\text{mSv/hr}$, what is the total dose received after $2\\ \\text{hours}$ of exposure?",
+        "options": [
+            "5.0 mSv",
+            "2.5 mSv",
+            "10.0 mSv",
+            "25.0 mSv"
+        ],
+        "answer": "10.0 mSv"
+    },
+    {
+        "question": "If the dose rate is $2.0\\ \\text{mSv/hr}$, how long does it take to accumulate a dose of $18.0\\ \\text{mSv}$?",
+        "options": [
+            "3 hours",
+            "6 hours",
+            "9 hours",
+            "12 hours"
+        ],
+        "answer": "9 hours"
+    },
+    {
+        "question": "If an initial dose is $6.0\\ \\text{mSv}$ after $3\\ \\text{hours}$ at a dose rate of $2.0\\ \\text{mSv/hr}$, what is the accumulated dose after a total of $9\\ \\text{hours}$?",
+        "options": [
+            "12.0 mSv",
+            "18.0 mSv",
+            "24.0 mSv",
+            "9.0 mSv"
+        ],
+        "answer": "18.0 mSv"
+    },
+    {
+        "question": "Which mathematical law describes the Distance concept in radiation protection?",
+        "options": [
+            "The Beer-Lambert Law",
+            "The Radioactive Decay Law",
+            "The Inverse Square Law",
+            "The Law of HVL"
+        ],
+        "answer": "The Inverse Square Law"
+    },
+    {
+        "question": "In the Inverse Square Law formula ($X \\propto 1/d^{2}$), what does the symbol 'X' typically represent?",
+        "options": [
+            "Total Dose",
+            "Shielding Thickness",
+            "Dose rate reading",
+            "Decay Constant"
+        ],
+        "answer": "Dose rate reading"
+    },
+    {
+        "question": "The radiation dose is inversely proportional to what function of the distance from the source?",
+        "options": [
+            "The square root of the distance",
+            "The distance itself",
+            "The square of the distance",
+            "The logarithm of the distance"
+        ],
+        "answer": "The square of the distance"
+    },
+    {
+        "question": "The relationship $\\log X = \\log k - 2 \\log d$ for the Inverse Square Law resembles which general mathematical equation?",
+        "options": [
+            "Exponential Decay ($A_t = A_0 e^{-\\lambda t}$)",
+            "Quadratic Equation ($ax^2+bx+c=0$)",
+            "Linear Equation ($y = mx + c$)",
+            "Logarithmic Equation ($y = \\log (k+x)$)"
+        ],
+        "answer": "Linear Equation ($y = mx + c$)"
+    },
+    {
+        "question": "In the linear equation derived from the Inverse Square Law ($\\log X$ versus $\\log d$), what is the theoretical gradient ($m$)?",
+        "options": [
+            "+2",
+            "-2",
+            "+1",
+            "0"
+        ],
+        "answer": "-2"
+    },
+    {
+        "question": "What is the recommended approach for the 'Distance' principle in minimizing radiation dose?",
+        "options": [
+            "Minimum Distance",
+            "Constant Distance",
+            "Maximum Distance",
+            "Optimal Distance"
+        ],
+        "answer": "Maximum Distance"
+    },
+    {
+        "question": "If the dose rate ($X_1$) is $100\\ \\mu\\text{Sv/hr}$ at distance $d_1 = 1\\ \\text{m}$, what is the dose rate ($X_2$) at $d_2 = 2\\ \\text{m}$?",
+        "options": [
+            "50 \\mu\\text{Sv/hr}",
+            "25 \\mu\\text{Sv/hr}",
+            "200 \\mu\\text{Sv/hr}",
+            "100 \\mu\\text{Sv/hr}"
+        ],
+        "answer": "25 \\mu\\text{Sv/hr}"
+    },
+    {
+        "question": "If the dose rate at $10\\ \\text{cm}$ is $400\\ \\mu\\text{Sv/hr}$, what is the dose rate at $20\\ \\text{cm}$ from the source?",
+        "options": [
+            "200 \\mu\\text{Sv/hr}",
+            "100 \\mu\\text{Sv/hr}",
+            "50 \\mu\\text{Sv/hr}",
+            "40 \\mu\\text{Sv/hr}"
+        ],
+        "answer": "100 \\mu\\text{Sv/hr}"
+    },
+    {
+        "question": "The theoretical gradient $m = -2$ for the $\\log X$ versus $\\log d$ graph holds true only if which two conditions are met?",
+        "options": [
+            "Using a sheet source and broad beam",
+            "Using a line source and high energy",
+            "Using a point source and narrow beam condition",
+            "Using a point source and broad beam"
+        ],
+        "answer": "Using a point source and narrow beam condition"
+    },
+    {
+        "question": "What is the primary objective of the 'Shielding' principle in radiation protection?",
+        "options": [
+            "Using the shortest time possible",
+            "Using the maximum distance possible",
+            "Using appropriate shielding",
+            "Minimizing the source activity"
+        ],
+        "answer": "Using appropriate shielding"
+    },
+    {
+        "question": "Which of the following factors dictates the choice of shielding material and thickness?",
+        "options": [
+            "Dose rate reading",
+            "Type of radiation, activity of the source, and energy of radiation",
+            "Only the density of the material",
+            "Only the ambient temperature"
+        ],
+        "answer": "Type of radiation, activity of the source, and energy of radiation"
+    },
+    {
+        "question": "What type of shielding is typically required for alpha particles, given they lose energy rapidly and do not penetrate far?",
+        "options": [
+            "High density lead",
+            "Thick concrete",
+            "Low atomic number (Z) materials",
+            "No shielding is required"
+        ],
+        "answer": "No shielding is required"
+    },
+    {
+        "question": "Which materials are most appropriate for shielding **Beta** radiation?",
+        "options": [
+            "High Z materials like lead and steel",
+            "Low Z materials such as perspex, aluminum, and thick rubber",
+            "Highly absorbent materials like water",
+            "Any material with a high melting point"
+        ],
+        "answer": "Low Z materials such as perspex, aluminum, and thick rubber"
+    },
+    {
+        "question": "For shielding against **Gamma and X-ray** radiation, which type of material is normally used?",
+        "options": [
+            "High density materials such as lead and concrete",
+            "Low density materials like air and plastic",
+            "Hydrogenous materials like water and paraffin",
+            "Materials with a low atomic number (Z)"
+        ],
+        "answer": "High density materials such as lead and concrete"
+    },
+    {
+        "question": "Shielding for **Neutrons** is primarily directed towards what action?",
+        "options": [
+            "Deflecting the neutrons away from the body",
+            "Completely stopping the neutrons in a single layer",
+            "Reducing the energy of the neutrons to levels that can easily be absorbed",
+            "Creating Bremsstrahlung radiation"
+        ],
+        "answer": "Reducing the energy of the neutrons to levels that can easily be absorbed"
+    },
+    {
+        "question": "What is the definition of the Half-Value Layer (HVL)?",
+        "options": [
+            "The thickness of shielding material required to reduce the intensity of the beam to one-tenth of its initial value",
+            "The thickness of shielding material required to completely stop the beam",
+            "The thickness of shielding material required to reduce the intensity of the beam to one-half of its initial value",
+            "The maximum range of the radiation in the material"
+        ],
+        "answer": "The thickness of shielding material required to reduce the intensity of the beam to one-half of its initial value"
+    },
+    {
+        "question": "What is the definition of the Tenth-Value Layer (TVL)?",
+        "options": [
+            "The thickness of shielding material required to reduce the intensity of the beam to $1/2$ of its initial value",
+            "The thickness of shielding material required to reduce the intensity of the beam to $1/10$ of its initial value",
+            "The maximum thickness a beam can penetrate",
+            "The thickness required for $90\\%$ penetration"
+        ],
+        "answer": "The thickness of shielding material required to reduce the intensity of the beam to $1/10$ of its initial value"
+    },
+    {
+        "question": "If $1\\ \\text{HVL}$ reduces the radiation intensity to $50\\%$, what is the reduction in intensity after $2\\ \\text{HVLs}$?",
+        "options": [
+            "10%",
+            "25%",
+            "50%",
+            "75%"
+        ],
+        "answer": "75%"
+    },
+    {
+        "question": "Based on the provided graph data for lead ($\\text{Pb}$), what is the Half-Value Layer (HVL) value?",
+        "options": [
+            "0.10 cm",
+            "0.69 cm",
+            "1.62 cm",
+            "4.82 cm"
+        ],
+        "answer": "0.69 cm"
+    },
+    {
+        "question": "Which of the following is listed as a source of **Background Radiation** in the document?",
+        "options": [
+            "Accelerator radiation",
+            "Leakage radiation from the source container",
+            "Medical diagnostic X-rays",
+            "Shielding material contamination"
+        ],
+        "answer": "Leakage radiation from the source container"
+    },
+    {
+        "question": "Which component is listed as a source of background radiation, related to the measuring equipment itself?",
+        "options": [
+            "Radionuclides in the environment",
+            "Cosmic radiation",
+            "Electronic drift of the survey meter",
+            "Natural Uranium in the soil"
+        ],
+        "answer": "Electronic drift of the survey meter"
+    },
+    {
+        "question": "Which gamma source is listed as the equipment used in the practical exercise?",
+        "options": [
+            "Co-60",
+            "Ir-192",
+            "Cs-137",
+            "Am-241"
+        ],
+        "answer": "Cs-137"
+    },
+    {
+        "question": "In the experimental procedure for the 'Time concept', what is the initial total exposure time after the first minute of exposure?",
+        "options": [
+            "3 minutes",
+            "5 minutes",
+            "1 minute",
+            "10 minutes"
+        ],
+        "answer": "1 minute"
+    },
+    {
+        "question": "In the experimental procedure for the 'Time concept', the total exposure is continued up to a maximum of:",
+        "options": [
+            "5 minutes",
+            "10 minutes",
+            "1 hour",
+            "3 hours"
+        ],
+        "answer": "10 minutes"
+    },
+    {
+        "question": "For the 'Time concept' experiment, what type of graph is plotted?",
+        "options": [
+            "Dose rate against exposure time",
+            "Accumulated dose against exposure time",
+            "Log dose against log time",
+            "Dose rate against distance squared"
+        ],
+        "answer": "Accumulated dose against exposure time"
+    },
+    {
+        "question": "For the 'Distance concept' experiment, what is the initial starting distance for the survey meter from the source?",
+        "options": [
+            "10 cm",
+            "25 cm",
+            "50 cm",
+            "100 cm"
+        ],
+        "answer": "50 cm"
+    },
+    {
+        "question": "In the 'Distance concept' experiment, what is the interval by which the distance is increased?",
+        "options": [
+            "1 cm interval",
+            "5 cm interval",
+            "25 cm interval",
+            "50 cm interval"
+        ],
+        "answer": "25 cm interval"
+    },
+    {
+        "question": "What is the maximum total distance measured in the 'Distance concept' experiment?",
+        "options": [
+            "50 cm",
+            "100 cm",
+            "250 cm",
+            "400 cm"
+        ],
+        "answer": "250 cm"
+    },
+    {
+        "question": "For the 'Distance concept' experiment, what type of graph is plotted for the Inverse Square Law analysis?",
+        "options": [
+            "Survey meter reading against source distance",
+            "Accumulated dose against distance",
+            "Log Net Reading versus Log Distance",
+            "Shielding thickness against distance"
+        ],
+        "answer": "Log Net Reading versus Log Distance"
+    },
+    {
+        "question": "In the 'Shielding concept' experiment, what type of filter material is used?",
+        "options": [
+            "Aluminum",
+            "Concrete",
+            "Lead/Plumbum",
+            "Perspex"
+        ],
+        "answer": "Lead/Plumbum"
+    },
+    {
+        "question": "What is the initial thickness of the lead filter used in the 'Shielding concept' experiment?",
+        "options": [
+            "0.1 mm",
+            "0.5 mm",
+            "1 mm",
+            "10 mm"
+        ],
+        "answer": "1 mm"
+    },
+    {
+        "question": "The 'Shielding concept' experiment is repeated until a total thickness of how many $\\text{mm}$ is reached?",
+        "options": [
+            "4 mm",
+            "8 mm",
+            "12 mm",
+            "100 mm"
+        ],
+        "answer": "8 mm"
+    },
+    {
+        "question": "In the 'Shielding concept' experiment, what type of graph is plotted?",
+        "options": [
+            "Dose rate against log thickness",
+            "Net Reading versus Shielding Thickness",
+            "Distance versus Net Reading",
+            "HVL versus TVL"
+        ],
+        "answer": "Net Reading versus Shielding Thickness"
+    },
+    {
+        "question": "What is the significance of measuring the $\\text{HVL}$ from the graph?",
+        "options": [
+            "It determines the appropriate distance from the source.",
+            "It shows the time required to accumulate a certain dose.",
+            "It helps explain how to determine the shielding thickness needed.",
+            "It verifies the Inverse Square Law."
+        ],
+        "answer": "It helps explain how to determine the shielding thickness needed."
+    },
+    {
+        "question": "In the formula $X_2 = \\frac{X_1 d_1^{2}}{d_2^{2}}$, if $d_2$ is twice $d_1$, $X_2$ will be what fraction of $X_1$?",
+        "options": [
+            "One half",
+            "One quarter",
+            "Twice",
+            "Four times"
+        ],
+        "answer": "One quarter"
+    },
+    {
+        "question": "In the context of the distance concept, the variable 'd' in the Inverse Square Law represents:",
+        "options": [
+            "Density of the material",
+            "Decay constant",
+            "Distance from the source",
+            "Dose rate"
+        ],
+        "answer": "Distance from the source"
+    },
+    {
+        "question": "If you are exposed to a radiation field for $30\\ \\text{minutes}$ instead of $15\\ \\text{minutes}$, how will the absorbed dose change?",
+        "options": [
+            "It will be reduced by half",
+            "It will remain the same",
+            "It will be doubled",
+            "It will be quartered"
+        ],
+        "answer": "It will be doubled"
+    },
+    {
+        "question": "For the Inverse Square Law, what does the $\\log X = \\log k - 2 \\log d$ equation simplify the graphical analysis of radiation intensity versus distance to?",
+        "options": [
+            "A constant function",
+            "A linear function",
+            "An exponential function",
+            "A quadratic function"
+        ],
+        "answer": "A linear function"
+    },
+    {
+        "question": "What is the unit of thickness for the HVL value of $\\text{Pb}$ given in the discussion section?",
+        "options": [
+            "mm",
+            "m",
+            "cm",
+            "inches"
+        ],
+        "answer": "cm"
+    },
+    {
+        "question": "The experimental procedure for 'Time concept' requires recording the dose in which mode of the survey meter?",
+        "options": [
+            "Rate mode",
+            "Integrated mode (for measuring dose)",
+            "Background mode",
+            "Survey mode"
+        ],
+        "answer": "Integrated mode (for measuring dose)"
+    },
+    {
+        "question": "When taking background radiation measurement, where should the reading be taken?",
+        "options": [
+            "Right next to the known source",
+            "At $50\\ \\text{cm}$ from the known source",
+            "Far away from the known source",
+            "In a lead-lined vault"
+        ],
+        "answer": "Far away from the known source"
+    },
+    {
+        "question": "What is the recommended number of times to repeat similar measurements for background and gamma-ray measurements?",
+        "options": [
+            "Once",
+            "Twice",
+            "Four times",
+            "Ten times"
+        ],
+        "answer": "Four times"
+    },
+    {
+        "question": "What is the purpose of repeating the measurements four times in the experimental procedures?",
+        "options": [
+            "To increase the total dose received",
+            "To ensure the source is working correctly",
+            "To calculate the average dose rate and estimate error (coefficient of variation)",
+            "To determine the half-life of the source"
+        ],
+        "answer": "To calculate the average dose rate and estimate error (coefficient of variation)"
+    },
+    {
+        "question": "Which instrument, besides the $\\text{GM}$ survey meter, is listed as required equipment for the experiments?",
+        "options": [
+            "Dosimeter",
+            "Scintillation detector",
+            "Scaler",
+            "Spectrometer"
+        ],
+        "answer": "Scaler"
+    }
+]

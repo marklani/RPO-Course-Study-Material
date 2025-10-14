@@ -1,0 +1,252 @@
+[
+    {
+        "question": "The RSH 300 course on CHARACTERISTIC, SELECTION AND CALIBRATION OF SURVEY METERS is for which audience?",
+        "options": [
+            "Radiation Technician",
+            "Radiation Protection Officer",
+            "Health Physicist",
+            "Medical Doctor"
+        ],
+        "answer": "Radiation Protection Officer"
+    },
+    {
+        "question": "What are the two main categories of characteristics of a survey meter discussed in the document's contents?",
+        "options": [
+            "Electrical and Mechanical",
+            "Radiological and Environmental",
+            "Radiological and Conditions of Use",
+            "Operational and Safety"
+        ],
+        "answer": "Radiological and Conditions of Use"
+    },
+    {
+        "question": "Which of the following is *not* a characteristic related to the conditions of use for a survey meter?",
+        "options": [
+            "Small and light weight",
+            "Energy-Response Dependence",
+            "Use of normal, low-cost batteries",
+            "Rugged design and resistance to abnormal atmospheric conditions"
+        ],
+        "answer": "Energy-Response Dependence"
+    },
+    {
+        "question": "For radiation protection purposes, what is the maximum acceptable variation for a meter's energy-response dependence, unless fully calibrated and corrected?",
+        "options": [
+            "10%",
+            "20%",
+            "30%",
+            "50%"
+        ],
+        "answer": "30%"
+    },
+    {
+        "question": "What is the typical performance measurement range for an **Environmental Survey meter**?",
+        "options": [
+            "0.1 Sv/hr to 1 Sv/hr",
+            "0.01 uSv/hr to 1 mSv/hr",
+            "1 mSv/hr to 1 Sv/hr",
+            "1 uSv/hr to 10 mSv/hr"
+        ],
+        "answer": "0.01 uSv/hr to 1 mSv/hr"
+    },
+    {
+        "question": "The quality of 'Repeatability' is characterized by a small standard deviation, and for radiation protection, this is typically set at what percentage?",
+        "options": [
+            "Less than 1%",
+            "5-10%",
+            "15-20%",
+            "More than 20%"
+        ],
+        "answer": "5-10%"
+    },
+    {
+        "question": "What does the 'Exactness' of a survey meter primarily characterize?",
+        "options": [
+            "Its capability of detecting different types of radiation.",
+            "Its capability of giving readings equal to the true value of the measured quantity.",
+            "Its ability to maintain a reading under varying temperatures.",
+            "Its response time to radiation changes."
+        ],
+        "answer": "Its capability of giving readings equal to the true value of the measured quantity."
+    },
+    {
+        "question": "Exactness is typically verified at which point of the meter's scale deflection using a ${}^{137}Cs$ reference source?",
+        "options": [
+            "Zero-scale deflection",
+            "Quarter-scale deflection",
+            "Half-scale deflection",
+            "Full-scale deflection"
+        ],
+        "answer": "Half-scale deflection"
+    },
+    {
+        "question": "For a **high doserate**, what type of time constants should be used for the instrument response time?",
+        "options": [
+            "Only fast response time",
+            "Only slow response time",
+            "Variable time constants (Fast, medium and slow)",
+            "Integrated mode"
+        ],
+        "answer": "Variable time constants (Fast, medium and slow)"
+    },
+    {
+        "question": "Which type of survey meter is sufficient for measuring **normal radiation leakage**?",
+        "options": [
+            "Area Gamma Survey Meter",
+            "Stationary/fixed Installed Monitor",
+            "Environmental Survey meter",
+            "Personal Dosimeter"
+        ],
+        "answer": "Environmental Survey meter"
+    },
+    {
+        "question": "For sealed gamma ($\\gamma$)-ray and X-ray sources, what type of meter is used to determine **adequacy of shielding** and map variations in radiation level?",
+        "options": [
+            "Integrators",
+            "Electrometers",
+            "Ratemeters",
+            "Spectrometers"
+        ],
+        "answer": "Ratemeters"
+    },
+    {
+        "question": "For measuring X and $\\gamma$-Rays **less than 100 keV** from sealed sources, which detector type is preferred?",
+        "options": [
+            "GM counters",
+            "Scintillation counters",
+            "Ionization chambers",
+            "Proportional counters"
+        ],
+        "answer": "Ionization chambers"
+    },
+    {
+        "question": "Which of the following is advisable for medical X-ray measurements?",
+        "options": [
+            "GM counter as a ratemeter",
+            "Scintillation counter as a ratemeter",
+            "Adequately saturated ionization chambers as an integrator",
+            "Thin-window proportional counter"
+        ],
+        "answer": "Adequately saturated ionization chambers as an integrator"
+    },
+    {
+        "question": "What is the recommended technique for surveying **gases** from unsealed sources?",
+        "options": [
+            "Thin-window GM counter",
+            "Immersing a detector in the gas",
+            "Ionisation chamber and electrometer",
+            "Scintillation counters"
+        ],
+        "answer": "Ionisation chamber and electrometer"
+    },
+    {
+        "question": "Which instrument is used to determine **exposure rates averaged over a period of time** in the case of variable workload?",
+        "options": [
+            "Ratemeters",
+            "Integrators",
+            "Electrometers",
+            "Dose Rate Meters"
+        ],
+        "answer": "Integrators"
+    },
+    {
+        "question": "For the highest sensitivity in measuring **Environmental Samples**, which detector types are recommended?",
+        "options": [
+            "Small GM tubes",
+            "Thin-window proportional counters",
+            "Large NaI:Tl, ZnS or plastic scintillation counters",
+            "Ionization chambers"
+        ],
+        "answer": "Large NaI:Tl, ZnS or plastic scintillation counters"
+    },
+    {
+        "question": "One requirement of calibration is to comply with legal requirements as gazetted in which act?",
+        "options": [
+            "Environmental Quality Act",
+            "Atomic Energy Licensing Act, 1984",
+            "Occupational Safety and Health Act",
+            "Radiation Protection Regulation"
+        ],
+        "answer": "Atomic Energy Licensing Act, 1984"
+    },
+    {
+        "question": "What is the symbol used for the **Actual/true Reading** in the calibration certificate formula $D = B \times J \times CF$?",
+        "options": [
+            "B",
+            "J",
+            "CF",
+            "D"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "In the calibration formula $D = B \times J \times CF$, what does **CF** stand for?",
+        "options": [
+            "Correction Factor for scale non-linearity",
+            "Calibration Frequency",
+            "Calibration Factor",
+            "Count Factor"
+        ],
+        "answer": "Calibration Factor"
+    },
+    {
+        "question": "What is the range correction factor (J) given for the '$\times 1$' range in the example calibration certificate?",
+        "options": [
+            "0.87",
+            "1.00",
+            "0.91",
+            "1.58"
+        ],
+        "answer": "0.91"
+    },
+    {
+        "question": "The example calibration certificate provides a calibration factor (CF) of 0.95 for which radiation quality?",
+        "options": [
+            "46 keV X-ray",
+            "${}^{60}Co (1250)$",
+            "${}^{137}Cs (662)$",
+            "230 keV X-ray"
+        ],
+        "answer": "${}^{137}Cs (662)$"
+    },
+    {
+        "question": "According to the example certificate, the random uncertainty for the range correction factor and calibration factors is estimated not to exceed what percentage at a 95% confidence level?",
+        "options": [
+            "5%",
+            "10%",
+            "19%",
+            "30%"
+        ],
+        "answer": "19%"
+    },
+    {
+        "question": "Which of the following is *not* a reason given for the requirement of recalibration?",
+        "options": [
+            "After a change in the meter's battery",
+            "If equipment is damaged or after repair",
+            "If the survey meter gives suspicious reading indicated by a check source measurement",
+            "Regular periodic recalibration before expiry of the certificate"
+        ],
+        "answer": "After a change in the meter's battery"
+    },
+    {
+        "question": "What is the acceptable response range for **Isotropy** at all angles for a ${}^{137}Cs$ source?",
+        "options": [
+            "Within $\\pm 10\\%$",
+            "Within $\\pm 30\\%$",
+            "Within $\\pm 50\\%$",
+            "Independent of the angle"
+        ],
+        "answer": "Within $\\pm 30\\%$"
+    },
+    {
+        "question": "What should the surface of a survey meter be like to prevent contamination and allow for easy decontamination?",
+        "options": [
+            "Rough and absorbent",
+            "Non-porous and metallic",
+            "Smooth and have a finish that does not contaminate readily",
+            "Matte and dark-colored"
+        ],
+        "answer": "Smooth and have a finish that does not contaminate readily"
+    }
+]

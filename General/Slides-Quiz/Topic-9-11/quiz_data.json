@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What is the title of the practical course based on the document?",
+        "options": [
+            "Radiation Safety Officer Training",
+            "RSH 300: Radiation Protection Course for Officer",
+            "Area Monitoring - Theoretical",
+            "Radiation Dose Calculation Workshop"
+        ],
+        "answer": "RSH 300: Radiation Protection Course for Officer"
+    },
+    {
+        "question": "Which of the following is a learning objective of the Area Monitoring practical?",
+        "options": [
+            "To design new area monitoring equipment",
+            "To calculate the current activity of sources and dose rate",
+            "To develop new contamination survey meters",
+            "To write radiation protection regulations"
+        ],
+        "answer": "To calculate the current activity of sources and dose rate"
+    },
+    {
+        "question": "What is the effective date for the document 'TOPIC 9 & 11 AREA MONITORING - PRACTICAL'?",
+        "options": [
+            "October 2023",
+            "0/08 November 2023",
+            "September 2023",
+            "19-10-1989"
+        ],
+        "answer": "0/08 November 2023"
+    },
+    {
+        "question": "What is one of the learning outcomes mentioned in the document?",
+        "options": [
+            "Understanding of regulatory compliance",
+            "Ability to select suitable equipment for area monitoring",
+            "Proficiency in emergency response procedures",
+            "Skill in drafting radiation licenses"
+        ],
+        "answer": "Ability to select suitable equipment for area monitoring"
+    },
+    {
+        "question": "What is a key component of area monitoring according to the introduction?",
+        "options": [
+            "Personal dosimetry only",
+            "Radiation and contamination monitoring",
+            "Air filter testing exclusively",
+            "Waste disposal tracking"
+        ],
+        "answer": "Radiation and contamination monitoring"
+    },
+    {
+        "question": "The introduction states that workplaces using radiation sources are required to be monitored:",
+        "options": [
+            "Annually",
+            "Only after an incident",
+            "Regularly",
+            "Only for airborne contamination"
+        ],
+        "answer": "Regularly"
+    },
+    {
+        "question": "Which type of contamination is usually included in area monitoring, besides radiation?",
+        "options": [
+            "Waterborne and soil contamination",
+            "Surface and airborne contaminations",
+            "Acoustic and thermal contamination",
+            "Bio-contamination and chemical contamination"
+        ],
+        "answer": "Surface and airborne contaminations"
+    },
+    {
+        "question": "Which of the following is listed as equipment for area monitoring in the document?",
+        "options": [
+            "Personal dosimeters",
+            "Film badges",
+            "Portable contamination survey meter",
+            "Whole body counter"
+        ],
+        "answer": "Portable contamination survey meter"
+    },
+    {
+        "question": "Which check source is NOT explicitly listed in the 'Equipments' section?",
+        "options": [
+            "Cs-137",
+            "Ra-226",
+            "Sr-90",
+            "Co-60"
+        ],
+        "answer": "Ra-226"
+    },
+    {
+        "question": "What is the purpose of the measuring tape in the experimental procedure?",
+        "options": [
+            "To measure the height of the equipment",
+            "To measure distance (e.g., one meter from the source)",
+            "To measure the length of the room",
+            "To secure the check sources"
+        ],
+        "answer": "To measure distance (e.g., one meter from the source)"
+    },
+    {
+        "question": "The first step in 'Measurement with radiation dose survey meter' is to take the background reading where?",
+        "options": [
+            "Near the check source",
+            "Inside the experiment room",
+            "Outside the experiment room or far away from the known check source",
+            "Attached to the check source"
+        ],
+        "answer": "Outside the experiment room or far away from the known check source"
+    },
+    {
+        "question": "At what distance from a given check source should the dose rate be measured with the radiation dose survey meter?",
+        "options": [
+            "Half a meter",
+            "One meter",
+            "Two meters",
+            "Five meters"
+        ],
+        "answer": "One meter"
+    },
+    {
+        "question": "For the Cs-137 source example provided, what is the initial activity and date?",
+        "options": [
+            "5 mCi/19-10-1989",
+            "30 year/19-10-1989",
+            "0.662 MeV/5 mCi",
+            "5 R/hr/30 year"
+        ],
+        "answer": "5 mCi/19-10-1989"
+    },
+    {
+        "question": "What is the half-life ($t_{1/2}$) given for the Cs-137 source example?",
+        "options": [
+            "30 years",
+            "5 months",
+            "0.662 MeV",
+            "1989 days"
+        ],
+        "answer": "30 years"
+    },
+    {
+        "question": "What is the peak energy ($E_{max}$) of the Cs-137 source example?",
+        "options": [
+            "5 mCi",
+            "30 year",
+            "0.662 MeV",
+            "1.33 MeV"
+        ],
+        "answer": "0.662 MeV"
+    },
+    {
+        "question": "Which formula is used to calculate the present activity ($A$) of a contamination check source?",
+        "options": [
+            "$A = A_0 + 0.693 t$",
+            "$A = A_0 exp(\\frac{-0.693 t}{t_{1/2}})$",
+            "$A = 0.55 C E$",
+            "$A = A_0 (1 - e^{-\\lambda t})$"
+        ],
+        "answer": "$A = A_0 exp(\\frac{-0.693 t}{t_{1/2}})$"
+    },
+    {
+        "question": "In the decay formula, $A_0$ represents what quantity?",
+        "options": [
+            "The present activity",
+            "The half-life",
+            "The peak energy",
+            "The initial activity"
+        ],
+        "answer": "The initial activity"
+    },
+    {
+        "question": "What does $t$ represent in the decay formula $A = A_0 exp(\\frac{-0.693 t}{t_{1/2}})$?",
+        "options": [
+            "The background count rate",
+            "The total activity",
+            "The period of time (taken from initial to present date)",
+            "The time constant"
+        ],
+        "answer": "The period of time (taken from initial to present date)"
+    },
+    {
+        "question": "The formula to calculate the actual dose rate at one meter distance ($D_{1m}$) from the check source is:",
+        "options": [
+            "$D_{1m} = 0.55 C E$",
+            "$D_{1m} = C / E$",
+            "$D_{1m} = A_0 exp(-0.693 t)$",
+            "$D_{1m} = 0.693 / t_{1/2}$"
+        ],
+        "answer": "$D_{1m} = 0.55 C E$"
+    },
+    {
+        "question": "In the dose rate formula $D_{1m} = 0.55 C E$, what does $C$ represent?",
+        "options": [
+            "Initial activity",
+            "Present activity of check source",
+            "Background count rate",
+            "Conversion factor"
+        ],
+        "answer": "Present activity of check source"
+    },
+    {
+        "question": "If the present activity ($C$) is in **millicuries** and the peak energy ($E$) is in **MeV**, what is the unit of the calculated dose rate?",
+        "options": [
+            "Roentgen per hour ($R/hr$)",
+            "milliRoentgen per hour ($mR/hr$)",
+            "Becquerel per centimeter squared ($Bq/cm^2$)",
+            "Counts per minute (cpm)"
+        ],
+        "answer": "milliRoentgen per hour ($mR/hr$)"
+    },
+    {
+        "question": "If the present activity ($C$) is in **curies** and the peak energy ($E$) is in **MeV**, what is the unit of the calculated dose rate?",
+        "options": [
+            "milliRoentgen per hour ($mR/hr$)",
+            "Roentgen per hour ($R/hr$)",
+            "Gray per second ($Gy/s$)",
+            "Sievert per year ($Sv/yr$)"
+        ],
+        "answer": "Roentgen per hour ($R/hr$)"
+    },
+    {
+        "question": "What is the final step listed in the 'Measurement with contamination survey meter' procedure?",
+        "options": [
+            "Take background reading",
+            "Measure dose rate at one meter",
+            "Record the reading",
+            "Change the unit into $Bq/cm^2$ – using $CF$"
+        ],
+        "answer": "Change the unit into $Bq/cm^2$ – using $CF$"
+    },
+    {
+        "question": "In the contamination survey meter procedure, what unit is the final reading converted to?",
+        "options": [
+            "$mR/hr$",
+            "$R/hr$",
+            "$Bq/cm^2$",
+            "$MeV$"
+        ],
+        "answer": "$Bq/cm^2$"
+    },
+    {
+        "question": "What is the name of the division of the contact person, MOHD FAZLIE ABDUL RASHID?",
+        "options": [
+            "Experimental Procedures Division",
+            "Health Physics Division",
+            "Radiation Safety & Health Division",
+            "Area Monitoring Division"
+        ],
+        "answer": "Radiation Safety & Health Division"
+    },
+    {
+        "question": "Which piece of equipment, besides survey meters and check sources, is mentioned for handling/manipulation?",
+        "options": [
+            "Lead Shielding",
+            "Measuring Tape",
+            "Grip - tong / Tongs",
+            "Stopwatch"
+        ],
+        "answer": "Grip - tong / Tongs"
+    },
+    {
+        "question": "Which experimental procedure involves 'Measurement with a contamination survey meter'?",
+        "options": [
+            "The first experimental procedure listed",
+            "The second experimental procedure listed",
+            "The third experimental procedure listed",
+            "The final experimental procedure listed"
+        ],
+        "answer": "The second experimental procedure listed"
+    },
+    {
+        "question": "The purpose of area monitoring is to establish or verify the validity of the classification of the:",
+        "options": [
+            "Check source",
+            "Survey meter",
+            "Work area",
+            "Background radiation"
+        ],
+        "answer": "Work area"
+    },
+    {
+        "question": "What is a key difference between the two main experimental procedures outlined in the content?",
+        "options": [
+            "One uses a measuring tape, the other does not.",
+            "One is for dose rate, the other is for contamination.",
+            "One is done inside, the other outside.",
+            "One uses Cs-137, the other uses Sr-90."
+        ],
+        "answer": "One is for dose rate, the other is for contamination."
+    },
+    {
+        "question": "What type of meter is used in the 'Measurement with radiation dose survey meter' procedure?",
+        "options": [
+            "Contamination survey meter",
+            "Air sampler",
+            "Radiation dose survey meter",
+            "Neutron detector"
+        ],
+        "answer": "Radiation dose survey meter"
+    },
+    {
+        "question": "According to the experimental procedure for the radiation dose survey meter, what is recorded after measuring the dose rate at one meter?",
+        "options": [
+            "The source's half-life",
+            "The reading",
+            "The temperature",
+            "The air pressure"
+        ],
+        "answer": "The reading"
+    },
+    {
+        "question": "Which of the following is NOT explicitly listed as a content topic?",
+        "options": [
+            "Introduction",
+            "Types of equipment for areas monitoring",
+            "Calculation of shielding thickness",
+            "Experimental Procedure - Measurement with a contamination survey meter"
+        ],
+        "answer": "Calculation of shielding thickness"
+    },
+    {
+        "question": "The experimental procedure on contamination measurement includes a step to record the reading into a:",
+        "options": [
+            "Spreadsheet",
+            "Provided form",
+            "Logbook",
+            "Digital file"
+        ],
+        "answer": "Provided form"
+    },
+    {
+        "question": "What is the specific component of the decay formula that accounts for the radioactive half-life?",
+        "options": [
+            "$A_o$",
+            "$t$",
+            "$-0.693 / t_{1/2}$",
+            "$E$"
+        ],
+        "answer": "$-0.693 / t_{1/2}$"
+    },
+    {
+        "question": "What does $E$ represent in the dose rate formula $D_{1m} = 0.55 C E$?",
+        "options": [
+            "Initial energy",
+            "Exposure time",
+            "Peak energy of check source",
+            "Environmental factor"
+        ],
+        "answer": "Peak energy of check source"
+    },
+    {
+        "question": "The overall purpose of the Area Monitoring practical is to provide an understanding of the practical and its:",
+        "options": [
+            "Cost",
+            "Purpose",
+            "Manufacturer",
+            "Weight"
+        ],
+        "answer": "Purpose"
+    },
+    {
+        "question": "One of the learning outcomes is understanding the **technique** of what?",
+        "options": [
+            "Source storage",
+            "Instrument calibration",
+            "Area monitoring",
+            "Waste classification"
+        ],
+        "answer": "Area monitoring"
+    },
+    {
+        "question": "Besides Cs-137, which other check source is listed with an Alpha emitter?",
+        "options": [
+            "Co-60",
+            "Sr-90",
+            "Am-241",
+            "Ra-226"
+        ],
+        "answer": "Am-241"
+    },
+    {
+        "question": "The practical aims to teach how to operate the area monitoring equipment during the:",
+        "options": [
+            "Calibration phase",
+            "Practical session",
+            "Design phase",
+            "Maintenance phase"
+        ],
+        "answer": "Practical session"
+    },
+    {
+        "question": "What must be followed when performing an area monitoring/measurement?",
+        "options": [
+            "The quickest method",
+            "The right techniques/procedures",
+            "The most expensive equipment",
+            "The latest software update"
+        ],
+        "answer": "The right techniques/procedures"
+    },
+    {
+        "question": "In the 'Measurement with radiation dose survey meter' section, what quantity is to be recorded besides the background and check source count rates?",
+        "options": [
+            "Source distance",
+            "Net check source cont",
+            "Humidity",
+            "Source temperature"
+        ],
+        "answer": "Net check source cont"
+    },
+    {
+        "question": "If the present activity ($C$) is in mCi and the peak energy ($E$) is in MeV, the dose rate unit will be in:",
+        "options": [
+            "$Sv/hr$",
+            "$mR/hr$",
+            "$Gy/hr$",
+            "$Bq/cm^2$"
+        ],
+        "answer": "$mR/hr$"
+    },
+    {
+        "question": "What is the significance of the initial monitoring requirement for workplaces with radiation sources?",
+        "options": [
+            "To reduce the number of staff",
+            "To establish a classification of the workplace",
+            "To increase power consumption",
+            "To determine the source purchase date"
+        ],
+        "answer": "To establish a classification of the workplace"
+    },
+    {
+        "question": "The contact information belongs to which organization?",
+        "options": [
+            "IAEA",
+            "Nuklear Malaysia",
+            "DOE",
+            "Health Canada"
+        ],
+        "answer": "Nuklear Malaysia"
+    },
+    {
+        "question": "Which of these is a gamma-emitting check source listed in the document?",
+        "options": [
+            "Sr-90",
+            "Co-60",
+            "Am-241",
+            "Tritium"
+        ],
+        "answer": "Co-60"
+    },
+    {
+        "question": "What is the purpose of the 'Grip - tong / Tongs' listed in the equipment?",
+        "options": [
+            "Holding the measuring tape",
+            "Securing the survey meter",
+            "Handling the source (implying remote handling)",
+            "Writing down readings"
+        ],
+        "answer": "Handling the source (implying remote handling)"
+    },
+    {
+        "question": "The dose rate calculation formula is used to find the actual dose rate at what distance?",
+        "options": [
+            "Zero meter",
+            "Half a meter",
+            "One meter",
+            "Two meters"
+        ],
+        "answer": "One meter"
+    },
+    {
+        "question": "What unit is $t_{1/2}$ in the Cs-137 example source?",
+        "options": [
+            "Days",
+            "Years",
+            "Hours",
+            "MeV"
+        ],
+        "answer": "Years"
+    },
+    {
+        "question": "The contamination component of area monitoring usually includes surface contamination and what other type?",
+        "options": [
+            "Liquid contamination",
+            "Subsurface contamination",
+            "Airborne contamination",
+            "Vegetation contamination"
+        ],
+        "answer": "Airborne contamination"
+    },
+    {
+        "question": "What is the course number for the Radiation Protection Course for Officer?",
+        "options": [
+            "RSH 100",
+            "RSH 300",
+            "RSH 500",
+            "RSH 900"
+        ],
+        "answer": "RSH 300"
+    }
+]

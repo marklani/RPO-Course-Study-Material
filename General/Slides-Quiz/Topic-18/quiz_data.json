@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "What is the title of the course for which the Area Monitoring Practical is designed?",
+        "options": [
+            "RSH 200: Radiological Safety Basics",
+            "RSH 300: Radiation Protection Course for Officer",
+            "RSH 400: Advanced Dosimetry",
+            "RSH 500: Health Physics Management"
+        ],
+        "answer": "RSH 300: Radiation Protection Course for Officer"
+    },
+    {
+        "question": "Which organization is mentioned on every page of the document?",
+        "options": [
+            "IAEA",
+            "DOE",
+            "Nuklear Malaysia",
+            "NRC"
+        ],
+        "answer": "Nuklear Malaysia"
+    },
+    {
+        "question": "What is one of the key learning objectives related to equipment operation?",
+        "options": [
+            "To design new monitoring equipment",
+            "To learn how to operate the area monitoring equipment during practical",
+            "To repair faulty survey meters",
+            "To calibrate personal dosimeters"
+        ],
+        "answer": "To learn how to operate the area monitoring equipment during practical"
+    },
+    {
+        "question": "What is a required calculation in the practical session?",
+        "options": [
+            "The density of the shielding material",
+            "The current activity of sources and dose rate",
+            "The efficiency of the ventilation system",
+            "The background thermal radiation"
+        ],
+        "answer": "The current activity of sources and dose rate"
+    },
+    {
+        "question": "A learning outcome of the practical is being able to select:",
+        "options": [
+            "The best experimental room",
+            "Suitable equipment for area monitoring",
+            "The fastest measurement technique",
+            "The correct regulatory body"
+        ],
+        "answer": "Suitable equipment for area monitoring"
+    },
+    {
+        "question": "What are the two main types of monitoring covered by area monitoring according to the Introduction?",
+        "options": [
+            "Air and liquid",
+            "Gamma and X-ray",
+            "Radiation and contamination",
+            "External and internal"
+        ],
+        "answer": "Radiation and contamination"
+    },
+    {
+        "question": "Contamination monitoring usually includes monitoring of surface and what other type of contamination?",
+        "options": [
+            "Waterborne contamination",
+            "Airborne contaminations",
+            "Soil contamination",
+            "Biological contamination"
+        ],
+        "answer": "Airborne contaminations"
+    },
+    {
+        "question": "Which of the following is listed as an equipment type for area monitoring?",
+        "options": [
+            "Personal Dosimeter",
+            "Film Badge",
+            "Portable contamination survey meter",
+            "Thermoluminescent Detector (TLD)"
+        ],
+        "answer": "Portable contamination survey meter"
+    },
+    {
+        "question": "Which is *not* listed as a radiation check source in the document?",
+        "options": [
+            "Cs-137",
+            "I-131",
+            "Sr-90",
+            "Co-60"
+        ],
+        "answer": "I-131"
+    },
+    {
+        "question": "What tool is listed for both measuring distance and potentially handling a source?",
+        "options": [
+            "Measuring tape",
+            "Grip - tong / Tongs",
+            "Pliers",
+            "Wrench"
+        ],
+        "answer": "Grip - tong / Tongs"
+    },
+    {
+        "question": "The first step in 'Measurement with radiation dose survey meter' is to take the background reading at which location?",
+        "options": [
+            "Inside the experiment room near the source",
+            "One meter away from the known check source",
+            "Outside the experiment room or far away from the known check source",
+            "Directly on the surface of the source"
+        ],
+        "answer": "Outside the experiment room or far away from the known check source"
+    },
+    {
+        "question": "The dose rate measurement with the radiation survey meter must be taken at what specific distance from the check source?",
+        "options": [
+            "Two meters",
+            "50 centimeters",
+            "One meter",
+            "Direct contact"
+        ],
+        "answer": "One meter"
+    },
+    {
+        "question": "What is the initial activity and date for the example Cs-137 source provided?",
+        "options": [
+            "5 mCi/19-10-1989",
+            "30 year/19-10-1989",
+            "0.662 MeV/5 mCi",
+            "5 Ci/2023-11-08"
+        ],
+        "answer": "5 mCi/19-10-1989"
+    },
+    {
+        "question": "What is the half-life ($t_{1/2}$) of the Cs-137 source given in the example?",
+        "options": [
+            "30 years",
+            "30 days",
+            "0.662 years",
+            "5 mCi"
+        ],
+        "answer": "30 years"
+    },
+    {
+        "question": "What is the peak energy ($E_{max}$) of the Cs-137 source given for the calculation?",
+        "options": [
+            "5 mCi",
+            "30 year",
+            "0.662 MeV",
+            "1.17 MeV"
+        ],
+        "answer": "0.662 MeV"
+    },
+    {
+        "question": "Which of the following values needs to be recorded from the radiation dose survey meter measurement?",
+        "options": [
+            "Air humidity",
+            "Nett check source cont",
+            "Ambient temperature",
+            "Source density"
+        ],
+        "answer": "Nett check source cont"
+    },
+    {
+        "question": "The formula $A=Ao~exp.\\frac{(-0.693~t)}{t_{1/2}}$ is used to calculate what quantity?",
+        "options": [
+            "Background dose rate",
+            "Nett count rate",
+            "Present activity",
+            "Peak energy"
+        ],
+        "answer": "Present activity"
+    },
+    {
+        "question": "In the decay formula, $A_o$ represents the:",
+        "options": [
+            "Average activity",
+            "Annual activity",
+            "Initial activity",
+            "Actual activity"
+        ],
+        "answer": "Initial activity"
+    },
+    {
+        "question": "The term $t$ in the decay formula represents the period of time taken from the initial date to which date?",
+        "options": [
+            "The manufacturing date",
+            "The present date",
+            "The end of the experiment date",
+            "The date the source was last used"
+        ],
+        "answer": "The present date"
+    },
+    {
+        "question": "What is the formula given to calculate the actual dose rate at one meter distance ($D_{1m}$)?",
+        "options": [
+            "$D_{1m}=0.693~A~t$",
+            "$D_{1m}=0.55~C/E$",
+            "$D_{1m}=0.55~C\\cdot E$",
+            "$D_{1m}=A_o~exp(-0.55~t)$"
+        ],
+        "answer": "$D_{1m}=0.55~C\\cdot E$"
+    },
+    {
+        "question": "In the dose rate formula, $C$ represents the:",
+        "options": [
+            "Conversion factor",
+            "Counts per minute",
+            "Curie equivalent",
+            "Present activity of check source"
+        ],
+        "answer": "Present activity of check source"
+    },
+    {
+        "question": "If $C$ (present activity) is in millicuries and $E$ (peak energy) is in MeV, what is the unit of the calculated dose rate ($D_{1m}$)?",
+        "options": [
+            "Roentgen per hour ($R/hr$)",
+            "milliRoentgen per hour ($mR/hr$)",
+            "Sievert per hour ($Sv/hr$)",
+            "Becquerel per hour ($Bq/hr$)"
+        ],
+        "answer": "milliRoentgen per hour ($mR/hr$)"
+    },
+    {
+        "question": "If $C$ is in curies and $E$ is in MeV, the dose unit would be in:",
+        "options": [
+            "milliRoentgen per hour ($mR/hr$)",
+            "Roentgen per hour ($R/hr$)",
+            "Counts per minute (cpm)",
+            "Microgray per hour ($\\mu Gy/hr$)"
+        ],
+        "answer": "Roentgen per hour ($R/hr$)"
+    },
+    {
+        "question": "What is the second experimental procedure listed in the contents?",
+        "options": [
+            "Measurement with a portable radiation monitor",
+            "Measurement with a contamination survey meter",
+            "Calculation of effective dose",
+            "Wipe test analysis"
+        ],
+        "answer": "Measurement with a contamination survey meter"
+    },
+    {
+        "question": "The procedure for the contamination survey meter requires changing the unit into $Bq/cm^2$ using what factor?",
+        "options": [
+            "The decay factor ($DF$)",
+            "The quality factor ($QF$)",
+            "The conversion factor ($CF$)",
+            "The environmental factor ($EF$)"
+        ],
+        "answer": "The conversion factor ($CF$)"
+    },
+    {
+        "question": "The purpose of area monitoring is to establish or verify the validity of the classification of the:",
+        "options": [
+            "Check source container",
+            "Workplace",
+            "Survey meter model",
+            "Measuring tape length"
+        ],
+        "answer": "Workplace"
+    },
+    {
+        "question": "What is one of the three learning outcomes listed on page 3?",
+        "options": [
+            "Able to repair faulty equipment",
+            "Understanding of area monitoring practical and its purpose",
+            "Proficient in source transportation",
+            "Knowledge of emergency procedures"
+        ],
+        "answer": "Understanding of area monitoring practical and its purpose"
+    },
+    {
+        "question": "The practical involves performing an area monitoring/measurement by following what?",
+        "options": [
+            "The latest regulations only",
+            "The right techniques/procedures",
+            "The supervisor's personal preference",
+            "A simplified method"
+        ],
+        "answer": "The right techniques/procedures"
+    },
+    {
+        "question": "Which specific check source is NOT mentioned in the list of equipments?",
+        "options": [
+            "Sr-90",
+            "Am-241",
+            "Cs-137",
+            "U-238"
+        ],
+        "answer": "U-238"
+    },
+    {
+        "question": "What is required to be monitored regularly in a workplace according to the Introduction?",
+        "options": [
+            "Only airborne contamination",
+            "Radiation sources",
+            "The number of personnel",
+            "The ambient temperature"
+        ],
+        "answer": "Radiation sources"
+    },
+    {
+        "question": "Where should the background reading be taken for the contamination survey meter measurement?",
+        "options": [
+            "Near the source",
+            "Far away from the check source",
+            "Inside the lead shield",
+            "Attached to the equipment"
+        ],
+        "answer": "Far away from the check source"
+    },
+    {
+        "question": "What is represented by $E$ in the dose rate formula $D_{1m}=0.55~C\\cdot E$?",
+        "options": [
+            "Exposure time",
+            "Efficiency factor",
+            "Peak energy of check source",
+            "Environmental background"
+        ],
+        "answer": "Peak energy of check source"
+    },
+    {
+        "question": "What is the name of the contact person listed at the end of the document?",
+        "options": [
+            "MOHD FAIZAL BIN RAMLI",
+            "MOHD FAZLIE ABDUL RASHID",
+            "MOHD FAHMI BIN AZIZ",
+            "MOHD FARID BIN ALI"
+        ],
+        "answer": "MOHD FAZLIE ABDUL RASHID"
+    },
+    {
+        "question": "What division does the contact person work in?",
+        "options": [
+            "Experimental Procedures Division",
+            "Health Physics Department",
+            "Radiation Safety & Health Division",
+            "Technical Services Department"
+        ],
+        "answer": "Radiation Safety & Health Division"
+    },
+    {
+        "question": "What is the listed email domain for the contact person?",
+        "options": [
+            "@nm.org.my",
+            "@nm.gov.my",
+            "@nm.edu.my",
+            "@nm-safety.com"
+        ],
+        "answer": "@nm.gov.my"
+    },
+    {
+        "question": "The contents of the practical include an 'Introduction' and 'Types of equipment for areas monitoring'. What are the next two main points?",
+        "options": [
+            "Two Experimental Procedures (Dose and Contamination)",
+            "Advanced Dose Rate Calculations",
+            "Emergency Response Protocols",
+            "Regulatory Framework Overview"
+        ],
+        "answer": "Two Experimental Procedures (Dose and Contamination)"
+    },
+    {
+        "question": "What is the definition of $t_{1/2}$ in the decay formula?",
+        "options": [
+            "The mean lifetime",
+            "The time constant",
+            "The half - life",
+            "The total exposure time"
+        ],
+        "answer": "The half - life"
+    },
+    {
+        "question": "The dose rate calculation formula uses a constant of 0.55. What is this value used for in the formula?",
+        "options": [
+            "Conversion from activity-energy product to dose rate",
+            "The square of the distance factor",
+            "The natural logarithm constant",
+            "The geometric factor"
+        ],
+        "answer": "Conversion from activity-energy product to dose rate"
+    },
+    {
+        "question": "In the 'Measurement with radiation dose survey meter' section, what quantity needs to be calculated before the actual dose rate?",
+        "options": [
+            "The background count rate",
+            "The radiation check source count rate",
+            "The nett check source cont",
+            "The present activity ($A$ or $C$)"
+        ],
+        "answer": "The present activity ($A$ or $C$)"
+    },
+    {
+        "question": "For the contamination measurement procedure, what is the third step after taking background and measuring the dose rate?",
+        "options": [
+            "Calculate $Bq/cm^2$",
+            "Change the unit to $mR/hr$",
+            "Record the reading into provided form",
+            "Turn off the check source"
+        ],
+        "answer": "Record the reading into provided form"
+    },
+    {
+        "question": "What does the first learning objective state about the practical?",
+        "options": [
+            "To provide the history of radiation monitoring",
+            "To provide an understanding of area monitoring practical and its purpose",
+            "To provide details on equipment maintenance",
+            "To provide training for regulatory inspection"
+        ],
+        "answer": "To provide an understanding of area monitoring practical and its purpose"
+    },
+    {
+        "question": "The introduction states that monitoring is important to establish a classification of the workplace or to verify the validity of the classification of the:",
+        "options": [
+            "Radiation source",
+            "Contamination level",
+            "Work area",
+            "Survey meter"
+        ],
+        "answer": "Work area"
+    },
+    {
+        "question": "What is one of the types of equipment listed for area monitoring?",
+        "options": [
+            "Geiger-Müller counter only",
+            "Portable radiation survey meter",
+            "Scintillation counter only",
+            "Ionization chamber only"
+        ],
+        "answer": "Portable radiation survey meter"
+    },
+    {
+        "question": "In the decay formula, which term ensures the exponential decrease of activity over time?",
+        "options": [
+            "$A_o$",
+            "$-0.693$",
+            "$t_{1/2}$",
+            "The overall exponential term $exp.\\frac{(-0.693~t)}{t_{1/2}}$"
+        ],
+        "answer": "The overall exponential term $exp.\\frac{(-0.693~t)}{t_{1/2}}$"
+    },
+    {
+        "question": "If the dose rate calculation yields a value in $R/hr$, what units must have been used for $C$ and $E$?",
+        "options": [
+            "mCi and MeV",
+            "mCi and keV",
+            "Curies and MeV",
+            "Curies and keV"
+        ],
+        "answer": "Curies and MeV"
+    },
+    {
+        "question": "The contamination survey meter measurement requires recording the reading and then changing the unit into $Bq/cm^2$ using CF. This final unit ($Bq/cm^2$) represents what quantity?",
+        "options": [
+            "Dose rate",
+            "Air activity",
+            "Surface contamination density",
+            "Mass of the source"
+        ],
+        "answer": "Surface contamination density"
+    },
+    {
+        "question": "The measurement procedures require recording the reading. Where is this reading taken from?",
+        "options": [
+            "The laboratory logbook",
+            "The survey meter display",
+            "The initial source certificate",
+            "The measuring tape"
+        ],
+        "answer": "The survey meter display"
+    },
+    {
+        "question": "The document is for which specific date, indicated as the effective date?",
+        "options": [
+            "08 November 2023",
+            "19 October 1989",
+            "0/08 November 2023",
+            "November 2024"
+        ],
+        "answer": "0/08 November 2023"
+    },
+    {
+        "question": "The second experimental procedure title is 'Measurement with a contamination survey meter'. What is the first experimental procedure title?",
+        "options": [
+            "Measurement with background radiation",
+            "Measurement with radiation survey meter",
+            "Measurement with air sampler",
+            "Measurement with liquid scintillation counter"
+        ],
+        "answer": "Measurement with radiation survey meter"
+    },
+    {
+        "question": "Which type of contamination is *not* usually included in the contamination component of area monitoring mentioned in the Introduction?",
+        "options": [
+            "Surface contamination",
+            "Airborne contamination",
+            "Groundwater contamination",
+            "Both Surface and Airborne contamination are included"
+        ],
+        "answer": "Groundwater contamination"
+    },
+    {
+        "question": "Which Malaysian legislation forms the basis for the Radiation Protection (Transport) Regulations 1989?",
+        "options": [
+            "Atomic Energy Licensing Act 1984 (Act 304)",
+            "Environmental Quality Act 1974",
+            "Factory and Machinery Act 1967",
+            "Nuclear Safety and Security Act 2010"
+        ],
+        "answer": "Atomic Energy Licensing Act 1984 (Act 304)"
+    },
+    {
+        "question": "The Radiation Protection (Transport) Regulations 1989 primarily cover the movement of Radioactive Material (RAM) in which location?",
+        "options": [
+            "Within the licensee's premises",
+            "Outside the licensee's premises",
+            "Only for air transport",
+            "Only for fissile material"
+        ],
+        "answer": "Outside the licensee's premises"
+    },
+    {
+        "question": "Which of the following transport modes is explicitly *not* acceptable for RAM under the Malaysian transport regulations?",
+        "options": [
+            "Road transport",
+            "Air transport (IATA/ICAO)",
+            "Sea transport (IMDG)",
+            "Transport by post"
+        ],
+        "answer": "Transport by post"
+    },
+    {
+        "question": "For the movement of RAM outside premises, what class of license is required from the Department of Atomic Energy (DAE)?",
+        "options": [
+            "License Class A",
+            "License Class C",
+            "License Class D",
+            "License Class E"
+        ],
+        "answer": "License Class D"
+    },
+    {
+        "question": "Which of the following is *not* excluded from the application of the Radiation Protection (Transport) Regulations 1989?",
+        "options": [
+            "RAM moved within the premises",
+            "RAM injected into the human body for medical diagnosis",
+            "RAM that is part of a consignment of Type A packages",
+            "RAM used as an integral part of a vehicle"
+        ],
+        "answer": "RAM that is part of a consignment of Type A packages"
+    },
+    {
+        "question": "What is the maximum permissible radiation level on the external surface of a package for movement *within* the premises, under local rules?",
+        "options": [
+            "0.02 mSv/hr",
+            "0.5 mSv/hr",
+            "2 mSv/hr",
+            "10 mSv/hr"
+        ],
+        "answer": "2 mSv/hr"
+    },
+    {
+        "question": "What is the maximum permissible radiation level in the driver's compartment during the movement of RAM *within* the premises, under local rules?",
+        "options": [
+            "0.02 mSv/hr",
+            "0.5 mSv/hr",
+            "2 mSv/hr",
+            "10 mSv/hr"
+        ],
+        "answer": "0.02 mSv/hr"
+    },
+    {
+        "question": "The safe transport of radioactive material relies on four main safety principles. Which of the following is related to preventing a nuclear chain reaction?",
+        "options": [
+            "Ability to fully contain the radioactive contents",
+            "Ability to control external radiation",
+            "Ability to prevent the criticality for fissile materials",
+            "Ability to prevent damage caused by heat"
+        ],
+        "answer": "Ability to prevent the criticality for fissile materials"
+    },
+    {
+        "question": "For liquid form RAM moved within premises, what safety measure is required to minimize chances for the spread of contamination?",
+        "options": [
+            "Triple shielding",
+            "Double containers",
+            "Air-tight sealing only",
+            "A Transport Index of zero"
+        ],
+        "answer": "Double containers"
+    },
+    {
+        "question": "A 'Special Form RAM' is defined as either an indispersible solid or a sealed capsule containing RAM. The main safety implication is its high degree of physical integrity makes it highly unlikely to cause which type of hazard?",
+        "options": [
+            "Criticality hazard",
+            "External radiation hazard",
+            "Contamination hazard",
+            "Heat generation hazard"
+        ],
+        "answer": "Contamination hazard"
+    },
+    {
+        "question": "What is the primary characteristic of 'Excepted material' in terms of hazard?",
+        "options": [
+            "It has a very high activity and must be transported by exclusive use.",
+            "It is small quantities of RAM that, if released, will cause insignificant hazards.",
+            "It is material that has a low activity per unit mass.",
+            "It is non-radioactive but has contamination distributed on its surface."
+        ],
+        "answer": "It is small quantities of RAM that, if released, will cause insignificant hazards."
+    },
+    {
+        "question": "Which category of radioactive material is defined as being a solid non-radioactive object that has RAM distributed on its surface?",
+        "options": [
+            "Special Form RAM",
+            "Excepted Material",
+            "Low Specific Activity (LSA)",
+            "Surface Contaminated Object (SCO)"
+        ],
+        "answer": "Surface Contaminated Object (SCO)"
+    },
+    {
+        "question": "Which of the following radionuclides is *not* listed as a fissile material category in the document?",
+        "options": [
+            "U-233",
+            "Pu-241",
+            "Am-241",
+            "U-235"
+        ],
+        "answer": "Am-241"
+    },
+    {
+        "question": "Which type of packaging requires approval from the DAE for its design and testing due to its ability to withstand most accident conditions?",
+        "options": [
+            "Excepted Package",
+            "Industrial Package (IP-1)",
+            "Type A Package",
+            "Type B Package (B(U) or B(M))"
+        ],
+        "answer": "Type B Package (B(U) or B(M))"
+    },
+    {
+        "question": "What is the maximum radiation level on the external surface allowed for an Excepted Package?",
+        "options": [
+            "$\\le 5 \\mu Sv/hr$",
+            "$\\le 0.5 \text{ mSv/hr}$",
+            "$\\le 2 \text{ mSv/hr}$",
+            "$\\le 10 \text{ mSv/hr}$"
+        ],
+        "answer": "$\\le 5 \\mu Sv/hr$"
+    },
+    {
+        "question": "A Type A package is designed to maintain its integrity under which conditions?",
+        "options": [
+            "Only during ideal transport conditions.",
+            "Normal, rough handling and mishandling.",
+            "The most severe accident conditions (fire, crush, water immersion).",
+            "Conditions only applicable to fissile material."
+        ],
+        "answer": "Normal, rough handling and mishandling."
+    },
+    {
+        "question": "What is the required test for a Type A package that involves dropping a 6 kg bar from a specific height onto the package?",
+        "options": [
+            "Free drop test",
+            "Compression test",
+            "Penetration test",
+            "Mechanical test"
+        ],
+        "answer": "Penetration test"
+    },
+    {
+        "question": "Which type of packaging is the *only* one explicitly listed in the table that is *not* required to undergo a 'Free drop test'?",
+        "options": [
+            "Excepted Packaging",
+            "Industrial Packaging (IP-1)",
+            "Type A",
+            "Type B"
+        ],
+        "answer": "Excepted Packaging"
+    },
+    {
+        "question": "What are the required parameters for the Thermal test on a Type B package, which simulates accident conditions?",
+        "options": [
+            "$500^{\\circ}C$ for 1 hour",
+            "$800^{\\circ}C$ for 30 minutes",
+            "$100^{\\circ}C$ for 8 hours",
+            "$-40^{\\circ}C$ to $55^{\\circ}C$ for 24 hours"
+        ],
+        "answer": "$800^{\\circ}C$ for 30 minutes"
+    },
+    {
+        "question": "What is the minimum duration for the Stacking (compression) test for all Industrial and Type A/B packages?",
+        "options": [
+            "1 hour",
+            "8 hours",
+            "24 hours",
+            "7 days"
+        ],
+        "answer": "24 hours"
+    },
+    {
+        "question": "The Water immersion test for Type B packages involves submerging the package at a depth of 15 meters for more than 8 hours, or what other more stringent option?",
+        "options": [
+            "At 5 meters for 24 hours",
+            "At 200 meters for more than 1 hour",
+            "At 1,000 meters for 30 minutes",
+            "At 10 meters for 12 hours"
+        ],
+        "answer": "At 200 meters for more than 1 hour"
+    },
+    {
+        "question": "Which package category is assigned a Transport Index (TI) of 'Negligible' and a maximum surface dose rate of $0.005 \text{ mSv/hr}$?",
+        "options": [
+            "Category I - White",
+            "Category II - Yellow",
+            "Category III - Yellow",
+            "Excepted Package"
+        ],
+        "answer": "Category I - White"
+    },
+    {
+        "question": "A package is measured to have a maximum dose rate of $0.008 \text{ mSv/hr}$ at 1 meter from its surface. What is its Transport Index (TI) value (rounded up to one decimal point)?",
+        "options": [
+            "0.8",
+            "1.0",
+            "1.1",
+            "10.0"
+        ],
+        "answer": "1.0"
+    },
+    {
+        "question": "What is the maximum Transport Index (TI) allowed for a Category II - Yellow package?",
+        "options": [
+            "Negligible",
+            "$\\le 1$",
+            "$\\le 10$",
+            "No limit"
+        ],
+        "answer": "$\\le 1$"
+    },
+    {
+        "question": "What is the maximum dose rate allowed at the surface of a Category III - Yellow package?",
+        "options": [
+            "$0.005 \text{ mSv/hr}$",
+            "$0.5 \text{ mSv/hr}$",
+            "$2 \text{ mSv/hr}$",
+            "$10 \text{ mSv/hr}$"
+        ],
+        "answer": "$2 \text{ mSv/hr}$"
+    },
+    {
+        "question": "Which package category label is required to be marked with the word 'RADIOACTIVE' on its *internal* surface, clearly visible upon opening?",
+        "options": [
+            "Category I - White",
+            "Type B Package",
+            "Excepted Package",
+            "Category III - Yellow"
+        ],
+        "answer": "Excepted Package"
+    },
+    {
+        "question": "What is the minimum size required for the labels used on packages if they are also to be used as placards on the carrier conveyance?",
+        "options": [
+            "10 cm",
+            "15 cm",
+            "20 cm",
+            "25 cm"
+        ],
+        "answer": "25 cm"
+    },
+    {
+        "question": "What is the activity limit for non-fixed surface contamination for beta and gamma emitters on the external surface of packages, *other than* excepted packages?",
+        "options": [
+            "$0.4 \text{ Bq/cm}^2$",
+            "$4 \text{ Bq/cm}^2$",
+            "$0.04 \text{ Bq/cm}^2$",
+            "$5 \\mu Sv/hr$"
+        ],
+        "answer": "$4 \text{ Bq/cm}^2$"
+    },
+    {
+        "question": "What is the activity limit for non-fixed surface contamination for alpha emitters on the external surface of an Excepted Package?",
+        "options": [
+            "$0.4 \text{ Bq/cm}^2$",
+            "$4 \text{ Bq/cm}^2$",
+            "$0.04 \text{ Bq/cm}^2$",
+            "$5 \\mu Sv/hr$"
+        ],
+        "answer": "$0.04 \text{ Bq/cm}^2$"
+    },
+    {
+        "question": "What is the maximum allowable level for fixed contamination on a vehicle surface that carries RAM?",
+        "options": [
+            "$\\le 0.04 \text{ Bq/cm}^2$",
+            "$\\le 4 \text{ Bq/cm}^2$",
+            "$\\le 5 \\mu Sv/hr$",
+            "$\\le 2 \text{ mSv/hr}$"
+        ],
+        "answer": "$\\le 5 \\mu Sv/hr$"
+    },
+    {
+        "question": "What is the maximum radiation level allowed at any point on the external surface of a conveyance carrying RAM packages?",
+        "options": [
+            "$0.02 \text{ mSv/hr}$",
+            "$0.1 \text{ mSv/hr}$",
+            "$2 \text{ mSv/hr}$",
+            "$10 \text{ mSv/hr}$"
+        ],
+        "answer": "$2 \text{ mSv/hr}$"
+    },
+    {
+        "question": "What is the maximum radiation level allowed at 2 meters from any external surface of a conveyance?",
+        "options": [
+            "$0.02 \text{ mSv/hr}$",
+            "$0.1 \text{ mSv/hr}$",
+            "$2 \text{ mSv/hr}$",
+            "$10 \text{ mSv/hr}$"
+        ],
+        "answer": "$0.1 \text{ mSv/hr}$"
+    },
+    {
+        "question": "During transit storage, the sum of Transport Indexes (TI) for category II-YELLOW and category III-YELLOW packages grouped together in one area must not exceed what value?",
+        "options": [
+            "10",
+            "50",
+            "100",
+            "No limit"
+        ],
+        "answer": "50"
+    },
+    {
+        "question": "What is the minimum spacing required between groups of packages in transit storage if the sum of their TIs in each group is less than 50?",
+        "options": [
+            "1 meter",
+            "3 meters",
+            "6 meters",
+            "10 meters"
+        ],
+        "answer": "6 meters"
+    },
+    {
+        "question": "The segregation requirement for total sum of Transport Indexes in a single storage area does *not* apply to the transit of which specific material category?",
+        "options": [
+            "Type A packages",
+            "LSA-I material",
+            "Fissile material",
+            "Category III-Yellow packages"
+        ],
+        "answer": "LSA-I material"
+    },
+    {
+        "question": "Which party is primarily responsible for ensuring that the RAM package is properly categorized, labelled, marked, and packed?",
+        "options": [
+            "Consignee",
+            "Carrier",
+            "Consignor",
+            "Regulatory Authority (DAE)"
+        ],
+        "answer": "Consignor"
+    },
+    {
+        "question": "What specific information about the package design must be included on the package marking if its gross weight is more than 50 kg?",
+        "options": [
+            "The UN class number",
+            "The gross weight of the package",
+            "The identity of the consignee",
+            "The Transport Index"
+        ],
+        "answer": "The gross weight of the package"
+    },
+    {
+        "question": "Which party has the responsibility to implement the emergency procedures and inform the consignor and regulatory authority in case of an accident?",
+        "options": [
+            "Consignee",
+            "Carrier",
+            "Consignor",
+            "Local Police"
+        ],
+        "answer": "Carrier"
+    },
+    {
+        "question": "When must the carrier ensure that the package is segregated from places occupied by workers and members of the public?",
+        "options": [
+            "Only during transit storage",
+            "Only during transport",
+            "During transport and transit storage",
+            "Only if the TI exceeds 10"
+        ],
+        "answer": "During transport and transit storage"
+    },
+    {
+        "question": "According to the document, which specific document must be included in the Consignor's transport document to guide the response during an incident?",
+        "options": [
+            "Financial report",
+            "Written emergency procedures",
+            "Insurance claim form",
+            "Certificate of customs clearance"
+        ],
+        "answer": "Written emergency procedures"
+    },
+    {
+        "question": "If a package has a defect, when is the Consignee required to report to the regulatory authority if the package's radiation level exceeds the limits prescribed by the regulations?",
+        "options": [
+            "Within 24 hours (orally)",
+            "Within five clear days",
+            "Within 30 days",
+            "Forthwith (immediately)"
+        ],
+        "answer": "Within five clear days"
+    },
+    {
+        "question": "Under the Consignee's responsibility, a radiation level exceeding which value at 1 meter from a defective package requires an **immediate** report (forthwith) to the regulatory authority?",
+        "options": [
+            "10 mSv/hr",
+            "0.5 mSv/hr",
+            "2 mSv/hr",
+            "0.1 mSv/hr"
+        ],
+        "answer": "10 mSv/hr"
+    },
+    {
+        "question": "What type of license is required for the business of importing and exporting radioactive materials?",
+        "options": [
+            "Class-A license",
+            "Class-D license",
+            "Class-E license",
+            "No license is required for import/export"
+        ],
+        "answer": "Class-E license"
+    },
+    {
+        "question": "In air transportation, a package having a surface radiation level greater than $2 \text{ mSv/hr}$ shall not be transported except by what condition?",
+        "options": [
+            "Under exclusive use only",
+            "Only if it is a Type B package",
+            "By special arrangement",
+            "It is absolutely forbidden"
+        ],
+        "answer": "By special arrangement"
+    },
+    {
+        "question": "In addition to radiation limits, air transportation of packages requires them to withstand a temperature difference between $-40^{\\circ}C$ and what maximum temperature?",
+        "options": [
+            "$0^{\\circ}C$",
+            "$30^{\\circ}C$",
+            "$55^{\\circ}C$",
+            "$80^{\\circ}C$"
+        ],
+        "answer": "$55^{\\circ}C$"
+    },
+    {
+        "question": "After an accident involving RAM with or without release, within what timeframe must Atom Malaysia (DAE) be orally informed?",
+        "options": [
+            "Within 1 hour",
+            "Within 24 hours",
+            "Within five clear days",
+            "Within 30 days"
+        ],
+        "answer": "Within 24 hours"
+    },
+    {
+        "question": "The final accident report, prepared by the consignor, carrier, and consignee, must be submitted to the authority within what timeframe after the accident?",
+        "options": [
+            "7 days",
+            "14 days",
+            "30 days",
+            "60 days"
+        ],
+        "answer": "30 days"
+    },
+    {
+        "question": "Which party is responsible for keeping a copy of the package design and the results of the tests for reference and inspection by the relevant authority?",
+        "options": [
+            "Consignor",
+            "Carrier",
+            "Consignee",
+            "The regulatory authority"
+        ],
+        "answer": "Consignor"
+    },
+    {
+        "question": "What must be installed around the accident area at a safe distance to restrict access to the package and the incident area?",
+        "options": [
+            "A decontamination shower",
+            "A high-security fence",
+            "Barrier, warning sign, and notices",
+            "A surveillance camera system"
+        ],
+        "answer": "Barrier, warning sign, and notices"
+    },
+    {
+        "question": "The Transport Index (TI) is calculated as the maximum dose rate at 1 meter from the package surface in $\text{mSv/hr}$ multiplied by what factor?",
+        "options": [
+            "10",
+            "100",
+            "1000",
+            "50"
+        ],
+        "answer": "100"
+    }
+]

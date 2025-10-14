@@ -1,0 +1,502 @@
+[
+    {
+        "question": "According to the Atomic Energy Licensing Act 1984 (Act 304), Section 2, what does 'Radioactive Waste' mean?",
+        "options": [
+            "Any substance that has been used for industrial purposes.",
+            "Any waste that consists wholly or partly of a substance which, if not waste, would be radioactive material.",
+            "Only spent nuclear fuel from a reactor.",
+            "Any material with a half-life greater than 30 years."
+        ],
+        "answer": "Any waste that consists wholly or partly of a substance which, if not waste, would be radioactive material."
+    },
+    {
+        "question": "The primary objective of radioactive waste management is to protect health and the environment now and in the future, without imposing what on future generations?",
+        "options": [
+            "Excessive costs for disposal.",
+            "The task of building new facilities.",
+            "Undue burdens.",
+            "The responsibility of monitoring."
+        ],
+        "answer": "Undue burdens."
+    },
+    {
+        "question": "Which specific regulation in Malaysia governs the management of radioactive waste?",
+        "options": [
+            "Atomic Energy Licensing (Basic Safety Radiation Protection) Regulations 2010.",
+            "Atomic Energy Licensing (Transportation) Regulations 1989.",
+            "Atomic Energy Licensing (Radioactive Waste Management) Regulations 2011.",
+            "Environmental Quality Act 1974."
+        ],
+        "answer": "Atomic Energy Licensing (Radioactive Waste Management) Regulations 2011"
+    },
+    {
+        "question": "According to Act 304, Part VI, Section 26(1), what is required before a person can dispose of any radioactive waste?",
+        "options": [
+            "Submission of an environmental impact assessment report.",
+            "Prior authorization in writing of the appropriate authority.",
+            "Public notification 30 days in advance.",
+            "Approval from the local municipal council."
+        ],
+        "answer": "Prior authorization in writing of the appropriate authority."
+    },
+    {
+        "question": "According to Act 304, Section 27(1), what requires prior written authorization from the appropriate authority in relation to radioactive waste?",
+        "options": [
+            "The transport of radioactive waste.",
+            "The importation of radioactive material.",
+            "The accumulation of radioactive waste on any premises.",
+            "The processing of raw radioactive materials."
+        ],
+        "answer": "The accumulation of radioactive waste on any premises."
+    },
+    {
+        "question": "The Radioactive Waste Management Officer (RWMO) must be appointed by a licensee holding which class of license, as per the 2011 Regulations?",
+        "options": [
+            "Class A license.",
+            "Class B license.",
+            "Class F license.",
+            "Class G license."
+        ],
+        "answer": "Class G license"
+    },
+    {
+        "question": "What is the deadline for a licensee to submit the radioactive waste inventory form to the Department of Atomic Energy (DAE)?",
+        "options": [
+            "Not later than 1 January of the following year.",
+            "Not later than 1 March of the following year.",
+            "Within 90 days from the date of production.",
+            "Quarterly."
+        ],
+        "answer": "Not later than 1 March of the following year."
+    },
+    {
+        "question": "The 2011 Regulations require that radioactive waste is disposed of within what time frame from the date of its production?",
+        "options": [
+            "Within six months.",
+            "Within ONE year.",
+            "Within two years.",
+            "Within 30 years."
+        ],
+        "answer": "Within ONE year"
+    },
+    {
+        "question": "For a used sealed source, a clause in the purchasing agreement should stipulate the source's return to the supplier if its activity is greater than what value?",
+        "options": [
+            "10 MBq.",
+            "50 MBq.",
+            "100 MBq.",
+            "1000 MBq."
+        ],
+        "answer": "100 MBq."
+    },
+    {
+        "question": "What is the maximum volume of radioactive waste that a licensee is prohibited from releasing into the environment, according to the 2011 Regulations?",
+        "options": [
+            "0.1 $\\text{m}^3$.",
+            "1 $\\text{m}^3$.",
+            "10 $\\text{m}^3$.",
+            "100 $\\text{m}^3$."
+        ],
+        "answer": "1 $\\text{m}^3$."
+    },
+    {
+        "question": "Which of the following is NOT listed as a source of radioactive waste?",
+        "options": [
+            "Application of radionuclides in industry.",
+            "Nuclear fall-out.",
+            "Cleanup of contaminated sites.",
+            "Processing of non-radioactive common materials."
+        ],
+        "answer": "Processing of non-radioactive common materials."
+    },
+    {
+        "question": "Principle 4 of Radioactive Waste Management states that which generation should bear the responsibility to manage the resulting waste?",
+        "options": [
+            "The generation that receives the benefit of a practice.",
+            "The next immediate generation.",
+            "The future generations receiving the waste.",
+            "The generation responsible for the initial research."
+        ],
+        "answer": "The generation that receives the benefit of a practice."
+    },
+    {
+        "question": "Principle 7 of Radioactive Waste Management is concerned with keeping the generation of radioactive waste to what level?",
+        "options": [
+            "Zero level.",
+            "The internationally accepted average.",
+            "The minimum practicable.",
+            "Below the clearance level."
+        ],
+        "answer": "The minimum practicable."
+    },
+    {
+        "question": "How many core principles of Radioactive Waste Management are there, as listed in the document?",
+        "options": [
+            "5 principles.",
+            "7 principles.",
+            "9 principles.",
+            "12 principles."
+        ],
+        "answer": "9 principles."
+    },
+    {
+        "question": "Which step in waste minimization involves reducing the amount or volume of the radioactive material being used?",
+        "options": [
+            "Recycle.",
+            "Reuse.",
+            "Reduce.",
+            "Recondition."
+        ],
+        "answer": "Reduce."
+    },
+    {
+        "question": "The general criteria for classifying radioactive waste include its physical form, its activity, and its what?",
+        "options": [
+            "Density.",
+            "Chemical composition.",
+            "Half-life.",
+            "Color."
+        ],
+        "answer": "Half-life."
+    },
+    {
+        "question": "Which class of waste consists of materials containing level of radionuclides at activity concentrations less than those specified in the Second Schedule of the Regulations?",
+        "options": [
+            "Low Level Waste (LLW).",
+            "Cleared waste.",
+            "Intermediate Level Waste (ILW).",
+            "Decay Waste."
+        ],
+        "answer": "Cleared waste."
+    },
+    {
+        "question": "What is the maximum half-life for short-lived radionuclides in Low Level (Short Lived)/Decay Waste?",
+        "options": [
+            "10 days.",
+            "50 days.",
+            "100 days.",
+            "365 days."
+        ],
+        "answer": "100 days."
+    },
+    {
+        "question": "What is the acronym for Low and Intermediate Level Short Lived Waste?",
+        "options": [
+            "LILW-LL.",
+            "HLW-SL.",
+            "LLW-IL.",
+            "LILW-SL."
+        ],
+        "answer": "LILW-SL."
+    },
+    {
+        "question": "In the LILW-SL classification, beta/gamma emitting radionuclides must have half-lives less than what duration?",
+        "options": [
+            "10 years.",
+            "30 years.",
+            "50 years.",
+            "100 years."
+        ],
+        "answer": "30 years."
+    },
+    {
+        "question": "For LILW-SL, the activity concentrations of alpha emitting radionuclides must be less than which value?",
+        "options": [
+            "10 Bq/g.",
+            "40 Bq/g.",
+            "400 Bq/g.",
+            "4000 Bq/g."
+        ],
+        "answer": "400 Bq/g."
+    },
+    {
+        "question": "High Level Waste (HLW) is distinguished from Low & Intermediate Level Long Lived Waste (LILW-LL) by its ability to generate heat above what threshold?",
+        "options": [
+            "1 $\\text{kW/m}^3$.",
+            "2 $\\text{kW/m}^3$.",
+            "10 $\\text{kW/m}^3$.",
+            "50 $\\text{kW/m}^3$."
+        ],
+        "answer": "2 $\\text{kW/m}^3$."
+    },
+    {
+        "question": "Which step in pre-disposal management aims to convert the treated waste into a more stable form to ensure minimum leakage of radionuclides?",
+        "options": [
+            "Segregation.",
+            "Collection.",
+            "Conditioning.",
+            "Treatment."
+        ],
+        "answer": "Conditioning."
+    },
+    {
+        "question": "Which of the following is NOT one of the five steps of Pre-disposal management of radioactive waste listed?",
+        "options": [
+            "Waste Collection.",
+            "Waste Treatment.",
+            "Waste Disposal.",
+            "Waste Storage."
+        ],
+        "answer": "Waste Disposal."
+    },
+    {
+        "question": "What is the objective of the **treatment** process in waste management?",
+        "options": [
+            "To increase the volume of the waste.",
+            "To reduce the volume, reduce or eliminate potential hazards associated with the waste.",
+            "To transport the waste to the disposal site.",
+            "To label the waste containers."
+        ],
+        "answer": "To reduce the volume, reduce or eliminate potential hazards associated with the waste."
+    },
+    {
+        "question": "Which process is typically used to reduce the volume of solid radioactive waste?",
+        "options": [
+            "Evaporation.",
+            "Ion exchanging.",
+            "Compaction or Incineration.",
+            "Precipitation."
+        ],
+        "answer": "Compaction or Incineration."
+    },
+    {
+        "question": "The process of mixing conditioned radioactive waste with a more stable matrix material to prepare it for disposal is primarily done using which material?",
+        "options": [
+            "Plastic.",
+            "Water.",
+            "Cement.",
+            "Air."
+        ],
+        "answer": "Cement."
+    },
+    {
+        "question": "The conditioning process that converts treated radioactive waste into a glassy material is known as:",
+        "options": [
+            "Compaction.",
+            "Vitrification.",
+            "Sintering.",
+            "Precipitation."
+        ],
+        "answer": "Vitrification."
+    },
+    {
+        "question": "The DAE may authorize the discharge of liquid waste to the environment if it is within the limits or if what has been granted for the radioactive substance?",
+        "options": [
+            "An effective dose limit.",
+            "A storage waiver.",
+            "A transportation permit.",
+            "Clearance."
+        ],
+        "answer": "Clearance."
+    },
+    {
+        "question": "Which term is defined by the IAEA as 'The emplacement of waste in an approved, specified facility without the intention of retrieval'?",
+        "options": [
+            "Storage.",
+            "Conditioning.",
+            "Disposal.",
+            "Treatment."
+        ],
+        "answer": "Disposal."
+    },
+    {
+        "question": "Which basic principle of radioactive waste treatment prior to disposal involves holding the waste in storage until sufficient decay has occurred?",
+        "options": [
+            "Dilute and disperse.",
+            "Concentrate and contain.",
+            "Delay and decay.",
+            "Reduce and re-use."
+        ],
+        "answer": "Delay and decay"
+    },
+    {
+        "question": "The basic principle of treatment prior to disposal that involves discharging waste in a manner that environmental conditions reduce concentrations to acceptable levels is:",
+        "options": [
+            "Concentrate and contain.",
+            "Delay and decay.",
+            "Dilute and disperse.",
+            "Segregate and store."
+        ],
+        "answer": "Dilute and disperse"
+    },
+    {
+        "question": "The basic principle 'Concentrate and Contain' requires waste to be conditioned and/or containerized to limit what in the environment?",
+        "options": [
+            "The activity.",
+            "The volume.",
+            "The heat generation.",
+            "Dispersion."
+        ],
+        "answer": "Dispersion."
+    },
+    {
+        "question": "Which of the following is NOT one of the four common disposal options listed in the summary?",
+        "options": [
+            "On surface.",
+            "Deep ocean.",
+            "Near surface.",
+            "Borehole."
+        ],
+        "answer": "Deep ocean."
+    },
+    {
+        "question": "Which disposal method is considered the 'best option' and is suitable for High Level Waste (HLW)?",
+        "options": [
+            "Shallow Land Burial.",
+            "On Surface Disposal.",
+            "Deep Geological Burial.",
+            "Borehole Disposal."
+        ],
+        "answer": "Deep Geological Burial."
+    },
+    {
+        "question": "Which type of geological area is mentioned as an example of a suitable site for Deep Geological Burial?",
+        "options": [
+            "Volcanic lava fields.",
+            "Limestone caves.",
+            "Salt dome or granite area.",
+            "Sandy desert plains."
+        ],
+        "answer": "Salt dome or granite area."
+    },
+    {
+        "question": "Shallow Land Burial (Near Surface) is primarily used for wastes containing what kind of radionuclides?",
+        "options": [
+            "Alpha emitters only.",
+            "Long half-lived radionuclides.",
+            "Short to medium half-lived radionuclides.",
+            "Naturally Occurring Radioactive Material (NORM)."
+        ],
+        "answer": "Short to medium half-lived radionuclides."
+    },
+    {
+        "question": "Which international agreement led to the banning of Deep Ocean/Sea Bed Disposal of radioactive waste?",
+        "options": [
+            "Kyoto Protocol.",
+            "Basel Convention.",
+            "London Convention (1972).",
+            "Rio Earth Summit."
+        ],
+        "answer": "London Convention (1972)."
+    },
+    {
+        "question": "Which classification of waste is the most appropriate for disposal at a Municipal Disposal Site?",
+        "options": [
+            "High Level Waste.",
+            "LILW-LL.",
+            "Waste with activities below the clearance levels.",
+            "Waste with half-lives less than 30 years."
+        ],
+        "answer": "Waste with activities below the clearance levels."
+    },
+    {
+        "question": "What is the term for a sealed radioactive source that is no longer useful to the users and for which no future use is foreseen?",
+        "options": [
+            "Fresh Sealed Source (FSS).",
+            "Low Activity Source (LAS).",
+            "Disused Sealed Radioactive Source (DSRS).",
+            "Unsealed Radioactive Source (URS)."
+        ],
+        "answer": "Disused Sealed Radioactive Source (DSRS)."
+    },
+    {
+        "question": "What is the primary management recommendation for Disused Sealed Radioactive Sources (DSRS)?",
+        "options": [
+            "Dilute and disperse them in the environment.",
+            "Dispose of them in near-surface trenches.",
+            "Return them to their suppliers or manufacturers.",
+            "Incinerate them to reduce volume."
+        ],
+        "answer": "Return them to their suppliers or manufacturers."
+    },
+    {
+        "question": "What does BOSS stand for in the context of radioactive waste management?",
+        "options": [
+            "Burial Of Sealed Sources.",
+            "Borehole disposal of Sealed Radioactive Sources.",
+            "Best Option for Sealed Sources.",
+            "Buried Ocean Source Storage."
+        ],
+        "answer": "Borehole disposal of Sealed Radioactive Sources"
+    },
+    {
+        "question": "The BOSS system disposes of DSRS in a specially engineered borehole at what approximate depth range?",
+        "options": [
+            "1-5 metres deep.",
+            "10-20 metres deep.",
+            "30-100 metres deep.",
+            "500-1000 metres deep."
+        ],
+        "answer": "30-100 metres deep."
+    },
+    {
+        "question": "A Quality Assurance Programme (QAP) for radioactive waste management is necessary to confirm compliance with which requirement?",
+        "options": [
+            "The licensee's business plan.",
+            "Internal company safety procedures.",
+            "Regulations and legislations.",
+            "The annual financial audit."
+        ],
+        "answer": "Regulations and legislations."
+    },
+    {
+        "question": "Which of the following records MUST be maintained by the licensee as part of the record keeping requirements?",
+        "options": [
+            "Employee annual leave records.",
+            "Radioactive waste inventory.",
+            "Quarterly sales reports.",
+            "Raw material purchase receipts."
+        ],
+        "answer": "Radioactive waste inventory."
+    },
+    {
+        "question": "What is one of the three critical properties (besides radiological and physical) upon which waste shall be classified according to the 2011 Regulations?",
+        "options": [
+            "Flammability.",
+            "Density.",
+            "Toxicity.",
+            "Chemical properties."
+        ],
+        "answer": "Chemical properties."
+    },
+    {
+        "question": "What is the purpose of Pre-disposal **Storage** of conditioned radioactive waste?",
+        "options": [
+            "To dispose of it immediately after conditioning.",
+            "To transfer it to a non-radioactive waste facility.",
+            "To retrieve it back at some time in the future.",
+            "To expose it to the sun for decay."
+        ],
+        "answer": "To retrieve it back at some time in the future."
+    },
+    {
+        "question": "Which principle states that the radioactive waste shall be managed within an appropriate legal framework, including clear allocation of responsibilities?",
+        "options": [
+            "Principle 2: Protection of the environment.",
+            "Principle 6: National Legal Framework.",
+            "Principle 9: Safety of Facilities.",
+            "Principle 3: Protection beyond national borders."
+        ],
+        "answer": "Principle 6: National Legal Framework."
+    },
+    {
+        "question": "To minimize radiation risks, a waste storage location should be selected with due consideration given to which condition?",
+        "options": [
+            "High population density.",
+            "Low risk of flood and fire.",
+            "Easy access to public transport.",
+            "Located near a power grid."
+        ],
+        "answer": "Low risk of flood and fire."
+    },
+    {
+        "question": "The term for converting $\\text{liquid}$ waste to $\\text{solid}$ waste by precipitation or filtration is an example of which waste treatment objective?",
+        "options": [
+            "Volume reduction.",
+            "Removal/extraction of radionuclide.",
+            "Transformation/change the properties of waste.",
+            "Decay and delay."
+        ],
+        "answer": "Transformation/change the properties of waste."
+    }
+]

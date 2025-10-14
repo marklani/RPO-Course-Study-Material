@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Apakah perundangan pertama di Malaysia yang mengawal penggunaan sinaran mengion (Perubatan & bukan Perubatan)?",
+        "options": [
+            "Akta Pelesenan Tenaga Atom 1984",
+            "Akta Benda-Benda Radioaktif 1968",
+            "Akta Keselamatan dan Kesihatan Pekerja 1994",
+            "Akta Tenaga Nuklear 2000"
+        ],
+        "answer": "Akta Benda-Benda Radioaktif 1968"
+    },
+    {
+        "question": "Bilakah penggunaan sinaran (X-ray) pertama direkodkan di Malaysia?",
+        "options": [
+            "1905",
+            "1968",
+            "1897",
+            "1984"
+        ],
+        "answer": "1897"
+    },
+    {
+        "question": "Akta Pelesenan Tenaga Atom 1984 (Akta 304) menggantikan perundangan yang mana satu?",
+        "options": [
+            "Akta Keselamatan dan Kesihatan Pekerja 1994",
+            "Akta Kilang dan Jentera 1967",
+            "Akta Benda-Benda Radioaktif 1968",
+            "Akta Bahan Berbahaya 1995"
+        ],
+        "answer": "Akta Benda-Benda Radioaktif 1968"
+    },
+    {
+        "question": "Apakah nombor Akta bagi Akta Pelesenan Tenaga Atom?",
+        "options": [
+            "Akta 1984",
+            "Akta 304",
+            "Akta 708",
+            "Akta 1968"
+        ],
+        "answer": "Akta 304"
+    },
+    {
+        "question": "Apakah tujuan utama Akta Pelesenan Tenaga Atom 1984?",
+        "options": [
+            "Mengenakan cukai ke atas penggunaan bahan radioaktif",
+            "Mengawal selia dan mengawal tenaga atom serta menetapkan standard",
+            "Menggalakkan pengeluaran senjata nuklear",
+            "Memastikan semua kemalangan sinaran tidak dilaporkan"
+        ],
+        "answer": "Mengawal selia dan mengawal tenaga atom serta menetapkan standard"
+    },
+    {
+        "question": "Akta 304 memberi kuasa tambahan untuk mengawal operasi apa, berbanding Akta 1968?",
+        "options": [
+            "Hospital Taiping",
+            "Reaktor nuklear",
+            "Perusahaan logam nadir bumi",
+            "Perubatan veterinar"
+        ],
+        "answer": "Reaktor nuklear"
+    },
+    {
+        "question": "Bahagian mana dalam Akta Pelesenan Tenaga Atom 1984 (Akta 304) yang memperuntukkan mengenai **Kawalan dan Perlesenan**?",
+        "options": [
+            "Bahagian I",
+            "Bahagian II",
+            "Bahagian III",
+            "Bahagian IV"
+        ],
+        "answer": "Bahagian III"
+    },
+    {
+        "question": "Bahagian mana dalam Akta Pelesenan Tenaga Atom 1984 (Akta 304) yang memperuntukkan mengenai **Liabiliti Terhadap Kerosakan Nuklear**?",
+        "options": [
+            "Bahagian V",
+            "Bahagian VII",
+            "Bahagian IX",
+            "Bahagian X"
+        ],
+        "answer": "Bahagian IX"
+    },
+    {
+        "question": "Siapakah **Pihak Berkuasa Berkenaan** yang bertanggungjawab menguatkuasakan Akta 304 bagi penggunaan sinaran mengion di **bidang bukan perubatan**?",
+        "options": [
+            "Ketua Pengarah Kementerian Kesihatan Malaysia",
+            "Lembaga Pelesenan Tenaga Atom (Atom Malaysia)",
+            "Kementerian Sains, Teknologi dan Inovasi (MOSTI)",
+            "Agensi Nuklear Malaysia"
+        ],
+        "answer": "Lembaga Pelesenan Tenaga Atom (Atom Malaysia)"
+    },
+    {
+        "question": "Siapakah yang dimaksudkan dengan 'pekerja' di bawah tafsiran Akta Pelesenan Tenaga Atom 1984?",
+        "options": [
+            "Sesiapa sahaja yang bekerja di Malaysia",
+            "Seseorang yang bekerja di bawah arahan pemegang lesen dan mungkin bersentuhan dengan bahan radioaktif",
+            "Hanya pemegang lesen sahaja",
+            "Mana-mana pegawai kanan awam"
+        ],
+        "answer": "Seseorang yang bekerja di bawah arahan pemegang lesen dan mungkin bersentuhan dengan bahan radioaktif"
+    },
+    {
+        "question": "Di bawah Akta 304, 'aktiviti' yang melibatkan bahan radioaktif merujuk kepada tindakan yang mana satu?",
+        "options": [
+            "Membeli dan menstor sahaja",
+            "Mengilang, memperdagang, mengangkut, menggunakan, dan sebagainya",
+            "Melaporkan kepada AELB sahaja",
+            "Menyediakan pemeriksaan perubatan"
+        ],
+        "answer": "Mengilang, memperdagang, mengangkut, menggunakan, dan sebagainya"
+    },
+    {
+        "question": "Apakah maksud istilah 'pemegang lesen' di bawah Akta Pelesenan Tenaga Atom 1984?",
+        "options": [
+            "Pihak Berkuasa Berkenaan",
+            "Ketua Pengarah Jabatan Tenaga Atom",
+            "Seseorang yang bekerja di bawah arahan pemegang lesen",
+            "Pemegang suatu lesen yang dikeluarkan di bawah Akta ini"
+        ],
+        "answer": "Pemegang suatu lesen yang dikeluarkan di bawah Akta ini"
+    },
+    {
+        "question": "Menurut Akta 304, berapa lamakah tempoh maksimum sah laku suatu lesen (melainkan dibatalkan atau digantung terlebih dahulu)?",
+        "options": [
+            "Satu tahun",
+            "Dua tahun",
+            "Tidak melebihi tiga tahun",
+            "Lima tahun"
+        ],
+        "answer": "Tidak melebihi tiga tahun"
+    },
+    {
+        "question": "Menurut Seksyen 12 Akta 304, apakah yang **TIDAK** dibenarkan tanpa lesen yang sah?",
+        "options": [
+            "Mengambil cuti tahunan",
+            "Menempatkan tapak, membina atau mengendalikan suatu pepasangan nuklear",
+            "Menyediakan laporan kewangan",
+            "Mengadakan mesyuarat keselamatan"
+        ],
+        "answer": "Menempatkan tapak, membina atau mengendalikan suatu pepasangan nuklear"
+    },
+    {
+        "question": "Berapa lama selepas jualan bahan radioaktif, dsb., suatu penyata jualan hendaklah dikemukakan kepada Lembaga?",
+        "options": [
+            "Dalam masa 24 jam",
+            "Dalam masa dua minggu",
+            "Dalam masa 30 hari",
+            "Pada akhir tahun kalendar"
+        ],
+        "answer": "Dalam masa dua minggu"
+    },
+    {
+        "question": "Menurut Seksyen 22 Akta 304, yang manakah merupakan salah satu alasan untuk pihak berkuasa berkenaan membatalkan atau menggantung suatu lesen?",
+        "options": [
+            "Pemegang lesen mendapat keuntungan",
+            "Pemegang lesen melanggar mana-mana syarat lesen",
+            "Pemegang lesen membuat pelaburan baru",
+            "Pemegang lesen menukar pembekal"
+        ],
+        "answer": "Pemegang lesen melanggar mana-mana syarat lesen"
+    },
+    {
+        "question": "Menurut Seksyen 26 Akta 304, apakah yang diperlukan sebelum melupus atau menyebabkan dilupus apa-apa sisa radioaktif?",
+        "options": [
+            "Kebenaran lisan daripada Ketua Pengarah",
+            "Kebenaran bertulis terlebih dahulu daripada pihak berkuasa berkenaan",
+            "Laporan kepada UNESCO",
+            "Kelulusan dari majlis perbandaran tempatan"
+        ],
+        "answer": "Kebenaran bertulis terlebih dahulu daripada pihak berkuasa berkenaan"
+    },
+    {
+        "question": "Akta 304 memerlukan pemegang lesen menyediakan pemeriksaan perubatan bagi pekerja oleh pengamal perubatan berdaftar yang diluluskan. Untuk pekerja yang bekerja di dalam suatu kawasan kawalan, bilakah pemeriksaan perubatan yang pertama perlu dijalankan?",
+        "options": [
+            "Setiap 5 tahun",
+            "Apabila dia ditamatkan kerja atau bersara",
+            "Setiap 6 bulan",
+            "Sebelum diambil kerja (Pemeriksaan Prapekerjaan)"
+        ],
+        "answer": "Sebelum diambil kerja (Pemeriksaan Prapekerjaan)"
+    },
+    {
+        "question": "Apakah penalti maksimum bagi kesalahan **menyerbu, menghalang, menghindar, atau melengahkan** mana-mana pegawai kanan awam dalam melaksanakan tugas di bawah Akta 304?",
+        "options": [
+            "Denda tidak lebih RM100,000.00",
+            "Penjara tidak lebih 10 tahun",
+            "Denda tidak lebih RM5,000.00 atau penjara tidak lebih 5 tahun, atau kedua-duanya",
+            "Amaran keras sahaja"
+        ],
+        "answer": "Denda tidak lebih RM5,000.00 atau penjara tidak lebih 5 tahun, atau kedua-duanya"
+    },
+    {
+        "question": "Apakah penalti maksimum bagi kesalahan umum di bawah Akta 304 (jika tiada penalti diperuntukkan dengan nyata)?",
+        "options": [
+            "Penjara tidak lebih 5 tahun sahaja",
+            "Denda tidak lebih RM1,000.00",
+            "Denda tidak lebih RM100,000.00 atau penjara tidak lebih 10 tahun, atau kedua-duanya",
+            "Denda tidak lebih RM5,000.00"
+        ],
+        "answer": "Denda tidak lebih RM100,000.00 atau penjara tidak lebih 10 tahun, atau kedua-duanya"
+    },
+    {
+        "question": "Dalam hierarki perundangan di bawah Akta 304, apakah dokumen yang berada di bawah **PERATURAN** tetapi di atas **Syarat Lesen**?",
+        "options": [
+            "Perintah",
+            "Kod dan Standard",
+            "Pengumuman Awam",
+            "Garis Panduan Pentadbiran"
+        ],
+        "answer": "Kod dan Standard"
+    },
+    {
+        "question": "Apakah yang disediakan oleh **Kod dan Standard** dalam konteks Akta 304?",
+        "options": [
+            "Asas undang-undang",
+            "Panduan dan piawaian untuk mematuhi AKTA dan Peraturan",
+            "Syarat tambahan yang tidak dinyatakan dalam Peraturan",
+            "Prosedur permohonan lesen"
+        ],
+        "answer": "Panduan dan piawaian untuk mematuhi AKTA dan Peraturan"
+    },
+    {
+        "question": "Apakah yang dimaksudkan dengan **PERATURAN** dalam konteks Akta 304?",
+        "options": [
+            "Rang undang-undang yang belum diluluskan",
+            "Peruntukan yang lebih terperinci dalam ruang lingkup yang diamanahkan oleh AKTA",
+            "Syor dari antarabangsa",
+            "Arahan henti operasi"
+        ],
+        "answer": "Peruntukan yang lebih terperinci dalam ruang lingkup yang diamanahkan oleh AKTA"
+    },
+    {
+        "question": "Apakah nama Peraturan yang menjelaskan cara-cara dan maklumat yang diperlukan bagi mendapatkan, membaharui dan meminda lesen?",
+        "options": [
+            "Peraturan Perlindungan Sinaran (Keselamatan Asas) 2010",
+            "Peraturan Pelesenan Tenaga Atom (Rayuan) 1990",
+            "Peraturan Perlindungan Sinaran (Perlesenan) 1986",
+            "Peraturan Perlindungan Sinaran (Pengangkutan) 1989"
+        ],
+        "answer": "Peraturan Perlindungan Sinaran (Perlesenan) 1986"
+    },
+    {
+        "question": "Kelas lesen mana di bawah Peraturan Perlindungan Sinaran (Perlesenan) 1986 yang merujuk kepada **Radas Penyinaran**?",
+        "options": [
+            "Kelas A",
+            "Kelas B",
+            "Kelas C",
+            "Kelas D"
+        ],
+        "answer": "Kelas C"
+    },
+    {
+        "question": "Kelas lesen mana di bawah Peraturan Perlindungan Sinaran (Perlesenan) 1986 yang merujuk kepada **Aktiviti Pengangkutan**?",
+        "options": [
+            "Kelas C",
+            "Kelas D",
+            "Kelas E",
+            "Kelas F"
+        ],
+        "answer": "Kelas D"
+    },
+    {
+        "question": "Kelas lesen mana di bawah Peraturan Perlindungan Sinaran (Perlesenan) 1986 yang merujuk kepada **Bahan Nuklear**?",
+        "options": [
+            "Kelas A",
+            "Kelas B",
+            "Kelas C",
+            "Kelas F"
+        ],
+        "answer": "Kelas B"
+    },
+    {
+        "question": "Di bawah Kawalan Keselamatan Bahan/Radas Penyinaran, berapakah kekerapan yang disyaratkan untuk tentukuran semula (calibration) bagi Radas Penyinaran (Kelas C)?",
+        "options": [
+            "Setiap 6 bulan",
+            "Setiap 2 tahun",
+            "Setiap tahun atau apabila diarahkan",
+            "Hanya apabila dibeli"
+        ],
+        "answer": "Setiap tahun atau apabila diarahkan"
+    },
+    {
+        "question": "Dalam Carta Organisasi Pemegang Lesen, siapakah yang berada di bawah Pemegang Lesen dan di atas Pegawai Perlindungan Sinaran (PPS)?",
+        "options": [
+            "Ketua Pengarah",
+            "Orang Bertanggungjawab Terhadap Lesen (OBTL)",
+            "Penyelia Pekerja Sinaran (PY)",
+            "Pegawai Kanan Awam"
+        ],
+        "answer": "Orang Bertanggungjawab Terhadap Lesen (OBTL)"
+    },
+    {
+        "question": "Di bawah **Peraturan Perlindungan Sinaran Keselamatan Asas 2010**, apakah prinsip sistem perlindungan sinaran yang juga dikenali sebagai **ALARA**?",
+        "options": [
+            "Justifikasi amalan",
+            "Had dos",
+            "Kekangan dos",
+            "Pengoptimuman perlindungan dan keselamatan"
+        ],
+        "answer": "Pengoptimuman perlindungan dan keselamatan"
+    },
+    {
+        "question": "Apakah nama Peraturan yang menjelaskan perkara berkaitan sistem perlindungan sinaran, dedahan kepada pekerja dan orang awam?",
+        "options": [
+            "Peraturan Perlindungan Sinaran (Perlesenan) 1986",
+            "Peraturan Pelesenan Tenaga Atom (Perlindungan Sinaran Keselamatan Asas) 2010",
+            "Peraturan Perlindungan Sinaran (Pengangkutan) 1989",
+            "Peraturan Pelesenan Tenaga Atom (Pengurusan Sisa Radioaktif) 2011"
+        ],
+        "answer": "Peraturan Pelesenan Tenaga Atom (Perlindungan Sinaran Keselamatan Asas) 2010"
+    },
+    {
+        "question": "Di bawah BSRP 2010, apakah yang dimaksudkan dengan **Justifikasi Amalan**?",
+        "options": [
+            "Memastikan semua dedahan dioptimumkan",
+            "Tiada seorangpun boleh menjalankan apa-apa amalan melainkan amalan itu mempunyai justifikasi",
+            "Memastikan had dos tidak melebihi",
+            "Mengawal aktiviti pengangkutan"
+        ],
+        "answer": "Tiada seorangpun boleh menjalankan apa-apa amalan melainkan amalan itu mempunyai justifikasi"
+    },
+    {
+        "question": "Menurut Peraturan Perlindungan Sinaran Keselamatan Asas 2010, apakah had bagi dos berkesan untuk **orang awam** dalam suatu tahun kalendar?",
+        "options": [
+            "20 mSv",
+            "50 mSv",
+            "1 mSv",
+            "6 mSv"
+        ],
+        "answer": "1 mSv"
+    },
+    {
+        "question": "Apakah had bagi dos setara terhadap **kanta mata** seorang **pekerja** dalam satu tahun kalendar?",
+        "options": [
+            "15 mSv",
+            "150 mSv",
+            "500 mSv",
+            "1 mSv"
+        ],
+        "answer": "150 mSv"
+    },
+    {
+        "question": "Apakah had bagi dos setara terhadap **kulit** seorang **pekerja** dalam satu tahun kalendar?",
+        "options": [
+            "20 mSv",
+            "100 mSv",
+            "500 mSv",
+            "150 mSv"
+        ],
+        "answer": "500 mSv"
+    },
+    {
+        "question": "Apakah had bagi dos berkesan untuk seorang **pekerja** dalam suatu tahun kalendar, dengan syarat dos berkesan yang maksimum terhadap pekerja itu yang dipuratakan bagi tempoh lima tahun berturut-turut tidak melebihi 20 mSv?",
+        "options": [
+            "20 mSv",
+            "50 mSv",
+            "1 mSv",
+            "15 mSv"
+        ],
+        "answer": "20 mSv"
+    },
+    {
+        "question": "Bagi pekerja perempuan yang disahkan hamil, berapakah aras maksimum dos berkesan yang boleh diterima oleh **janin** bagi baki tempoh kehamilan itu?",
+        "options": [
+            "1 mSv",
+            "6 mSv",
+            "20 mSv",
+            "Tiada had dos"
+        ],
+        "answer": "1 mSv"
+    },
+    {
+        "question": "Had dos tidak terpakai bagi yang mana satu di antara berikut?",
+        "options": [
+            "Pendedahan pekerjaan",
+            "Pendedahan perubatan daripada suatu amalan",
+            "Pendedahan kepada orang awam",
+            "Pendedahan kecemasan"
+        ],
+        "answer": "Pendedahan perubatan daripada suatu amalan"
+    },
+    {
+        "question": "Apakah had bagi dos berkesan setahun untuk **perantis/pelajar** berumur di antara 16 hingga 18 tahun yang sedang dalam latihan bagi pekerjaan melibatkan radiasi?",
+        "options": [
+            "1 mSv/yr",
+            "6 mSv/yr",
+            "15 mSv/yr",
+            "20 mSv/yr"
+        ],
+        "answer": "6 mSv/yr"
+    },
+    {
+        "question": "Menurut BSRP 2010, siapakah yang tidak dibenarkan bekerja di dalam kawasan seliaan atau kawasan kawalan?",
+        "options": [
+            "Sesiapa yang berumur bawah daripada 18 tahun",
+            "Sesiapa yang berumur bawah daripada 16 tahun",
+            "Perempuan hamil",
+            "Pekerja kontrak"
+        ],
+        "answer": "Sesiapa yang berumur bawah daripada 16 tahun"
+    },
+    {
+        "question": "Apakah klasifikasi kawasan kerja di mana had dos tahunan adalah **< 1/10** had dos tahunan?",
+        "options": [
+            "Kawasan Kawalan",
+            "Kawasan Seliaan",
+            "Kawasan Bersih",
+            "Kawasan Pengasingan"
+        ],
+        "answer": "Kawasan Bersih"
+    },
+    {
+        "question": "Apakah klasifikasi kawasan kerja di mana dos berkesan adalah **≥ 6 mSv/y**?",
+        "options": [
+            "Kawasan Kawalan",
+            "Kawasan Seliaan",
+            "Kawasan Bersih",
+            "Kawasan Umum"
+        ],
+        "answer": "Kawasan Kawalan"
+    },
+    {
+        "question": "Apakah klasifikasi kawasan kerja di mana had dos tahunan berada dalam julat **1/10 < had dos tahunan < 3/10**?",
+        "options": [
+            "Kawasan Bersih",
+            "Kawasan Kawalan",
+            "Kawasan Seliaan",
+            "Kawasan Terlarang"
+        ],
+        "answer": "Kawasan Seliaan"
+    },
+    {
+        "question": "Kawasan Kawalan di bawah BSRP 2010 merujuk kepada kawasan kerja di mana had dos tahunan adalah **lebih besar daripada** berapa bahagian had dos tahunan?",
+        "options": [
+            "1/10",
+            "3/10",
+            "1/2",
+            "9/10"
+        ],
+        "answer": "3/10"
+    },
+    {
+        "question": "Di bawah BSRP 2010, berapakah kekerapan minimum untuk mengkaji semula keadaan kesihatan seorang pekerja di dalam suatu kawasan seliaan atau kawalan?",
+        "options": [
+            "Sekurang-kurangnya sekali setahun",
+            "Sekurang-kurangnya sekali dalam tempoh 3 tahun",
+            "Setiap 6 bulan",
+            "Hanya apabila berlakunya kemalangan"
+        ],
+        "answer": "Sekurang-kurangnya sekali dalam tempoh 3 tahun"
+    },
+    {
+        "question": "Menurut statistik Aktiviti Tenaga Atom di Malaysia, aktiviti manakah yang mempunyai bilangan pemegang lesen **tertinggi**?",
+        "options": [
+            "Radiografi Industri",
+            "Tolokan (Gauging)",
+            "Penyelidikan dan Pembelajaran",
+            "Penjual"
+        ],
+        "answer": "Tolokan (Gauging)"
+    },
+    {
+        "question": "Berapakah bilangan pemegang lesen yang terlibat dalam aktiviti **Analisa**?",
+        "options": [
+            "46",
+            "95",
+            "310",
+            "415"
+        ],
+        "answer": "415"
+    },
+    {
+        "question": "Apakah nama reaktor penyelidikan yang beroperasi di Bangi, Selangor?",
+        "options": [
+            "Reaktor Malaysia I",
+            "PUSPATI TRIGA Mark II Research Reactor (RTP)",
+            "Bangi Nuclear Reactor (BNR)",
+            "Reaktor Kebangsaan Malaysia"
+        ],
+        "answer": "PUSPATI TRIGA Mark II Research Reactor (RTP)"
+    },
+    {
+        "question": "Apakah kapasiti thermal bagi Reaktor Penyelidikan PUSPATI TRIGA Mark II?",
+        "options": [
+            "100 kW thermal",
+            "1 MW thermal",
+            "5 MW thermal",
+            "10 MW thermal"
+        ],
+        "answer": "1 MW thermal"
+    },
+    {
+        "question": "Siapakah operator bagi Reaktor Penyelidikan PUSPATI TRIGA Mark II?",
+        "options": [
+            "Jabatan Tenaga Atom (Atom Malaysia)",
+            "Agensi Nuklear Malaysia",
+            "Lembaga Pelesenan Tenaga Atom",
+            "Kementerian Sains, Teknologi dan Inovasi"
+        ],
+        "answer": "Agensi Nuklear Malaysia"
+    }
+]

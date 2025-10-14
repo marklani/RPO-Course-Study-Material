@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Who reported the discovery of X-rays in 1895?",
+        "options": [
+            "Henri Becquerel",
+            "Pierre and Marie Curie",
+            "W.C. Röntgen",
+            "Albert Einstein"
+        ],
+        "answer": "W.C. Röntgen"
+    },
+    {
+        "question": "In what year did Henri Becquerel discover the radioactivity of uranium?",
+        "options": [
+            "1895",
+            "1896",
+            "1898",
+            "1907"
+        ],
+        "answer": "1896"
+    },
+    {
+        "question": "What is defined as the smallest unit of an element that has all the properties of that element?",
+        "options": [
+            "Molecule",
+            "Nucleon",
+            "Element",
+            "Atom"
+        ],
+        "answer": "Atom"
+    },
+    {
+        "question": "What is the electrical charge of a proton?",
+        "options": [
+            "0 (neutral)",
+            "+1 (positive)",
+            "-1 (negative)",
+            "+2 (double positive)"
+        ],
+        "answer": "+1 (positive)"
+    },
+    {
+        "question": "Which subatomic particle has a charge of 0 (neutral)?",
+        "options": [
+            "Proton",
+            "Electron",
+            "Neutron",
+            "Alpha particle"
+        ],
+        "answer": "Neutron"
+    },
+    {
+        "question": "Which two particles are collectively known as 'nucleons'?",
+        "options": [
+            "Proton and Electron",
+            "Neutron and Electron",
+            "Proton and Neutron",
+            "Electron and Photon"
+        ],
+        "answer": "Proton and Neutron"
+    },
+    {
+        "question": "Approximately how many times smaller is the mass of an electron compared to a proton or neutron?",
+        "options": [
+            "10 times smaller",
+            "100 times smaller",
+            "2000 times smaller",
+            "10,000 times smaller"
+        ],
+        "answer": "2000 times smaller"
+    },
+    {
+        "question": "The atomic mass scale is currently based on which atom having a mass of exactly 12 amu?",
+        "options": [
+            "Hydrogen-1 ($\text{}^{1}\text{H}$)",
+            "Oxygen-16 ($\text{}^{16}\text{O}$)",
+            "Carbon-12 ($\text{}^{12}\text{C}$)",
+            "Lithium-6 ($\text{}^{6}\text{Li}$)"
+        ],
+        "answer": "Carbon-12 ($\text{}^{12}\text{C}$)"
+    },
+    {
+        "question": "In the nuclide notation $\\text{}_{\text{Z}}^{\text{A}}\text{X}$, what does the symbol 'A' represent?",
+        "options": [
+            "Atomic Number",
+            "Chemical Symbol",
+            "Number of Electrons",
+            "Mass Number (Protons + Neutrons)"
+        ],
+        "answer": "Mass Number (Protons + Neutrons)"
+    },
+    {
+        "question": "Atoms of the same element that have the same atomic number (Z) but different mass numbers (A) are called:",
+        "options": [
+            "Ions",
+            "Isomers",
+            "Isotopes",
+            "Nucleons"
+        ],
+        "answer": "Isotopes"
+    },
+    {
+        "question": "An element is defined as a substance that contains only one type of:",
+        "options": [
+            "Molecule",
+            "Proton",
+            "Atom",
+            "Compound"
+        ],
+        "answer": "Atom"
+    },
+    {
+        "question": "Which type of radiation causes ionization when it interacts with matter?",
+        "options": [
+            "Non-ionizing radiation",
+            "Thermal energy",
+            "Ionizing radiation",
+            "Visible light"
+        ],
+        "answer": "Ionizing radiation"
+    },
+    {
+        "question": "In the context of radiation, what is 'ionization'?",
+        "options": [
+            "The addition of a proton to an atom",
+            "The removal of an electron from an atom",
+            "The transition of an electron to a higher orbit",
+            "The spontaneous decay of a nucleus"
+        ],
+        "answer": "The removal of an electron from an atom"
+    },
+    {
+        "question": "Which scientists discovered the radioactive elements Polonium and Radium in 1898?",
+        "options": [
+            "W.C. Röntgen",
+            "Henri Becquerel",
+            "Pierre and Marie Curie",
+            "A. Einstein"
+        ],
+        "answer": "Pierre and Marie Curie"
+    },
+    {
+        "question": "What is the reason a nuclide is considered unstable?",
+        "options": [
+            "It has too many electrons orbiting the nucleus",
+            "The ratio of neutrons-to-protons (n/p) is incorrect for stability",
+            "It has a mass greater than 100 amu",
+            "It is a man-made element"
+        ],
+        "answer": "The ratio of neutrons-to-protons (n/p) is incorrect for stability"
+    },
+    {
+        "question": "Beta radiation ($\\beta^-$) is typically emitted when the neutron-to-proton (n/p) ratio in a nucleus is:",
+        "options": [
+            "Too low for stability",
+            "Exactly 1:1",
+            "Too high for stability",
+            "Zero"
+        ],
+        "answer": "Too high for stability"
+    },
+    {
+        "question": "Positron emission ($\\beta^+$) or electron capture occurs when the neutron-to-proton (n/p) ratio in a nucleus is:",
+        "options": [
+            "Too low for stability",
+            "Exactly 1:1",
+            "Too high for stability",
+            "Exactly 2:1"
+        ],
+        "answer": "Too low for stability"
+    },
+    {
+        "question": "What is the definition of 'Radioactivity'?",
+        "options": [
+            "The transformation of a nucleus after chemical reaction",
+            "The property of certain nuclides of spontaneously emitting ionising radiation",
+            "The loss of energy due to friction with matter",
+            "The creation of X-rays from electron braking"
+        ],
+        "answer": "The property of certain nuclides of spontaneously emitting ionising radiation"
+    },
+    {
+        "question": "What is the S.I. unit for Radionuclide activity?",
+        "options": [
+            "Gray (Gy)",
+            "Sievert (Sv)",
+            "Becquerel (Bq)",
+            "Curie (Ci)"
+        ],
+        "answer": "Becquerel (Bq)"
+    },
+    {
+        "question": "How many Becquerels ($\text{Bq}$) are equal to one Curie ($\text{Ci}$)?",
+        "options": [
+            "$3.7 \\times 10^{6} \text{ Bq}$",
+            "$1.0 \times 10^{10} \text{ Bq}$",
+            "$3.7 \\times 10^{10} \text{ Bq}$",
+            "$1.0 \times 10^{12} \text{ Bq}$"
+        ],
+        "answer": "$3.7 \\times 10^{10} \text{ Bq}$"
+    },
+    {
+        "question": "What does $T_{1/2}$ represent in the radioactive decay law?",
+        "options": [
+            "Total Time",
+            "Decay Constant",
+            "Activity at Time $t$",
+            "Half-life"
+        ],
+        "answer": "Half-life"
+    },
+    {
+        "question": "What is the mathematical relationship between the decay constant ($\\lambda$) and the half-life ($T_{1/2}$)?",
+        "options": [
+            "$\\lambda = 0.693 + T_{1/2}$",
+            "$\\lambda = 0.693 / T_{1/2}$",
+            "$\\lambda = T_{1/2} / 0.693$",
+            "$\\lambda = T_{1/2} \\times 0.693$"
+        ],
+        "answer": "$\\lambda = 0.693 / T_{1/2}$"
+    },
+    {
+        "question": "The half-life ($T_{1/2}$) of a radionuclide is defined as the time for its activity to reduce by:",
+        "options": [
+            "One quarter",
+            "Half",
+            "One tenth",
+            "Three quarters"
+        ],
+        "answer": "Half"
+    },
+    {
+        "question": "If a radionuclide has a half-life of 30 days, what fraction of the initial activity will remain after 90 days?",
+        "options": [
+            "1/2",
+            "1/4",
+            "1/8",
+            "1/16"
+        ],
+        "answer": "1/8"
+    },
+    {
+        "question": "Alpha particles are composed of:",
+        "options": [
+            "A high speed electron",
+            "An energetic photon",
+            "A Helium nucleus (2 protons and 2 neutrons)",
+            "A single proton"
+        ],
+        "answer": "A Helium nucleus (2 protons and 2 neutrons)"
+    },
+    {
+        "question": "Which characteristic makes alpha particles primarily an internal hazard rather than an external one?",
+        "options": [
+            "They are neutral particles",
+            "They are electromagnetic waves",
+            "They have a high mass and short range in media",
+            "They have a continuous energy spectrum"
+        ],
+        "answer": "They have a high mass and short range in media"
+    },
+    {
+        "question": "Which of the following describes alpha particles' mechanism of ionization?",
+        "options": [
+            "Indirectly ionizing by producing recoil nuclei",
+            "Indirectly ionizing by producing $\\delta$-electrons",
+            "Directly ionizing particles",
+            "Interacting only through Pair Production"
+        ],
+        "answer": "Directly ionizing particles"
+    },
+    {
+        "question": "Compared to alpha particles, why do beta particles produce less ionization per unit length?",
+        "options": [
+            "Because of their larger mass and charge",
+            "Because they are neutral particles",
+            "Because of their smaller mass and charge",
+            "Because they interact only by the photoelectric effect"
+        ],
+        "answer": "Because of their smaller mass and charge"
+    },
+    {
+        "question": "The energy spectrum of beta particles ($\beta$) is described as:",
+        "options": [
+            "Discrete and singular energy",
+            "Discrete and multiple energies",
+            "Continuous energy distribution",
+            "Exponentially increasing with time"
+        ],
+        "answer": "Continuous energy distribution"
+    },
+    {
+        "question": "What is the term for the X-rays produced when high-speed electrons (beta particles) slow down due to interaction with the nuclear field in dense material?",
+        "options": [
+            "Characteristic X-rays",
+            "Compton X-rays",
+            "Bremsstrahlung X-rays",
+            "Photoelectric X-rays"
+        ],
+        "answer": "Bremsstrahlung X-rays"
+    },
+    {
+        "question": "Beta particles constitute an external hazard if their energy is greater than:",
+        "options": [
+            "70 keV (penetrates dead skin layer)",
+            "10 MeV (maximum energy)",
+            "0.511 MeV (rest mass energy)",
+            "4 MeV (typical alpha energy)"
+        ],
+        "answer": "70 keV (penetrates dead skin layer)"
+    },
+    {
+        "question": "Characteristic X-rays originate from which part of the atom?",
+        "options": [
+            "The nucleus",
+            "The valence shell",
+            "Orbital electron de-excitation or transition",
+            "The proton"
+        ],
+        "answer": "Orbital electron de-excitation or transition"
+    },
+    {
+        "question": "Gamma ($\\gamma$) rays originate from which part of the atom?",
+        "options": [
+            "Excited orbital electrons",
+            "The nucleus (excited state)",
+            "Collision with the nuclear field",
+            "A point source in a vacuum"
+        ],
+        "answer": "The nucleus (excited state)"
+    },
+    {
+        "question": "To shield against X and Gamma rays, what type of materials is generally recommended?",
+        "options": [
+            "Low-Z materials (Z<13)",
+            "High-Z materials",
+            "Materials with an equal number of neutrons and protons",
+            "Low density materials"
+        ],
+        "answer": "High-Z materials"
+    },
+    {
+        "question": "Which photon interaction involves the photon transferring **all** of its energy to an atomic electron, causing ionization?",
+        "options": [
+            "Compton Scattering",
+            "Pair Production",
+            "Bremsstrahlung",
+            "Photoelectric Effect"
+        ],
+        "answer": "Photoelectric Effect"
+    },
+    {
+        "question": "Which photon interaction results in the original photon transferring only **part** of its energy to an electron, and the rest is radiated as a lower energy photon in a different direction?",
+        "options": [
+            "Compton Scattering",
+            "Pair Production",
+            "Photoelectric Effect",
+            "Recoil Proton Production"
+        ],
+        "answer": "Compton Scattering"
+    },
+    {
+        "question": "For Pair Production to occur, the incoming photon must have an energy greater than:",
+        "options": [
+            "0.070 MeV",
+            "0.511 MeV",
+            "1.02 MeV",
+            "4.0 MeV"
+        ],
+        "answer": "1.02 MeV"
+    },
+    {
+        "question": "Neutrons are considered indirectly ionizing because they interact with matter to produce:",
+        "options": [
+            "Characteristic X-rays",
+            "Photoelectrons",
+            "Recoil nuclei (which cause ionization)",
+            "Gamma rays only"
+        ],
+        "answer": "Recoil nuclei (which cause ionization)"
+    },
+    {
+        "question": "Which classification of neutrons corresponds to energies $\\text{E} \\le 0.025 \text{ eV}$?",
+        "options": [
+            "Relativistic",
+            "Fast",
+            "Resonance or intermediate",
+            "Slow or thermal"
+        ],
+        "answer": "Slow or thermal"
+    },
+    {
+        "question": "The S.I. unit for the quantity 'Absorbed Dose (D)' is:",
+        "options": [
+            "Roentgen (R)",
+            "Curie (Ci)",
+            "Sievert (Sv)",
+            "Gray (Gy)"
+        ],
+        "answer": "Gray (Gy)"
+    },
+    {
+        "question": "The quantity 'Exposure (X)' is only applicable to which type of radiation?",
+        "options": [
+            "Alpha particles",
+            "Neutrons",
+            "Electrons",
+            "Photons (in air)"
+        ],
+        "answer": "Photons (in air)"
+    },
+    {
+        "question": "The S.I. unit for the quantity 'Exposure (X)' is $\\text{C } \text{kg}^{-1}$. What was the old unit?",
+        "options": [
+            "Rad",
+            "Rem",
+            "Roentgen (R)",
+            "Becquerel (Bq)"
+        ],
+        "answer": "Roentgen (R)"
+    },
+    {
+        "question": "One Gray (Gy) of absorbed dose is equivalent to how many rad?",
+        "options": [
+            "1 rad",
+            "10 rad",
+            "100 rad",
+            "1000 rad"
+        ],
+        "answer": "100 rad"
+    },
+    {
+        "question": "What is the formula used to calculate Equivalent Dose (H) in tissue?",
+        "options": [
+            "$H = A_0 \\cdot e^{-\\lambda t}$",
+            "$H = D / W_R$",
+            "$H = D \\times W_R$",
+            "$H = I_{1} \\cdot (d_{1})^{2}$"
+        ],
+        "answer": "$H = D \\times W_R$"
+    },
+    {
+        "question": "What is the S.I. unit for the quantity 'Equivalent Dose (H)'?",
+        "options": [
+            "Gray (Gy)",
+            "Roentgen (R)",
+            "Sievert (Sv)",
+            "Curie (Ci)"
+        ],
+        "answer": "Sievert (Sv)"
+    },
+    {
+        "question": "What is the Radiation Weighting Factor ($W_R$) for photons of all energies?",
+        "options": [
+            "1",
+            "5",
+            "10",
+            "20"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "What is the Radiation Weighting Factor ($W_R$) for alpha particles?",
+        "options": [
+            "1",
+            "5",
+            "10",
+            "20"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "What percentage of the average annual global radiation dose is attributed to natural radiation sources?",
+        "options": [
+            "11.0%",
+            "48.3%",
+            "88.5%",
+            "99.7%"
+        ],
+        "answer": "88.5%"
+    },
+    {
+        "question": "Which naturally occurring source is the largest contributor to the average yearly global radiation dose (48.3%)?",
+        "options": [
+            "Cosmic rays",
+            "Radon",
+            "Gamma rays from soil/rock",
+            "Internal dose from food/drink"
+        ],
+        "answer": "Radon"
+    },
+    {
+        "question": "Which of the following is an example of a man-made radiation source?",
+        "options": [
+            "Cosmic rays",
+            "Radon gas",
+            "Radioactivity of uranium",
+            "Medical X-rays"
+        ],
+        "answer": "Medical X-rays"
+    }
+]

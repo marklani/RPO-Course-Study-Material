@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What is the annual dose limit for an individual worker as required by Act 304, Basic Safety Radiation Protection (BSRP) 2010?",
+        "options": [
+            "10 mSv/y",
+            "20 mSv/y",
+            "50 mSv/y",
+            "100 mSv/y"
+        ],
+        "answer": "20 mSv/y"
+    },
+    {
+        "question": "According to BSRP 2010, what is the definition of 'external exposure'?",
+        "options": [
+            "Exposure from a radiation source inside the body.",
+            "Exposure from natural background radiation only.",
+            "Exposure resulting from a radiation source outside the body.",
+            "The amount of ionization produced in the air by ionizing radiation."
+        ],
+        "answer": "Exposure resulting from a radiation source outside the body."
+    },
+    {
+        "question": "Personnel monitoring is required to be carried out on all personnel who work in which type of areas?",
+        "options": [
+            "Public areas (and selectively in restricted areas).",
+            "Controlled areas (and selectively in supervised areas).",
+            "Administrative areas (and selectively in controlled areas).",
+            "Outdoor areas (and selectively in indoor areas)."
+        ],
+        "answer": "Controlled areas (and selectively in supervised areas)."
+    },
+    {
+        "question": "What does the term 'exposure' mean according to BSRP 2010?",
+        "options": [
+            "The density of radioactive material in the air.",
+            "Either the act or condition of being subject to irradiation, or the amount of ionization produced in the air by ionizing radiation.",
+            "The energy level of the radiation source.",
+            "The time spent working with radiation sources."
+        ],
+        "answer": "Either the act or condition of being subject to irradiation, or the amount of ionization produced in the air by ionizing radiation."
+    },
+    {
+        "question": "Which of the following is an objective of personnel monitoring?",
+        "options": [
+            "To reduce the cost of personal protective equipment.",
+            "To observe the trends of exposure histories of individuals or groups of workers.",
+            "To promote the use of new radiation technologies.",
+            "To determine the half-life of radioactive materials."
+        ],
+        "answer": "To observe the trends of exposure histories of individuals or groups of workers."
+    },
+    {
+        "question": "One objective of personnel monitoring is to provide a record of information that may be needed for legal or what other purposes?",
+        "options": [
+            "Financial purposes.",
+            "Epidemiological purposes.",
+            "Engineering purposes.",
+            "Auditing purposes."
+        ],
+        "answer": "Epidemiological purposes."
+    },
+    {
+        "question": "What does personnel monitoring information help to improve among workers?",
+        "options": [
+            "Their salary.",
+            "Their attitudes toward radiation protection.",
+            "Their communication skills.",
+            "Their production efficiency."
+        ],
+        "answer": "Their attitudes toward radiation protection."
+    },
+    {
+        "question": "What specific type of information does personnel monitoring aim to provide in the event of accidental over exposure?",
+        "options": [
+            "Information for medical treatment.",
+            "Information about the source's activity.",
+            "Information about the date and time of the over exposure.",
+            "Information in the event of accidental over exposure."
+        ],
+        "answer": "Information in the event of accidental over exposure."
+    },
+    {
+        "question": "Monitoring exposure history trends helps assess the need for which standard?",
+        "options": [
+            "Improved radiation protection standards.",
+            "Improved industrial safety standards.",
+            "Improved dose recording equipment.",
+            "Improved emergency response training."
+        ],
+        "answer": "Improved radiation protection standards."
+    },
+    {
+        "question": "External monitoring is defined as the measurement of dose due to sources located where?",
+        "options": [
+            "Deep inside the body.",
+            "Outside the body.",
+            "In the immediate vicinity of the source.",
+            "Underneath the skin surface."
+        ],
+        "answer": "Outside the body."
+    },
+    {
+        "question": "Which of the following is classified under Partial body (extremity) monitoring for external radiation?",
+        "options": [
+            "Whole body Counter (WBC)",
+            "Film badge",
+            "TLD ring",
+            "OSL Badge"
+        ],
+        "answer": "TLD ring"
+    },
+    {
+        "question": "Whole body monitoring for internal radiation primarily uses which instrument/method?",
+        "options": [
+            "Surface contamination meter",
+            "Whole body Counter (WBC)",
+            "Pocket Dosimeter",
+            "Film badge"
+        ],
+        "answer": "Whole body Counter (WBC)"
+    },
+    {
+        "question": "What are the two main types of monitoring methods listed under **Internal** monitoring?",
+        "options": [
+            "Wipe test and Bioassay",
+            "Whole body/Partial body counting and Bioassay",
+            "TLD and Film Badge",
+            "Active and Passive Dosimeters"
+        ],
+        "answer": "Whole body/Partial body counting and Bioassay"
+    },
+    {
+        "question": "Which of the following is listed as a **Passive** instrument for whole body external radiation monitoring?",
+        "options": [
+            "Electronic Personnel Dosimeter (EPD)",
+            "Pocket Dosimeter",
+            "Optically Stimulated Luminescence Dosimeter (OSLD)",
+            "Hand and foot monitor"
+        ],
+        "answer": "Optically Stimulated Luminescence Dosimeter (OSLD)"
+    },
+    {
+        "question": "Which material is commonly used for the filters in a Film Badge holder (e.g., PTW-type)?",
+        "options": [
+            "Plastic and Aluminum",
+            "Copper and Lead",
+            "Glass and Silicon",
+            "Carbon and Boron"
+        ],
+        "answer": "Copper and Lead"
+    },
+    {
+        "question": "A film pack in a Film Badge uses two pieces of film of differing what?",
+        "options": [
+            "Weight",
+            "Color",
+            "Sensitivity",
+            "Thickness"
+        ],
+        "answer": "Sensitivity"
+    },
+    {
+        "question": "The less sensitive film in a Film Badge is used for abnormal exposure up to what maximum dose?",
+        "options": [
+            "1 mSv",
+            "10 mSv",
+            "100 mSv",
+            "1 Sv"
+        ],
+        "answer": "1 Sv"
+    },
+    {
+        "question": "The emulsion of a Film Badge consists of microscopic grains of what chemical compound?",
+        "options": [
+            "Silver Iodide (AgI)",
+            "Silver Bromide (AgBr)",
+            "Lithium Fluoride (LiF)",
+            "Zinc Sulfide (ZnS)"
+        ],
+        "answer": "Silver Bromide (AgBr)"
+    },
+    {
+        "question": "After chemical processing, the radiation absorbed by individual silver crystals causes what to appear?",
+        "options": [
+            "A latent image",
+            "A dark image",
+            "A glow curve",
+            "An electrical signal"
+        ],
+        "answer": "A dark image"
+    },
+    {
+        "question": "The darkening of the film is measured using which instrument?",
+        "options": [
+            "Electrometer",
+            "TLD Reader",
+            "Scintillation Counter",
+            "Densitometer"
+        ],
+        "answer": "Densitometer"
+    },
+    {
+        "question": "Dose to the film in a Film Badge is determined by the measurement of which quantity?",
+        "options": [
+            "Optical Density (O.D.)",
+            "Energy Resolution",
+            "Temperature",
+            "Current Flow"
+        ],
+        "answer": "Optical Density (O.D.)"
+    },
+    {
+        "question": "The size of the silver bromide grains for a **sensitive** film is approximately what value?",
+        "options": [
+            "$\\approx 0.1 \\mu m$",
+            "$\\approx 1 \\mu m$",
+            "$\\approx 10 \\mu m$",
+            "$\\approx 100 \\mu m$"
+        ],
+        "answer": "$\\approx 1 \\mu m$"
+    },
+    {
+        "question": "The chemical process for a Film Badge converts the invisible latent image into a visible image by converting $\\text{Ag}^{+}$ ions to what?",
+        "options": [
+            "Ag atoms",
+            "AgI molecules",
+            "AgBr crystals",
+            "Ag salt"
+        ],
+        "answer": "Ag atoms"
+    },
+    {
+        "question": "What is the primary function of the holder in a Film Badge?",
+        "options": [
+            "To contain the chemical solutions for development.",
+            "To incorporate filters for distinguishing radiation types.",
+            "To generate a visible light signal.",
+            "To provide a permanent record of the dose."
+        ],
+        "answer": "To incorporate filters for distinguishing radiation types."
+    },
+    {
+        "question": "In a Thermoluminescence Dosimeter (TLD), the amount of light emitted is proportional to what value?",
+        "options": [
+            "The ambient temperature.",
+            "The duration of exposure.",
+            "The amount of radiation absorbed (dose).",
+            "The pressure on the crystal."
+        ],
+        "answer": "The amount of radiation absorbed (dose)."
+    },
+    {
+        "question": "What process is applied to a TLD at a specific temperature to free trapped electrons and cause them to emit visible light or photons?",
+        "options": [
+            "Applying a magnetic field.",
+            "Exposure to green light.",
+            "Chemical development.",
+            "Heating."
+        ],
+        "answer": "Heating."
+    },
+    {
+        "question": "When trapped electrons in a TLD release energy, they are returning to which state?",
+        "options": [
+            "A higher energy state.",
+            "Their normal or ground state.",
+            "A conductive state.",
+            "A metallic state."
+        ],
+        "answer": "Their normal or ground state."
+    },
+    {
+        "question": "The graph of luminescent light output versus temperature from a TLD reader is called a what?",
+        "options": [
+            "Dose Curve",
+            "Glow Curve",
+            "Decay Curve",
+            "Saturation Curve"
+        ],
+        "answer": "Glow Curve"
+    },
+    {
+        "question": "What area on the 'glow curve' is used as a measure of dose in TLD?",
+        "options": [
+            "The peak height of the curve.",
+            "The area under the glow curve.",
+            "The initial temperature.",
+            "The total light output."
+        ],
+        "answer": "The area under the glow curve."
+    },
+    {
+        "question": "What material is normally used for personnel monitoring TLDs due to its tissue-equivalent properties?",
+        "options": [
+            "Sodium Iodide (NaI)",
+            "Lithium Fluoride (LiF)",
+            "Silver Bromide (AgBr)",
+            "Calcium Sulfate ($\\text{CaSO}_4$)"
+        ],
+        "answer": "Lithium Fluoride (LiF)"
+    },
+    {
+        "question": "OSLD and TLD are similar in that they both absorb energy from ionizing radiation by what initial process?",
+        "options": [
+            "Generating a latent image.",
+            "Causing chemical decomposition.",
+            "Trapping excited electrons.",
+            "Undergoing immediate gas multiplication."
+        ],
+        "answer": "Trapping excited electrons."
+    },
+    {
+        "question": "Unlike TLD, which uses heat, OSLD releases trapped electrons by exposure to what type of light?",
+        "options": [
+            "Ultraviolet light from an $\\text{x}$-ray tube.",
+            "Red light from a filament bulb.",
+            "Green light from a laser or LED source.",
+            "Infrared light from a heating element."
+        ],
+        "answer": "Green light from a laser or LED source."
+    },
+    {
+        "question": "Why can multiple readings be obtained for one OSLD?",
+        "options": [
+            "The OSLD crystal is extremely thick.",
+            "The quantum nature of the process results in only a small fraction of the stored energy being released per reading.",
+            "The device is automatically reset after each reading.",
+            "The trapped electrons spontaneously return to ground state after reading."
+        ],
+        "answer": "The quantum nature of the process results in only a small fraction of the stored energy being released per reading."
+    },
+    {
+        "question": "Which ICRU quantity for personal dose equivalent is recommended for **strongly penetrating** radiation?",
+        "options": [
+            "Hp(0.07)",
+            "Hp(10)",
+            "Hp(3)",
+            "Hp(0.1)"
+        ],
+        "answer": "Hp(10)"
+    },
+    {
+        "question": "The personal dose equivalent Hp(0.07) is used to estimate the equivalent dose to which body part?",
+        "options": [
+            "The lens of the eye.",
+            "The deep organs.",
+            "The skin.",
+            "The stomach lining."
+        ],
+        "answer": "The skin."
+    },
+    {
+        "question": "Which type of dosimeter has the highest accuracy ($\\pm 5\\%$) according to the comparison table?",
+        "options": [
+            "Film badge",
+            "TLD/OSL badge",
+            "RPLGD",
+            "Pocket Dosimeter"
+        ],
+        "answer": "TLD/OSL badge"
+    },
+    {
+        "question": "What is the minimum detectable dose for a TLD/OSL badge, as stated in the comparison section?",
+        "options": [
+            "$\\approx 200 \\mu Sv$",
+            "$\\approx 10 \\mu Sv$",
+            "$\\approx 0.1 \\mu Sv$",
+            "$\\approx 1 \\mu Sv$"
+        ],
+        "answer": "$\\approx 10 \\mu Sv$"
+    },
+    {
+        "question": "Which type of passive dosimeter is explicitly stated as NOT reusable?",
+        "options": [
+            "TLD",
+            "OSLD",
+            "RPLGD",
+            "Film badge"
+        ],
+        "answer": "Film badge"
+    },
+    {
+        "question": "The filter configuration of TLD/OSL badges is designed to agree with which ICRU quantities?",
+        "options": [
+            "Effective Dose only.",
+            "Hp(10) and Hp(0.07) only.",
+            "Hp(10), Hp(3) and Hp(0.07).",
+            "Hp(0.07) only."
+        ],
+        "answer": "Hp(10), Hp(3) and Hp(0.07)."
+    },
+    {
+        "question": "Hp(10) is specifically used to provide an estimate of which dose quantity?",
+        "options": [
+            "Skin dose.",
+            "Lens of the eye dose.",
+            "Effective dose.",
+            "Contamination dose."
+        ],
+        "answer": "Effective dose."
+    },
+    {
+        "question": "Where should the dosimeter be placed to be representative of the most highly exposed part of the surface of the torso?",
+        "options": [
+            "On the back of the body.",
+            "On the dominant wrist.",
+            "Between the waist and neck level (normally on the front of the body).",
+            "Inside a protective lead apron."
+        ],
+        "answer": "Between the waist and neck level (normally on the front of the body)."
+    },
+    {
+        "question": "Dosimeters not in use should be stored in which type of area?",
+        "options": [
+            "The nearest controlled area.",
+            "The administration office (clean area).",
+            "The personal locker for security.",
+            "A high-humidity storage unit."
+        ],
+        "answer": "The administration office (clean area)."
+    },
+    {
+        "question": "How often shall dosimeters be changed, as per general rules?",
+        "options": [
+            "Quarterly basis.",
+            "Annually.",
+            "On a monthly basis or on a duration as permitted by the authority.",
+            "Weekly basis."
+        ],
+        "answer": "On a monthly basis or on a duration as permitted by the authority."
+    },
+    {
+        "question": "Which type of exposure must dosimeters NOT be worn during, as stated in the general rules?",
+        "options": [
+            "Low-dose occupational exposure.",
+            "Non-occupational exposure (e.g., medical x-ray treatments).",
+            "Exposure during training sessions.",
+            "Exposure in a supervised area."
+        ],
+        "answer": "Non-occupational exposure (e.g., medical x-ray treatments)."
+    },
+    {
+        "question": "The general rules state that a personal dosimeter should never be used without its what?",
+        "options": [
+            "Manufacturer's manual.",
+            "Lanyard.",
+            "Holder.",
+            "Protective bag."
+        ],
+        "answer": "Holder."
+    },
+    {
+        "question": "Direct-reading dosimeters, such as the Pocket Dosimeter, should be treated as what to the approved personnel monitoring device?",
+        "options": [
+            "A primary device.",
+            "An alternative device.",
+            "An additional or a supplementary device.",
+            "A replacement device."
+        ],
+        "answer": "An additional or a supplementary device."
+    },
+    {
+        "question": "Personnel contaminated externally are monitored using a portable radiation monitor or a fixed monitor called what?",
+        "options": [
+            "Whole Body Counter (WBC)",
+            "Electronic Personnel Dosimeter (EPD)",
+            "Hand and foot monitor",
+            "Area Survey Meter"
+        ],
+        "answer": "Hand and foot monitor"
+    },
+    {
+        "question": "Whole-body counting systems are primarily designed to detect which type of radiation emitted by radionuclides taken into the body?",
+        "options": [
+            "Alpha radiation.",
+            "Neutron radiation.",
+            "Penetrating radiation (gamma/x-ray).",
+            "Non-ionizing radiation."
+        ],
+        "answer": "Penetrating radiation (gamma/x-ray)."
+    },
+    {
+        "question": "A partial body counter (chair type) uses detectors positioned to optimize measurement for three critical organs: lung, stomach, and what other organ?",
+        "options": [
+            "Brain",
+            "Thyroid",
+            "Kidney",
+            "Heart"
+        ],
+        "answer": "Thyroid"
+    },
+    {
+        "question": "According to record keeping requirements, the dose report $\\text{LPTA/BM/5}$ (Section B) shall be kept for how many years?",
+        "options": [
+            "10 years.",
+            "20 years.",
+            "30 years.",
+            "The duration of employment only."
+        ],
+        "answer": "30 years."
+    }
+]

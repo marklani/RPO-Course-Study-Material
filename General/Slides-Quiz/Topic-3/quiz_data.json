@@ -1,0 +1,502 @@
+[
+    {
+        "question": "The biological effect of ionizing radiation on a living organism begins at which level?",
+        "options": [
+            "The organ level",
+            "The whole body level",
+            "The ionization of atoms of the cell molecules",
+            "The tissue level"
+        ],
+        "answer": "The ionization of atoms of the cell molecules"
+    },
+    {
+        "question": "What is the physical process of converting an atom or molecule into an ion by removing charged particles such as electrons?",
+        "options": [
+            "Mutation",
+            "Free Radical formation",
+            "Ionization",
+            "Fractionation"
+        ],
+        "answer": "Ionization"
+    },
+    {
+        "question": "The application of radiation in Malaysia is predominantly used in which sector, accounting for 60%?",
+        "options": [
+            "Industrial",
+            "NDT (Non-Destructive Testing)",
+            "Medical",
+            "Academic research"
+        ],
+        "answer": "Medical"
+    },
+    {
+        "question": "In the human body's hierarchy of structure, which component directly follows 'Molecules'?",
+        "options": [
+            "Tissues",
+            "Organs",
+            "Human being",
+            "Human cells"
+        ],
+        "answer": "Human cells"
+    },
+    {
+        "question": "Which of the following is an example of electromagnetic (EM) ionizing radiation?",
+        "options": [
+            "Alpha particle",
+            "Proton",
+            "Gamma and X-ray",
+            "Neutron"
+        ],
+        "answer": "Gamma and X-ray"
+    },
+    {
+        "question": "At the molecular level, ionizing radiation can cause the formation of which highly reactive chemical species?",
+        "options": [
+            "Stabilized ions",
+            "Protein complexes",
+            "Free Radicals",
+            "Heavy metals"
+        ],
+        "answer": "Free Radicals"
+    },
+    {
+        "question": "What is the critical and strategic molecule in cell functions that is most often damaged by radiation?",
+        "options": [
+            "Cytoplasm",
+            "Cell membrane",
+            "DNA",
+            "Mitochondria"
+        ],
+        "answer": "DNA"
+    },
+    {
+        "question": "When a DNA strand break caused by radiation undergoes 'Incomplete' repair, what is the possible outcome?",
+        "options": [
+            "Cell division stops permanently",
+            "Possibility of future somatic/hereditary effects",
+            "Immediate cell death",
+            "The atom converts back into a stable molecule"
+        ],
+        "answer": "Possibility of future somatic/hereditary effects"
+    },
+    {
+        "question": "Which part of the human cell is described as the 'most radiosensitive' part?",
+        "options": [
+            "Cytoplasm",
+            "Cell membrane",
+            "Nucleus",
+            "Mitochondria"
+        ],
+        "answer": "Nucleus"
+    },
+    {
+        "question": "What is the end result of biological damage that may eventually cause cell death or induce an abnormal cell?",
+        "options": [
+            "Homeostasis",
+            "Mutation",
+            "Hydration",
+            "Metabolism"
+        ],
+        "answer": "Mutation"
+    },
+    {
+        "question": "In the context of radiation effects, what does LET stand for?",
+        "options": [
+            "Linear Energy Threshold",
+            "Low Exposure Time",
+            "Lethal Exposure Tolerance",
+            "Linear Energy Transfer"
+        ],
+        "answer": "Linear Energy Transfer"
+    },
+    {
+        "question": "Which type of radiation generally causes more damage due to its high LET value?",
+        "options": [
+            "Gamma and X-rays",
+            "Alpha and neutron",
+            "Visible light",
+            "Radio waves"
+        ],
+        "answer": "Alpha and neutron"
+    },
+    {
+        "question": "Why do Gamma and X-rays cause damage to internal organs compared to Alpha and Beta radiation?",
+        "options": [
+            "They have a higher mass",
+            "They are neutral particles",
+            "They have deeper penetration",
+            "They cause less ionization"
+        ],
+        "answer": "They have deeper penetration"
+    },
+    {
+        "question": "A $10 \\text{ Sv}$ dose delivered over $50 \\text{ years}$ (chronic exposure) will typically result in which of the following acute effects?",
+        "options": [
+            "100% death",
+            "Severe internal bleeding",
+            "No acute effect",
+            "Immediate hospitalization"
+        ],
+        "answer": "No acute effect"
+    },
+    {
+        "question": "Compared to uniform irradiation of the whole body, a partial body irradiation for the same dose will usually result in:",
+        "options": [
+            "Higher likelihood of health effects",
+            "Milder effects on the whole body",
+            "No effect at all",
+            "Immediate cell death"
+        ],
+        "answer": "Milder effects on the whole body"
+    },
+    {
+        "question": "If a similar dose is received in a matter of minutes (acute exposure) compared to days or weeks (fractionated dose), the damage is generally considered:",
+        "options": [
+            "More serious",
+            "Less serious",
+            "Identical",
+            "Repairable only in chronic case"
+        ],
+        "answer": "More serious"
+    },
+    {
+        "question": "Which of the following is listed as a Physical Factor that may modify radiation effects?",
+        "options": [
+            "Types of cells exposed",
+            "Radiation dose (or total dosage)",
+            "The age of the individual exposed",
+            "The presence of radiation sensitizers"
+        ],
+        "answer": "Radiation dose (or total dosage)"
+    },
+    {
+        "question": "The fact that $10 \\text{ Sv}$ delivered over $48 \\text{ hours}$ causes less than $100\\%$ death compared to $10 \\text{ Sv}$ delivered acutely demonstrates the importance of which physical factor?",
+        "options": [
+            "Type of radiation",
+            "Total radiation dosage",
+            "Dose fractionation",
+            "LET value"
+        ],
+        "answer": "Dose fractionation"
+    },
+    {
+        "question": "A higher total radiation dosage received leads to a higher likelihood of which outcome?",
+        "options": [
+            "Faster cellular repair",
+            "Lower LET value",
+            "Higher likelihood of health effects",
+            "Lower probability of mutation"
+        ],
+        "answer": "Higher likelihood of health effects"
+    },
+    {
+        "question": "In dosimetry, LET (Linear Energy Transfer) describes the action of radiation into:",
+        "options": [
+            "Vacuum",
+            "Air",
+            "Matter",
+            "Magnetic field"
+        ],
+        "answer": "Matter"
+    },
+    {
+        "question": "Which of the following is considered the MOST resistant (least sensitive) cell type to radiation?",
+        "options": [
+            "Lymphocytes",
+            "Basal cells",
+            "Actively dividing cells of the gonads",
+            "Muscle & nerve cells"
+        ],
+        "answer": "Muscle & nerve cells"
+    },
+    {
+        "question": "Which type of cells are generally more sensitive to radiation?",
+        "options": [
+            "Highly specialised cells",
+            "Cells with a high division rate",
+            "Cells with a low metabolic rate",
+            "Muscle and nerve cells"
+        ],
+        "answer": "Cells with a high division rate"
+    },
+    {
+        "question": "As a person ages, cell division slows, making the body generally less sensitive to the effects of ionizing radiation. This relates to which modifying factor?",
+        "options": [
+            "Environmental factor",
+            "Physical factor",
+            "The age of the individual exposed",
+            "Part of the body exposed"
+        ],
+        "answer": "The age of the individual exposed"
+    },
+    {
+        "question": "Which part of the body can receive a greater amount of radiation with less resulting damage?",
+        "options": [
+            "Blood forming organs housed in the torso",
+            "Extremities such as hands or feet",
+            "The entire head and neck region",
+            "The chest cavity"
+        ],
+        "answer": "Extremities such as hands or feet"
+    },
+    {
+        "question": "Lymphocytes are classified as having which level of sensitivity to radiation?",
+        "options": [
+            "Most resistant",
+            "Intermediate sensitivity",
+            "Low sensitivity",
+            "Highly sensitive"
+        ],
+        "answer": "Highly sensitive"
+    },
+    {
+        "question": "Which of the following are examples of non-specialized cells that tend to be more sensitive to radiation?",
+        "options": [
+            "Nerve tissue",
+            "Muscle tissue",
+            "Skin and hair cells",
+            "Hepatocytes"
+        ],
+        "answer": "Skin and hair cells"
+    },
+    {
+        "question": "Why are children more susceptible to the detrimental effects of radiation than adults?",
+        "options": [
+            "They have a higher metabolic rate",
+            "Their cell division is slower",
+            "Their tissues are fully differentiated",
+            "They have less blood forming organs"
+        ],
+        "answer": "They have a higher metabolic rate"
+    },
+    {
+        "question": "The Oxygen Enhancement Ratio (OER) is a factor in which category of factors that modify radiation effects?",
+        "options": [
+            "Physical Factors",
+            "Biological Factors",
+            "Environmental Factors",
+            "Genetic Factors"
+        ],
+        "answer": "Environmental Factors"
+    },
+    {
+        "question": "Actively dividing cells of the gonads, bone marrow, and skin are classified as having which level of sensitivity?",
+        "options": [
+            "Highly resistant",
+            "Low sensitivity",
+            "High sensitivity",
+            "Zero sensitivity"
+        ],
+        "answer": "High sensitivity"
+    },
+    {
+        "question": "The presence of radiation sensitizers and protectors, such as oxygen concentration, falls under which category of modifying factors?",
+        "options": [
+            "Physical factors",
+            "Biological factors",
+            "Environmental factors",
+            "Dosimetry factors"
+        ],
+        "answer": "Environmental factors"
+    },
+    {
+        "question": "Which category of biological effects is experienced by the exposed individual, such as skin burn and hair loss?",
+        "options": [
+            "Hereditary effects",
+            "Genetic effects",
+            "Somatic effects",
+            "Delayed effects"
+        ],
+        "answer": "Somatic effects"
+    },
+    {
+        "question": "Hereditary effects of IR are considered significant only if which cells are irradiated?",
+        "options": [
+            "Skin cells",
+            "Somatic cells",
+            "Gonads (containing sperms/eggs)",
+            "Nerve cells"
+        ],
+        "answer": "Gonads (containing sperms/eggs)"
+    },
+    {
+        "question": "Skin inflammation resulting from acute radiation exposure, seen in a short period (e.g., 1 week), is an example of which type of somatic effect?",
+        "options": [
+            "Delayed somatic effect",
+            "Dominant hereditary effect",
+            "Prompt somatic effect",
+            "Recessive genetic effect"
+        ],
+        "answer": "Prompt somatic effect"
+    },
+    {
+        "question": "Long-term or delayed somatic effects include which major health outcome?",
+        "options": [
+            "Acute Radiation Syndrome",
+            "Sterility",
+            "Cataract formation",
+            "Cancer"
+        ],
+        "answer": "Cancer"
+    },
+    {
+        "question": "Which type of hereditary mutation may be expressed as a fatality in the first generation after exposure?",
+        "options": [
+            "Recessive mutation",
+            "Somatic mutation",
+            "Dominant mutation",
+            "Chromosome mutation"
+        ],
+        "answer": "Dominant mutation"
+    },
+    {
+        "question": "Stochastic effects are described as health effects that occur by chance, meaning they are what in nature?",
+        "options": [
+            "Linear",
+            "Predictable",
+            "Probabilistic",
+            "Inverse"
+        ],
+        "answer": "Probabilistic"
+    },
+    {
+        "question": "A key characteristic of Deterministic (Non-stochastic) effects is that they have a threshold dose below which they do not occur, and the severity is directly proportional to:",
+        "options": [
+            "The LET value",
+            "The size of the dose received",
+            "The individual's age",
+            "The dose rate"
+        ],
+        "answer": "The size of the dose received"
+    },
+    {
+        "question": "Which of the following is an example of a Stochastic effect?",
+        "options": [
+            "Erythema",
+            "Sterility",
+            "Cancers",
+            "Radiation sickness"
+        ],
+        "answer": "Cancers"
+    },
+    {
+        "question": "For which health effect category does a threshold dose not exist?",
+        "options": [
+            "Stochastic effects",
+            "Deterministic effects",
+            "Short-term somatic effects",
+            "Acute radiation syndrome"
+        ],
+        "answer": "Stochastic effects"
+    },
+    {
+        "question": "According to the ICRP cancer risk estimates provided, which cancer type has the highest probability of fatal cancer per $10^{-4} \\text{ Sv}^{-1}$?",
+        "options": [
+            "Lung",
+            "Colon",
+            "Stomach",
+            "Bone Marrow"
+        ],
+        "answer": "Stomach"
+    },
+    {
+        "question": "The latent period for radiation-induced leukemia in man is estimated to be about:",
+        "options": [
+            "30 days",
+            "1 year",
+            "8 years",
+            "50 years"
+        ],
+        "answer": "8 years"
+    },
+    {
+        "question": "Which of the following conditions is an example of a Deterministic effect?",
+        "options": [
+            "Genetic mutation in future generations",
+            "Carcinogenesis",
+            "Cataract formation",
+            "Leukemia"
+        ],
+        "answer": "Cataract formation"
+    },
+    {
+        "question": "For men, a radiation exposure of $2.5 \\text{ Gy}$ to the testes will cause which deterministic effect?",
+        "options": [
+            "Permanent sterility",
+            "Cataract formation",
+            "Temporary sterility for 1-2 years",
+            "Severe skin burn"
+        ],
+        "answer": "Temporary sterility for 1-2 years"
+    },
+    {
+        "question": "For Stochastic effects, what happens to the probability of its occurrence as the radiation dose increases?",
+        "options": [
+            "The probability decreases",
+            "The probability is not affected by dose",
+            "The probability increases proportionally",
+            "The probability remains constant"
+        ],
+        "answer": "The probability increases proportionally"
+    },
+    {
+        "question": "Carcinogenesis is defined as the process by which normal, healthy cells transform into:",
+        "options": [
+            "Highly specialized nerve cells",
+            "Connective tissue cells",
+            "Cancer cells",
+            "Fully differentiated cells"
+        ],
+        "answer": "Cancer cells"
+    },
+    {
+        "question": "The symptoms of radiation injuries due to acute radiation exposure are collectively referred to as:",
+        "options": [
+            "Chronic Disease Syndrome (CDS)",
+            "Acute Radiation Syndrome (ARS)",
+            "Delayed Somatic Effect (DSE)",
+            "Genetic Hazard Index (GHI)"
+        ],
+        "answer": "Acute Radiation Syndrome (ARS)"
+    },
+    {
+        "question": "One of the symptoms of ARS is nausea, diarrhea, and vomiting, due to the extreme sensitivity of which part of the body to high doses of radiation?",
+        "options": [
+            "The brain and central nervous system",
+            "The bone marrow",
+            "The GI tract",
+            "The skin"
+        ],
+        "answer": "The GI tract"
+    },
+    {
+        "question": "At a whole body dose of $3,000-6,000 \\text{ mSv}$, what is the likelihood of death within 60 days for $50\\%$ of people?",
+        "options": [
+            "Highly unlikely",
+            "Likely",
+            "Certain",
+            "Impossible"
+        ],
+        "answer": "Likely"
+    },
+    {
+        "question": "An acute high dose exposure to the whole body that causes ARS is typically defined as a dose greater than:",
+        "options": [
+            "0.5 Sv",
+            "10.0 Sv",
+            "100 mSv",
+            "250 mSv"
+        ],
+        "answer": "0.5 Sv"
+    },
+    {
+        "question": "According to the life expectancy lost comparison, which activity causes the greatest loss of life expectancy?",
+        "options": [
+            "Occupational exposure (3 mSv/y)",
+            "Natural hazard",
+            "Alcohol",
+            "Smoking 20 cig./day"
+        ],
+        "answer": "Smoking 20 cig./day"
+    }
+]

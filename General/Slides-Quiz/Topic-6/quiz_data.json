@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What is one of the primary objectives of establishing a radiological monitoring programme as prescribed in the Basic Safety Standards?",
+        "options": [
+            "To increase the efficiency of radiation sources.",
+            "To assess the radiation exposure situation in compliance with regulatory requirements.",
+            "To calculate the total energy of all radiation sources.",
+            "To determine the half-life of radioactive materials."
+        ],
+        "answer": "To assess the radiation exposure situation in compliance with regulatory requirements."
+    },
+    {
+        "question": "Which objective relates to checking the protective measures put in place at work sites?",
+        "options": [
+            "To keep track of material inventory.",
+            "To verify the effectiveness of radiation protective measures provided at work places.",
+            "To assess the public's perception of radiation risks.",
+            "To promote the use of new radiation technology."
+        ],
+        "answer": "To verify the effectiveness of radiation protective measures provided at work places."
+    },
+    {
+        "question": "What is the aim of personnel radiological monitoring?",
+        "options": [
+            "More toward controlling public exposure.",
+            "To monitor environmental radiation levels.",
+            "To control occupational exposure of working personnel.",
+            "To predict future radiation levels."
+        ],
+        "answer": "To control occupational exposure of working personnel."
+    },
+    {
+        "question": "Which monitoring component primarily aims toward controlling public exposure?",
+        "options": [
+            "Personnel monitoring.",
+            "Workplace monitoring.",
+            "Environmental monitoring.",
+            "Individual contamination monitoring."
+        ],
+        "answer": "Environmental monitoring."
+    },
+    {
+        "question": "What is a fundamental challenge in working with radiation sources mentioned in the introduction?",
+        "options": [
+            "Radiation is always visible.",
+            "Radiation is a hazard that cannot be sensed directly by any of the five senses.",
+            "Radiation is easily dispersed by air currents.",
+            "Radiation sources are rarely available."
+        ],
+        "answer": "Radiation is a hazard that cannot be sensed directly by any of the five senses."
+    },
+    {
+        "question": "Monitoring equipment is classified into two major categories: Radiation and what else?",
+        "options": [
+            "Energy.",
+            "Contamination.",
+            "Dose.",
+            "Neutrons."
+        ],
+        "answer": "Contamination."
+    },
+    {
+        "question": "Which of the following is listed as an instrument for **Individual Radiation** monitoring?",
+        "options": [
+            "Survey meter.",
+            "Installed monitors.",
+            "TLD.",
+            "Ion chamber."
+        ],
+        "answer": "TLD."
+    },
+    {
+        "question": "Which instrument is specifically listed for **Area Radiation** monitoring of **Neutron** radiation?",
+        "options": [
+            "GM Probes.",
+            "Film Dosimeter.",
+            "Dose Equivalent Meter (\"Rem Counter\").",
+            "Air sampler."
+        ],
+        "answer": "Dose Equivalent Meter (\"Rem Counter\")."
+    },
+    {
+        "question": "Which of the following is an instrument used for **Individual Contamination** monitoring?",
+        "options": [
+            "Surface contamination meter.",
+            "Thyroid Counter.",
+            "Dose rate meter.",
+            "Lab Counters."
+        ],
+        "answer": "Thyroid Counter."
+    },
+    {
+        "question": "In **Area Contamination** monitoring, smears and survey meters using GM Probes are typically used for which type of contamination?",
+        "options": [
+            "Airborne Contamination.",
+            "Surface Contamination.",
+            "Internal Contamination.",
+            "Water Contamination."
+        ],
+        "answer": "Surface Contamination."
+    },
+    {
+        "question": "The basic interaction of radiation with matter that all detectors of ionizing radiation make use of is excitation or what other process?",
+        "options": [
+            "Conduction.",
+            "Recombination.",
+            "Ionization.",
+            "Neutralization."
+        ],
+        "answer": "Ionization."
+    },
+    {
+        "question": "Which factor is explicitly mentioned as influencing the selection of a specific radiation measuring device?",
+        "options": [
+            "Cost of the device.",
+            "Ambient temperature.",
+            "Relative intensity of the radiation.",
+            "Weight of the instrument."
+        ],
+        "answer": "Relative intensity of the radiation."
+    },
+    {
+        "question": "How many general types of radiation detectors are classified according to the medium of interaction of the radiation?",
+        "options": [
+            "Three.",
+            "Four.",
+            "Five.",
+            "Six."
+        ],
+        "answer": "Six."
+    },
+    {
+        "question": "Which detector type is defined by measuring light released by a crystal after an interaction with radiation?",
+        "options": [
+            "Photographic Emulsion.",
+            "Gas-filled Detector.",
+            "Scintillation Detector.",
+            "Semiconductor Detector."
+        ],
+        "answer": "Scintillation Detector."
+    },
+    {
+        "question": "Which is NOT one of the common types of gas-filled detectors?",
+        "options": [
+            "Ionization Chambers.",
+            "Proportional Counters.",
+            "Thermoluminescence Dosimeters.",
+            "Geiger-Muller Counters."
+        ],
+        "answer": "Thermoluminescence Dosimeters."
+    },
+    {
+        "question": "The main differences among the three types of gas-filled detectors include the gas used, the pressure, and what third parameter?",
+        "options": [
+            "The material of the electrodes.",
+            "The external temperature.",
+            "The voltage level maintained between the central electrode and walls of the chamber.",
+            "The type of display screen."
+        ],
+        "answer": "The voltage level maintained between the central electrode and walls of the chamber."
+    },
+    {
+        "question": "Which of the gas-filled detectors is described as the 'simplest of all'?",
+        "options": [
+            "Geiger-Muller Counter.",
+            "Proportional Counter.",
+            "Ionization Chamber.",
+            "Fission Chamber."
+        ],
+        "answer": "Ionization Chamber."
+    },
+    {
+        "question": "Compared to a Geiger-Muller (G-M) counter, the Ionization Chamber is described as having what level of sensitivity?",
+        "options": [
+            "Greater sensitivity.",
+            "Equal sensitivity.",
+            "Less sensitivity.",
+            "Sensitivity depends on the measured particle type."
+        ],
+        "answer": "Less sensitivity."
+    },
+    {
+        "question": "Ionization Chambers are noted for being able to be used in which specific operational scenario?",
+        "options": [
+            "Very low background radiation.",
+            "High counting rate situations.",
+            "In extreme sub-zero temperatures.",
+            "For detecting only slow neutrons."
+        ],
+        "answer": "High counting rate situations."
+    },
+    {
+        "question": "In an Ionization Chamber, what is the current (flow of free electrons) directly related to?",
+        "options": [
+            "The ambient temperature.",
+            "The thickness of the chamber wall.",
+            "The type of gas used.",
+            "The amount of radiation incident on the chamber."
+        ],
+        "answer": "The amount of radiation incident on the chamber."
+    },
+    {
+        "question": "Proportional Counters are almost always operated in which mode?",
+        "options": [
+            "Current mode.",
+            "Pulse mode.",
+            "Voltage mode.",
+            "Static mode."
+        ],
+        "answer": "Pulse mode."
+    },
+    {
+        "question": "What phenomenon do proportional tubes rely on to amplify the charge from the original ion pairs?",
+        "options": [
+            "Magnetic induction.",
+            "Gas multiplication.",
+            "Photonic conversion.",
+            "Semiconductor doping."
+        ],
+        "answer": "Gas multiplication."
+    },
+    {
+        "question": "Proportional Counters are widely applied in the detection of which type of radiation?",
+        "options": [
+            "Alpha particles.",
+            "Gamma rays.",
+            "Neutrons.",
+            "Positrons."
+        ],
+        "answer": "Neutrons."
+    },
+    {
+        "question": "Geiger-Muller (GM) Counters are useful for monitoring which level of beta and gamma radiation?",
+        "options": [
+            "High-level.",
+            "Extremely high-level.",
+            "Low-level.",
+            "Any level without limitation."
+        ],
+        "answer": "Low-level."
+    },
+    {
+        "question": "A major disadvantage of Geiger-Muller (GM) Counters is their relatively long what, making them unsuitable for accurate counting at high counting rates?",
+        "options": [
+            "Pulse height.",
+            "Dead time.",
+            "Gas pressure.",
+            "Background noise."
+        ],
+        "answer": "Dead time."
+    },
+    {
+        "question": "GM Counters are often the meters of choice for monitoring contamination and searching for what?",
+        "options": [
+            "New elements.",
+            "Lost radiation sources.",
+            "Biological hazards.",
+            "High energy particles."
+        ],
+        "answer": "Lost radiation sources."
+    },
+    {
+        "question": "The gas amplification process in a GM Counter leads to a what kind of current increase?",
+        "options": [
+            "Voltage drop.",
+            "Capacitance increase.",
+            "Current multiplication.",
+            "Resistance increase."
+        ],
+        "answer": "Current multiplication."
+    },
+    {
+        "question": "What are the two main components of a Scintillation Counter mentioned in the document?",
+        "options": [
+            "Lead shield and a timer.",
+            "Gas-filled tube and a meter.",
+            "Ionization chamber and a battery.",
+            "Crystal NaI(Tl) and Photomultiplier tubes."
+        ],
+        "answer": "Crystal NaI(Tl) and Photomultiplier tubes."
+    },
+    {
+        "question": "Which material is used in a scintillation counter specifically to detect alpha particles?",
+        "options": [
+            "Sodium Iodide (NaI).",
+            "Zinc Sulfide (ZnS).",
+            "Germanium (Ge).",
+            "Lithium Fluoride (LiF)."
+        ],
+        "answer": "Zinc Sulfide (ZnS)."
+    },
+    {
+        "question": "The underlying mechanism for a Semiconductor Detector involves the creation of what along the path of the charged particle?",
+        "options": [
+            "Excited atoms.",
+            "Stable isotopes.",
+            "Electron-hole pairs.",
+            "Photon bursts."
+        ],
+        "answer": "Electron-hole pairs."
+    },
+    {
+        "question": "What is the atomic number of the element Silicon (Si), a material used in semiconductor detectors?",
+        "options": [
+            "14.",
+            "12.",
+            "32.",
+            "53."
+        ],
+        "answer": "14."
+    },
+    {
+        "question": "Which characteristic is an advantage of Semiconductor Detectors?",
+        "options": [
+            "Higher sensitivity.",
+            "Poor energy resolution.",
+            "Improved reliability and stable readings.",
+            "High cost of operation."
+        ],
+        "answer": "Improved reliability and stable readings."
+    },
+    {
+        "question": "A disadvantage of Semiconductor Detectors is their need for the voltage supplied to be what?",
+        "options": [
+            "As small as possible.",
+            "Switched rapidly.",
+            "Kept at room temperature.",
+            "Large enough."
+        ],
+        "answer": "Large enough."
+    },
+    {
+        "question": "What main material is used in a Photographic Emulsion/Film dosimeter to record the dose?",
+        "options": [
+            "A piece of photographic film.",
+            "A semiconductor chip.",
+            "A liquid crystal display.",
+            "A boron-lined tube."
+        ],
+        "answer": "A piece of photographic film."
+    },
+    {
+        "question": "What is fitted into the holder of a film dosimeter to help distinguish between different radiation types (beta, X-ray, gamma, thermal neutron)?",
+        "options": [
+            "A vacuum chamber.",
+            "A range of filters.",
+            "A proportional gas.",
+            "A small heater."
+        ],
+        "answer": "A range of filters."
+    },
+    {
+        "question": "The degree of blackening on a developed film in a film dosimeter is also known as what?",
+        "options": [
+            "Photographic Contrast.",
+            "Optical Density.",
+            "Film Grain.",
+            "Luminosity Index."
+        ],
+        "answer": "Optical Density."
+    },
+    {
+        "question": "What is a key advantage of Photographic Emulsion/Film dosimeters for dose record keeping?",
+        "options": [
+            "The films are very cheap to produce.",
+            "They can be reused hundreds of times.",
+            "They are not affected by light and heat.",
+            "The films can be kept as a permanent record of an individual’s dose."
+        ],
+        "answer": "The films can be kept as a permanent record of an individual’s dose."
+    },
+    {
+        "question": "In Thermoluminescence Dosimetry (TLD), trapped electrons are freed and emit a photon of light by exposing the dosimeter to which of the following?",
+        "options": [
+            "A strong magnetic field.",
+            "A high-frequency radio wave.",
+            "Heat.",
+            "A constant electrical current."
+        ],
+        "answer": "Heat."
+    },
+    {
+        "question": "The number of photons emitted from a TLD is proportional to what value?",
+        "options": [
+            "The ambient air pressure.",
+            "The dose.",
+            "The age of the dosimeter.",
+            "The background radiation level."
+        ],
+        "answer": "The dose."
+    },
+    {
+        "question": "What are the four Thermoluminescent Dosimeters (TLDs) on a badge used to measure?",
+        "options": [
+            "Only the deep dose, Hp(10).",
+            "Hp(0.07), Hp(3), and Hp(10).",
+            "Only the total accumulated dose.",
+            "Alpha, Beta, and Gamma radiation energy."
+        ],
+        "answer": "Hp(0.07), Hp(3), and Hp(10)."
+    },
+    {
+        "question": "What is the stated detection threshold of a TLD, as per the document's characteristics list?",
+        "options": [
+            "10 µGy.",
+            "10 Gy.",
+            "1 mGy.",
+            "1 µGy."
+        ],
+        "answer": "1 µGy."
+    },
+    {
+        "question": "TLDs are stated to be reusable for how many times?",
+        "options": [
+            "Once only.",
+            "10 to 50 times.",
+            "100 to 1000 times.",
+            "Over 10,000 times."
+        ],
+        "answer": "100 to 1000 times."
+    },
+    {
+        "question": "The typical composition of a TLD that is similar to tissue equivalent is given as what material?",
+        "options": [
+            "CaF2: Dy.",
+            "NaI(Tl).",
+            "LiF:Mg,Ti.",
+            "ZnS."
+        ],
+        "answer": "LiF:Mg,Ti."
+    },
+    {
+        "question": "Which of the following is listed as a type of Neutron Detector?",
+        "options": [
+            "Xenon Gas Detector.",
+            "Photodiode Array.",
+            "Proton Recoil Counters.",
+            "Cadmium Telluride Detector."
+        ],
+        "answer": "Proton Recoil Counters."
+    },
+    {
+        "question": "What is the comparison given for the neutron cross section of Boron ($^{10}$B) compared to $^{3}$He?",
+        "options": [
+            "Boron has a higher neutron cross section.",
+            "Boron has a lower neutron cross section.",
+            "They have the same neutron cross section.",
+            "Cross section comparison is not possible."
+        ],
+        "answer": "Boron has a lower neutron cross section."
+    },
+    {
+        "question": "Which neutron detector type is noted to function at much higher voltages (1-4 kV)?",
+        "options": [
+            "He3 Detectors.",
+            "Fission Chambers.",
+            "Radiative Capture Detectors.",
+            "BF3 Detectors."
+        ],
+        "answer": "BF3 Detectors."
+    },
+    {
+        "question": "The difference between two dosimeters (one with a $\\text{6Li}$ element sensitive to neutrons and one with $\\text{7Li}$ not sensitive to neutrons) provides what measurement?",
+        "options": [
+            "The gamma dose.",
+            "The beta dose.",
+            "The neutron dose.",
+            "The total dose."
+        ],
+        "answer": "The neutron dose."
+    },
+    {
+        "question": "A type of gas-filled detector that is 'Best used as photon measuring instruments' is the what?",
+        "options": [
+            "Geiger-Muller Counter.",
+            "Proportional Counter.",
+            "Ionization Chamber.",
+            "Neutron Detector."
+        ],
+        "answer": "Ionization Chamber."
+    },
+    {
+        "question": "What is the main aim for personnel radiological monitoring, as stated in the document?",
+        "options": [
+            "To control public exposure.",
+            "To assess background radiation.",
+            "To control occupational exposure of working personnel.",
+            "To monitor plant efficiency."
+        ],
+        "answer": "To control occupational exposure of working personnel."
+    },
+    {
+        "question": "If an abnormal radiation exposure situation occurs in work places, what is one of the objectives of radiological monitoring to address this?",
+        "options": [
+            "To increase the staff's dose limit.",
+            "To identify occurrence of any abnormal radiation exposure situation in work places.",
+            "To implement emergency cleanup procedures immediately.",
+            "To dismiss all working personnel."
+        ],
+        "answer": "To identify occurrence of any abnormal radiation exposure situation in work places."
+    }
+]

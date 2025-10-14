@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What is the primary focus of **Keselamatan sinaran** (Radiation Safety) according to the document?",
+        "options": [
+            "To ensure all paperwork is filed with AELB",
+            "To prevent unauthorized access to facilities",
+            "To ensure radioactive sources are used correctly without harming users or the public",
+            "To manage financial accounts for radioactive sources"
+        ],
+        "answer": "To ensure radioactive sources are used correctly without harming users or the public"
+    },
+    {
+        "question": "What core action is **Sekuriti** (Security) primarily concerned with preventing or hindering?",
+        "options": [
+            "Malfunctions of radiation equipment",
+            "Unauthorized acquisition or use of radioactive sources",
+            "Failure to wear a personal dosimeter",
+            "Overexposure during normal operations"
+        ],
+        "answer": "Unauthorized acquisition or use of radioactive sources"
+    },
+    {
+        "question": "What is the consequence of a security failure regarding radiation safety?",
+        "options": [
+            "It will reduce the cost of disposal",
+            "It will cause a threat to radiation safety",
+            "It will increase AELB inspection frequency",
+            "It will delay the issuance of a new license"
+        ],
+        "answer": "It will cause a threat to radiation safety"
+    },
+    {
+        "question": "Which of the following is an example of a **non-intentional** incident involving radioactive sources?",
+        "options": [
+            "Dicuri secara terus (Direct theft)",
+            "Dibuang (Discarded)",
+            "Tersebar (kemalangan) / Spreading (accident)",
+            "Ditinggalkan (Abandoned)"
+        ],
+        "answer": "Tersebar (kemalangan) / Spreading (accident)"
+    },
+    {
+        "question": "Which of the following is an example of an **intentional** incident involving radioactive sources?",
+        "options": [
+            "Salah letak (Misplaced)",
+            "Lupa (Forgotten)",
+            "Dicuri secara terus (Direct theft)",
+            "Tidak Distor (Not Stored)"
+        ],
+        "answer": "Dicuri secara terus (Direct theft)"
+    },
+    {
+        "question": "The criminal motive of **Kecambahan senjata pemusnah radiologikal (RDD)** is classified under which category?",
+        "options": [
+            "Kepentingan Kewangan (Financial Interest)",
+            "Kecuaian (Negligence)",
+            "Niat Jahat (Malicious Intent)",
+            "Kesilapan Operasi (Operational Error)"
+        ],
+        "answer": "Niat Jahat (Malicious Intent)"
+    },
+    {
+        "question": "The motive to **Mengelakkan tanggungan kos pemilikan (e.g. pelupusan)** is a criminal motive classified under which category?",
+        "options": [
+            "Niat Jahat (Malicious Intent)",
+            "Ancaman Penjenayah (Terrorist Threat)",
+            "Kepentingan Kewangan (Financial Interest)",
+            "Kecurian Bersangkutan (Associated Theft)"
+        ],
+        "answer": "Kepentingan Kewangan (Financial Interest)"
+    },
+    {
+        "question": "What is the basis for ranking radioactive sources in the categorization system?",
+        "options": [
+            "The source's market value",
+            "The rank of its potential to cause harm to human health",
+            "The duration of its usage in the industry",
+            "The physical size of the source container"
+        ],
+        "answer": "The rank of its potential to cause harm to human health"
+    },
+    {
+        "question": "The radioactive source categorization system primarily involves which type of sources?",
+        "options": [
+            "Punka tidak terkedap (Unsealed sources)",
+            "Bahan nuklear (Nuclear material)",
+            "Punca terkedap SAHAJA (Sealed sources ONLY)",
+            "Peralatan penjanaan sinaran (Radiation generating equipment)"
+        ],
+        "answer": "Punca terkedap SAHAJA (Sealed sources ONLY)"
+    },
+    {
+        "question": "Which item is **NOT** covered by the radioactive source categorization system?",
+        "options": [
+            "Punka teleterapi (Teletherapy sources)",
+            "Mesin sinar-x (X-ray machines)",
+            "Punka Gamma Radiografi Industri (Industrial Gamma Radiography Sources)",
+            "Tolok nuklear (Nuclear gauges)"
+        ],
+        "answer": "Mesin sinar-x (X-ray machines)"
+    },
+    {
+        "question": "What is the name of the ratio used to determine the source category ranking?",
+        "options": [
+            "Nisbah Aktiviti-Masa (Activity-Time Ratio)",
+            "Nisbah Keselamatan (Safety Ratio)",
+            "Nisbah Aktiviti (A/D) / Activity Ratio (A/D)",
+            "Nisbah Tenaga (Energy Ratio)"
+        ],
+        "answer": "Nisbah Aktiviti (A/D) / Activity Ratio (A/D)"
+    },
+    {
+        "question": "What does the variable 'A' represent in the A/D ratio formula?",
+        "options": [
+            "Area of Exposure",
+            "Activity of Radioactive Material",
+            "Age of the source",
+            "Absorption rate"
+        ],
+        "answer": "Activity of Radioactive Material"
+    },
+    {
+        "question": "What does the variable 'D' represent in the A/D ratio, which gives a reference for risk comparison?",
+        "options": [
+            "Distance from the source",
+            "Density of the shielding",
+            "Dose limit for the public",
+            "Nilai spesifik radionuklid (Specific radionuclide value)"
+        ],
+        "answer": "Nilai spesifik radionuklid (Specific radionuclide value)"
+    },
+    {
+        "question": "A radioactive source with an A/D ratio $\\ge 1000$ is classified into which category?",
+        "options": [
+            "Kategori 5",
+            "Kategori 3",
+            "Kategori 2",
+            "Kategori 1"
+        ],
+        "answer": "Kategori 1"
+    },
+    {
+        "question": "A radioactive source with an A/D ratio in the range $10 > A/D \\ge 1$ is classified into which category?",
+        "options": [
+            "Kategori 1",
+            "Kategori 2",
+            "Kategori 3",
+            "Kategori 4"
+        ],
+        "answer": "Kategori 3"
+    },
+    {
+        "question": "What is the condition for a source to be classified as Category 5 if its A/D ratio is $0.01 > A/D$?",
+        "options": [
+            "The activity must be high",
+            "A > dikecualikan (A > exempted)",
+            "The half-life is greater than 100 years",
+            "It must be an unsealed source"
+        ],
+        "answer": "A > dikecualikan (A > exempted)"
+    },
+    {
+        "question": "According to the table, which radionuklid has a 'D' value of $0.03$ TBq?",
+        "options": [
+            "Ir-192",
+            "Cs-137",
+            "Am-241",
+            "Co-60"
+        ],
+        "answer": "Co-60"
+    },
+    {
+        "question": "According to the table, what is the 'D' value for Cs-137?",
+        "options": [
+            "0.06 TBq",
+            "0.08 TBq",
+            "0.1 TBq",
+            "1.0 TBq"
+        ],
+        "answer": "0.1 TBq"
+    },
+    {
+        "question": "Which type of source is listed as an example of **Kategori 1**?",
+        "options": [
+            "Punka Gamma Radiografi Industri",
+            "Generator thermoelektrik radioisotop (RTG)",
+            "Penyah-cas statik (Po-210)",
+            "Peralatan X-ray fluorescence (XRF)"
+        ],
+        "answer": "Generator thermoelektrik radioisotop (RTG)"
+    },
+    {
+        "question": "Which type of source is listed as an example of **Kategori 2**?",
+        "options": [
+            "Sel penyinaran (Irradiator)",
+            "Punka Teleterapi (Teletherapy source)",
+            "Punka Gamma Radiografi Industri (Industrial Gamma Radiography Source)",
+            "Densitometer ketumpatan tulang (Bone densitometer)"
+        ],
+        "answer": "Punka Gamma Radiografi Industri (Industrial Gamma Radiography Source)"
+    },
+    {
+        "question": "Tolok nuklear (tetap) with high activity sources is an example of which category?",
+        "options": [
+            "Kategori 1",
+            "Kategori 2",
+            "Kategori 3",
+            "Kategori 4"
+        ],
+        "answer": "Kategori 3"
+    },
+    {
+        "question": "Penyah-cas statik (Static eliminator) using Po-210 is an example of which category?",
+        "options": [
+            "Kategori 1",
+            "Kategori 2",
+            "Kategori 4",
+            "Kategori 5"
+        ],
+        "answer": "Kategori 4"
+    },
+    {
+        "question": "Peralatan X-ray fluorescence (XRF) with a radioactive source is an example of which category?",
+        "options": [
+            "Kategori 2",
+            "Kategori 3",
+            "Kategori 4",
+            "Kategori 5"
+        ],
+        "answer": "Kategori 5"
+    },
+    {
+        "question": "What is the **Category** for a Cs-137 source with an activity of $260 \\text{ TBq}$? ($D=0.1 \\text{ TBq}$)",
+        "options": [
+            "Kategori 1",
+            "Kategori 2",
+            "Kategori 3",
+            "Kategori 4"
+        ],
+        "answer": "Kategori 1"
+    },
+    {
+        "question": "Company B owns a Teletherapy Unit, Cs-137 with an activity of $19 \\text{ TBq}$. What is the source category? ($D=0.1 \\text{ TBq}$ for Cs-137)",
+        "options": [
+            "Kategori 1",
+            "Kategori 2",
+            "Kategori 3",
+            "Kategori 4"
+        ],
+        "answer": "Kategori 2"
+    },
+    {
+        "question": "The risk level for **Kategori 1** sources is described as:",
+        "options": [
+            "Tidak Bahaya (Not Dangerous)",
+            "Kurang Bahaya (Less Dangerous)",
+            "Bahaya (Dangerous)",
+            "Teramat Bahaya (Extremely Dangerous)"
+        ],
+        "answer": "Teramat Bahaya (Extremely Dangerous)"
+    },
+    {
+        "question": "The risk level for **Kategori 2** sources is described as:",
+        "options": [
+            "Sangat Bahaya (Very Dangerous)",
+            "Bahaya (Dangerous)",
+            "Kurang Bahaya (Less Dangerous)",
+            "Tidak Bahaya (Not Dangerous)"
+        ],
+        "answer": "Sangat Bahaya (Very Dangerous)"
+    },
+    {
+        "question": "The risk level for **Kategori 4** sources is described as:",
+        "options": [
+            "Teramat Bahaya (Extremely Dangerous)",
+            "Sangat Bahaya (Very Dangerous)",
+            "Bahaya (Dangerous)",
+            "Kurang Bahaya (Less Dangerous)"
+        ],
+        "answer": "Kurang Bahaya (Less Dangerous)"
+    },
+    {
+        "question": "The categorization system is used to optimize decisions regarding the **Pendaftaran punca kebangsaan**. What does this term mean?",
+        "options": [
+            "National Security Clearance",
+            "National Source Registration",
+            "National Health Registry",
+            "National Financial Audit"
+        ],
+        "answer": "National Source Registration"
+    },
+    {
+        "question": "What is the minimum requirement for **Kategori 1** sources concerning import/export control?",
+        "options": [
+            "Notification of export only",
+            "No control required",
+            "Application for consent from the exporting authority to the importing authority",
+            "Inspection upon arrival only"
+        ],
+        "answer": "Application for consent from the exporting authority to the importing authority"
+    },
+    {
+        "question": "Which categories of sources require a **Pelan Khusus** (Specific Plan) for Emergency Preparedness and Response?",
+        "options": [
+            "Kategori 1 and 2",
+            "Kategori 3 and 4",
+            "Kategori 4 and 5",
+            "All categories"
+        ],
+        "answer": "Kategori 1 and 2"
+    },
+    {
+        "question": "Which categories of sources require a **Pelan Umum** (General Plan) for Emergency Preparedness and Response?",
+        "options": [
+            "Kategori 1 only",
+            "Kategori 1 and 2",
+            "Kategori 3, 4, and 5",
+            "Kategori 5 only"
+        ],
+        "answer": "Kategori 3, 4, dan 5"
+    },
+    {
+        "question": "Security Level **A** provides a high level of protection against what specific action?",
+        "options": [
+            "Sabotage of equipment",
+            "Unauthorized movement of radioactive material",
+            "Natural disasters",
+            "Loss of documents"
+        ],
+        "answer": "Unauthorized movement of radioactive material"
+    },
+    {
+        "question": "Security Level **C** provides what level of protection?",
+        "options": [
+            "Tahap tinggi perlindungan (High level of protection)",
+            "Tahap asas perlindungan (Basic level of protection)",
+            "Tahap mutlak perlindungan (Absolute level of protection)",
+            "Tahap pertengahan perlindungan (Intermediate level of protection)"
+        ],
+        "answer": "Tahap asas perlindungan (Basic level of protection)"
+    },
+    {
+        "question": "Which Security Level is assigned to **Kategori 1** sources (e.g., Sel penyinaran)?",
+        "options": [
+            "Aras Sekuriti/Security Level C",
+            "Aras Sekuriti/Security Level B",
+            "Aras Sekuriti/Security Level A",
+            "Aras Sekuriti/Security Level D"
+        ],
+        "answer": "Aras Sekuriti/Security Level A"
+    },
+    {
+        "question": "Which Security Level is assigned to **Kategori 2** sources (e.g., Radiografi industri)?",
+        "options": [
+            "Aras Sekuriti/Security Level C",
+            "Aras Sekuriti/Security Level B",
+            "Aras Sekuriti/Security Level A",
+            "Aras Sekuriti/Security Level D"
+        ],
+        "answer": "Aras Sekuriti/Security Level B"
+    },
+    {
+        "question": "Which Security Level is assigned to **Kategori 3** sources (e.g., Tolok nuklear)?",
+        "options": [
+            "Aras Sekuriti/Security Level A",
+            "Aras Sekuriti/Security Level B",
+            "Aras Sekuriti/Security Level C",
+            "Aras Sekuriti/Security Level D"
+        ],
+        "answer": "Aras Sekuriti/Security Level C"
+    },
+    {
+        "question": "What is the overarching goal of **Kawalan Sekuriti** (Security Control) at all stages of the source's life cycle?",
+        "options": [
+            "To maximize radiation output",
+            "To prevent unauthorized access to radioactive sources",
+            "To simplify licensing procedures",
+            "To reduce operating costs"
+        ],
+        "answer": "To prevent unauthorized access to radioactive sources"
+    },
+    {
+        "question": "Which of the following is **NOT** one of the five basic security functions (**Fungsi Sekuriti**)?",
+        "options": [
+            "Pencegahan (Deterrence)",
+            "Pengesanan (Detection)",
+            "Audit (Audit)",
+            "Tindakbalas (Response)"
+        ],
+        "answer": "Audit (Audit)"
+    },
+    {
+        "question": "Which security function aims to discourage the enemy by communicating the presence of security measures?",
+        "options": [
+            "Tindakbalas (Response)",
+            "Penangguhan (Delay)",
+            "Pengesanan (Detection)",
+            "Pencegahan (Deterrence)"
+        ],
+        "answer": "Pencegahan (Deterrence)"
+    },
+    {
+        "question": "Which security function is defined as the discovery of an attempted or actual intrusion?",
+        "options": [
+            "Penangguhan (Delay)",
+            "Pengesanan (Detection)",
+            "Pencegahan (Deterrence)",
+            "Pengurusan Sekuriti (Security Management)"
+        ],
+        "answer": "Pengesanan (Detection)"
+    },
+    {
+        "question": "The statement \"An alarm without assessment is NOT detection\" relates to which security function?",
+        "options": [
+            "Pencegahan (Deterrence)",
+            "Penangguhan (Delay)",
+            "Tindakbalas (Response)",
+            "Pengesanan (Detection)"
+        ],
+        "answer": "Pengesanan (Detection)"
+    },
+    {
+        "question": "Which security function is measured by the factor of **time** and uses physical barriers to lengthen the time needed for the enemy?",
+        "options": [
+            "Penangguhan (Delay)",
+            "Pengesanan (Detection)",
+            "Tindakbalas (Response)",
+            "Pencegahan (Deterrence)"
+        ],
+        "answer": "Penangguhan (Delay)"
+    },
+    {
+        "question": "Which security function involves actions taken after detection by a security team to disrupt the attack and save the material?",
+        "options": [
+            "Tindak balas (Response)",
+            "Pengesanan (Detection)",
+            "Pengurusan Sekuriti (Security Management)",
+            "Pencegahan (Deterrence)"
+        ],
+        "answer": "Tindak balas (Response)"
+    },
+    {
+        "question": "What key element is included in **Pengurusan Sekuriti** (Security Management) to ensure the effectiveness of the system?",
+        "options": [
+            "Monthly financial reporting",
+            "Development of **Security Culture**",
+            "Annual marketing strategy",
+            "Installation of new IT systems"
+        ],
+        "answer": "Development of **Security Culture**"
+    },
+    {
+        "question": "The **Kawalan Pentadbiran** for Security Level A (Category 1) requires how many technical and non-technical control methods?",
+        "options": [
+            "1 technical, 1 non-technical",
+            "2 technical, 1 non-technical",
+            "3 technical, 0 non-technical",
+            "1 technical, 2 non-technical"
+        ],
+        "answer": "2 technical, 1 non-technical"
+    },
+    {
+        "question": "How often must the inventory check for the **Kawalan Pentadbiran** for Security Level B (Category 2) be conducted?",
+        "options": [
+            "Setiap Hari (Every Day)",
+            "Setiap Minggu (Every Week)",
+            "Setiap 6 Bulan (Every 6 Months)",
+            "Setiap Tahun (Every Year)"
+        ],
+        "answer": "Setiap Minggu (Every Week)"
+    },
+    {
+        "question": "Which key item must be included in the **Kandungan Pelan Sekuriti Punca** (Content of the Source Security Plan)?",
+        "options": [
+            "Employee annual leave schedules",
+            "The price list of radioactive sources",
+            "Information about the source like isotope, activity, and serial number",
+            "Minutes of the last board meeting"
+        ],
+        "answer": "Information about the source like isotope, activity, and serial number"
+    },
+    {
+        "question": "For Security Groups A and B, security information must be controlled and shared based on what key principle?",
+        "options": [
+            "Full disclosure to the public",
+            "Need to know basis",
+            "Maximum distribution rule",
+            "First-come, first-served"
+        ],
+        "answer": "Need to know basis"
+    },
+    {
+        "question": "What is one specific responsibility that the **Licensee** must report to AELB, besides normal safety issues, which has security implications?",
+        "options": [
+            "Hiring of new administrative staff",
+            "Change in company logo",
+            "Penemuan punca asing (Discovery of a foreign source)",
+            "Routine equipment maintenance"
+        ],
+        "answer": "Penemuan punca asing (Discovery of a foreign source)"
+    }
+]
