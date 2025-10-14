@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Emergency situations in industrial radiography are most likely to arise when what is actually in use?",
+        "options": [
+            "Non-ionizing radiation",
+            "Ionizing radiations",
+            "Infrared cameras",
+            "Ultrasonic testing equipment"
+        ],
+        "answer": "Ionizing radiations"
+    },
+    {
+        "question": "What is the key difference in emergency action between X-rays and gamma rays?",
+        "options": [
+            "X-rays are less penetrating than gamma rays",
+            "X-rays can be switched on and off, while gamma rays cannot",
+            "Gamma rays require a larger controlled area",
+            "X-rays do not require an RPO's presence"
+        ],
+        "answer": "X-rays can be switched on and off, while gamma rays cannot"
+    },
+    {
+        "question": "Which of the following is a recorded incident leading to an emergency in **Gamma Radiography**?",
+        "options": [
+            "Failed termination of X-ray at the end of an intended exposure",
+            "The X-ray equipment timer fails to terminate an exposure",
+            "A source is stuck in the guide tube or the collimator",
+            "Unintentional energizing of an X-ray generator"
+        ],
+        "answer": "A source is stuck in the guide tube or the collimator"
+    },
+    {
+        "question": "Which of the following is a recorded incident leading to an emergency in **X-ray Radiography**?",
+        "options": [
+            "A source is projected out of the end of the guide tube",
+            "Missing source",
+            "Failure to terminate a manually controlled X-ray tube",
+            "Contamination due to leaked sources"
+        ],
+        "answer": "Failure to terminate a manually controlled X-ray tube"
+    },
+    {
+        "question": "What are the four main types of radiological emergencies?",
+        "options": [
+            "Loss of control of the X-ray tube, survey meter, camera, and film",
+            "Loss of control of radiation worker, X-ray equipment, radioactive source, and other events (transport accidents/fires)",
+            "Source stuck, missing source, fire, and earthquake",
+            "Level 1, Level 2, Level 3, and Level 4 emergencies"
+        ],
+        "answer": "Loss of control of radiation worker, X-ray equipment, radioactive source, and other events (transport accidents/fires)"
+    },
+    {
+        "question": "An emergency where consequences are limited to a single exposure room or controlled area within the premise is classified as which level?",
+        "options": [
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Level 4"
+        ],
+        "answer": "Level 1"
+    },
+    {
+        "question": "An emergency with consequences that might have a trans-boundary effect is classified as which level?",
+        "options": [
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Level 4"
+        ],
+        "answer": "Level 4"
+    },
+    {
+        "question": "Which response team is required for a Level 2 emergency?",
+        "options": [
+            "External response team only",
+            "Internal response team only",
+            "Internal and external response team",
+            "AELB's special emergency team"
+        ],
+        "answer": "Internal response team only"
+    },
+    {
+        "question": "Which of the following is a standard piece of emergency equipment for industrial radiography?",
+        "options": [
+            "Lead Pot (Emergency storage container)",
+            "Fire extinguisher (CO2 type only)",
+            "Geiger-Müller counter",
+            "First aid kit (specialized for radiation burns)"
+        ],
+        "answer": "Lead Pot (Emergency storage container)"
+    },
+    {
+        "question": "What is the primary objective of an emergency plan?",
+        "options": [
+            "To obtain a higher operating license",
+            "To document historical radiation incidents",
+            "To limit the exposure to as low as reasonably achievable (ALARA)",
+            "To reduce maintenance costs"
+        ],
+        "answer": "To limit the exposure to as low as reasonably achievable (ALARA)"
+    },
+    {
+        "question": "Who is the person who initiates the emergency response, performs immediate actions to mitigate the accident, and informs the RPO or RPS?",
+        "options": [
+            "Radiation Protection Officer (RPO)",
+            "Radiation Protection Supervisor (RPS)",
+            "Radiographer",
+            "AELB inspector"
+        ],
+        "answer": "Radiographer"
+    },
+    {
+        "question": "Who is responsible for radiation surveys, dose assessment, contamination control, and formulating protective action recommendations during an emergency?",
+        "options": [
+            "Radiographer",
+            "Radiation Protection Supervisor (RPS)",
+            "Radiation Protection Officer (RPO)",
+            "Emergency Medical Technician"
+        ],
+        "answer": "Radiation Protection Officer (RPO)"
+    },
+    {
+        "question": "In all cases of emergency, the licensee must inform the Authority (AELB) as soon as possible, which means within how many hours?",
+        "options": [
+            "12 hours",
+            "24 hours",
+            "48 hours",
+            "7 days"
+        ],
+        "answer": "24 hours"
+    },
+    {
+        "question": "The RPO must submit a full accident investigation report to the Authority within how many days from the date of the accident?",
+        "options": [
+            "7 days",
+            "14 days",
+            "30 days",
+            "60 days"
+        ],
+        "answer": "30 days"
+    },
+    {
+        "question": "What is the first step in the recovery action process (Stop and Think)?",
+        "options": [
+            "Call the RPO immediately",
+            "Identify the type of emergency",
+            "Retrieve the source",
+            "Establish a new barrier"
+        ],
+        "answer": "Identify the type of emergency"
+    },
+    {
+        "question": "What is the overall objective once a radiographic source emergency has been identified?",
+        "options": [
+            "Locate the precise location of the source",
+            "Plan the source retrieval",
+            "Return the radiographic source to its fully shielded position",
+            "Notify the Authority"
+        ],
+        "answer": "Return the radiographic source to its fully shielded position"
+    },
+    {
+        "question": "In an emergency involving **X-ray equipment**, what is the first immediate action the radiographer must take?",
+        "options": [
+            "Perform a radiation survey",
+            "Contact the RPO/RPS",
+            "Switch the machine off immediately",
+            "Detain any exposed persons"
+        ],
+        "answer": "Switch the machine off immediately"
+    },
+    {
+        "question": "For a **stuck radioisotope source** emergency, what should the operator calculate after moving away from the exposed source?",
+        "options": [
+            "The duration of the next planned exposure",
+            "The source's decay rate",
+            "The new controlled boundary based on the recognized situation",
+            "The total dose received by the operator"
+        ],
+        "answer": "The new controlled boundary based on the recognized situation"
+    },
+    {
+        "question": "Regardless of whether a stuck source is covered with lead or not, the calculation for the new controlled boundary must be performed by estimating the dose emitted from what?",
+        "options": [
+            "The shielded source",
+            "The unshielded source",
+            "The dose rate from 10 meters away",
+            "The average background radiation"
+        ],
+        "answer": "The unshielded source"
+    },
+    {
+        "question": "The intensity/dose rate outside the new controlled boundary established for a stuck source shall be less than what value?",
+        "options": [
+            "0.5 μSv/hr",
+            "2.5 μSv/hr",
+            "7.5 μSv/hr",
+            "25 μSv/hr"
+        ],
+        "answer": "7.5 μSv/hr"
+    },
+    {
+        "question": "What is the next action a radiographer should take after restricting access to the new controlled barrier?",
+        "options": [
+            "Call the police",
+            "Contact the RPS (or RPO) and inform him/her of what has happened",
+            "Start the source retrieval operation immediately",
+            "Measure the radiation dose at the perimeter of the facility"
+        ],
+        "answer": "Contact the RPS (or RPO) and inform him/her of what has happened"
+    },
+    {
+        "question": "In the hierarchy of command, which person can appoint an external emergency support group when required?",
+        "options": [
+            "Radiographer",
+            "Radiation Protection Supervisor (RPS)",
+            "Radiation Protection Officer (RPO)",
+            "Site Manager"
+        ],
+        "answer": "Radiation Protection Officer (RPO)"
+    },
+    {
+        "question": "For a 100 Ci Ir-192 source, what is the estimated maximum permissible time allowed for a rescue operation in minutes?",
+        "options": [
+            "12 minutes",
+            "6 minutes",
+            "2 minutes",
+            "1 minute"
+        ],
+        "answer": "1 minute"
+    },
+    {
+        "question": "For a 100 Ci Co-60 source, what is the estimated maximum permissible time allowed for a rescue operation in minutes?",
+        "options": [
+            "5 minutes",
+            "2 minutes",
+            "1 minute",
+            "0 minutes (i.e. minimal time)"
+        ],
+        "answer": "0 minutes (i.e. minimal time)"
+    },
+    {
+        "question": "In a fire emergency involving radioactive sources, what immediate action is recommended regarding the ventilation system and electricity supply to the affected areas?",
+        "options": [
+            "Increase the ventilation",
+            "Switch off the ventilation system and electricity supply",
+            "Only switch off the electricity supply",
+            "Only switch off the ventilation system"
+        ],
+        "answer": "Switch off the ventilation system and electricity supply"
+    },
+    {
+        "question": "If a vehicle containing a source is missing, which two parties must be informed immediately?",
+        "options": [
+            "Fire Department and Medical Services",
+            "Police and the RPO",
+            "Local Authority and Fire Department",
+            "The source manufacturer and the RPS"
+        ],
+        "answer": "Police and the RPO"
+    },
+    {
+        "question": "What is the required action when a radiographer is about to leave the work site, regarding the exposure device, as part of accident prevention?",
+        "options": [
+            "Perform a final leak test",
+            "Carry out a visual inspection to ensure the exposure device has not been damaged",
+            "Replace the control cable",
+            "Check the temperature of the shielding material"
+        ],
+        "answer": "Carry out a visual inspection to ensure the exposure device has not been damaged"
+    },
+    {
+        "question": "What type of equipment malfunctions can lead to a loss of control of X-ray equipment emergency?",
+        "options": [
+            "Failure of the lead sheet",
+            "Damage, malfunctioning or deliberate bypassing of safety equipment and systems such as interlocks",
+            "Source capsule assembly disconnection",
+            "Physical damage to the TLD"
+        ],
+        "answer": "Damage, malfunctioning or deliberate bypassing of safety equipment and systems such as interlocks"
+    },
+    {
+        "question": "Loss of Control of Radioactive Source normally occurs as a result of non-compliance of safe operating procedure and what other key factor?",
+        "options": [
+            "Use of expired source",
+            "Failure of the licensee to perform regular maintenance on the gamma projector system",
+            "Theft from the storage area",
+            "Natural disaster"
+        ],
+        "answer": "Failure of the licensee to perform regular maintenance on the gamma projector system"
+    },
+    {
+        "question": "Which document outlines the emergency procedures in industrial radiography in Malaysia?",
+        "options": [
+            "International Atomic Energy Agency (IAEA) handbook",
+            "Malaysian Safety Code of Practice for Industrial Radiography",
+            "Act 304 (AELB) Regulations",
+            "The latest ISO standard for NDT"
+        ],
+        "answer": "Malaysian Safety Code of Practice for Industrial Radiography"
+    },
+    {
+        "question": "In the event of an X-ray equipment emergency, the radiographer should record the equipment's details before any modification. Which detail is relevant?",
+        "options": [
+            "Exposure settings (tube voltage, current, and time)",
+            "Color of the X-ray tube",
+            "Manufacturer's serial number (only)",
+            "Last maintenance date"
+        ],
+        "answer": "Exposure settings (tube voltage, current, and time)"
+    },
+    {
+        "question": "What kind of assessment should be done on a worker who has been overexposed to radiation, in addition to a medical examination, as part of monitoring assessment?",
+        "options": [
+            "Dose rate calculation at 1 meter",
+            "Film badge and/or TLD assessment",
+            "Chromosome aberration test",
+            "Psychological evaluation"
+        ],
+        "answer": "Chromosome aberration test"
+    },
+    {
+        "question": "What piece of equipment is checked with a 'No Go gauge' before leaving the work site to prevent accidents?",
+        "options": [
+            "The survey meter battery life",
+            "The control unit timer",
+            "The source assembly and male connector",
+            "The lead sheet thickness"
+        ],
+        "answer": "The source assembly and male connector"
+    },
+    {
+        "question": "Which of the following is NOT part of the 'Immediate Control Measures' in an emergency plan?",
+        "options": [
+            "Turn off the X-ray machine",
+            "Send TLD/film badge to SSDL of Nuclear Malaysia",
+            "Control access into the site",
+            "Apply shelter and shield"
+        ],
+        "answer": "Send TLD/film badge to SSDL of Nuclear Malaysia"
+    },
+    {
+        "question": "Which of the following describes a Level 3 emergency?",
+        "options": [
+            "Limited to the perimeter of a facility/company's premise (On-site)",
+            "Significance effect outside the outer perimeter of a premise (Off-site)",
+            "Limited to a single room within premise (On-site)",
+            "Involving a transport accident but source is shielded"
+        ],
+        "answer": "Significance effect outside the outer perimeter of a premise (Off-site)"
+    },
+    {
+        "question": "If a source capsule assembly is disconnected from its cable resulting in the radiographic source lodged in the collimator, what is the potential category of emergency?",
+        "options": [
+            "Level 1 only",
+            "Level 2 or Level 3",
+            "Level 4 only",
+            "Not considered an emergency"
+        ],
+        "answer": "Level 2 or Level 3"
+    },
+    {
+        "question": "What is the key purpose of covering a stuck source with a lead shot or lead sheet?",
+        "options": [
+            "To completely shield the source",
+            "To signal to authorities where the source is located",
+            "To lower the dose, estimate source location, and provide visible marking",
+            "To prevent the source from moving further"
+        ],
+        "answer": "To lower the dose, estimate source location, and provide visible marking"
+    },
+    {
+        "question": "Which type of source loss requires the operator to retrace the route used and perform visual and instrumental searches?",
+        "options": [
+            "Source stuck in the guide tube",
+            "Missing or stolen source",
+            "Source lost while being transported",
+            "Source not in use (storage incident)"
+        ],
+        "answer": "Source lost while being transported"
+    },
+    {
+        "question": "What is the responsibility of the RPS regarding the accident report?",
+        "options": [
+            "Submit the final report to AELB within 30 days",
+            "Prepare a preliminary investigation report to the RPO and a complete report to AELB later",
+            "Investigate and reconstruct the accident",
+            "Determine who has been exposed to radiation"
+        ],
+        "answer": "Prepare a preliminary investigation report to the RPO and a complete report to AELB later"
+    },
+    {
+        "question": "When a source retrieval action is unsuccessful, what is the next course of action recommended?",
+        "options": [
+            "Immediately try again with a different technique",
+            "Leave the area, consider the next course of action while continuing surveillance of the controlled area",
+            "Call the police immediately",
+            "Abandon the source and notify AELB"
+        ],
+        "answer": "Leave the area, consider the next course of action while continuing surveillance of the controlled area"
+    },
+    {
+        "question": "What must be adhered to during source retrieval operations, which is crucial for safety?",
+        "options": [
+            "Minimum distance from the source",
+            "Maximum permissible times",
+            "AELB's exposure time limit",
+            "Maximum allowed temperature"
+        ],
+        "answer": "Maximum permissible times"
+    },
+    {
+        "question": "The RPO shall submit a full accident investigation report that includes which of the following mandatory items?",
+        "options": [
+            "Financial cost of the accident",
+            "Names of all company employees",
+            "Description of the accident and the cause/corrective actions taken",
+            "A complete history of all sources owned by the company"
+        ],
+        "answer": "Description of the accident and the cause/corrective actions taken"
+    },
+    {
+        "question": "As a measure for accident prevention, what must be done with the survey meter used for radiographic work?",
+        "options": [
+            "It must be checked for contamination after every use",
+            "It must be capable of measuring up to 1000 mSv/hr",
+            "It must be calibrated",
+            "It must be a digital reading dosimeter"
+        ],
+        "answer": "It must be calibrated"
+    },
+    {
+        "question": "In the event of a missing or stolen source, what is the first action the operator must take?",
+        "options": [
+            "Immediately notify the RPO",
+            "Begin an immediate search using appropriate survey meters",
+            "Prepare the emergency storage container",
+            "Call the source manufacturer"
+        ],
+        "answer": "Begin an immediate search using appropriate survey meters"
+    },
+    {
+        "question": "For a **Co-60** source with an activity of **37 GBq (1 Ci)**, what is the dose rate at 1 meter?",
+        "options": [
+            "4.8 mSv/hr",
+            "9.6 mSv/hr",
+            "13.0 mSv/hr",
+            "26.0 mSv/hr"
+        ],
+        "answer": "13.0 mSv/hr"
+    },
+    {
+        "question": "What does a radiographer need to obtain from persons who may have been inside the barrier during an accident if they cannot be detained?",
+        "options": [
+            "Their employment history",
+            "A signed non-disclosure agreement",
+            "Their names, addresses, and telephone numbers",
+            "Proof of insurance"
+        ],
+        "answer": "Their names, addresses, and telephone numbers"
+    },
+    {
+        "question": "What is the key principle that must always be applied when doing mitigation work, especially when the source is still outside the shielded container?",
+        "options": [
+            "Maximum Dose Rate (MDR)",
+            "Inverse Square Law (ISL)",
+            "As Low As Reasonably Achievable (ALARA)",
+            "Time, Distance, Shielding (TDS)"
+        ],
+        "answer": "As Low As Reasonably Achievable (ALARA)"
+    },
+    {
+        "question": "What is included in the emergency equipment toolkit that is a long-handled wire tool?",
+        "options": [
+            "Pliers, screwdriver, long-handled wire cutters",
+            "Adjustable wrench, rope, hand lamp",
+            "No-Go gauge, film badge, check source",
+            "Lead sheet, lead shots, Lead Pot"
+        ],
+        "answer": "Pliers, screwdriver, long-handled wire cutters"
+    },
+    {
+        "question": "What are the three main types of information that should be included in the full accident investigation report regarding exposure?",
+        "options": [
+            "Workers, RPS, and RPO",
+            "Workers, emergency services personnel, and members of the public",
+            "Licensee, AELB, and Police",
+            "Ir-192, Co-60, and Se-75 sources"
+        ],
+        "answer": "Workers, emergency services personnel, and members of the public"
+    },
+    {
+        "question": "If a Level 4 emergency occurs, which type of emergency response team is required?",
+        "options": [
+            "Internal response team only",
+            "External response team only",
+            "Internal and external response team",
+            "Only the RPO"
+        ],
+        "answer": "Internal and external response team"
+    },
+    {
+        "question": "What is the primary function of the **Emergency Plan** regarding an emergency situation?",
+        "options": [
+            "To prevent all accidents from occurring",
+            "To limit the extent of the emergency and minimize hazards",
+            "To provide a detailed accounting of all radioactive sources",
+            "To calculate the total dose received by the public annually"
+        ],
+        "answer": "To limit the extent of the emergency and minimize hazards"
+    },
+    {
+        "question": "Which type of radiological emergency is caused by human factors, technical factors, or a combination of both?",
+        "options": [
+            "Loss of control of radiation worker",
+            "Loss of control of X-ray equipment",
+            "Loss of control of radioactive source",
+            "Other events (transport accidents/fires)"
+        ],
+        "answer": "Loss of control of radioactive source"
+    },
+    {
+        "question": "A Level 2 emergency typically requires the support of which external body?",
+        "options": [
+            "External Response Team",
+            "AELB's special emergency team",
+            "No external support is typically needed",
+            "International Atomic Energy Agency (IAEA)"
+        ],
+        "answer": "No external support is typically needed"
+    },
+    {
+        "question": "What must be recorded on the exposure device before leaving the work site as an accident prevention measure?",
+        "options": [
+            "The last source change date",
+            "The radiation level at the device surface",
+            "The total number of radiographic shots taken",
+            "The serial number of the radiographer's TLD"
+        ],
+        "answer": "The radiation level at the device surface"
+    },
+    {
+        "question": "If an X-ray equipment emergency occurs, what should the radiographer ensure is done to the area, after switching the machine off?",
+        "options": [
+            "The area is restricted by controlled barrier",
+            "The area is surveyed by the RPO",
+            "The film is developed immediately",
+            "The generator is refueled"
+        ],
+        "answer": "The area is restricted by controlled barrier"
+    },
+    {
+        "question": "In the event of a source that is stuck but **not exposed** (still partially shielded), what is the first action?",
+        "options": [
+            "Calculate the new controlled boundary immediately",
+            "Call the RPO/RPS and inform them of the situation",
+            "Make one attempt to return the source to the fully shielded position",
+            "Cut the guide tube and place it in the Lead Pot"
+        ],
+        "answer": "Make one attempt to return the source to the fully shielded position"
+    },
+    {
+        "question": "What is the key factor that determines the new size of the controlled area for a stuck source emergency?",
+        "options": [
+            "The source activity and its characteristic intensity (Gamma Constant)",
+            "The height of the controlled barrier",
+            "The cost of the shielding material",
+            "The number of radiographers on site"
+        ],
+        "answer": "The source activity and its characteristic intensity (Gamma Constant)"
+    },
+    {
+        "question": "Which of the following is an example of an emergency involving 'Other events'?",
+        "options": [
+            "A source stuck in the guide tube",
+            "Unintentional energizing of an X-ray generator",
+            "Fire or explosion in the controlled area",
+            "Source capsule assembly disconnected"
+        ],
+        "answer": "Fire or explosion in the controlled area"
+    },
+    {
+        "question": "What is the primary action a radiographer must take after establishing a new controlled boundary for a stuck source?",
+        "options": [
+            "Start the source retrieval operation",
+            "Guard the area and prevent unauthorized access",
+            "Perform a final leak test",
+            "Call the police"
+        ],
+        "answer": "Guard the area and prevent unauthorized access"
+    },
+    {
+        "question": "What is the role of the **RPS** (Radiation Protection Supervisor) in the emergency command structure?",
+        "options": [
+            "To perform the immediate action of turning off the X-ray machine",
+            "To be the leader of the response team and give instruction for further actions",
+            "To calculate the total dose received by the radiographer",
+            "To submit the final accident report to AELB"
+        ],
+        "answer": "To be the leader of the response team and give instruction for further actions"
+    },
+    {
+        "question": "If a stuck source cannot be successfully retrieved on the first attempt, the RPO must ensure that the subsequent retrieval operation complies with what established limits?",
+        "options": [
+            "Maximum Permissible Time for Rescue Operations",
+            "Daily dose limit for the public",
+            "The source's decay rate",
+            "The equipment's working temperature"
+        ],
+        "answer": "Maximum Permissible Time for Rescue Operations"
+    },
+    {
+        "question": "What is a key instruction for firefighters regarding a fire involving radioactive material?",
+        "options": [
+            "Use only water to extinguish the fire",
+            "Only use CO2 fire extinguishers",
+            "Treat the fire as normal until the RPO arrives",
+            "The area is an exclusion zone and to prevent the spread of contamination"
+        ],
+        "answer": "The area is an exclusion zone and to prevent the spread of contamination"
+    },
+    {
+        "question": "In the event of a missing or stolen source, who should be contacted after the immediate search is unsuccessful?",
+        "options": [
+            "Local Authority",
+            "The RPO and the police",
+            "Fire Department",
+            "Medical Services"
+        ],
+        "answer": "The RPO and the police"
+    },
+    {
+        "question": "Which of the following is a key step in decontamination procedures for workers who may have been exposed to radioactive material?",
+        "options": [
+            "Disposing of the TLD badge",
+            "Removal of clothing and decontamination of skin/wounds",
+            "Drinking large amounts of water",
+            "Taking an immediate X-ray"
+        ],
+        "answer": "Removal of clothing and decontamination of skin/wounds"
+    },
+    {
+        "question": "What is one item in the emergency equipment toolkit that is used for marking and cordoning off the area?",
+        "options": [
+            "Barrier/Rope/Tape",
+            "Lead sheet",
+            "Long-handled tongs",
+            "Screwdriver"
+        ],
+        "answer": "Barrier/Rope/Tape"
+    },
+    {
+        "question": "If an X-ray tube head or control panel is physically damaged, what should the radiographer check for immediately?",
+        "options": [
+            "The voltage setting of the X-ray tube",
+            "Whether the machine is still energized and if there is any sign of radiation",
+            "The last calibration date of the equipment",
+            "The availability of film for the next exposure"
+        ],
+        "answer": "Whether the machine is still energized and if there is any sign of radiation"
+    },
+    {
+        "question": "What is the typical **dose rate** used as a reference point for calculating the **maximum permissible time for rescue operations**?",
+        "options": [
+            "100 mSv/hr",
+            "100 mSv/minute",
+            "100 mSv per rescue operation",
+            "25 mSv per rescue operation"
+        ],
+        "answer": "25 mSv per rescue operation"
+    },
+    {
+        "question": "What is the key component of the source assembly that, if disconnected from the drive cable, causes the source to be stuck in the collimator or guide tube?",
+        "options": [
+            "The winding mechanism",
+            "The teleflex cable and male connector",
+            "The lead shield",
+            "The hand lamp"
+        ],
+        "answer": "The teleflex cable and male connector"
+    },
+    {
+        "question": "What is a characteristic of a Level 1 emergency concerning the response?",
+        "options": [
+            "Requires external response team only",
+            "Requires internal response team only",
+            "Requires AELB's special emergency team",
+            "Requires police and fire department assistance"
+        ],
+        "answer": "Requires internal response team only"
+    },
+    {
+        "question": "What is the required action concerning the TLD/film badge for any person who may have been exposed during the accident?",
+        "options": [
+            "Dispose of the badge immediately",
+            "Send the badge for assessment and use a replacement",
+            "Keep the badge for one year before assessment",
+            "Store the badge in the emergency storage container"
+        ],
+        "answer": "Send the badge for assessment and use a replacement"
+    },
+    {
+        "question": "What must the RPO and RPS always carry with them when dealing with radioactive sources as a safety precaution?",
+        "options": [
+            "A two-way radio",
+            "A hand lamp and clipboard",
+            "A calibrated survey meter and direct reading dosimeter",
+            "The emergency plan document"
+        ],
+        "answer": "A calibrated survey meter and direct reading dosimeter"
+    },
+    {
+        "question": "What is the first step in the recovery action for a source lost while being transported?",
+        "options": [
+            "Call AELB immediately",
+            "Calculate the safe boundary",
+            "Retrace the route used and perform visual and instrumental search",
+            "Contact the local authority"
+        ],
+        "answer": "Retrace the route used and perform visual and instrumental search"
+    },
+    {
+        "question": "If a worker is injured during an emergency and is suspected to be contaminated, where should the medical examination take place?",
+        "options": [
+            "At the nearest clinic",
+            "In the controlled area",
+            "At the hospital, after being informed of potential contamination",
+            "At the company's head office"
+        ],
+        "answer": "At the hospital, after being informed of potential contamination"
+    },
+    {
+        "question": "What should be ensured about the source container, as a form of accident prevention, before it is transported from the storage area?",
+        "options": [
+            "That it is visually inspected and locked/secured",
+            "That it is covered with a lead sheet",
+            "That it is painted yellow",
+            "That the control cable is disconnected"
+        ],
+        "answer": "That it is visually inspected and locked/secured"
+    },
+    {
+        "question": "Which of the following is a method of recovering an unshielded source that is outside the guide tube and cannot be moved back into the GED?",
+        "options": [
+            "Using the X-ray tube to push the source",
+            "Using long-handled tongs to pick up the source and place it into the Lead Pot",
+            "Winding the remote control unit violently",
+            "Covering the source with a flammable material"
+        ],
+        "answer": "Using long-handled tongs to pick up the source and place it into the Lead Pot"
+    },
+    {
+        "question": "In the event of a fire, what must be done to the radioactive source if it is safe to do so?",
+        "options": [
+            "Remove the source from the controlled area",
+            "Cool the source container with water",
+            "Cover the source with a fire blanket",
+            "Leave the source where it is"
+        ],
+        "answer": "Remove the source from the controlled area"
+    },
+    {
+        "question": "What is the maximum exposure dose for a rescue operation, which is the basis for calculating the Maximum Permissible Time?",
+        "options": [
+            "10 mSv",
+            "25 mSv",
+            "50 mSv",
+            "100 mSv"
+        ],
+        "answer": "25 mSv"
+    },
+    {
+        "question": "What must be included in the accident investigation report regarding necessary improvements?",
+        "options": [
+            "Any necessary improvement to enhance safety and health",
+            "The names of the personnel to be fired",
+            "A complete history of all personnel dose records",
+            "Financial penalty recommendations"
+        ],
+        "answer": "Any necessary improvement to enhance safety and health"
+    },
+    {
+        "question": "If an X-ray machine timer fails to terminate an exposure, what is the cause of the emergency?",
+        "options": [
+            "Loss of control of radiation worker",
+            "Loss of control of X-ray equipment",
+            "Loss of control of radioactive source",
+            "Other events (transport accidents/fires)"
+        ],
+        "answer": "Loss of control of X-ray equipment"
+    },
+    {
+        "question": "The radiographer should record the equipment's details for an X-ray emergency, including the tube voltage, current, time, and what other settings?",
+        "options": [
+            "The type of collimator used",
+            "The X-ray filter setting",
+            "The number of shots taken",
+            "The last date of battery change"
+        ],
+        "answer": "The X-ray filter setting"
+    },
+    {
+        "question": "What is the recommended number of attempts for the radiographer to retrieve a stuck but unexposed source before reporting to the RPS/RPO?",
+        "options": [
+            "One attempt",
+            "Two attempts",
+            "Three attempts",
+            "Unlimited attempts"
+        ],
+        "answer": "One attempt"
+    },
+    {
+        "question": "What type of emergency is defined by a significance effect outside the outer perimeter of a premise (Off-site)?",
+        "options": [
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Level 4"
+        ],
+        "answer": "Level 3"
+    },
+    {
+        "question": "If a source is missing or stolen, after the immediate search, the RPO must be informed and what other step related to security is taken?",
+        "options": [
+            "The security agency must be informed",
+            "The source manufacturer must be informed",
+            "The fire department must be informed",
+            "The license holder must be informed immediately"
+        ],
+        "answer": "The security agency must be informed"
+    },
+    {
+        "question": "Which body is responsible for providing **external emergency support** when required by the RPO?",
+        "options": [
+            "The International Atomic Energy Agency (IAEA)",
+            "The local Fire Department",
+            "AELB's special emergency team",
+            "The company's in-house medical team"
+        ],
+        "answer": "AELB's special emergency team"
+    },
+    {
+        "question": "What should be the main content of the preliminary investigation report submitted by the RPS to the RPO?",
+        "options": [
+            "A summary of the emergency's financial cost",
+            "The names of all witnesses",
+            "Findings, observations, possible dose assessment, and recommendations",
+            "A complete history of the equipment's maintenance"
+        ],
+        "answer": "Findings, observations, possible dose assessment, and recommendations"
+    },
+    {
+        "question": "What is the recommended first aid action for a person with radiation burns?",
+        "options": [
+            "Apply topical ointments",
+            "Cover the affected area with an ice pack",
+            "Seek medical attention after initial decontamination",
+            "Administer oral charcoal"
+        ],
+        "answer": "Seek medical attention after initial decontamination"
+    },
+    {
+        "question": "In the event of an emergency, the radiographer should **not** leave the controlled area until what is complete?",
+        "options": [
+            "The RPO arrives at the site",
+            "The dose assessment is complete",
+            "The area is restricted with a controlled barrier and warning signs",
+            "The fire is extinguished"
+        ],
+        "answer": "The area is restricted with a controlled barrier and warning signs"
+    },
+    {
+        "question": "If a source is stuck in the guide tube and cannot be retracted, what part of the guide tube might need to be cut to recover the source?",
+        "options": [
+            "The part before the connector",
+            "The section where the source is lodged (left and right-hand side of the source)",
+            "The section near the winding mechanism",
+            "The part near the control panel"
+        ],
+        "answer": "The section where the source is lodged (left and right-hand side of the source)"
+    },
+    {
+        "question": "What should the RPO's full accident investigation report communicate to all involved personnel?",
+        "options": [
+            "The total financial loss",
+            "The lessons from the accident and necessary improvements to enhance safety and health",
+            "The decision to terminate the license",
+            "The names of the external emergency support group"
+        ],
+        "answer": "The lessons from the accident and necessary improvements to enhance safety and health"
+    },
+    {
+        "question": "The RPO must submit the full accident investigation report to AELB within 30 days of the accident notification. The content must include the description of the accident and what else regarding the event?",
+        "options": [
+            "The total number of radiographic shots taken that day",
+            "The total annual dose of the RPO",
+            "Actions taken during the emergency",
+            "The price of the Lead Pot"
+        ],
+        "answer": "Actions taken during the emergency"
+    },
+    {
+        "question": "What is the key factor that determines the different emergency actions required for X-rays versus gamma rays?",
+        "options": [
+            "Their penetrating power",
+            "Whether the radiation can be switched on and off",
+            "Their half-life",
+            "Their dose rate at 1 meter"
+        ],
+        "answer": "Whether the radiation can be switched on and off"
+    },
+    {
+        "question": "Which of the following is a possible immediate action for a **missing or stolen source** in a storage area?",
+        "options": [
+            "Calculate the safe boundary distance",
+            "Immediately begin a search using appropriate survey meters",
+            "Notify the fire department",
+            "Turn off the electricity supply to the storage area"
+        ],
+        "answer": "Immediately begin a search using appropriate survey meters"
+    },
+    {
+        "question": "What is the ultimate goal of the **Decontamination** process?",
+        "options": [
+            "To ensure that all workers are fit for duty immediately",
+            "To remove radioactive material from people, equipment, and areas to acceptable levels",
+            "To calculate the total dose received by the worker",
+            "To obtain a replacement source"
+        ],
+        "answer": "To remove radioactive material from people, equipment, and areas to acceptable levels"
+    },
+    {
+        "question": "What is the primary action a radiographer should perform after a source retrieval operation, such as placing the source into the Lead Pot?",
+        "options": [
+            "Dismantle the exposure device",
+            "Measure the radiation level to confirm that the source is shielded",
+            "Call the police for assistance",
+            "Clean the controlled area"
+        ],
+        "answer": "Measure the radiation level to confirm that the source is shielded"
+    },
+    {
+        "question": "For a Level 3 emergency, the consequences might be significant outside the outer perimeter of the premise, which requires the response of what type of team?",
+        "options": [
+            "Only the radiographer",
+            "Internal and external response team",
+            "Only the local fire department",
+            "The RPO only"
+        ],
+        "answer": "Internal and external response team"
+    },
+    {
+        "question": "If an X-ray unit is unintentionally energized, what is the cause of the emergency?",
+        "options": [
+            "Loss of control of radiation worker",
+            "Loss of control of X-ray equipment",
+            "Loss of control of radioactive source",
+            "Other events (transport accidents/fires)"
+        ],
+        "answer": "Loss of control of X-ray equipment"
+    },
+    {
+        "question": "What is the primary factor that contributes to the high occurrence of radiological accidents in industrial radiography, besides human or technical factors?",
+        "options": [
+            "The high cost of equipment",
+            "The relatively higher activity or intensity of the source used for the work performance",
+            "The long exposure times required",
+            "The difficulty of setting up the controlled area"
+        ],
+        "answer": "The relatively higher activity or intensity of the source used for the work performance"
+    },
+    {
+        "question": "Which of the following is a piece of safety equipment that is **not** included in the emergency toolkit but is mandatory for daily operation?",
+        "options": [
+            "Lead sheet",
+            "Survey meter",
+            "Long-handled tongs",
+            "Lead Pot"
+        ],
+        "answer": "Survey meter"
+    },
+    {
+        "question": "What is a crucial security measure to prevent a missing or stolen source from a storage area?",
+        "options": [
+            "Ensuring the area is locked and secure",
+            "Ensuring the source is stored near the X-ray machine",
+            "Ensuring the source is stored near the RPO's office",
+            "Ensuring the source is stored in a cool and dry place"
+        ],
+        "answer": "Ensuring the area is locked and secure"
+    },
+    {
+        "question": "The RPO must submit a full accident investigation report to the Authority within 30 days. This report must also include the cause of the emergency and what else related to prevention?",
+        "options": [
+            "The estimated time for a full recovery",
+            "Corrective and preventive actions taken",
+            "The names of all internal response team members",
+            "The total number of TLDs used during the emergency"
+        ],
+        "answer": "Corrective and preventive actions taken"
+    }
+]

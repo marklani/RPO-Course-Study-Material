@@ -1,0 +1,1492 @@
+[
+    {
+        "question": "Which three fundamental radiation safety principles are detailed in the Introduction (1.0) of the document?",
+        "options": [
+            "Justification, Optimization, and Dose Limit [cite: 3]",
+            "Time, Distance, and Shielding [cite: 189]",
+            "ALARA, Supervision, and Licensing [cite: 10, 13]",
+            "Containment, Monitoring, and Emergency Planning"
+        ],
+        "answer": "Justification, Optimization, and Dose Limit [cite: 3]"
+    },
+    {
+        "question": "According to the IAEA, industrial radiographers are categorized as what type of personnel due to potential radiation exposure?",
+        "options": [
+            "Low-risk personnel",
+            "Controlled personnel",
+            "Monitored personnel",
+            "High-risk personnel [cite: 6]"
+        ],
+        "answer": "High-risk personnel [cite: 6]"
+    },
+    {
+        "question": "What is the principle that emphasizes keeping radiation exposure As Low As Reasonably Achievable, which can be compromised by difficult working conditions?",
+        "options": [
+            "Optimization (O)",
+            "Justification (J)",
+            "ALARA (As Low As Reasonably Achievable) [cite: 10]",
+            "Dose Limit (DL)"
+        ],
+        "answer": "ALARA (As Low As Reasonably Achievable) [cite: 10]"
+    },
+    {
+        "question": "Who must supervise all industrial radiography activities to minimize risks of accidents, theft, loss, or sabotage?",
+        "options": [
+            "Only the License Holder",
+            "A Safety and Health Officer",
+            "An RPO, RPS, or experienced radiographer [cite: 13]",
+            "A Competent Person certified by JPK"
+        ],
+        "answer": "An RPO, RPS, or experienced radiographer [cite: 13]"
+    },
+    {
+        "question": "What are the two types of radiation sources used in industrial radiography according to the document?",
+        "options": [
+            "Alpha and Beta ray",
+            "X-ray and Gamma ray [cite: 14]",
+            "Neutron and Proton",
+            "Sealed and Unsealed sources"
+        ],
+        "answer": "X-ray and Gamma ray [cite: 14]"
+    },
+    {
+        "question": "Which type of X-ray unit is fitted with collimators to restrict the beam?",
+        "options": [
+            "Panoramic X-ray unit",
+            "Micro-focus X-ray system",
+            "Directional X-ray tube [cite: 16]",
+            "Flash X-ray equipment"
+        ],
+        "answer": "Directional X-ray tube [cite: 16]"
+    },
+    {
+        "question": "Which X-ray system utilizes a very fine focus size with tube current in the range of several hundred microamperes?",
+        "options": [
+            "Conventional X-ray unit",
+            "Crawler X-ray system",
+            "Micro-focus X-ray system [cite: 18]",
+            "Flash X-ray equipment"
+        ],
+        "answer": "Micro-focus X-ray system [cite: 18]"
+    },
+    {
+        "question": "What component of X-ray radiographic equipment is used to control the intensity of the X-ray by controlling the current input?",
+        "options": [
+            "Timer",
+            "Voltage knob",
+            "Control panel [cite: 20]",
+            "Current knob [cite: 28]"
+        ],
+        "answer": "Current knob [cite: 28]"
+    },
+    {
+        "question": "The X-ray control panel's **Voltage knob** is used to control which characteristic of the ionizing radiation?",
+        "options": [
+            "Its duration (time)",
+            "Its intensity (current)",
+            "Its wavelength or quality (penetrating power) [cite: 29]",
+            "Its direction (collimation)"
+        ],
+        "answer": "Its wavelength or quality (penetrating power) [cite: 29]"
+    },
+    {
+        "question": "What is the typical value for leakage radiation from an X-ray tube head at 1.0 meters from the target?",
+        "options": [
+            "1 mSv/h",
+            "10 μSv/h",
+            "100 μSv/h [cite: 31]",
+            "1 mGy/h"
+        ],
+        "answer": "100 μSv/h [cite: 31]"
+    },
+    {
+        "question": "What is Malaysia's maximum permissible leakage radiation for X-ray equipment at 1.0 meters from the target at every rating?",
+        "options": [
+            "≤ 100 μSv/h",
+            "≤ 1 mGy/h [cite: 32]",
+            "≤ 10 mGy/h",
+            "≤ 2000 μSv/h"
+        ],
+        "answer": "≤ 1 mGy/h [cite: 32]"
+    },
+    {
+        "question": "Which of the following is a **Periodic task** for radiation safety consideration of an X-ray machine, as opposed to a Routine inspection?",
+        "options": [
+            "Checking for visible damage to the equipment [cite: 40]",
+            "Testing on all interlocks and emergency cut-out switches [cite: 38]",
+            "Checking that all warning lights are functioning correctly [cite: 42]",
+            "Ensuring fasteners are tight [cite: 42]"
+        ],
+        "answer": "Testing on all interlocks and emergency cut-out switches [cite: 38]"
+    },
+    {
+        "question": "X-ray machines must be equipped with a built-in what to restrict the useful direction of the beam?",
+        "options": [
+            "Collimator [cite: 46]",
+            "Interlock",
+            "Warning system",
+            "High voltage supply"
+        ],
+        "answer": "Collimator [cite: 46]"
+    },
+    {
+        "question": "The X-ray tube's **filament** is made of an easily ionized metal, typically:",
+        "options": [
+            "Gold",
+            "Platinum",
+            "Copper",
+            "Tungsten [cite: 24]"
+        ],
+        "answer": "Tungsten [cite: 24]"
+    },
+    {
+        "question": "What is the purpose of the **Lead shield** component in an X-ray tube system?",
+        "options": [
+            "To provide a high vacuum interior [cite: 22]",
+            "To provide thermal electrons for acceleration [cite: 23]",
+            "To dissipate heat from the anode [cite: 526]",
+            "To reduce the risk of radiation to the operator and public [cite: 26]"
+        ],
+        "answer": "To reduce the risk of radiation to the operator and public [cite: 26]"
+    },
+    {
+        "question": "Gamma ray source assemblies should be designed and developed based on the standard requirements specified in which ISO standards (or equivalent)?",
+        "options": [
+            "ISO 9001 and ISO 14001",
+            "ISO 2919 and ISO 3999 [cite: 48]",
+            "ISO 17025 and ISO 15189",
+            "ISO 45001 and ISO 50001"
+        ],
+        "answer": "ISO 2919 and ISO 3999 [cite: 48]"
+    },
+    {
+        "question": "What is the maximum mass for a **Class P** (Portable) exposure container?",
+        "options": [
+            "Does not exceed 25 kg",
+            "Does not exceed 50 kg [cite: 53]",
+            "Does not exceed 100 kg",
+            "Does not exceed 500 kg"
+        ],
+        "answer": "Does not exceed 50 kg [cite: 53]"
+    },
+    {
+        "question": "What is the maximum dose equivalent rate allowed at a distance of **1 meter** from a **Class P** portable exposure container?",
+        "options": [
+            "50 μSv/h",
+            "100 μSv/h",
+            "20 μSv/h [cite: 53]",
+            "500 μSv/h"
+        ],
+        "answer": "20 μSv/h [cite: 53]"
+    },
+    {
+        "question": "What is the maximum dose equivalent rate allowed at a distance of **1 meter** from a **Class F** fixed exposure container?",
+        "options": [
+            "20 μSv/h",
+            "50 μSv/h",
+            "100 μSv/h [cite: 55]",
+            "1000 μSv/h"
+        ],
+        "answer": "100 μSv/h [cite: 55]"
+    },
+    {
+        "question": "The gamma radiation remote control unit typically uses a **teleflex cable** to link the source capsule, connector, and locking ball. What is this component assembly known as?",
+        "options": [
+            "Drive cable",
+            "Guide tube",
+            "Source assembly [cite: 50]",
+            "Winding/crank mechanism"
+        ],
+        "answer": "Source assembly [cite: 50]"
+    },
+    {
+        "question": "Which ISO standard specifies the performance, design, and tests for apparatus used for Industrial gamma radiography?",
+        "options": [
+            "ISO 9001",
+            "ISO 2919",
+            "ISO 3999 [cite: 57]",
+            "ISO 17025"
+        ],
+        "answer": "ISO 3999 [cite: 57]"
+    },
+    {
+        "question": "Which of the following is **not** one of the three commonly used Gamma emitting radioactive sealed sources in industrial radiography listed in the document?",
+        "options": [
+            "Cobalt-60 (Co-60) [cite: 59]",
+            "Iridium-192 (Ir-192) [cite: 59]",
+            "Caesium-137 (Cs-137)",
+            "Selenium-75 (Se-75) [cite: 59]"
+        ],
+        "answer": "Caesium-137 (Cs-137)"
+    },
+    {
+        "question": "What is the half-life of Iridium-192 (Ir-192), one of the commonly used gamma sources?",
+        "options": [
+            "5.3 years [cite: 59]",
+            "74 days [cite: 59]",
+            "120 days [cite: 59]",
+            "1.33 MeV"
+        ],
+        "answer": "74 days [cite: 59]"
+    },
+    {
+        "question": "Which radioisotope listed has the highest Characteristic intensity / Gamma constant (Dose Rate for 1 GBq at 1 meter distance)?",
+        "options": [
+            "Iridium-192 (0.13 mSv/hr) [cite: 59]",
+            "Cobalt-60 (0.35 mSv/hr) [cite: 59]",
+            "Selenium-75 (0.05 mSv/hr) [cite: 59]",
+            "All are the same"
+        ],
+        "answer": "Cobalt-60 (0.35 mSv/hr) [cite: 59]"
+    },
+    {
+        "question": "What is the optimum working range for steel (in mm) for Cobalt-60 (Co-60)?",
+        "options": [
+            "4.2 - 40 mm",
+            "10 - 100 mm",
+            "50 - 200 mm [cite: 59]",
+            "1 - 10 mm"
+        ],
+        "answer": "50 - 200 mm [cite: 59]"
+    },
+    {
+        "question": "Periodic maintenance on Gamma Radiography Equipment must only be performed by whom?",
+        "options": [
+            "Any experienced radiographer",
+            "A service provider recognised by the Board [cite: 64]",
+            "The Radiation Protection Officer (RPO) only",
+            "A qualified engineer"
+        ],
+        "answer": "A service provider recognised by the Board [cite: 64]"
+    },
+    {
+        "question": "What check must workers perform using a 'go-no-go' type check gauge supplied by the manufacturer during routine inspection?",
+        "options": [
+            "Verifying the locking mechanism functions properly",
+            "Verifying the source assembly connection to the drive cable is secure [cite: 70]",
+            "Checking for radiation leakage around the device",
+            "Inspecting for crushing or kinks in the remote controls [cite: 72]"
+        ],
+        "answer": "Verifying the source assembly connection to the drive cable is secure [cite: 70]"
+    },
+    {
+        "question": "How frequently must the licensee perform maintenance on the Gamma Exposure Device (GED)?",
+        "options": [
+            "At least once every 5 years",
+            "At least once every 3 years",
+            "At least once a year or as directed by the Board [cite: 76]",
+            "Only when the device malfunctions"
+        ],
+        "answer": "At least once a year or as directed by the Board [cite: 76]"
+    },
+    {
+        "question": "What is the minimum required height for the word 'RADIOACTIVE' on the permanent and clear label of an exposure container?",
+        "options": [
+            "5 mm",
+            "10 mm [cite: 79]",
+            "20 mm",
+            "Not specified"
+        ],
+        "answer": "10 mm [cite: 79]"
+    },
+    {
+        "question": "What does a Pipe-line Crawler Equipment use to activate and control its location from outside the pipe?",
+        "options": [
+            "A remote control cable",
+            "A sensor array",
+            "A low activity **¹³⁷Cs** sealed source (control source) [cite: 90]",
+            "An X-ray tube"
+        ],
+        "answer": "A low activity **¹³⁷Cs** sealed source (control source) [cite: 90]"
+    },
+    {
+        "question": "Which of the following is a method of **Internal monitoring** as opposed to External monitoring?",
+        "options": [
+            "TLD badge [cite: 92]",
+            "Film badge [cite: 92]",
+            "Whole body Counter (WBC) [cite: 92]",
+            "OSL Badge [cite: 92]"
+        ],
+        "answer": "Whole body Counter (WBC) [cite: 92]"
+    },
+    {
+        "question": "Where should a personnel monitoring device (e.g., TLD/OSL) normally be worn?",
+        "options": [
+            "On the wrist or ankle",
+            "Visibly at the chest or waist level in front of the body [cite: 94]",
+            "On the back of the uniform",
+            "In a pocket"
+        ],
+        "answer": "Visibly at the chest or waist level in front of the body [cite: 94]"
+    },
+    {
+        "question": "In normal conditions, how often should a personnel monitoring device be read?",
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly [cite: 94]",
+            "Annually"
+        ],
+        "answer": "Monthly [cite: 94]"
+    },
+    {
+        "question": "If an accidental exposure or damage to a personal dosimeter occurs due to mishandling, what is the immediate required action?",
+        "options": [
+            "Discard the badge",
+            "Report to the RPO immediately [cite: 101]",
+            "Continue working until the end of the shift",
+            "Record it in the daily logbook"
+        ],
+        "answer": "Report to the RPO immediately [cite: 101]"
+    },
+    {
+        "question": "Dose constraints established by the RT service provider must have values lower than the what?",
+        "options": [
+            "ALARA principle",
+            "Annual Dose Limits (ADL) [cite: 103]",
+            "Public Dose Limits",
+            "Emergency Exposure Limits"
+        ],
+        "answer": "Annual Dose Limits (ADL) [cite: 103]"
+    },
+    {
+        "question": "Which exposure situation is **exempted** from the established dose constraints?",
+        "options": [
+            "Planned exposure scenarios [cite: 102]",
+            "Emergency exposure situations (e.g., source recovery) [cite: 111]",
+            "Long-term contract work",
+            "In-house maintenance programs"
+        ],
+        "answer": "Emergency exposure situations (e.g., source recovery) [cite: 111]"
+    },
+    {
+        "question": "Which measure is **not** listed as an option for reducing unnecessary exposures during the optimization process?",
+        "options": [
+            "Use DDA or CR [cite: 108]",
+            "Using additional PPE (Personal Protective Equipment)",
+            "Implement shielding [cite: 108]",
+            "Increase distance from the radiation source [cite: 108]"
+        ],
+        "answer": "Using additional PPE (Personal Protective Equipment)"
+    },
+    {
+        "question": "What is the primary purpose of a **shielded enclosure** in industrial radiography?",
+        "options": [
+            "To allow the radiographer to develop the film",
+            "To facilitate concurrent activities in the surrounding area without interruption [cite: 150]",
+            "To serve as a storage area for sources",
+            "To be used for site radiography only"
+        ],
+        "answer": "To facilitate concurrent activities in the surrounding area without interruption [cite: 150]"
+    },
+    {
+        "question": "Where should industrial radiography procedures **ideally** occur?",
+        "options": [
+            "In open fields (site radiography)",
+            "In confined spaces",
+            "Inside shielded enclosures [cite: 149]",
+            "At the client's premises"
+        ],
+        "answer": "Inside shielded enclosures [cite: 149]"
+    },
+    {
+        "question": "For activities involving radiation sources, what is the minimum team requirement for industrial radiography?",
+        "options": [
+            "A team of one competent radiation worker",
+            "A team of two competent radiation workers [cite: 159]",
+            "A team of three radiation workers",
+            "An RPO and a trainee"
+        ],
+        "answer": "A team of two competent radiation workers [cite: 159]"
+    },
+    {
+        "question": "In cases where an RPO is not mobilized to an RT site, who is responsible for radiation safety and source security?",
+        "options": [
+            "Only an Operator (P(RI))",
+            "The client's site manager",
+            "The License Holder's legal representative",
+            "A Supervisor (PY(RI)) or at least an Operator (P(RI)) [cite: 163]"
+        ],
+        "answer": "A Supervisor (PY(RI)) or at least an Operator (P(RI)) [cite: 163]"
+    },
+    {
+        "question": "How far in advance must the licensee notify Atom Malaysia online before starting radiography at a site located in a public area?",
+        "options": [
+            "Immediately upon arrival",
+            "At least 12 hours before starting",
+            "At least 24 hours before starting [cite: 172]",
+            "Not required if the controlled area is established"
+        ],
+        "answer": "At least 24 hours before starting [cite: 172]"
+    },
+    {
+        "question": "For a shielded enclosure constructed of solid material (e.g., concrete), the dose rate outside the external wall should not cause an exposure exceeding what limit for members of the public?",
+        "options": [
+            "20 mSv/y [cite: 177]",
+            "1 mSv/y [cite: 177]",
+            "50 μSv/h",
+            "100 μSv/h"
+        ],
+        "answer": "1 mSv/y [cite: 177]"
+    },
+    {
+        "question": "The **Controlled Area Boundary** should be set to ensure that the possible dose to people outside the area is below what?",
+        "options": [
+            "The Maximum Dose Limit (MDL)",
+            "The relevant reference dose levels [cite: 182]",
+            "100 mSv/y",
+            "The public dose constraint (7.5 μSv/h)"
+        ],
+        "answer": "The relevant reference dose levels [cite: 182]"
+    },
+    {
+        "question": "What is the relationship between the dose received by a worker and the time spent in the radiation area?",
+        "options": [
+            "Inversely proportional [cite: 194]",
+            "Directly proportional [cite: 190]",
+            "Exponentially proportional",
+            "No direct relationship"
+        ],
+        "answer": "Directly proportional [cite: 190]"
+    },
+    {
+        "question": "The relationship where the radiation dose rate is inversely proportional to the square of the distance from the source is known as the:",
+        "options": [
+            "ALARA principle",
+            "Attenuation Coefficient Law",
+            "Inverse Square Law [cite: 194]",
+            "Build-up Factor Law"
+        ],
+        "answer": "Inverse Square Law [cite: 194]"
+    },
+    {
+        "question": "What does the **Characteristic intensity / Gamma constant** represent for a gamma source?",
+        "options": [
+            "The energy of the gamma ray in MeV",
+            "The half-life of the radioisotope in days",
+            "The radiation dose rate from 1 GBq source at a 1 meter for 1 hour [cite: 196]",
+            "The optimum working range for steel in mm"
+        ],
+        "answer": "The radiation dose rate from 1 GBq source at a 1 meter for 1 hour [cite: 196]"
+    },
+    {
+        "question": "Which factor primarily determines the effectiveness of shielding?",
+        "options": [
+            "Radioisotope half-life",
+            "Atomic number/density of the shielding material [cite: 208]",
+            "Optimum working range for steel",
+            "The worker's exposure time"
+        ],
+        "answer": "Atomic number/density of the shielding material [cite: 208]"
+    },
+    {
+        "question": "In the Narrow Beam Radiation equation ($I_x = I_0 e^{-\\mu x}$), what does the variable **μ** represent?",
+        "options": [
+            "Intensity of radiation without shielding",
+            "Thickness of shielding in cm",
+            "Build-up factor",
+            "The attenuation coefficient (unit $cm^{-1}$) [cite: 216]"
+        ],
+        "answer": "The attenuation coefficient (unit $cm^{-1}$) [cite: 216]"
+    },
+    {
+        "question": "In the Broad Beam Radiation equation ($I_x = B I_0 e^{-\\mu x}$), what does the variable **B** represent?",
+        "options": [
+            "Intensity of traversed radiation",
+            "Build-up factor [cite: 217]",
+            "Thickness of shielding",
+            "Half Value Layer"
+        ],
+        "answer": "Build-up factor [cite: 217]"
+    },
+    {
+        "question": "What unit is the X-ray tube control panel **Timer** typically calibrated in?",
+        "options": [
+            "Seconds",
+            "Minutes [cite: 27]",
+            "Hours",
+            "Milliseconds"
+        ],
+        "answer": "Minutes [cite: 27]"
+    },
+    {
+        "question": "What is the **Evacuated Glass Envelope** of an X-ray tube typically made of?",
+        "options": [
+            "Lead",
+            "Material having high electrical conductivity",
+            "Material having high thermal conductivity",
+            "Material having high melting point and sufficient strength [cite: 22]"
+        ],
+        "answer": "Material having high melting point and sufficient strength [cite: 22]"
+    },
+    {
+        "question": "Which material is NOT listed as a typical metal for the **Anode** of an X-ray tube?",
+        "options": [
+            "Tungsten [cite: 24]",
+            "Gold [cite: 24]",
+            "Platinum [cite: 24]",
+            "Iron"
+        ],
+        "answer": "Iron"
+    },
+    {
+        "question": "What is the purpose of the **Crawler X-ray system**?",
+        "options": [
+            "To restrict the useful direction of the beam",
+            "To produce rapid successive radiographs",
+            "To internally radiograph piping [cite: 17]",
+            "To utilize a very fine focus size"
+        ],
+        "answer": "To internally radiograph piping [cite: 17]"
+    },
+    {
+        "question": "What should be ensured about the cable connecting the X-ray control panel and the tube-head, besides being the longest possible?",
+        "options": [
+            "It should be coiled neatly",
+            "It must be as straight as possible [cite: 44]",
+            "It must be submerged in a cooling system",
+            "It should have a break in the circuit"
+        ],
+        "answer": "It must be as straight as possible [cite: 44]"
+    },
+    {
+        "question": "What does a **Class M** (Mobile) exposure container designed to be moved easily by a trolley or cart allow as the maximum dose equivalent rate at **1 meter distance**?",
+        "options": [
+            "20 μSv/h",
+            "50 μSv/h [cite: 54]",
+            "100 μSv/h",
+            "1000 μSv/h"
+        ],
+        "answer": "50 μSv/h [cite: 54]"
+    },
+    {
+        "question": "Which type of gamma-ray exposure container is designed for mobility restricted to the confines of a defined working location, such as a shielded enclosure?",
+        "options": [
+            "Class P (Portable)",
+            "Class M (Mobile)",
+            "Class F (Fixed) [cite: 55]",
+            "Projection type"
+        ],
+        "answer": "Class F (Fixed) [cite: 55]"
+    },
+    {
+        "question": "What must the radiation symbol on the exposure container label consist of?",
+        "options": [
+            "A two-blade design",
+            "A three-blade design [cite: 78]",
+            "A four-blade design",
+            "A hazard warning triangle"
+        ],
+        "answer": "A three-blade design [cite: 78]"
+    },
+    {
+        "question": "What is one of the key purposes of the **Inspection and Maintenance of GED**?",
+        "options": [
+            "To purchase new sources",
+            "To cancel the license",
+            "To ensure Regulatory Requirements are fulfilled [cite: 62]",
+            "To modify the equipment"
+        ],
+        "answer": "To ensure Regulatory Requirements are fulfilled [cite: 62]"
+    },
+    {
+        "question": "When should workers carry out a routine inspection of Gamma Radiography Equipment?",
+        "options": [
+            "Annually",
+            "Quarterly",
+            "Before the start of radiography work [cite: 66]",
+            "After source exchange"
+        ],
+        "answer": "Before the start of radiography work [cite: 66]"
+    },
+    {
+        "question": "What is one specific check required for the **remote controls** during a routine inspection?",
+        "options": [
+            "Checking for radiation levels",
+            "Ensuring the drive cable can move freely [cite: 72]",
+            "Verifying the source assembly connection",
+            "Checking the mass of the exposure container"
+        ],
+        "answer": "Ensuring the drive cable can move freely [cite: 72]"
+    },
+    {
+        "question": "For a source exchange, what is a necessary **preoperational check** related to the guide tube and transfer tube?",
+        "options": [
+            "Checking the mass of the container",
+            "Ensuring connections are secure [cite: 75]",
+            "Testing the warning lights",
+            "Documenting maximum source activity"
+        ],
+        "answer": "Ensuring connections are secure [cite: 75]"
+    },
+    {
+        "question": "What is the recommended frequency for **Quarterly Inspection and Maintenance** on the exposure device?",
+        "options": [
+            "Daily",
+            "Monthly",
+            "Every 3 months [cite: 85]",
+            "Annually"
+        ],
+        "answer": "Every 3 months [cite: 85]"
+    },
+    {
+        "question": "The Pipe-line Crawler's power supply can come from which of the following sources?",
+        "options": [
+            "Solar panels",
+            "External power grid",
+            "Battery or internal combustion engine or trailing cable from a generator [cite: 89]",
+            "Direct source activity"
+        ],
+        "answer": "Battery or internal combustion engine or trailing cable from a generator [cite: 89]"
+    },
+    {
+        "question": "Which of the following is an example of an **External monitoring** device?",
+        "options": [
+            "Whole body Counter",
+            "Partial Body Counter",
+            "Bioassay",
+            "Direct reading dosimeter [cite: 92]"
+        ],
+        "answer": "Direct reading dosimeter [cite: 92]"
+    },
+    {
+        "question": "What is the stated purpose of observing the trends of exposure histories of individuals or groups of workers?",
+        "options": [
+            "To enforce disciplinary action",
+            "To assess the need for improved standards of radiation protection [cite: 98]",
+            "To determine promotion eligibility",
+            "To calculate the Half Value Layer"
+        ],
+        "answer": "To assess the need for improved standards of radiation protection [cite: 98]"
+    },
+    {
+        "question": "What is the recommended period for wearing a personnel monitoring badge before it is replaced?",
+        "options": [
+            "One week",
+            "Four weeks [cite: 101]",
+            "Three months",
+            "Six months"
+        ],
+        "answer": "Four weeks [cite: 101]"
+    },
+    {
+        "question": "If the estimated working hours in a year are 1320 hours, and the Annual Dose Limit (ADL) is 20 mSv/year, what is the calculated dose rate at the boundary of the controlled area based on the ADL?",
+        "options": [
+            "20 μSv/h",
+            "7.5 μSv/h",
+            "15 μSv/h [cite: 117]",
+            "10 μSv/h"
+        ],
+        "answer": "15 μSv/h [cite: 117]"
+    },
+    {
+        "question": "What must be included in the calculation of a dose constraint in addition to past safe practices?",
+        "options": [
+            "Number of full-time employees",
+            "The source type and its activity or energy, scattered radiation, and cross-shooting [cite: 118]",
+            "The maximum purchase price of the equipment",
+            "The age of the radiation workers"
+        ],
+        "answer": "The source type and its activity or energy, scattered radiation, and cross-shooting [cite: 118]"
+    },
+    {
+        "question": "Which is an example of an **internal measure** taken as a corrective action if a worker exceeds the established personal dose constraint?",
+        "options": [
+            "Imposing a fine",
+            "Changing work practices [cite: 138]",
+            "Suspension of license",
+            "Seizing the radiation equipment"
+        ],
+        "answer": "Changing work practices [cite: 138]"
+    },
+    {
+        "question": "What is the main goal of a thorough investigation (intervention) following an incident like radiation overexposure?",
+        "options": [
+            "To dismiss the responsible worker",
+            "To submit a report to the police",
+            "To determine the incident cause and identify corrective actions [cite: 145]",
+            "To prove negligence by the Licensee"
+        ],
+        "answer": "To determine the incident cause and identify corrective actions [cite: 145]"
+    },
+    {
+        "question": "What does the term **'public area'** mean according to LEM/TEK/33 Rev.3, as referenced in the document?",
+        "options": [
+            "Any area outside the facility",
+            "The area which is normally visited or occupied by members of the public [cite: 171]",
+            "Only residential areas",
+            "An area where the dose rate is below 1 mSv/y"
+        ],
+        "answer": "The area which is normally visited or occupied by members of the public [cite: 171]"
+    },
+    {
+        "question": "What must be installed on all accessible walls of a shielded enclosure?",
+        "options": [
+            "Access control systems",
+            "Radiation survey meters",
+            "The radiation generator control panel",
+            "Warning signs, notices, and signals (lights) [cite: 178]"
+        ],
+        "answer": "Warning signs, notices, and signals (lights) [cite: 178]"
+    },
+    {
+        "question": "When should the warning signal for a shielded enclosure be activated?",
+        "options": [
+            "Only after the operation begins",
+            "Before and until the operation’s completion [cite: 179]",
+            "Only during source withdrawal",
+            "Only during source return"
+        ],
+        "answer": "Before and until the operation’s completion [cite: 179]"
+    },
+    {
+        "question": "What is the primary method for demarcating the boundary of the controlled area, when reasonably practicable?",
+        "options": [
+            "Using a GPS coordinate system",
+            "By physical means (e.g., barriers or cordoning off with tape) [cite: 184]",
+            "By placing survey meters at the perimeter",
+            "By issuing a verbal warning"
+        ],
+        "answer": "By physical means (e.g., barriers or cordoning off with tape) [cite: 184]"
+    },
+    {
+        "question": "According to the Inverse Square Law, if the intensity of radiation at distance $D_1$ is $I_1$ and at distance $D_2$ is $I_2$, what is the correct mathematical relationship?",
+        "options": [
+            "$I_1 / I_2 = D_1 / D_2$",
+            "$I_1 \\cdot D_1 = I_2 \\cdot D_2$",
+            "$I_1 / I_2 = D_2^2 / D_1^2$ [cite: 194]",
+            "$I_1 + D_1 = I_2 + D_2$"
+        ],
+        "answer": "$I_1 / I_2 = D_2^2 / D_1^2$ [cite: 194]"
+    },
+    {
+        "question": "The required thickness of a shielding material is greater for higher energy electromagnetic ionizing radiation because:",
+        "options": [
+            "Lower energy radiation is less likely to interact with electrons",
+            "Higher energy radiation is less likely to interact with electrons [cite: 211]",
+            "Higher energy radiation has a shorter half-life",
+            "Lower energy radiation is more scattered"
+        ],
+        "answer": "Higher energy radiation is less likely to interact with electrons [cite: 211]"
+    },
+    {
+        "question": "What does the symbol **$HVL$** represent in the context of shielding material effectiveness?",
+        "options": [
+            "The thickness required to stop all radiation",
+            "The thickness required to reduce the radiation intensity by half [cite: 218]",
+            "The thickness required to reduce the radiation intensity by one-tenth",
+            "The unit of attenuation coefficient"
+        ],
+        "answer": "The thickness required to reduce the radiation intensity by half [cite: 218]"
+    },
+    {
+        "question": "The formula $\\mu = (0.693) / HVL$ can be used to calculate what parameter?",
+        "options": [
+            "The Half Value Layer in cm",
+            "The characteristic intensity",
+            "The dose rate",
+            "The attenuation coefficient ($\\mu$) in $cm^{-1}$ [cite: 218]"
+        ],
+        "answer": "The attenuation coefficient ($\\mu$) in $cm^{-1}$ [cite: 218]"
+    },
+    {
+        "question": "What is the definition of **Personnel monitoring**?",
+        "options": [
+            "The measurement of dose due to sources inside the body [cite: 92]",
+            "The measurement of dose due to sources outside the body [cite: 92]",
+            "Radiation protection surveillance carried out on workers to ensure that the dose received does not exceed the dose limit [cite: 93]",
+            "The use of area monitors to check radiation levels"
+        ],
+        "answer": "Radiation protection surveillance carried out on workers to ensure that the dose received does not exceed the dose limit [cite: 93]"
+    },
+    {
+        "question": "What is one key reason industrial radiography is categorized as high-risk, in addition to severe health consequences for workers?",
+        "options": [
+            "High operational costs",
+            "Lengthy setup times",
+            "Potential for public exposure due to unregulated use of radioactive sources [cite: 8]",
+            "The necessity of high-voltage equipment"
+        ],
+        "answer": "Potential for public exposure due to unregulated use of radioactive sources [cite: 8]"
+    },
+    {
+        "question": "In the case of X-ray equipment, what is the term for radiation emitted when some radiation is detected around the tube head?",
+        "options": [
+            "Scattered radiation",
+            "Primary radiation",
+            "Leakage radiation [cite: 30]",
+            "Remnant radiation"
+        ],
+        "answer": "Leakage radiation [cite: 30]"
+    },
+    {
+        "question": "Which document is referenced for the 'Radiation Protection Course for Officer' (RSH 300)?",
+        "options": [
+            "LEM/TEK/18 Sem.3",
+            "Notification Notice No. 01/2014",
+            "The document's title page [cite: 418]",
+            "ISO 3999"
+        ],
+        "answer": "The document's title page [cite: 418]"
+    },
+    {
+        "question": "Which of the following is an example of an environment where RT personnel may work?",
+        "options": [
+            "Only specially designed shielded enclosures [cite: 4]",
+            "Outdoor sites like fabrication yards [cite: 4]",
+            "Only offshore platforms",
+            "Only exposure rooms"
+        ],
+        "answer": "Outdoor sites like fabrication yards [cite: 4]"
+    },
+    {
+        "question": "Which part of the X-ray tube incorporates a focusing cup and filament?",
+        "options": [
+            "Anode [cite: 515]",
+            "Lead shield [cite: 516]",
+            "Sealed glass envelope [cite: 512]",
+            "Cathode [cite: 513]"
+        ],
+        "answer": "Cathode [cite: 513]"
+    },
+    {
+        "question": "Why is the control panel cable for the X-ray machine recommended to be the longest possible?",
+        "options": [
+            "To increase the X-ray tube voltage",
+            "To comply with the Inverse Square Law and minimize operator dose [cite: 44, 188]",
+            "To reduce leakage radiation",
+            "To facilitate cooling"
+        ],
+        "answer": "To comply with the Inverse Square Law and minimize operator dose [cite: 44, 188]"
+    },
+    {
+        "question": "What is the main component of a Projection type exposure container that links the source capsule to the remote control unit?",
+        "options": [
+            "Shutter mechanism",
+            "Teleflex cable [cite: 50]",
+            "Depleted uranium shield",
+            "Winding/crank mechanism"
+        ],
+        "answer": "Teleflex cable [cite: 50]"
+    },
+    {
+        "question": "What is the half-life of Selenium-75 (Se-75)?",
+        "options": [
+            "5.3 years",
+            "74 days",
+            "120 days [cite: 59]",
+            "1.17 MeV"
+        ],
+        "answer": "120 days [cite: 59]"
+    },
+    {
+        "question": "What is the unit for **Characteristic intensity / Gamma constant** at 1 meter distance?",
+        "options": [
+            "GBq",
+            "MeV",
+            "mSv/hr [cite: 59]",
+            "mm"
+        ],
+        "answer": "mSv/hr [cite: 59]"
+    },
+    {
+        "question": "Which two pieces of information about the sealed source contained in the GED must be permanently labeled on the exposure container?",
+        "options": [
+            "Its purchase date and cost",
+            "Its energy and optimum working range",
+            "Its radionuclide, activity, reference date and serial number [cite: 83]",
+            "Its half-life and manufacturer"
+        ],
+        "answer": "Its radionuclide, activity, reference date and serial number [cite: 83]"
+    },
+    {
+        "question": "What is the primary power source for the X-ray component of a Pipe-line Crawler?",
+        "options": [
+            "An external control source",
+            "A high-activity sealed source",
+            "An X-ray tube [cite: 17]",
+            "A generator (via trailing cable) [cite: 89]"
+        ],
+        "answer": "A generator (via trailing cable) [cite: 89]"
+    },
+    {
+        "question": "Which personal monitoring device measures radiation dose and is typically read monthly in normal conditions?",
+        "options": [
+            "Thermoluminescent dosimeter (TLD) [cite: 92, 94]",
+            "Film badge",
+            "Partial Body Counter",
+            "Bioassay"
+        ],
+        "answer": "Thermoluminescent dosimeter (TLD) [cite: 92, 94]"
+    },
+    {
+        "question": "What is the primary reason for storing personnel monitoring devices in a suitable **low background radiation area**?",
+        "options": [
+            "To prevent theft",
+            "To protect them from excessive heat, moisture, and pressure [cite: 95]",
+            "To avoid being carried home",
+            "To prevent accidental over exposure [cite: 98]"
+        ],
+        "answer": "To protect them from excessive heat, moisture, and pressure [cite: 95]"
+    },
+    {
+        "question": "If radiation levels exceed established area monitoring limits, what is a possible corrective action?",
+        "options": [
+            "Increasing the exposure time",
+            "Decreasing the distance to the source",
+            "Modifying work practices and procedures [cite: 130]",
+            "Removing the area monitors"
+        ],
+        "answer": "Modifying work practices and procedures [cite: 130]"
+    },
+    {
+        "question": "What is one key consideration for the **In-House Maintenance Program Contract** when determining the dose constraint?",
+        "options": [
+            "The maximum price of the contract",
+            "The radiographers' working hours and working days [cite: 110]",
+            "The distance to the nearest public area",
+            "The type of collimator used"
+        ],
+        "answer": "The radiographers' working hours and working days [cite: 110]"
+    },
+    {
+        "question": "What is a characteristic of Site Radiography work that necessitates meticulous planning and safety protocols?",
+        "options": [
+            "It is only done in exposure rooms",
+            "It is limited to urban areas",
+            "It takes place in diverse locations (e.g., refineries, offshore locations) [cite: 153]",
+            "It does not require a work permit"
+        ],
+        "answer": "It takes place in diverse locations (e.g., refineries, offshore locations) [cite: 153]"
+    },
+    {
+        "question": "Both radiation workers in an industrial radiography team must be qualified and certified by which Malaysian body?",
+        "options": [
+            "AELB",
+            "IAEA",
+            "Malaysian Department of Skills (JPK) [cite: 160]",
+            "Malaysian Nuclear Agency"
+        ],
+        "answer": "Malaysian Department of Skills (JPK) [cite: 160]"
+    },
+    {
+        "question": "What type of structure is the boundary of a shielded enclosure constructed of?",
+        "options": [
+            "Temporary canvas",
+            "Solid building material (e.g., concrete) [cite: 176]",
+            "Plastic sheeting",
+            "Steel mesh"
+        ],
+        "answer": "Solid building material (e.g., concrete) [cite: 176]"
+    },
+    {
+        "question": "What should the operators place in a position that minimizes doses to themselves when initiating and ending an exposure?",
+        "options": [
+            "The survey meter",
+            "The radiation generator control panel or the winder [cite: 188]",
+            "The collimator",
+            "The source assembly"
+        ],
+        "answer": "The radiation generator control panel or the winder [cite: 188]"
+    },
+    {
+        "question": "The time principle states that to optimize the dose, one has to spend what amount of time in the area?",
+        "options": [
+            "Maximum allowed time",
+            "A period of 5 minutes",
+            "The minimum time necessary [cite: 191]",
+            "No less than 1 minute"
+        ],
+        "answer": "The minimum time necessary [cite: 191]"
+    },
+    {
+        "question": "If a radiographer's dose rate is 0.5 mSv/minute, and they stand at the same spot for 10 minutes, what is the total radiation exposure received?",
+        "options": [
+            "0.5 mSv",
+            "2.5 mSv",
+            "5.0 mSv",
+            "10 mSv"
+        ],
+        "answer": "5.0 mSv"
+    },
+    {
+        "question": "Which material is listed as having the lowest Optimum working range for steel (4.2 - 40 mm)?",
+        "options": [
+            "Cobalt-60",
+            "Iridium-192",
+            "Selenium-75 [cite: 59]",
+            "X-ray"
+        ],
+        "answer": "Selenium-75 [cite: 59]"
+    },
+    {
+        "question": "What is the primary characteristic of the X-ray tube material that is required for the Sealed glass envelope?",
+        "options": [
+            "High electrical conductivity",
+            "High melting point [cite: 22]",
+            "Ease of ionization",
+            "High atomic number"
+        ],
+        "answer": "High melting point [cite: 22]"
+    },
+    {
+        "question": "Which of the following is **not** a listed component of the X-ray radiographic equipment?",
+        "options": [
+            "X-ray tube [cite: 20]",
+            "High voltage supply [cite: 20]",
+            "Voltage transformer [cite: 20]",
+            "Collimator"
+        ],
+        "answer": "Collimator"
+    },
+    {
+        "question": "What must be installed on the X-ray machine such that the machine cannot be energized when the warning signal is not displayed?",
+        "options": [
+            "A built-in collimator",
+            "A watertight connector",
+            "A warning system interlock [cite: 47]",
+            "An X-ray tube timer"
+        ],
+        "answer": "A warning system interlock [cite: 47]"
+    },
+    {
+        "question": "A gamma ray exposure container is contained in a shielded container, which must comply with which type of package certification for transportation?",
+        "options": [
+            "Type F Package",
+            "Type M Package",
+            "Type A or Type B Package Certifications [cite: 61]",
+            "Type C Package"
+        ],
+        "answer": "Type A or Type B Package Certifications [cite: 61]"
+    },
+    {
+        "question": "The RPO, RPS, or experienced radiographer is responsible for ensuring compliance with safety protocols to prevent accidents, theft, loss, or what other risk?",
+        "options": [
+            "Financial loss",
+            "Loss, or sabotage [cite: 12]",
+            "Material damage",
+            "License revocation"
+        ],
+        "answer": "Loss, or sabotage [cite: 12]"
+    },
+    {
+        "question": "What must be performed on new X-ray systems according to Malaysian Standards (or other recognized standards) to confirm performance requirements before use?",
+        "options": [
+            "Routine inspection",
+            "Annual dose rate documentation",
+            "Commissioning and test procedures [cite: 34]",
+            "Cable cleaning"
+        ],
+        "answer": "Commissioning and test procedures [cite: 34]"
+    },
+    {
+        "question": "What must the routine inspection of X-ray equipment check regarding the cooling systems?",
+        "options": [
+            "Cleaning or replacement of any filters [cite: 35]",
+            "Electrical insulation of cables",
+            "Earth grounding",
+            "Operation of interlocks"
+        ],
+        "answer": "Cleaning or replacement of any filters [cite: 35]"
+    },
+    {
+        "question": "During a routine inspection, what must be checked for in any liquid cooling systems?",
+        "options": [
+            "Temperature",
+            "Leakage [cite: 41]",
+            "Filter cleanliness",
+            "Pump functionality"
+        ],
+        "answer": "Leakage [cite: 41]"
+    },
+    {
+        "question": "Which component of the X-ray tube provides thermal electrons for acceleration?",
+        "options": [
+            "Tungsten Target [cite: 527]",
+            "Copper Anode [cite: 524]",
+            "Tungsten Filament [cite: 514, 528]",
+            "Evacuated Glass Envelope [cite: 523]"
+        ],
+        "answer": "Tungsten Filament [cite: 514, 528]"
+    },
+    {
+        "question": "What is the key difference between **directional** and **panoramic** X-ray tubes in conventional X-ray units?",
+        "options": [
+            "Directional uses Tungsten, Panoramic uses Gold",
+            "Directional is for large pipes, Panoramic is for small pipes",
+            "Directional is fitted with collimators, Panoramic is without collimators [cite: 16]",
+            "Directional is remote-controlled, Panoramic is manual"
+        ],
+        "answer": "Directional is fitted with collimators, Panoramic is without collimators [cite: 16]"
+    },
+    {
+        "question": "What is the purpose of **Flash X-ray equipment**?",
+        "options": [
+            "To internally radiograph piping",
+            "To utilize a very fine focus size",
+            "A rapid successive radiograph to examine kinetic or dynamic change in a system [cite: 19]",
+            "To produce monochromatic X-rays"
+        ],
+        "answer": "A rapid successive radiograph to examine kinetic or dynamic change in a system [cite: 19]"
+    },
+    {
+        "question": "What is the purpose of using **Watertight connectors** on X-ray equipment?",
+        "options": [
+            "To increase the cable length",
+            "To increase the X-ray intensity",
+            "To prevent dust and moisture ingress [cite: 45]",
+            "To provide a cooling mechanism"
+        ],
+        "answer": "To prevent dust and moisture ingress [cite: 45]"
+    },
+    {
+        "question": "Which of the following describes a **Projection type exposure container**?",
+        "options": [
+            "It uses a rotating mechanism [cite: 568]",
+            "It requires the source to remain in the secured position",
+            "It uses a remote control unit with a source assembly linked by a teleflex cable [cite: 50]",
+            "It has a sliding shutter"
+        ],
+        "answer": "It uses a remote control unit with a source assembly linked by a teleflex cable [cite: 50]"
+    },
+    {
+        "question": "What is the primary shielding material often incorporated into gamma exposure devices (GED)?",
+        "options": [
+            "Lead",
+            "Depleted uranium (DU) [cite: 82]",
+            "Steel",
+            "Concrete"
+        ],
+        "answer": "Depleted uranium (DU) [cite: 82]"
+    },
+    {
+        "question": "The inspection and maintenance requirements taken straight from the Operations Manual suggest that **Daily Inspections** should be performed by whom?",
+        "options": [
+            "The RPO",
+            "The service provider",
+            "The radiographers [cite: 84]",
+            "AELB"
+        ],
+        "answer": "The radiographers [cite: 84]"
+    },
+    {
+        "question": "Which of the following must be done to a personnel monitoring device before it is stored in a suitable low background radiation area?",
+        "options": [
+            "It should be read immediately",
+            "It should be protected from excessive heat, moisture, and pressure [cite: 95]",
+            "It should be activated",
+            "It should be carried home"
+        ],
+        "answer": "It should be protected from excessive heat, moisture, and pressure [cite: 95]"
+    },
+    {
+        "question": "Industrial radiography operation shall not proceed without what piece of personal safety equipment?",
+        "options": [
+            "A full hazmat suit",
+            "A warning system interlock",
+            "The personnel monitoring device [cite: 97]",
+            "A high voltage supply"
+        ],
+        "answer": "The personnel monitoring device [cite: 97]"
+    },
+    {
+        "question": "What is the term for predetermined limits on the prospective individual dose from a specific source in planned exposure scenarios?",
+        "options": [
+            "Annual Dose Limits (ADL)",
+            "Dose constraints [cite: 102]",
+            "Maximum Permissible Dose (MPD)",
+            "Optimum Working Range"
+        ],
+        "answer": "Dose constraints [cite: 102]"
+    },
+    {
+        "question": "Which principle aims to keep radiation exposure as low as reasonably achievable when determining dose constraints?",
+        "options": [
+            "Justification",
+            "ALARA principle [cite: 107]",
+            "Optimization",
+            "Time, Distance, Shielding"
+        ],
+        "answer": "ALARA principle [cite: 107]"
+    },
+    {
+        "question": "What is the purpose of the **Area Monitoring** component in monitoring dose constraint and corrective action?",
+        "options": [
+            "To measure the worker's individual dose",
+            "To ensure adherence to the Annual Dose Limit (ADL)",
+            "To continuously measure radiation levels in the work area [cite: 139]",
+            "To check the functionality of the source assembly"
+        ],
+        "answer": "To continuously measure radiation levels in the work area [cite: 139]"
+    },
+    {
+        "question": "Which of the following is **not** a type of site radiography location mentioned in the document?",
+        "options": [
+            "Offshore locations [cite: 153]",
+            "Refineries [cite: 153]",
+            "Gas pipelines [cite: 153]",
+            "Hospital operating rooms"
+        ],
+        "answer": "Hospital operating rooms"
+    },
+    {
+        "question": "What is the minimum requirement for the annual dose limit for a radiation worker's safe boundary distance calculation, according to the example?",
+        "options": [
+            "20 mSv/year [cite: 115]",
+            "10 mSv/year [cite: 120]",
+            "6 μSv/h [cite: 204]",
+            "0.5 μSv/h [cite: 204]"
+        ],
+        "answer": "20 mSv/year [cite: 115]"
+    },
+    {
+        "question": "When defining the controlled area boundary, what is a key requirement for operators to prevent unauthorized access in multi-story industrial plants or construction sites?",
+        "options": [
+            "Post a warning sign on the ground floor only",
+            "Prevent access to any controlled areas on floors **above and below** the work area [cite: 187]",
+            "Only use temporary barriers",
+            "Rely on visual inspection"
+        ],
+        "answer": "Prevent access to any controlled areas on floors **above and below** the work area [cite: 187]"
+    },
+    {
+        "question": "What is the main advantage of having well-designed shielded enclosures with safety and warning systems?",
+        "options": [
+            "It reduces the need for personal monitoring",
+            "It is highly effective in preventing accidents and maintaining low radiation doses [cite: 158]",
+            "It eliminates the need for an RPO",
+            "It allows for the use of uncollimated sources"
+        ],
+        "answer": "It is highly effective in preventing accidents and maintaining low radiation doses [cite: 158]"
+    },
+    {
+        "question": "What must be fulfilled, submitted, approved, and meticulously documented to ensure all activities follow client-mandated rules and regulations?",
+        "options": [
+            "The ALARA principle",
+            "Work permits [cite: 174]",
+            "The Inverse Square Law calculation",
+            "The quarterly inspection report"
+        ],
+        "answer": "Work permits [cite: 174]"
+    },
+    {
+        "question": "What is the relationship between the Half-Value Layer ($HVL$) and the attenuation coefficient ($\\mu$)?",
+        "options": [
+            "$HVL$ is directly proportional to $\\mu$",
+            "$\\mu = \\ln(2) / HVL$ [cite: 218]",
+            "$\\mu = HVL^2$",
+            "They are independent"
+        ],
+        "answer": "$\\mu = \\ln(2) / HVL$ [cite: 218]"
+    },
+    {
+        "question": "What does **$TVL$** stand for in the context of shielding material effectiveness?",
+        "options": [
+            "Total Volume Layer",
+            "Tenth Value Layer [cite: 219]",
+            "Total Velocity Limit",
+            "Time Velocity Layer"
+        ],
+        "answer": "Tenth Value Layer [cite: 219]"
+    },
+    {
+        "question": "What is the primary goal of the Safety Protocols for Radiographic Testing (RT) detailed in the document?",
+        "options": [
+            "To minimize operational costs",
+            "To ensure safe and secure execution of RT-related activities [cite: 3]",
+            "To maximize the use of X-ray equipment",
+            "To train new radiographers"
+        ],
+        "answer": "To ensure safe and secure execution of RT-related activities [cite: 3]"
+    },
+    {
+        "question": "What is the term for the X-ray tube that is attached to a remote control crawler to internally radiograph piping?",
+        "options": [
+            "Conventional X-ray unit",
+            "Micro-focus X-ray system",
+            "Crawler X-ray system [cite: 17]",
+            "Flash X-ray equipment"
+        ],
+        "answer": "Crawler X-ray system [cite: 17]"
+    },
+    {
+        "question": "What is a characteristic of the X-ray machine that must comply with national or international standards approved by AELB?",
+        "options": [
+            "The color of the machine",
+            "The machine's price",
+            "The machine's compliance with national or international standards [cite: 43]",
+            "The operator's experience"
+        ],
+        "answer": "The machine's compliance with national or international standards [cite: 43]"
+    },
+    {
+        "question": "What should be cleaned after use to prevent dust and moisture ingress in X-ray equipment?",
+        "options": [
+            "The X-ray tube-head",
+            "The control panel screen",
+            "All protective caps on plugs and sockets [cite: 45]",
+            "The lead shield"
+        ],
+        "answer": "All protective caps on plugs and sockets [cite: 45]"
+    },
+    {
+        "question": "The gamma radiation equipment consists of two main parts: the GED/exposure container and the:",
+        "options": [
+            "X-ray tube",
+            "Control panel",
+            "Remote Control Unit or Cable-operated Projector Source Assembly [cite: 50]",
+            "Tungsten target"
+        ],
+        "answer": "Remote Control Unit or Cable-operated Projector Source Assembly [cite: 50]"
+    },
+    {
+        "question": "What is the required dose limit for the public (Limit for public) when establishing the controlled area boundary in the Distance calculation example?",
+        "options": [
+            "≤ 7.5 μSv/hr",
+            "≤ 6 μSv/hr",
+            "≤ 0.5 μSv/hr [cite: 204]",
+            "≤ 10 μSv/hr"
+        ],
+        "answer": "≤ 0.5 μSv/hr [cite: 204]"
+    },
+    {
+        "question": "What must workers be supplied with to record the occupational exposure received when working in a controlled area?",
+        "options": [
+            "A notebook and pen",
+            "Personal monitoring equipment [cite: 92]",
+            "A high-activity survey meter",
+            "A hard hat"
+        ],
+        "answer": "Personal monitoring equipment [cite: 92]"
+    },
+    {
+        "question": "What is the specific check required during periodic tasks for a shielded enclosure to ensure safety?",
+        "options": [
+            "Checks for visible damage",
+            "Tests on all permanently installed radiation detectors inside shielded enclosures, ensuring that this is done while no one is inside the enclosure [cite: 39]",
+            "Cleaning of filters in cooling systems",
+            "Checking that threaded connections are secure"
+        ],
+        "answer": "Tests on all permanently installed radiation detectors inside shielded enclosures, ensuring that this is done while no one is inside the enclosure [cite: 39]"
+    },
+    {
+        "question": "In the $D = \frac{\\gamma A}{I}$ formula for boundary determination, what does $A$ represent?",
+        "options": [
+            "Attenuation coefficient",
+            "Distance",
+            "Source activity [cite: 195]",
+            "Intensity"
+        ],
+        "answer": "Source activity [cite: 195]"
+    },
+    {
+        "question": "What is one key factor that the **graded approach** considers when predetermining the dose constraint?",
+        "options": [
+            "Worker salary",
+            "The nature of the work being performed (e.g., long or short-term contract) [cite: 104]",
+            "The time of day the work is done",
+            "The manufacturer of the equipment"
+        ],
+        "answer": "The nature of the work being performed (e.g., long or short-term contract) [cite: 104]"
+    },
+    {
+        "question": "For a long-term job (e.g., 11 months, 4 weeks/month, 5 days/week, 6 hours/day), what are the total estimated working hours in a year?",
+        "options": [
+            "1440 h/year",
+            "1320 h/year [cite: 116]",
+            "1000 h/year",
+            "2080 h/year"
+        ],
+        "answer": "1320 h/year [cite: 116]"
+    },
+    {
+        "question": "What does DDA stand for as an option for reducing unnecessary exposures?",
+        "options": [
+            "Dose Distribution Analysis",
+            "Digital Dose Assessment",
+            "Direct Digital Acquisition [cite: 108]",
+            "Dynamic Dose Adjustment"
+        ],
+        "answer": "Direct Digital Acquisition [cite: 108]"
+    },
+    {
+        "question": "What type of monitoring device is the **RPL** badge?",
+        "options": [
+            "Internal monitoring",
+            "Partial body monitoring",
+            "External monitoring (Radiophotoluminescence) [cite: 92]",
+            "Area monitoring"
+        ],
+        "answer": "External monitoring (Radiophotoluminescence) [cite: 92]"
+    },
+    {
+        "question": "What must the RPO be capable of assisting the Supervisor or Operator with in the event of an emergency?",
+        "options": [
+            "Source inventory management",
+            "Source changing",
+            "Emergency situations [cite: 164]",
+            "Financial budgeting"
+        ],
+        "answer": "Emergency situations [cite: 164]"
+    },
+    {
+        "question": "What should operators ensure about the access to any controlled areas on floors **above and below** the work area?",
+        "options": [
+            "It is restricted",
+            "It is prevented [cite: 187]",
+            "It is monitored",
+            "It is open to authorized personnel only"
+        ],
+        "answer": "It is prevented [cite: 187]"
+    },
+    {
+        "question": "What is a potential health consequence of industrial radiography's high-risk nature, besides radiation burns and death?",
+        "options": [
+            "Permanent hearing loss",
+            "Severe health consequences [cite: 7]",
+            "Respiratory issues",
+            "Loss of vision"
+        ],
+        "answer": "Severe health consequences [cite: 7]"
+    },
+    {
+        "question": "What should the RPO be informed of immediately if it occurs due to mishandling?",
+        "options": [
+            "A minor cut or scrape",
+            "Accidental exposure or damage to the badge/TLD [cite: 101]",
+            "A small delay in the RT schedule",
+            "The completion of quarterly maintenance"
+        ],
+        "answer": "Accidental exposure or damage to the badge/TLD [cite: 101]"
+    },
+    {
+        "question": "If a service provider chooses a dose constraint of 10 mSv/year (lower than the 20 mSv ADL) and the estimated working hours are 1320 h/year, what would be the resulting dose rate at the controlled area boundary?",
+        "options": [
+            "15 μSv/h",
+            "7.5 μSv/h [cite: 120]",
+            "0.5 μSv/h",
+            "10 μSv/h"
+        ],
+        "answer": "7.5 μSv/h [cite: 120]"
+    },
+    {
+        "question": "What is the unit for **Half-value layer ($HVL$)** when calculating the attenuation coefficient ($\\mu$)?",
+        "options": [
+            "mSv/hr",
+            "GBq",
+            "cm [cite: 218]",
+            "MeV"
+        ],
+        "answer": "cm [cite: 218]"
+    },
+    {
+        "question": "For what reason is the concept of **Justification** introduced in the Safety Protocols (1.0 Introduction)?",
+        "options": [
+            "To limit radiation doses",
+            "To ensure that any activity resulting in radiation exposure produces a net benefit",
+            "To keep exposure as low as reasonably achievable",
+            "To adapt safety precautions to the environment"
+        ],
+        "answer": "To ensure that any activity resulting in radiation exposure produces a net benefit"
+    }
+]
