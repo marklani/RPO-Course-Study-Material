@@ -1,0 +1,1612 @@
+[
+    {
+        "question": "The basic components of a nuclear gauging device consist of a shielded radiation source and what other main component?",
+        "options": [
+            "A Geiger counter",
+            "A radiation detector",
+            "A signal amplifier",
+            "A digital display"
+        ],
+        "answer": "A radiation detector"
+    },
+    {
+        "question": "What is a primary advantage of nuclear gauging over conventional techniques, according to the document?",
+        "options": [
+            "It is low cost",
+            "It is contact-based",
+            "It is non-destructive",
+            "It requires complex installation"
+        ],
+        "answer": "It is non-destructive"
+    },
+    {
+        "question": "The amount of radiation absorbed when passing through a material depends on thickness, density, energy of the radiation, and which other property of the material?",
+        "options": [
+            "Atomic weight",
+            "Atomic number",
+            "Molecular structure",
+            "Temperature"
+        ],
+        "answer": "Atomic number"
+    },
+    {
+        "question": "In the formula $I=I_{o}e^{-(\\mu_{en}/\\rho)x}$ for transmitted radiation intensity, what does $I_{0}$ represent?",
+        "options": [
+            "Intensity after pass through material",
+            "Mass attenuation coefficient",
+            "Initial intensity from source",
+            "Density thickness"
+        ],
+        "answer": "Initial intensity from source"
+    },
+    {
+        "question": "What principle of interaction is used to calculate the intensity of reflected and backscattered radiation using the formula $I=I_{o}(1-e^{-(\\mu_{en}/\\rho)x})$?",
+        "options": [
+            "Transmission",
+            "Reactive",
+            "Absorption",
+            "Back-scattering"
+        ],
+        "answer": "Back-scattering"
+    },
+    {
+        "question": "Which type of nuclear gauge operation is based on the principle where radiation reacts with a material to produce secondary radiation?",
+        "options": [
+            "Transmission gauge",
+            "Reactive gauge",
+            "Absorption gauge",
+            "Back-scattering gauge"
+        ],
+        "answer": "Reactive gauge"
+    },
+    {
+        "question": "Which type of nuclear gauge is typically used to measure the maximum and/or minimum level of liquid in containers?",
+        "options": [
+            "Thickness gauge",
+            "Density gauge",
+            "Level gauge",
+            "Weighing gauge"
+        ],
+        "answer": "Level gauge"
+    },
+    {
+        "question": "Level gauges typically operate based on which interaction principle?",
+        "options": [
+            "Backscattering",
+            "Reactive",
+            "Absorption only",
+            "Transmission"
+        ],
+        "answer": "Transmission"
+    },
+    {
+        "question": "Which material is NOT listed as a product whose density is controlled using nuclear gauging?",
+        "options": [
+            "Rubber",
+            "Oils",
+            "Fabric",
+            "Molten Steel"
+        ],
+        "answer": "Molten Steel"
+    },
+    {
+        "question": "Which radionuclide is commonly used as a gamma source in density gauges, often alongside Co-60?",
+        "options": [
+            "Am-241",
+            "Sr-90",
+            "Cs-137",
+            "Ni-67"
+        ],
+        "answer": "Cs-137"
+    },
+    {
+        "question": "A density gauge typically works on which principle of operation?",
+        "options": [
+            "Backscattering",
+            "Reactive",
+            "Transmission",
+            "Diffraction"
+        ],
+        "answer": "Transmission"
+    },
+    {
+        "question": "The principle for a nuclear density gauge states that higher density materials do what to radiation?",
+        "options": [
+            "Thermalize more radiation",
+            "Attenuate more radiation",
+            "Reflect more radiation",
+            "Scatter less radiation"
+        ],
+        "answer": "Attenuate more radiation"
+    },
+    {
+        "question": "A thickness gauge can work on the transmission principle, but what other two principles can it also work on, according to the document?",
+        "options": [
+            "Reactive and Neutron Capture",
+            "Backscattering and Reactive",
+            "Absorption and Diffraction",
+            "Thermalization and Transmission"
+        ],
+        "answer": "Backscattering and Reactive"
+    },
+    {
+        "question": "Which type of nuclear gauge is used to measure the moisture content of bulk materials like soil, sand, and concrete?",
+        "options": [
+            "Level gauge",
+            "Density gauge",
+            "Moisture gauge",
+            "Thickness gauge"
+        ],
+        "answer": "Moisture gauge"
+    },
+    {
+        "question": "Moisture gauges primarily work based on the thermalization of fast neutrons by which molecules contained in the material?",
+        "options": [
+            "Air",
+            "Water",
+            "Material's atomic structure",
+            "Hydrocarbon"
+        ],
+        "answer": "Water"
+    },
+    {
+        "question": "The basic principle of a weighing gauge is that thicker materials do what?",
+        "options": [
+            "Thermalize neutrons",
+            "Attenuate more radiation",
+            "Backscatter neutrons",
+            "React to produce X-rays"
+        ],
+        "answer": "Attenuate more radiation"
+    },
+    {
+        "question": "What is the primary purpose of nuclear oil logging?",
+        "options": [
+            "To measure the temperature of the oil",
+            "To measure the lithology, density, and porosity of geological formation",
+            "To determine the age of the reservoir",
+            "To monitor the flow rate of the oil"
+        ],
+        "answer": "To measure the lithology, density, and porosity of geological formation"
+    },
+    {
+        "question": "Oil logging typically works on which principle of radiation interaction?",
+        "options": [
+            "Transmission",
+            "Thermalization",
+            "Backscattering",
+            "Reactive"
+        ],
+        "answer": "Backscattering"
+    },
+    {
+        "question": "What are the three sources of radiation used in nuclear gauges based on their classification?",
+        "options": [
+            "Alpha, Beta, Gamma",
+            "X-ray, Gamma, Beta",
+            "Beta, Gamma, Neutron",
+            "Proton, Neutron, Electron"
+        ],
+        "answer": "Beta, Gamma, Neutron"
+    },
+    {
+        "question": "For process and quality control, nuclear gauging is applied to measure the level of which two specific beverages?",
+        "options": [
+            "Beverages and Cooking Oil",
+            "Milk and Water",
+            "Soft drinks and Juice",
+            "Beer and Wine"
+        ],
+        "answer": "Beverages and Cooking Oil"
+    },
+    {
+        "question": "Which one is NOT a way a nuclear gauge is usually addressed?",
+        "options": [
+            "Its function",
+            "Its half-life",
+            "Its principle of operation",
+            "Source of radiation"
+        ],
+        "answer": "Its half-life"
+    },
+    {
+        "question": "A density gauge is used in a broad range of industries, including gas/oil production, chemical and hydrocarbon processing, pulp and paper mill, mining, and which other industry?",
+        "options": [
+            "Automotive",
+            "Food industry",
+            "Aerospace",
+            "Jewelry"
+        ],
+        "answer": "Food industry"
+    },
+    {
+        "question": "Which type of thickness gauge typically works on the backscattering principle using a beta source or reactive principle using a low energy gamma source?",
+        "options": [
+            "Beta thickness gauge",
+            "Gamma thickness gauge",
+            "Neutron thickness gauge",
+            "X-ray thickness gauge"
+        ],
+        "answer": "Thickness gauge"
+    },
+    {
+        "question": "The radiation interaction principle where the transmitted radiation is reduced in intensity and energy is known as:",
+        "options": [
+            "Backscatter",
+            "Absorption",
+            "Reaction",
+            "Thermalization"
+        ],
+        "answer": "Absorption"
+    },
+    {
+        "question": "The technique of measuring mass flow of materials on conveyor belts works on which principle?",
+        "options": [
+            "Backscattering",
+            "Transmission",
+            "Reactive",
+            "Thermalization"
+        ],
+        "answer": "Transmission"
+    },
+    {
+        "question": "Which type of nuclear gauge uses an additional neutron source sometimes, alongside the common gamma source?",
+        "options": [
+            "Thickness gauge",
+            "Level gauge",
+            "Density gauge",
+            "Moisture gauge"
+        ],
+        "answer": "Level gauge"
+    },
+    {
+        "question": "What is the purpose of Measurement While Drilling (MWD) in oil logging?",
+        "options": [
+            "To measure the oil flow rate",
+            "To obtain well logging information during the drilling of the well bore",
+            "To remove the drill stem from the well",
+            "To determine the type of oil"
+        ],
+        "answer": "To obtain well logging information during the drilling of the well bore"
+    },
+    {
+        "question": "What is the typical activity range for a Transmission Gauge using Gamma Sources?",
+        "options": [
+            "40 MBq - 40 GBq",
+            "1 - 800 GBq",
+            "0.4 - 40 GBq (0.01 - 1.08 Ci)",
+            "40 - 200 MBq"
+        ],
+        "answer": "0.4 - 40 GBq (0.01 - 1.08 Ci)"
+    },
+    {
+        "question": "What is the primary function of the Source Housing in a nuclear gauge?",
+        "options": [
+            "To regulate the flow of material",
+            "To amplify the detector signal",
+            "To provide shielding and security of the source",
+            "To analyze the radiation spectrum"
+        ],
+        "answer": "To provide shielding and security of the source"
+    },
+    {
+        "question": "In the context of nuclear gauging, what does the $\\mu_{en}/\\rho$ term represent in the formula $I=I_{o}e^{-(\\mu_{en}/\\rho)x}$?",
+        "options": [
+            "Initial intensity",
+            "Density thickness",
+            "Mass attenuation coefficient, $cm^{2}.g^{-1}$",
+            "Transmitted intensity"
+        ],
+        "answer": "Mass attenuation coefficient, $cm^{2}.g^{-1}$"
+    },
+    {
+        "question": "Which type of nuclear gauge is exemplified by a Dredger gauge or a Spinning pipe gauge?",
+        "options": [
+            "Level gauge",
+            "Thickness gauge",
+            "Density gauge",
+            "Moisture gauge"
+        ],
+        "answer": "Density gauge"
+    },
+    {
+        "question": "Which is a common application of nuclear gauging in Process Control?",
+        "options": [
+            "Film Thickness",
+            "Beverage Level",
+            "Mineral Weight",
+            "Paper Thickness"
+        ],
+        "answer": "Mineral Weight"
+    },
+    {
+        "question": "What is the main principle of operation for a Moisture gauge using a neutron source?",
+        "options": [
+            "Transmission or Backscattering",
+            "Reactive",
+            "Diffraction",
+            "Absorption only"
+        ],
+        "answer": "Transmission or Backscattering"
+    },
+    {
+        "question": "Why is an additional neutron source sometimes used in a Level gauge?",
+        "options": [
+            "To penetrate thicker walls",
+            "To detect moisture content",
+            "To monitor molten steel",
+            "To increase the count rate"
+        ],
+        "answer": "To monitor molten steel"
+    },
+    {
+        "question": "In the formula $I=I_{o}e^{-(\\mu_{en}/\\rho)x}$, what are the units for density thickness $(x)$?",
+        "options": [
+            "$cm^{2}.g^{-1}$",
+            "$cm^{-2}.g$",
+            "$g.cm^{-2}$",
+            "$cm.g^{-1}$"
+        ],
+        "answer": "$g.cm^{-2}$"
+    },
+    {
+        "question": "Which radioactive source is commonly used for low energy gamma sources in transmission and back-scattering gauges?",
+        "options": [
+            "Co-60",
+            "Cs-137",
+            "Am-241 (60 keV)",
+            "Sr-90"
+        ],
+        "answer": "Am-241 (60 keV)"
+    },
+    {
+        "question": "Which radioactive source is commonly used for high energy gamma sources in transmission and back-scattering gauges?",
+        "options": [
+            "Am-241",
+            "Ni-67",
+            "Co-60 (1173, 1332 keV)",
+            "Cs-137"
+        ],
+        "answer": "Co-60 (1173, 1332 keV)"
+    },
+    {
+        "question": "Which radionuclide is listed for use in Level gauges with a maximum activity of $5.0 \\times 10^{0} \\text{ Ci}$?",
+        "options": [
+            "Co-60",
+            "Am-241",
+            "Cs-137",
+            "Sr-90"
+        ],
+        "answer": "Cs-137"
+    },
+    {
+        "question": "Which radionuclide is a typical beta source for medium energy in nuclear gauges?",
+        "options": [
+            "Ni-67",
+            "Pm-147",
+            "Kr-85 (670 keV)",
+            "Ru-106"
+        ],
+        "answer": "Kr-85 (670 keV)"
+    },
+    {
+        "question": "Which beta source is used for high energy in nuclear gauges, alongside Ru-106?",
+        "options": [
+            "Sr-90 (2270 keV)",
+            "Kr-85",
+            "Pm-147",
+            "Ni-67"
+        ],
+        "answer": "Sr-90 (2270 keV)"
+    },
+    {
+        "question": "The reactive gauge typically uses which two radionuclides?",
+        "options": [
+            "Cs-137 and Co-60",
+            "Sr-90 and Kr-85",
+            "Fe-55 and Am-241",
+            "Am-241 and Be"
+        ],
+        "answer": "Fe-55 and Am-241"
+    },
+    {
+        "question": "What is the typical activity range for a Back-scattering Gauge using Beta Sources?",
+        "options": [
+            "40 MBq - 40 GBq",
+            "Between 40 - 200 MBq",
+            "1 - 4 GBq",
+            "1 - 800 GBq"
+        ],
+        "answer": "Between 40 - 200 MBq"
+    },
+    {
+        "question": "For Moisture gauges, which common neutron source is used?",
+        "options": [
+            "Cf-252",
+            "Ra-226",
+            "Am-241/Be",
+            "Cs-137"
+        ],
+        "answer": "Am-241/Be"
+    },
+    {
+        "question": "Which radionuclide is used for Moisture gauges that is also a gamma emitter?",
+        "options": [
+            "Ra-226",
+            "Cf-252",
+            "Am-241/Be",
+            "Cs-137"
+        ],
+        "answer": "Cs-137"
+    },
+    {
+        "question": "Which low-energy beta source has an energy of 60 keV?",
+        "options": [
+            "Pm-147",
+            "Ni-67",
+            "Kr-85",
+            "Sr-90"
+        ],
+        "answer": "Ni-67"
+    },
+    {
+        "question": "What is the maximum activity of ${}^{241}Am$ (in Ci) listed for use in a Fill Level Gauge?",
+        "options": [
+            "$1.2 \\times 10^{-2} \\text{ Ci}$",
+            "$6.5 \\times 10^{-2} \\text{ Ci}$",
+            "$1.2 \\times 10^{-1} \\text{ Ci}$",
+            "$5.0 \\times 10^{-1} \\text{ Ci}$"
+        ],
+        "answer": "$1.2 \\times 10^{-1} \\text{ Ci}$"
+    },
+    {
+        "question": "Which radionuclide is a beta source used for thickness gauges with a maximum activity of $1.0 \\times 10^{0} \\text{ Ci}$?",
+        "options": [
+            "Sr-90",
+            "Am-241",
+            "Kr-85",
+            "Pm-147"
+        ],
+        "answer": "Kr-85"
+    },
+    {
+        "question": "Which two radionuclides are listed for use in a Weighing gauge?",
+        "options": [
+            "Cs-137 and Co-60",
+            "Am-241 and Be",
+            "Sr-90 and Kr-85",
+            "Fe-55 and Am-241"
+        ],
+        "answer": "Cs-137 and Co-60"
+    },
+    {
+        "question": "In a Transmission Gauge using Neutron Sources, the activity of ${}^{241}Am$ (Am-Be source) can vary between:",
+        "options": [
+            "1 - 800 GBq (0.027 - 21.6 Ci)",
+            "40 MBq - 40 GBq",
+            "0.4 - 40 GBq",
+            "40 - 200 MBq"
+        ],
+        "answer": "1 - 800 GBq (0.027 - 21.6 Ci)"
+    },
+    {
+        "question": "What energy level is associated with the Cs-137 gamma source?",
+        "options": [
+            "60 keV",
+            "220 keV",
+            "662 keV",
+            "1173 keV"
+        ],
+        "answer": "662 keV"
+    },
+    {
+        "question": "An X-ray Analyzer works based on X-rays produced by an irradiating apparatus or what other type of source?",
+        "options": [
+            "A fission reactor",
+            "An electron beam",
+            "A particle accelerator",
+            "A sealed radioactive source"
+        ],
+        "answer": "A sealed radioactive source"
+    },
+    {
+        "question": "What type of X-ray Analyzer identifies an element by means of its energy line?",
+        "options": [
+            "Wavelength-dispersive",
+            "X-ray Diffraction (XRD)",
+            "Energy-dispersive",
+            "Reactive XRF"
+        ],
+        "answer": "Energy-dispersive"
+    },
+    {
+        "question": "The unique X-rays produced when absorbed X-rays interact with a material are known as what?",
+        "options": [
+            "Diffraction X-rays",
+            "Scattered X-rays",
+            "Characteristic X-rays",
+            "Bremsstrahlung X-rays"
+        ],
+        "answer": "Characteristic X-rays"
+    },
+    {
+        "question": "What principle is used in X-ray Fluorescence (XRF)?",
+        "options": [
+            "Measuring the angle of scattered X-rays",
+            "Analyzing characteristic X-rays unique to each element",
+            "Measuring the thermalization of neutrons",
+            "Detecting back-scattered gamma radiation"
+        ],
+        "answer": "Analyzing characteristic X-rays unique to each element"
+    },
+    {
+        "question": "X-ray Diffraction (XRD) is based on monochromatic X-rays being diffracted by crystalline materials only if they satisfy which law?",
+        "options": [
+            "Boyle's Law",
+            "Bragg's Law",
+            "Compton's Law",
+            "Lambert's Law"
+        ],
+        "answer": "Bragg's Law"
+    },
+    {
+        "question": "According to the Bragg's Law equation $2d \\sin\\theta = n\\lambda$, what does the $\\theta$ (theta) represent?",
+        "options": [
+            "Inter-atom spacing",
+            "X-ray wavelength",
+            "Angle of incident to the target material",
+            "An integer"
+        ],
+        "answer": "Angle of incident to the target material"
+    },
+    {
+        "question": "Which type of X-ray analyzer is used to identify and quantify crystalline materials and their crystallite size?",
+        "options": [
+            "X-ray Fluorescence (XRF)",
+            "Energy-dispersive XRF",
+            "X-ray Diffraction (XRD)",
+            "Wavelength-dispersive XRF"
+        ],
+        "answer": "X-ray Diffraction (XRD)"
+    },
+    {
+        "question": "Which one is listed as an advantage of XRF over conventional analysis methods?",
+        "options": [
+            "It is highly sensitive for light elements",
+            "It is non-destructive",
+            "It is not affected by matrix effects",
+            "It requires extensive sample pre-treatment"
+        ],
+        "answer": "It is non-destructive"
+    },
+    {
+        "question": "Which one is listed as a disadvantage of XRF?",
+        "options": [
+            "It requires extensive sample preparation",
+            "It is slow to perform analysis",
+            "It is not suitable for analysing very light elements",
+            "It is more sensitive than NAA"
+        ],
+        "answer": "It is not suitable for analysing very light elements"
+    },
+    {
+        "question": "The basic components of an X-ray analyzer include an X-ray tube, a tube housing, a radiation detector, and what other component?",
+        "options": [
+            "A neutron moderator",
+            "An electronic signal processor",
+            "A high-power laser",
+            "An ionization chamber"
+        ],
+        "answer": "An electronic signal processor"
+    },
+    {
+        "question": "What is the main function of the Tube Housing in an X-ray analyzer?",
+        "options": [
+            "To regulate the X-ray tube's current",
+            "To analyze the X-ray spectrum",
+            "To minimize radiation leakage and protect against physical damage",
+            "To preamplify the detector signal"
+        ],
+        "answer": "To minimize radiation leakage and protect against physical damage"
+    },
+    {
+        "question": "Which type of X-ray analyzer device is described as having barriers/shield partly provided and no interlocking system?",
+        "options": [
+            "Enclosed devices",
+            "Fully Enclosed devices",
+            "Partly enclosed devices",
+            "Devices without any enclosure"
+        ],
+        "answer": "Partly enclosed devices"
+    },
+    {
+        "question": "The X-ray tube is similar in design to other X-ray tubes except that its voltage and current applied are:",
+        "options": [
+            "Adjustable for each sample",
+            "Different and fixed according to applications",
+            "Always the same",
+            "Controlled by the detector"
+        ],
+        "answer": "Different and fixed according to applications"
+    },
+    {
+        "question": "What type of detector is typically used for Energy-Dispersive XRF (EDXRF)?",
+        "options": [
+            "Proportional counter",
+            "Geiger-Muller counter",
+            "Semiconductor detector",
+            "Ionization chamber"
+        ],
+        "answer": "Semiconductor detector"
+    },
+    {
+        "question": "What is one application of XRF in the Jewelry Industry?",
+        "options": [
+            "Metal coating analysis",
+            "Gold Karat Analysis",
+            "Moisture Content",
+            "Mineral Weight"
+        ],
+        "answer": "Gold Karat Analysis"
+    },
+    {
+        "question": "In the Cement Industry, XRF is used to analyze how many oxides in Portland cement?",
+        "options": [
+            "13 oxides",
+            "8 oxides",
+            "5 oxides",
+            "10 oxides"
+        ],
+        "answer": "13 oxides"
+    },
+    {
+        "question": "What radionuclide is listed for use in X-ray analyzer with an XRF principle and a maximum activity of $1.4 \\times 10^{-1} \\text{ Ci}$?",
+        "options": [
+            "Cd-109",
+            "Co-57",
+            "Fe-55",
+            "Am-241"
+        ],
+        "answer": "Fe-55"
+    },
+    {
+        "question": "Devices without any enclosure for X-ray analysis should be operated in what kind of area?",
+        "options": [
+            "An open field",
+            "A classified area with a dosimeter",
+            "A specially designed and shielded exposure room",
+            "A maintenance workshop"
+        ],
+        "answer": "A specially designed and shielded exposure room"
+    },
+    {
+        "question": "What happens to X-rays when they interact with a material?",
+        "options": [
+            "They are all absorbed",
+            "They will be scattered, absorbed or diffracted",
+            "They thermalize neutrons",
+            "They always produce secondary radiation"
+        ],
+        "answer": "They will be scattered, absorbed or diffracted"
+    },
+    {
+        "question": "The ability of XRF to determine the chemical composition of a material quickly is described as:",
+        "options": [
+            "Good precision",
+            "Excellent accuracy",
+            "Fast analysis (in seconds)",
+            "Non-destructive"
+        ],
+        "answer": "Fast analysis (in seconds)"
+    },
+    {
+        "question": "What is the key principle by which a radiotracer works in industry?",
+        "options": [
+            "Detection of backscattered X-rays",
+            "Detection of thermalized neutrons",
+            "Detection of gamma emitter from radiotracer",
+            "Detection of beta decay only"
+        ],
+        "answer": "Detection of gamma emitter from radiotracer"
+    },
+    {
+        "question": "Which one is NOT a listed application for a radiotracer technique?",
+        "options": [
+            "Leak detection",
+            "Flow measurement",
+            "Moisture content analysis",
+            "Residence Time Distribution (RTD)"
+        ],
+        "answer": "Moisture content analysis"
+    },
+    {
+        "question": "Radiotracer is an open source which can be formed in which three states of matter?",
+        "options": [
+            "Solid, liquid, and plasma",
+            "Gaseous, solid, and plasma",
+            "Radioactive gases, liquids, and solids",
+            "Aqueous, solid, and gaseous"
+        ],
+        "answer": "Radioactive gases, liquids, and solids"
+    },
+    {
+        "question": "The radiation pulses of the radiotracer are used for applications in which industrial equipment?",
+        "options": [
+            "Particle accelerators",
+            "Pipelines, reactors, vessels, heat exchangers",
+            "X-ray tubes",
+            "Ionization chambers"
+        ],
+        "answer": "Pipelines, reactors, vessels, heat exchangers"
+    },
+    {
+        "question": "What are the basic components of a tracer system, in addition to the radioisotope tracer, tracer housing, and radiation detector?",
+        "options": [
+            "A neutron source and a chart recorder",
+            "An injection system and an electronic signal processor",
+            "A high-power X-ray tube",
+            "A beam collimator and a shielding block"
+        ],
+        "answer": "An injection system and an electronic signal processor"
+    },
+    {
+        "question": "In what industry is the radiotracer technique NOT explicitly mentioned for application?",
+        "options": [
+            "Chemical",
+            "Petroleum",
+            "Aerospace",
+            "Mineral industries"
+        ],
+        "answer": "Aerospace"
+    },
+    {
+        "question": "What does RTD stand for in the context of radiotracer applications?",
+        "options": [
+            "Radiation Transport Detector",
+            "Resonance Time Dynamics",
+            "Residence Time Distribution",
+            "Radioactive Tracer Dilution"
+        ],
+        "answer": "Residence Time Distribution"
+    },
+    {
+        "question": "What is the term for a population of detectable or measurable elements which are naturally or artificially associated with the traced population in a process?",
+        "options": [
+            "Isotope generator",
+            "Radioactive sample",
+            "Tracer",
+            "Sealed source"
+        ],
+        "answer": "Tracer"
+    },
+    {
+        "question": "The application of radiotracer is also used for what non-industrial purpose?",
+        "options": [
+            "Oil logging",
+            "Moisture gauging",
+            "Medical Purpose",
+            "Weighing gauge"
+        ],
+        "answer": "Medical Purpose"
+    },
+    {
+        "question": "Which component of the radiotracer system is described as an 'open source'?",
+        "options": [
+            "Tracer housing",
+            "Radiation detector",
+            "A radioisotope tracer",
+            "Injection system"
+        ],
+        "answer": "A radioisotope tracer"
+    },
+    {
+        "question": "What is the recommended principle of radiation protection that must be applied all the time during nuclear gauge operations?",
+        "options": [
+            "STD (Shielding, Time, Distance)",
+            "ALARA (As Low As Reasonably Achievable)",
+            "GWP (Good Working Practice)",
+            "XRF (X-ray Fluorescence)"
+        ],
+        "answer": "STD (Shielding, Time, Distance)"
+    },
+    {
+        "question": "Which one is part of the required procedures for safe handling of a nuclear gauge with an X-ray unit (analyzer)?",
+        "options": [
+            "Operate without housing/shielding",
+            "Operate when the interlock system is removed",
+            "Carry out changes to materials when the device is OFF",
+            "Adjust settings while the device is ON"
+        ],
+        "answer": "Carry out changes to materials when the device is OFF"
+    },
+    {
+        "question": "Before doing any maintenance on a nuclear gauge, the device should be switched OFF and the shutter must be:",
+        "options": [
+            "Removed and stored",
+            "Opened and interlocked",
+            "CLOSED and LOCKED",
+            "Adjusted to minimum aperture"
+        ],
+        "answer": "CLOSED and LOCKED"
+    },
+    {
+        "question": "For field work with a portable nuclear gauge, what action should be performed by the RPO (RPS or trained workers) before work commencement?",
+        "options": [
+            "Transport the device according to Transport Regulations",
+            "Test the equipment for proper functioning",
+            "Give a safety briefing to all workers involved",
+            "Establish a supervised area"
+        ],
+        "answer": "Give a safety briefing to all workers involved"
+    },
+    {
+        "question": "Why should a nuclear gauge's location be known at all times?",
+        "options": [
+            "To facilitate quick transportation",
+            "Through a proper inventory and records",
+            "To ensure the shutter is closed",
+            "To test the equipment's functionality"
+        ],
+        "answer": "Through a proper inventory and records"
+    },
+    {
+        "question": "What must all workers put on when operating a nuclear gauge in a classified area?",
+        "options": [
+            "Lead apron and helmet",
+            "Protective devices and a dosimeter",
+            "Safety harness and gloves",
+            "Safety goggles and earplugs"
+        ],
+        "answer": "Protective devices and a dosimeter"
+    },
+    {
+        "question": "The procedures for safe working should be prepared in a form and language easily understood by the workers involved and made known to whom?",
+        "options": [
+            "The Radiation Protection Officer only",
+            "The management only",
+            "All of them",
+            "The equipment vendor"
+        ],
+        "answer": "All of them"
+    },
+    {
+        "question": "For field work, how should the border of the controlled or supervised area be clearly marked?",
+        "options": [
+            "With paint on the ground",
+            "With metal fences",
+            "With rope and radiation warning signs and notices posted",
+            "With traffic cones only"
+        ],
+        "answer": "With rope and radiation warning signs and notices posted"
+    },
+    {
+        "question": "What is the purpose of an Electron Capture Detector (ECD)?",
+        "options": [
+            "To detect charged particles",
+            "To detect atoms and molecules in gases through electron capture ionization",
+            "To shield radiation sources",
+            "To measure the thickness of coatings"
+        ],
+        "answer": "To detect atoms and molecules in gases through electron capture ionization"
+    },
+    {
+        "question": "Which detector characteristic is important for high counting rates in nuclear gauging, due to its lower sensitivity?",
+        "options": [
+            "Geiger-Muller counter",
+            "Scintillation detector",
+            "Proportional counter",
+            "Ionization chambers"
+        ],
+        "answer": "Ionization chambers"
+    },
+    {
+        "question": "Which detector is described as being good for low counting rates because of its high dead time?",
+        "options": [
+            "Ionization chambers",
+            "Semiconductor detector",
+            "Geiger Muller counter (GM)",
+            "Neutron detector"
+        ],
+        "answer": "Geiger Muller counter (GM)"
+    },
+    {
+        "question": "Scintillation detectors and proportional counters are primarily used for which type of measurement?",
+        "options": [
+            "Low counting rate measurement",
+            "Radiation spectroscopy measurements",
+            "Thickness measurement",
+            "Neutron detection"
+        ],
+        "answer": "Radiation spectroscopy measurements"
+    },
+    {
+        "question": "What are the two common neutron detectors mentioned in the document?",
+        "options": [
+            "BF3 and GM counter",
+            "He-3 and BF3",
+            "Ion chamber and He-3",
+            "Si(Li) and Nal"
+        ],
+        "answer": "He-3 and BF3"
+    },
+    {
+        "question": "Which component of the electronic signal processor is responsible for registering, analyzing, and presenting the detector’s signals?",
+        "options": [
+            "High voltage",
+            "Preamplifier",
+            "Scaler / ratemeter",
+            "Main amplifier"
+        ],
+        "answer": "Scaler / ratemeter"
+    },
+    {
+        "question": "What is the purpose of Research reactor startup sources?",
+        "options": [
+            "To sterilize medical products",
+            "To cross-link pharmaceutical products",
+            "To initiate stable nuclear chain reactions in nuclear reactors",
+            "To measure the density of geological formations"
+        ],
+        "answer": "To initiate stable nuclear chain reactions in nuclear reactors"
+    },
+    {
+        "question": "Which radioactive source is used in a Lightning Arrester?",
+        "options": [
+            "Alpha source",
+            "Radioactive lightning conductors",
+            "Neutron source",
+            "Gamma source"
+        ],
+        "answer": "Radioactive lightning conductors"
+    },
+    {
+        "question": "When should an interlock system be in place for a nuclear gauge with an X-ray unit?",
+        "options": [
+            "To prevent operation without housing/shielding",
+            "To regulate the high voltage supply",
+            "To automatically close the shutter",
+            "To detect low radiation levels"
+        ],
+        "answer": "To prevent operation without housing/shielding"
+    },
+    {
+        "question": "For a Reactive Gauge, the source typically utilizes sources within which activity range?",
+        "options": [
+            "40 MBq - 40 GBq",
+            "40 - 200 MBq",
+            "200 MBq - 40 GBq",
+            "0.4 - 40 GBq"
+        ],
+        "answer": "200 MBq - 40 GBq"
+    },
+    {
+        "question": "What is the purpose of the Preamplifier in the electronic signal processor?",
+        "options": [
+            "To supply high voltage to the detector",
+            "To amplify the detector’s signals",
+            "To discriminate the signals",
+            "To register the signals"
+        ],
+        "answer": "To amplify the detector’s signals to a certain level"
+    },
+    {
+        "question": "What is the term for the set of procedures ensuring systematic and safe work, which form part of a good working practice (GWP)?",
+        "options": [
+            "Standard Operating Procedures",
+            "Safe Working Procedures",
+            "Security Procedures",
+            "Emergency Procedures"
+        ],
+        "answer": "Safe Working Procedures"
+    },
+    {
+        "question": "Nuclear gauging is classified under which category of safety and security in the document title?",
+        "options": [
+            "Category 1",
+            "Category 2",
+            "Category 3",
+            "Category 4"
+        ],
+        "answer": "Category 3"
+    },
+    {
+        "question": "Nuclear gauging systems and X-ray Analysers are widely used in which two main settings, according to the introduction?",
+        "options": [
+            "Hospitals and Research Labs",
+            "Industry and Analytical Laboratory",
+            "Military and Government",
+            "Food and Beverage Production"
+        ],
+        "answer": "Industry and Analytical Laboratory"
+    },
+    {
+        "question": "Which advantage over conventional techniques is highlighted by the ability of nuclear gauging to be 'made on-line'?",
+        "options": [
+            "Good accuracy",
+            "Simple installation",
+            "Real-time measurement",
+            "No contact"
+        ],
+        "answer": "Real-time measurement"
+    },
+    {
+        "question": "A device used in numerous industries, mostly in process control and quality control, that consists of a shielded radiation source and a detector, is defined as what?",
+        "options": [
+            "Particle Accelerator",
+            "Radiotracer",
+            "Nuclear Gauging",
+            "X-Ray Analyzer"
+        ],
+        "answer": "Nuclear Gauging"
+    },
+    {
+        "question": "Which component in the diagram of a nuclear gauge is responsible for controlling the beam of radiation?",
+        "options": [
+            "Detector",
+            "Source",
+            "Shielding",
+            "Shutter Control"
+        ],
+        "answer": "Shutter Control"
+    },
+    {
+        "question": "When radiation passes through a material, it loses energy and is partly...",
+        "options": [
+            "Thermalized",
+            "Reflected",
+            "Absorbed",
+            "Diffracted"
+        ],
+        "answer": "Absorbed"
+    },
+    {
+        "question": "Which parameter in the transmission formula is known as the density thickness, $g.cm^{-2}$?",
+        "options": [
+            "$I$",
+            "$I_{0}$",
+            "$\\mu_{en}/\\rho$",
+            "$x$"
+        ],
+        "answer": "$x$"
+    },
+    {
+        "question": "A nuclear gauge addressed based on its function might be classified as a...",
+        "options": [
+            "Transmission gauge",
+            "Beta gauge",
+            "Density gauge",
+            "Reactive gauge"
+        ],
+        "answer": "Density gauge"
+    },
+    {
+        "question": "Which type of detector is shown in the diagram for a Transmission gauge?",
+        "options": [
+            "Geiger-Muller counter",
+            "Scintillation detector",
+            "Si(Li) detector",
+            "Ion chamber detector"
+        ],
+        "answer": "Ion chamber detector"
+    },
+    {
+        "question": "Which type of detector is shown in the diagram for a Backscattering gauge?",
+        "options": [
+            "Ion chamber detector",
+            "Geiger-Muller counter",
+            "Si(Li) detector",
+            "NaI detector"
+        ],
+        "answer": "Geiger-Muller counter"
+    },
+    {
+        "question": "Which type of detector is shown in the diagram for a Reactive gauge?",
+        "options": [
+            "Geiger-Muller counter",
+            "Ion chamber detector",
+            "Si(Li) detector",
+            "NaI detector"
+        ],
+        "answer": "Si(Li) detector"
+    },
+    {
+        "question": "Which is an example of an application for a **Thickness gauge**?",
+        "options": [
+            "Oil Level",
+            "Mineral Weight",
+            "Film Thickness",
+            "Liquid Flow"
+        ],
+        "answer": "Film Thickness"
+    },
+    {
+        "question": "Which radionuclide is used for low energy beta sources with an energy of 220 keV?",
+        "options": [
+            "Ni-67",
+            "Pm-147",
+            "Kr-85",
+            "Sr-90"
+        ],
+        "answer": "Pm-147"
+    },
+    {
+        "question": "What is the primary function of the radiation source in a nuclear gauging system?",
+        "options": [
+            "Convert radiation to electronic signals",
+            "Shield the detector",
+            "Produce radiation required by the system",
+            "Amplify the signal"
+        ],
+        "answer": "Produce radiation required by the system"
+    },
+    {
+        "question": "The choice of radioactive source depends on availability, cost, type of radiation, energy of radiation, and which other factor?",
+        "options": [
+            "Weight",
+            "Half-life",
+            "Color",
+            "Source size"
+        ],
+        "answer": "Half-life"
+    },
+    {
+        "question": "The most common detectors used in nuclear gauging are the GM detector and the...",
+        "options": [
+            "Semiconductor detector",
+            "Scintillation detector",
+            "Ionization chamber",
+            "Proportional counter"
+        ],
+        "answer": "Ionization chamber"
+    },
+    {
+        "question": "In the electronic signal processor, what part supplies high voltage to the detector?",
+        "options": [
+            "Preamplifier",
+            "Main amplifier",
+            "Discriminator",
+            "High voltage"
+        ],
+        "answer": "High voltage"
+    },
+    {
+        "question": "The X-ray tube is enclosed in a tube housing to minimize radiation leakage and provide protection against...",
+        "options": [
+            "Chemical exposure",
+            "Electrical surge",
+            "Physical damage",
+            "High temperatures"
+        ],
+        "answer": "Physical damage"
+    },
+    {
+        "question": "What type of X-ray analyzer identifies an element from its **wavelength property**?",
+        "options": [
+            "Energy-dispersive",
+            "Wavelength-dispersive",
+            "X-ray Diffraction (XRD)",
+            "Reactive XRF"
+        ],
+        "answer": "Wavelength-dispersive"
+    },
+    {
+        "question": "In XRF, the minimum preparation required and little or no pre-treatment is listed as a(n)...",
+        "options": [
+            "Disadvantage",
+            "Limitation",
+            "Advantage",
+            "Constraint"
+        ],
+        "answer": "Advantage"
+    },
+    {
+        "question": "XRF is known to have suffered from which effect, making it a disadvantage?",
+        "options": [
+            "Compton effect",
+            "Photoelectric effect",
+            "Matrix effect",
+            "Doppler effect"
+        ],
+        "answer": "Matrix effect"
+    },
+    {
+        "question": "Which element is explicitly mentioned as NOT suitable for analysis by XRF due to it being a very light element?",
+        "options": [
+            "Sulfur",
+            "Lead",
+            "Hydrogen",
+            "Iron"
+        ],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What type of detector is typically used for Wavelength-Dispersive XRF (WDXRF) and XRD?",
+        "options": [
+            "Semiconductor detector",
+            "Ionization chamber",
+            "Proportional counter",
+            "GM counter"
+        ],
+        "answer": "Proportional counter"
+    },
+    {
+        "question": "What is the function of the Discriminator (selector) in the electronic signal processor?",
+        "options": [
+            "Supplying high voltage",
+            "Amplifying signals",
+            "Selecting the desired signal pulses",
+            "Registering the signals"
+        ],
+        "answer": "Selecting the desired signal pulses"
+    },
+    {
+        "question": "What does a Cyclotron, a type of particle accelerator, use to accelerate charged particles in circular paths?",
+        "options": [
+            "Electric and magnetic fields",
+            "Only magnetic fields",
+            "Gravitational forces",
+            "High pressure water"
+        ],
+        "answer": "Electric and magnetic fields"
+    },
+    {
+        "question": "What is one application of the Electron Beam technique?",
+        "options": [
+            "Oil logging",
+            "Sterilization of medical products",
+            "Moisture gauging",
+            "X-ray Diffraction"
+        ],
+        "answer": "Sterilization of medical products"
+    },
+    {
+        "question": "What safety practice is **prohibited** in the classified area when operating a nuclear gauge?",
+        "options": [
+            "Putting on a dosimeter",
+            "Wearing protective devices",
+            "Eating, smoking and drinking",
+            "Handling the device"
+        ],
+        "answer": "Eating, smoking and drinking"
+    },
+    {
+        "question": "For a portable nuclear gauge used in an open field, who needs to be informed about the operation?",
+        "options": [
+            "The local police",
+            "The equipment vendor",
+            "AELB (Atomic Energy Licensing Board)",
+            "The site supervisor only"
+        ],
+        "answer": "AELB (Atomic Energy Licensing Board)"
+    },
+    {
+        "question": "A safety briefing should be given by the RPO to all workers involved before commencement of field work. What does RPO stand for?",
+        "options": [
+            "Radiation Protection Operator",
+            "Radioisotope Processing Officer",
+            "Radiation Protection Officer",
+            "Reactive Principle Organizer"
+        ],
+        "answer": "Radiation Protection Officer"
+    },
+    {
+        "question": "If a working period for a portable nuclear gauge in an open field has to be extended, what should be identified and established?",
+        "options": [
+            "A new RPO",
+            "A safe storage place",
+            "A new radiation source",
+            "A new type of detector"
+        ],
+        "answer": "A safe storage place"
+    },
+    {
+        "question": "What is the function of the preamplifier in the electronic signal processor of an X-ray analyzer?",
+        "options": [
+            "Supplying high voltage",
+            "Amplifying the detector's signals",
+            "Filtering noise",
+            "Registering the signals"
+        ],
+        "answer": "Amplifying the detector's signals"
+    },
+    {
+        "question": "Which type of X-ray analyzer device is described as having barriers/shield wholly provided and an interlocking system to the sample compartment?",
+        "options": [
+            "Enclosed devices",
+            "Partly enclosed devices",
+            "Devices without any enclosure",
+            "Portable devices"
+        ],
+        "answer": "Enclosed devices"
+    },
+    {
+        "question": "For oil logging, the well logging tool can be located where to obtain information in Measurement While Drilling (MWD)?",
+        "options": [
+            "Next to the drilling stem",
+            "Above the drilling stem",
+            "Below the drilling stem",
+            "Outside the well bore"
+        ],
+        "answer": "Above the drilling stem"
+    },
+    {
+        "question": "A radiation detector should be **energy independent**, rugged, have good stability, high efficiency, low cost, and what other characteristic?",
+        "options": [
+            "High power consumption",
+            "Low dead time",
+            "High resolving power",
+            "Small size"
+        ],
+        "answer": "High resolving power"
+    },
+    {
+        "question": "What kind of particles do Betatrons use magnetic fields to accelerate?",
+        "options": [
+            "Neutral atoms",
+            "Neutrons",
+            "Charged particles (electrons or ions)",
+            "Gamma rays"
+        ],
+        "answer": "Charged particles (electrons or ions)"
+    },
+    {
+        "question": "In the Bragg's Law equation, what does $\\lambda$ represent?",
+        "options": [
+            "Angle of incident",
+            "Inter-atom spacing",
+            "X-rays wavelength",
+            "An integer"
+        ],
+        "answer": "X-rays wavelength"
+    },
+    {
+        "question": "What are **unsealed sources** used for, according to the document's content list?",
+        "options": [
+            "Nuclear Gauging",
+            "X-ray Analyzer",
+            "Radiotracer",
+            "Thickness Gauge"
+        ],
+        "answer": "Radiotracer"
+    },
+    {
+        "question": "What type of source is generally used for Nuclear Gauging?",
+        "options": [
+            "Irradiating Apparatus",
+            "Unsealed Source",
+            "Sealed Source",
+            "Neutron Generator"
+        ],
+        "answer": "Sealed Source"
+    },
+    {
+        "question": "The general system mentioned in the introduction involves the use of what type of radiation, which can be hazardous?",
+        "options": [
+            "Non-ionizing radiation",
+            "Thermal radiation",
+            "Ionizing radiation",
+            "Microwave radiation"
+        ],
+        "answer": "Ionizing radiation"
+    },
+    {
+        "question": "Which application of nuclear gauging is considered the 'most popular application in industry'?",
+        "options": [
+            "Oil logging",
+            "Thickness gauge",
+            "Density gauge",
+            "Level gauge"
+        ],
+        "answer": "Level gauge"
+    },
+    {
+        "question": "What is the maximum activity of ${}^{60}Co$ (in Ci) listed for use in a Level gauge?",
+        "options": [
+            "$1.0 \\times 10^{0} \\text{ Ci}$",
+            "$1.0 \\times 10^{1} \\text{ Ci}$",
+            "$5.0 \\times 10^{0} \\text{ Ci}$",
+            "$1.0 \\times 10^{-1} \\text{ Ci}$"
+        ],
+        "answer": "$1.0 \\times 10^{1} \\text{ Ci}$"
+    },
+    {
+        "question": "What unit is equivalent to $1.9 \\times 10^{-1} \\text{ TBq}$ for Cs-137 (Maximum) in a Level gauge?",
+        "options": [
+            "$5.0 \\times 10^{-1} \\text{ Ci}$",
+            "$5.0 \\times 10^{0} \\text{ Ci}$",
+            "$1.9 \\times 10^{0} \\text{ Ci}$",
+            "$3.7 \\times 10^{-2} \\text{ Ci}$"
+        ],
+        "answer": "$5.0 \\times 10^{0} \\text{ Ci}$"
+    },
+    {
+        "question": "Which radionuclide is a beta source for **high energy** with a reported energy of 3540 keV?",
+        "options": [
+            "Sr-90",
+            "Kr-85",
+            "Pm-147",
+            "Ru-106"
+        ],
+        "answer": "Ru-106"
+    },
+    {
+        "question": "For a thin layer of material, the choice of radioactive source should be what energy level?",
+        "options": [
+            "High energy",
+            "Medium energy",
+            "Low energy",
+            "No specific requirement"
+        ],
+        "answer": "Low energy"
+    },
+    {
+        "question": "In a weighing gauge, what type of radiation source is used, working on the transmission principle?",
+        "options": [
+            "Beta source",
+            "Neutron source",
+            "Gamma source",
+            "X-ray tube"
+        ],
+        "answer": "Gamma source"
+    },
+    {
+        "question": "What is one application of XRF in the **Oil and Gas Industry**?",
+        "options": [
+            "Moisture in Gas",
+            "Sulfur in Oil",
+            "Thickness of Pipes",
+            "Oil logging"
+        ],
+        "answer": "Sulfur in Oil"
+    },
+    {
+        "question": "The purpose of a tube housing being wholly or partially enclosed in locked barriers or shield is to provide...",
+        "options": [
+            "Beam collimation",
+            "Further protection",
+            "A digital interface",
+            "A quick release mechanism"
+        ],
+        "answer": "Further protection"
+    },
+    {
+        "question": "The radiation detector converts radiation produced by the source into what?",
+        "options": [
+            "Heat energy",
+            "A series of electronic signals",
+            "A visible spectrum",
+            "A magnetic field"
+        ],
+        "answer": "A series of electronic signals"
+    },
+    {
+        "question": "For the safe handling of a portable nuclear gauge, what equipment should be tested for its proper functioning prior to departure to the work site?",
+        "options": [
+            "The vehicle transport system",
+            "Safety devices and radiation protection equipment",
+            "The communication system",
+            "The sample preparation kit"
+        ],
+        "answer": "Safety devices and radiation protection equipment"
+    },
+    {
+        "question": "Nuclear gauging is a technique used for checking, testing, inspecting a system, processing, and what other major activity involving a product?",
+        "options": [
+            "Disposal",
+            "Repairing",
+            "Manufacturing",
+            "Refining"
+        ],
+        "answer": "Manufacturing"
+    },
+    {
+        "question": "The minimum activity of ${}^{60}Co$ (in TBq) listed for use in a Level gauge is...",
+        "options": [
+            "$3.7 \\times 10^{-1} \\text{ TBq}$",
+            "$3.7 \\times 10^{-2} \\text{ TBq}$",
+            "$1.9 \\times 10^{-2} \\text{ TBq}$",
+            "$1.5 \\times 10^{0} \\text{ TBq}$"
+        ],
+        "answer": "$3.7 \\times 10^{-2} \\text{ TBq}$"
+    },
+    {
+        "question": "In **Oil logging**, which measurement type is NOT included in the lithology, density, and porosity measurements?",
+        "options": [
+            "Geological formation",
+            "Prospected oil reservoir",
+            "Wellbore diameter",
+            "Underground formation"
+        ],
+        "answer": "Wellbore diameter"
+    },
+    {
+        "question": "What does a radiographic lightning conductor do?",
+        "options": [
+            "Shields from gamma rays",
+            "Increases the protection of buildings from lightning strikes",
+            "Analyzes X-ray spectra in a storm",
+            "Measures atmospheric moisture"
+        ],
+        "answer": "Increases the protection of buildings from lightning strikes"
+    },
+    {
+        "question": "The source housing provides beam collimation for what purpose?",
+        "options": [
+            "Radiation safety only",
+            "Enhancement of performances",
+            "Physical protection",
+            "Security of the source"
+        ],
+        "answer": "Enhancement of performances"
+    },
+    {
+        "question": "Which of the following describes the level of stability for both Ionization Chambers and GM detectors?",
+        "options": [
+            "Unstable",
+            "Moderately stable",
+            "Rugged and stable",
+            "Only GM is stable"
+        ],
+        "answer": "Rugged and stable"
+    },
+    {
+        "question": "In the electronic signal processor, the Main Amplifier follows which component?",
+        "options": [
+            "High voltage",
+            "Preamplifier",
+            "Discriminator",
+            "Scaler"
+        ],
+        "answer": "Preamplifier"
+    },
+    {
+        "question": "What is one application of radiotracer in a Heat Exchanger?",
+        "options": [
+            "Mixing efficiency",
+            "Corrosion detection",
+            "Temperature measurement",
+            "Density control"
+        ],
+        "answer": "Mixing efficiency"
+    },
+    {
+        "question": "The X-ray analyzer technique is also used in modern industry and research for analyzing and what other activity of materials or products?",
+        "options": [
+            "Density control",
+            "Quality control",
+            "Thickness gauging",
+            "Moisture gauging"
+        ],
+        "answer": "Quality control"
+    },
+    {
+        "question": "What kind of particles are accelerated by a Betatron?",
+        "options": [
+            "Only electrons",
+            "Only ions",
+            "Electrons or ions",
+            "Neutrons and protons"
+        ],
+        "answer": "Electrons or ions"
+    },
+    {
+        "question": "What is the primary function of the initial safety and security working procedures for nuclear gauges and X-ray analyzers?",
+        "options": [
+            "To reduce operating costs",
+            "To ensure personnel are carrying out their work in a systematic and safe manner",
+            "To extend the source half-life",
+            "To increase the detector's efficiency"
+        ],
+        "answer": "To ensure personnel are carrying out their work in a systematic and safe manner"
+    },
+    {
+        "question": "The proper handling of a nuclear gauge is meant to minimize exposure and what else during handling?",
+        "options": [
+            "Cost",
+            "Noise",
+            "Vibration",
+            "Damage"
+        ],
+        "answer": "Damage"
+    }
+]

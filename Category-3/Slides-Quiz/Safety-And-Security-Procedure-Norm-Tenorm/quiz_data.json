@@ -1,0 +1,1332 @@
+[
+    {
+        "question": "What does the acronym NORM stand for in the context of industrial radiation safety?",
+        "options": [
+            "Natural Order Radioactive Materials",
+            "Naturally Occurring Radioactive Materials",
+            "Nuclear Origin Remote Machines",
+            "National Operating Radiation Monitoring"
+        ],
+        "answer": "Naturally Occurring Radioactive Materials"
+    },
+    {
+        "question": "Which of the following is an example of Naturally Occurring Radioactive Material (NORM) as listed in the document?",
+        "options": [
+            "Spent Nuclear Fuel",
+            "Rocks",
+            "Medical X-ray film",
+            "Depleted Uranium"
+        ],
+        "answer": "Rocks"
+    },
+    {
+        "question": "What is the key difference between NORM and TENORM?",
+        "options": [
+            "NORM is man-made, TENORM is natural",
+            "TENORM is NORM enhanced through technological processes",
+            "NORM contains only Uranium, TENORM contains only Thorium",
+            "TENORM has a shorter half-life than NORM"
+        ],
+        "answer": "TENORM is NORM enhanced through technological processes"
+    },
+    {
+        "question": "Which two major radioactive series are the radionuclides in NORM materials mainly from?",
+        "options": [
+            "Plutonium and Neptunium series",
+            "Carbon and Tritium series",
+            "Uranium and Thorium series",
+            "Iodine and Cesium series"
+        ],
+        "answer": "Uranium and Thorium series"
+    },
+    {
+        "question": "Which of the following is listed as an example of Technologically Enhanced NORM (TENORM)?",
+        "options": [
+            "Freshwater",
+            "Oil scales",
+            "Pure Quartz",
+            "Unprocessed Iron Ore"
+        ],
+        "answer": "Oil scales"
+    },
+    {
+        "question": "In the example of technological enhancement shown, what is NORM (Tanker Sludge) converted into (TENORM)?",
+        "options": [
+            "Oil Block",
+            "Thorium Hydroxide",
+            "Sludge Ash",
+            "Synthetic Rutile"
+        ],
+        "answer": "Sludge Ash"
+    },
+    {
+        "question": "What is the typical range of Radium-226 (Ra-226) activity concentration (Bq/g) found in normal Malaysian soils (Peninsular)?",
+        "options": [
+            "0.01 – 0.02 Bq/g",
+            "0.04 – 0.10 Bq/g",
+            "1.0 – 2.0 Bq/g",
+            "5.0 – 10.0 Bq/g"
+        ],
+        "answer": "0.04 – 0.10 Bq/g"
+    },
+    {
+        "question": "In the Oil & Gas industry, what mineral is Ra-226 + Ra-228 co-precipitated with to form scales?",
+        "options": [
+            "Sodium Chloride",
+            "Lead and Zinc",
+            "Barium, Strontium, and Calcium",
+            "Iron and Copper"
+        ],
+        "answer": "Barium, Strontium, and Calcium"
+    },
+    {
+        "question": "What is the average background radiation level in Malaysia mentioned in the document?",
+        "options": [
+            "0.5 mSv/y",
+            "1 mSv/y",
+            "2 mSv/y",
+            "5 mSv/y"
+        ],
+        "answer": "2 mSv/y"
+    },
+    {
+        "question": "What percentage of global radiation sources is attributed to natural sources, according to the UNSCEAR report 2008 cited?",
+        "options": [
+            "~10 %",
+            "~20 %",
+            "~50 %",
+            "~80 %"
+        ],
+        "answer": "~80 %"
+    },
+    {
+        "question": "Radionuclides that have long half-lives (>10^8 years) and coexisted during the creation of Earth are classified as what type of natural radiation source?",
+        "options": [
+            "Cosmic rays",
+            "Cosmogenic nuclides",
+            "Primordial radionuclides",
+            "Man-made sources"
+        ],
+        "answer": "Primordial radionuclides"
+    },
+    {
+        "question": "Which non-series primordial radionuclide is listed with a long half-life?",
+        "options": [
+            "Radium-226",
+            "Radon-222",
+            "Potassium-40",
+            "Polonium-210"
+        ],
+        "answer": "Potassium-40"
+    },
+    {
+        "question": "What is the half-life of Uranium-238 (U-238) in years?",
+        "options": [
+            "4.47 x 10^3 y",
+            "4.47 x 10^5 y",
+            "4.47 x 10^7 y",
+            "4.47 x 10^9 y"
+        ],
+        "answer": "4.47 x 10^9 y"
+    },
+    {
+        "question": "What is the final, stable nuclide in the Uranium-238 decay series?",
+        "options": [
+            "Radium-226",
+            "Radon-222",
+            "Lead-206",
+            "Polonium-210"
+        ],
+        "answer": "Lead-206"
+    },
+    {
+        "question": "What is the half-life of Radium-226 (Ra-226)?",
+        "options": [
+            "3.823 days",
+            "24.1 days",
+            "1600 years",
+            "4.47 x 10^9 years"
+        ],
+        "answer": "1600 years"
+    },
+    {
+        "question": "What is the final, stable nuclide in the Thorium-232 decay series?",
+        "options": [
+            "Lead-206",
+            "Lead-207",
+            "Lead-208",
+            "Thorium-228"
+        ],
+        "answer": "Lead-208"
+    },
+    {
+        "question": "According to the document, what is the total activity concentration at equilibrium for the Thorium (Th-232) series?",
+        "options": [
+            "14x any single radionuclide activity",
+            "11x any single radionuclide activity",
+            "10x any single radionuclide activity",
+            "7x any single radionuclide activity"
+        ],
+        "answer": "10x any single radionuclide activity"
+    },
+    {
+        "question": "Which phenomenon occurs when a long-lived parent radionuclide (like Ra-226) is in a state where short-lived progeny (like Rn-222) follows the parent's slow decay pattern?",
+        "options": [
+            "Metastable state",
+            "Secular equilibrium",
+            "Radioactive enhancement",
+            "Critical mass formation"
+        ],
+        "answer": "Secular equilibrium"
+    },
+    {
+        "question": "What is the most significant source of man-made radiation exposure to the public globally, according to the pie chart cited (UNSCEAR 2008)?",
+        "options": [
+            "Atmospheric nuclear tests",
+            "Nuclear fuel cycle",
+            "Medical",
+            "Occupational exposure"
+        ],
+        "answer": "Medical"
+    },
+    {
+        "question": "Cosmogenic nuclides, such as C-14 and H-3, are the result of interaction between cosmic rays and what?",
+        "options": [
+            "Earth's magnetic field",
+            "Primordial radionuclides",
+            "Particles in the atmosphere",
+            "Solar flares"
+        ],
+        "answer": "Particles in the atmosphere"
+    },
+    {
+        "question": "Which authority in Malaysia is responsible for controlling materials/processes that may cause additional radiation exposure to people in the *industrial* sector?",
+        "options": [
+            "MOH (Ministry of Health)",
+            "DOE (Department of Environment)",
+            "DAE (Department of Atomic Energy) / AELB",
+            "Nuclear Malaysia"
+        ],
+        "answer": "DAE (Department of Atomic Energy) / AELB"
+    },
+    {
+        "question": "In Malaysia, what activity is generally *not* controlled by the Authority, even if the levels are high?",
+        "options": [
+            "Manufacturing radioactive materials",
+            "Background radiation",
+            "Transport of radioactive materials",
+            "Disposal of TENORM waste"
+        ],
+        "answer": "Background radiation"
+    },
+    {
+        "question": "According to Act 304, dealing in radioactive materials without a valid license issued under Section 16 (5) is prohibited. Which of the following is considered a 'Dealing' activity?",
+        "options": [
+            "Reading a radiation protection manual",
+            "Manufacturing radioactive material",
+            "Wearing a TLD badge",
+            "Attending a safety course"
+        ],
+        "answer": "Manufacturing radioactive material"
+    },
+    {
+        "question": "What is the external dose rate limit for contaminated materials at 5 cm from the surface, used as a control limit for TENORM in Oil & Gas?",
+        "options": [
+            "0.1 μSv/hr",
+            "0.5 μSv/hr",
+            "1.0 μSv/hr",
+            "2.0 μSv/hr"
+        ],
+        "answer": "0.5 μSv/hr"
+    },
+    {
+        "question": "What is the waste categorization limit for radionuclides from the U-238 and Th-232 series (inclusive background) in Bq/g?",
+        "options": [
+            "0.1 Bq/g",
+            "0.5 Bq/g",
+            "1.0 Bq/g",
+            "10 Bq/g"
+        ],
+        "answer": "1.0 Bq/g"
+    },
+    {
+        "question": "What is the dose limit to the critical group (public) for TENORM waste disposal?",
+        "options": [
+            "0.01 mSv/y",
+            "0.3 mSv/y",
+            "1.0 mSv/y",
+            "20 mSv/y"
+        ],
+        "answer": "0.3 mSv/y"
+    },
+    {
+        "question": "For clearance levels of material, what is the activity concentration (Bq/g) limit for each radionuclide in the uranium and thorium decay chains?",
+        "options": [
+            "0.1 Bq/g",
+            "1 Bq/g",
+            "10 Bq/g",
+            "100 Bq/g"
+        ],
+        "answer": "1 Bq/g"
+    },
+    {
+        "question": "Which Class of License (under Act 304) is required for 'Disposal, storage & decommissioning of milling installation, waste treatment facility' for NORM/TENORM?",
+        "options": [
+            "Class A",
+            "Class D",
+            "Class G",
+            "Class H"
+        ],
+        "answer": "Class G"
+    },
+    {
+        "question": "The activity concentration limit for Potassium-40 (K-40) for material clearance is set at what value in Bq/g?",
+        "options": [
+            "1 Bq/g",
+            "5 Bq/g",
+            "10 Bq/g",
+            "20 Bq/g"
+        ],
+        "answer": "10 Bq/g"
+    },
+    {
+        "question": "Which Malaysian authority issues the technical guidance document LEM/TEK/58 on radiation protection for TENORM in Oil and Gas facilities?",
+        "options": [
+            "MOH",
+            "Nuclear Malaysia",
+            "DAE / AELB",
+            "UNSCEAR"
+        ],
+        "answer": "DAE / AELB"
+    },
+    {
+        "question": "In the Oil & Gas industry, the accumulation of scales is said to increase with what factor?",
+        "options": [
+            "Crude oil price",
+            "Platform age",
+            "Number of workers",
+            "Water injection rate"
+        ],
+        "answer": "Platform age"
+    },
+    {
+        "question": "What process in Oil & Gas production causes Radium (Ra) to precipitate as scales, due to pressure and temperature drop?",
+        "options": [
+            "Flaring",
+            "Combustion",
+            "Separation from formation water",
+            "Drilling"
+        ],
+        "answer": "Separation from formation water"
+    },
+    {
+        "question": "What specific radionuclide is associated with **Phyrophoric Iron Sulphide** found in Oil & Gas waste, according to the document?",
+        "options": [
+            "Radium-226",
+            "Thorium-232",
+            "Uranium-238",
+            "Potassium-40"
+        ],
+        "answer": "Uranium-238"
+    },
+    {
+        "question": "What is the non-radiological hazard listed for *Gas Processing* facilities?",
+        "options": [
+            "Benzene",
+            "Mercury (Hg)",
+            "Barium Sulfate",
+            "Hydrogen sulfide"
+        ],
+        "answer": "Hydrogen sulfide"
+    },
+    {
+        "question": "What substance is classified as a non-radiological hazard in *Oil Processing* facilities?",
+        "options": [
+            "Radon Gas",
+            "Iron Sulfide",
+            "Benzene",
+            "Strontium Carbonate"
+        ],
+        "answer": "Benzene"
+    },
+    {
+        "question": "Which sludge treatment method involves biodegradation and is listed for Oil & Gas sludge?",
+        "options": [
+            "Incineration",
+            "Sludge Farming",
+            "Steam Method",
+            "Chemical Extraction"
+        ],
+        "answer": "Sludge Farming"
+    },
+    {
+        "question": "What temperature is used in the Incineration method for Oil & Gas sludge treatment to produce water vapour and carbon dioxide?",
+        "options": [
+            "100 °C",
+            "500 °C",
+            "800 °C",
+            "1200 °C"
+        ],
+        "answer": "1200 °C"
+    },
+    {
+        "question": "Which treatment method for Oil & Gas sludge is described as a non-destructive method using steam at 500 °C to separate hydrocarbon from sediment?",
+        "options": [
+            "Chemical Extraction",
+            "Steam Method",
+            "Sludge Farming",
+            "Incineration"
+        ],
+        "answer": "Steam Method"
+    },
+    {
+        "question": "What is the purpose of the 'Radiological Impact Assessment' (RIA) guideline for the Oil & Gas Industry?",
+        "options": [
+            "To calculate the cost of a new facility",
+            "To assess the environmental impact of non-radioactive waste",
+            "To assess contamination, entry, repair, and cleaning procedures for vessels and equipment",
+            "To track worker's occupational dose"
+        ],
+        "answer": "To assess contamination, entry, repair, and cleaning procedures for vessels and equipment"
+    },
+    {
+        "question": "In the Oil & Gas industry, what materials typically make up the **sludge** waste?",
+        "options": [
+            "Pure Radium and Thorium",
+            "Barium sulfate and Calcium carbonate",
+            "Hydrocarbon, water, and sand/clay containing Ra-226 + Ra-228",
+            "Iron sulfide and Hydrogen sulfide"
+        ],
+        "answer": "Hydrocarbon, water, and sand/clay containing Ra-226 + Ra-228"
+    },
+    {
+        "question": "What is the minimum concentration (in ppm) of Uranium + Thorium that causes Monazite, Zircon, Xenotime & Ilmenite to be defined as 'Radioactive Material' by the regulatory authority?",
+        "options": [
+            "50 ppm",
+            "500 ppm",
+            "5,000 ppm",
+            "50,000 ppm"
+        ],
+        "answer": "500 ppm"
+    },
+    {
+        "question": "Which of the following minerals is *not* listed as one of the four key radioactive minerals in the Mineral Processing industry?",
+        "options": [
+            "Monazite",
+            "Zircon",
+            "Ilmenite",
+            "Bauxite"
+        ],
+        "answer": "Bauxite"
+    },
+    {
+        "question": "Which Mineral Processing activity is a *chemical process*?",
+        "options": [
+            "Tin ore smelting",
+            "Amang processing",
+            "Rare earth elements from Monazite and Xenotime production",
+            "Ceramic industry"
+        ],
+        "answer": "Rare earth elements from Monazite and Xenotime production"
+    },
+    {
+        "question": "What is the residue product from *Tin Smelting* that contains radioactive material?",
+        "options": [
+            "Tin Block",
+            "Mine Sand",
+            "Tin Slag",
+            "Tin Ore Concentrates"
+        ],
+        "answer": "Tin Slag"
+    },
+    {
+        "question": "In Monazite processing for rare earth elements, which residue product mainly contains U-238, Th-232, and their progeny?",
+        "options": [
+            "Rare Earth Product",
+            "Lead Cake",
+            "Thoria Cake",
+            "Tri-Calcium Phosphate"
+        ],
+        "answer": "Thoria Cake"
+    },
+    {
+        "question": "In Monazite processing for rare earth elements, which residue product mainly contains Ra-224, Ra-226, Pb-212, and Pb-210?",
+        "options": [
+            "Rare Earth Product",
+            "Lead Cake",
+            "Thoria Cake",
+            "Thorium Hydroxide"
+        ],
+        "answer": "Lead Cake"
+    },
+    {
+        "question": "The deviation from the state of equilibrium (Total Activity Concentration) normally occurs whenever there is what kind of process?",
+        "options": [
+            "Drying",
+            "Smelting",
+            "Chemical separation",
+            "Storage"
+        ],
+        "answer": "Chemical separation"
+    },
+    {
+        "question": "What is the final waste form from Rare Earth Production (Monazite and Xenotime) that is an option for reuse or disposal?",
+        "options": [
+            "Rare Earth Product",
+            "Thorium Hydroxide",
+            "Mine Sand",
+            "Tin Ore Concentrates"
+        ],
+        "answer": "Thorium Hydroxide"
+    },
+    {
+        "question": "What is the recommended conditioning material for mineral processing wastes (like gypsum, tin slag) to prepare them for disposal?",
+        "options": [
+            "Sand",
+            "Cement",
+            "Plastics",
+            "Steel"
+        ],
+        "answer": "Cement"
+    },
+    {
+        "question": "What are **Amang / Tailing** in Tin-mine related processes classified as?",
+        "options": [
+            "Final Product",
+            "Radioactive Residue (Tailing)",
+            "Chemical Solvent",
+            "Extraction Equipment"
+        ],
+        "answer": "Radioactive Residue (Tailing)"
+    },
+    {
+        "question": "Exposure to **Gypsum, iron oxides, thoria, and oil & gas sludge & scales** are listed as the source of what kind of radiation exposure?",
+        "options": [
+            "Neutron",
+            "Internal",
+            "External",
+            "Beta only"
+        ],
+        "answer": "External"
+    },
+    {
+        "question": "External radiation exposure from residues in storage and dumping areas should be controlled using which set of principles?",
+        "options": [
+            "ALARA",
+            "STD (Shielding, Time, Distance)",
+            "DDT (Dilute, Disperse, Treat)",
+            "PPE (Personal Protective Equipment)"
+        ],
+        "answer": "STD (Shielding, Time, Distance)"
+    },
+    {
+        "question": "Which exposure pathway for internal radiation exposure is the main concern for Radon and Thoron daughters?",
+        "options": [
+            "Ingestion",
+            "Wound",
+            "Inhalation (respiratory tract)",
+            "Direct Absorption"
+        ],
+        "answer": "Inhalation (respiratory tract)"
+    },
+    {
+        "question": "Radon and Thoron are most affected by what environmental factor, which can be mitigated through extraction fans and 'open' plant design?",
+        "options": [
+            "Humidity",
+            "Temperature",
+            "Air pressure",
+            "Ventilation"
+        ],
+        "answer": "Ventilation"
+    },
+    {
+        "question": "What type of contamination can be re-suspended when dry and can lead to internal exposure through inhalation, ingestion, or cut wounds?",
+        "options": [
+            "Fixed contamination",
+            "Alpha contamination",
+            "Loose contamination",
+            "Beta contamination"
+        ],
+        "answer": "Loose contamination"
+    },
+    {
+        "question": "What is the unit used for Radon Daughters Concentrations In Air?",
+        "options": [
+            "Bq/g",
+            "mSv/hr",
+            "WLM",
+            "WL (Working Level)"
+        ],
+        "answer": "WL (Working Level)"
+    },
+    {
+        "question": "One **Working Level (WL)** is defined as the combined short-lived radon daughters in 1 L of air that produce a potential alpha energy of what value?",
+        "options": [
+            "1.3 x 10^3 MeV",
+            "1.3 x 10^5 MeV",
+            "1.3 x 10^7 MeV",
+            "1.3 x 10^9 MeV"
+        ],
+        "answer": "1.3 x 10^5 MeV"
+    },
+    {
+        "question": "What does **WLM** stand for as a unit of exposure to radon or thoron daughters?",
+        "options": [
+            "Working Level Month",
+            "Waste Limit Metric",
+            "Wet Low Material",
+            "Working Limit Measure"
+        ],
+        "answer": "Working Level Month"
+    },
+    {
+        "question": "How many hours of exposure are equivalent to one Working Level Month (WLM)?",
+        "options": [
+            "40 hours",
+            "100 hours",
+            "170 hours",
+            "2000 hours"
+        ],
+        "answer": "170 hours"
+    },
+    {
+        "question": "What is the **Annual Limit** in WLM for workers exposed to **radon** daughters?",
+        "options": [
+            "1 WLM",
+            "4 WLM",
+            "12 WLM",
+            "20 WLM"
+        ],
+        "answer": "4 WLM"
+    },
+    {
+        "question": "What is the dose conversion factor for **radon** daughters, based on an annual dose limit of 20 mSv?",
+        "options": [
+            "1.5 mSv/WLM",
+            "5 mSv/WLM",
+            "10 mSv/WLM",
+            "20 mSv/WLM"
+        ],
+        "answer": "5 mSv/WLM"
+    },
+    {
+        "question": "What is the **Annual Limit** in WLM for workers exposed to **thoron** daughters?",
+        "options": [
+            "1 WLM",
+            "4 WLM",
+            "12 WLM",
+            "20 WLM"
+        ],
+        "answer": "12 WLM"
+    },
+    {
+        "question": "What is the dose conversion factor for **thoron** daughters, based on an annual dose limit of 20 mSv?",
+        "options": [
+            "1.5 mSv/WLM",
+            "5 mSv/WLM",
+            "10 mSv/WLM",
+            "20 mSv/WLM"
+        ],
+        "answer": "1.5 mSv/WLM"
+    },
+    {
+        "question": "What term describes the amount of activity taken *into* the body?",
+        "options": [
+            "Uptake",
+            "Retention",
+            "Intake",
+            "Committed Dose"
+        ],
+        "answer": "Intake"
+    },
+    {
+        "question": "Which is the main route of entry into the body for **tritium** that is listed as an example in the internal dose revision section?",
+        "options": [
+            "Inhalation",
+            "Ingestion",
+            "Wound",
+            "Direct absorption"
+        ],
+        "answer": "Direct absorption"
+    },
+    {
+        "question": "A **Clean Area** is defined as an area where the annual dose received by a worker is not likely to exceed the dose limit for whom?",
+        "options": [
+            "A trainee",
+            "A member of the public",
+            "An RPO",
+            "An emergency responder"
+        ],
+        "answer": "A member of the public"
+    },
+    {
+        "question": "In a **Supervised Area**, occupational exposure conditions are kept under review, and the annual dose is likely to exceed what value but unlikely to exceed 3/10 of the Annual Dose Limit?",
+        "options": [
+            "0.1 mSv/y",
+            "1 mSv/y",
+            "5 mSv/y",
+            "20 mSv/y"
+        ],
+        "answer": "1 mSv/y"
+    },
+    {
+        "question": "The **Annual Dose Limit (ADL)** for occupational exposure is generally taken as 20 mSv/y. What dose limit defines a **Controlled Area** (3/10 ADL)?",
+        "options": [
+            "1 mSv/y",
+            "3 mSv/y",
+            "6 mSv/y",
+            "10 mSv/y"
+        ],
+        "answer": "6 mSv/y"
+    },
+    {
+        "question": "What is the main requirement for a **Controlled Area**?",
+        "options": [
+            "Specific protection measures and safety provisions are required",
+            "Only administrative control is required",
+            "No special monitoring is needed",
+            "Access is open to the public"
+        ],
+        "answer": "Specific protection measures and safety provisions are required"
+    },
+    {
+        "question": "Which area classification is subject to special rules for the purposes of protection against ionizing radiation and to which access is controlled?",
+        "options": [
+            "Clean Area",
+            "Supervised Area",
+            "Controlled Area",
+            "Public Area"
+        ],
+        "answer": "Controlled Area"
+    },
+    {
+        "question": "In a **Supervised Area**, specific protective measures and safety provisions are **not normally** needed. What is the upper bound of exposure (in fraction of ADL) for a Supervised Area?",
+        "options": [
+            "1/10 of the ADL",
+            "3/10 of the ADL",
+            "1/2 of the ADL",
+            "The full ADL"
+        ],
+        "answer": "3/10 of the ADL"
+    },
+    {
+        "question": "If a worker's annual dose is **not likely to exceed the dose limit for a member of the public (1 mSv/y)**, the working area is classified as a:",
+        "options": [
+            "Controlled Area",
+            "Supervised Area",
+            "Clean Area",
+            "Restricted Area"
+        ],
+        "answer": "Clean Area"
+    },
+    {
+        "question": "What is the main purpose of classifying working areas?",
+        "options": [
+            "To determine the salary of the workers",
+            "To comply with fire safety regulations",
+            "To ensure appropriate protective measures and access control based on radiation risk",
+            "To estimate the total company waste output"
+        ],
+        "answer": "To ensure appropriate protective measures and access control based on radiation risk"
+    },
+    {
+        "question": "What is the key difference in dose potential between a Supervised Area and a Controlled Area?",
+        "options": [
+            "Supervised Area > 6 mSv/y; Controlled Area < 6 mSv/y",
+            "Supervised Area: >1 mSv/y, <6 mSv/y; Controlled Area: >6 mSv/y",
+            "Controlled Area requires no specific procedures; Supervised Area requires them",
+            "Supervised Area requires an RPO; Controlled Area does not"
+        ],
+        "answer": "Supervised Area: >1 mSv/y, <6 mSv/y; Controlled Area: >6 mSv/y"
+    },
+    {
+        "question": "Which working procedure is designed to reduce surface contamination?",
+        "options": [
+            "Shielding",
+            "Time management",
+            "Distance control",
+            "Good housekeeping"
+        ],
+        "answer": "Good housekeeping"
+    },
+    {
+        "question": "In safe working procedures, the principle of **SHIELDING** is achieved by doing what?",
+        "options": [
+            "Working quickly",
+            "Handling from a distance",
+            "Minimising NORM quantity",
+            "Keeping NORM in sealed containers or concrete stores"
+        ],
+        "answer": "Keeping NORM in sealed containers or concrete stores"
+    },
+    {
+        "question": "The working procedure that advises to 'avoid unnecessary exposures' addresses which principle of radiation protection?",
+        "options": [
+            "Shielding",
+            "Time",
+            "Distance",
+            "Dilution"
+        ],
+        "answer": "Time"
+    },
+    {
+        "question": "Using a **forklift** for handling NORM is an example of applying which radiation reduction principle?",
+        "options": [
+            "Shielding",
+            "Time",
+            "Distance",
+            "Contamination control"
+        ],
+        "answer": "Distance"
+    },
+    {
+        "question": "To reduce exposure to airborne dust and Radon/Thoron progeny, NORM processing should ideally be done under which condition?",
+        "options": [
+            "Dry and open",
+            "Closed vessels, wet condition",
+            "High temperature",
+            "In a vacuum"
+        ],
+        "answer": "Closed vessels, wet condition"
+    },
+    {
+        "question": "Which administrative control measure is listed for controlling access to NORM/TENORM storage areas?",
+        "options": [
+            "Fences",
+            "Locks and interlocks",
+            "Key control procedures",
+            "Transport packaging"
+        ],
+        "answer": "Key control procedures"
+    },
+    {
+        "question": "What is the main function of a good ventilation system, such as an extraction fan or 'open' plant design, in NORM/TENORM operations?",
+        "options": [
+            "To increase the temperature",
+            "To dilute and disperse airborne contaminants",
+            "To increase the humidity",
+            "To fix the contamination"
+        ],
+        "answer": "To dilute and disperse airborne contaminants"
+    },
+    {
+        "question": "Which of the following is an example of a **technical control** for access to NORM/TENORM storage?",
+        "options": [
+            "Access control procedures",
+            "Key control procedures",
+            "Video cameras",
+            "Locked, shielded containers"
+        ],
+        "answer": "Locked, shielded containers"
+    },
+    {
+        "question": "According to general working procedures, which activity is typically **prohibited** at the NORM/TENORM workplace?",
+        "options": [
+            "Wearing a mask",
+            "Good housekeeping",
+            "Wearing protective clothing",
+            "Eating, drinking, and smoking"
+        ],
+        "answer": "Eating, drinking, and smoking"
+    },
+    {
+        "question": "What kind of Personal Protective Equipment (PPE) is mentioned for use in NORM/TENORM activities?",
+        "options": [
+            "Safety Goggles only",
+            "Lab coat, coverall/apron, gloves, respirator",
+            "Ear plugs only",
+            "Full body lead suit"
+        ],
+        "answer": "Lab coat, coverall/apron, gloves, respirator"
+    },
+    {
+        "question": "The **Radiological Impact Assessment (RIA)** is carried out to perform what type of assessment for an activity decided by the DAE?",
+        "options": [
+            "Technical Feasibility Assessment",
+            "Cost-Benefit Analysis",
+            "Dose Assessment",
+            "Manpower Assessment"
+        ],
+        "answer": "Dose Assessment"
+    },
+    {
+        "question": "The RIA for NORM/TENORM waste disposal typically assesses the dose for which hypothetical group?",
+        "options": [
+            "The RPO and management",
+            "The workers at the facility",
+            "The critical group living on the disposal site",
+            "The DAE regulator"
+        ],
+        "answer": "The critical group living on the disposal site"
+    },
+    {
+        "question": "Which computer code is mentioned as a recognized tool for performing dose assessment for RIA?",
+        "options": [
+            "Microsoft Excel",
+            "AutoCAD",
+            "RESRAD",
+            "Google Maps"
+        ],
+        "answer": "RESRAD"
+    },
+    {
+        "question": "In an RIA disposal scenario, what is considered a critical exposure pathway for the hypothetical person living on the site?",
+        "options": [
+            "Exposure to light pollution",
+            "Relying on ground water as a source of drinking water",
+            "Listening to radio waves",
+            "Exposure to high voltage power lines"
+        ],
+        "answer": "Relying on ground water as a source of drinking water"
+    },
+    {
+        "question": "If the calculated **Public Annual Dose** from the RIA is **less than** the Dose Constraint (0.3 mSv/y), what is the regulatory outcome for the disposal?",
+        "options": [
+            "It is controlled under the regulation",
+            "Environmental monitoring is required indefinitely",
+            "Disposal is exempted from regulatory control",
+            "The facility must be shut down"
+        ],
+        "answer": "Disposal is exempted from regulatory control"
+    },
+    {
+        "question": "If the calculated **Public Annual Dose** from the RIA is **greater than** the Dose Constraint (0.3 mSv/y), what additional action may be required by AELB?",
+        "options": [
+            "Increasing the worker's dose limit",
+            "Selling the disposal site",
+            "Environmental monitoring for a specific period",
+            "Re-running the calculation only once"
+        ],
+        "answer": "Environmental monitoring for a specific period"
+    },
+    {
+        "question": "What is the primary method used for **Personnel Monitoring** of workers in NORM/TENORM activities?",
+        "options": [
+            "Wipe tests",
+            "Airborne dust sampling",
+            "TLD/OSL/RPL badge",
+            "Geiger-Muller counter"
+        ],
+        "answer": "TLD/OSL/RPL badge"
+    },
+    {
+        "question": "How often are personnel monitoring badges typically worn before being sent to an established lab for analysis?",
+        "options": [
+            "Once a week",
+            "For 1 month",
+            "For 6 months",
+            "Once a year"
+        ],
+        "answer": "For 1 month"
+    },
+    {
+        "question": "Which type of monitoring uses **calibrated survey meters** for **external radiation** and **wipe tests** for **surface contamination**?",
+        "options": [
+            "Personnel Monitoring",
+            "Environmental Monitoring",
+            "Working Area Monitoring",
+            "Process Monitoring"
+        ],
+        "answer": "Working Area Monitoring"
+    },
+    {
+        "question": "What is the main objective of the **Environmental Monitoring** program?",
+        "options": [
+            "To track the worker's internal dose",
+            "To ensure the safety of the public",
+            "To check the calibration of survey meters",
+            "To assess the cost of waste disposal"
+        ],
+        "answer": "To ensure the safety of the public"
+    },
+    {
+        "question": "For transportation **within the premise** where NORM/TENORM is produced, used, or stored, which regulation is generally **not applicable**?",
+        "options": [
+            "Radiation Protection (Transport) Regulations 1989",
+            "Act 304",
+            "OSHA Regulations",
+            "Fire Safety Act"
+        ],
+        "answer": "Radiation Protection (Transport) Regulations 1989"
+    },
+    {
+        "question": "NORM/TENORM materials are usually classified for transport as what category?",
+        "options": [
+            "Fissile Material",
+            "High Specific Activity (HSA)",
+            "Low Specific Activity (LSA) I",
+            "Type A Package"
+        ],
+        "answer": "Low Specific Activity (LSA) I"
+    },
+    {
+        "question": "What is the external radiation level limit at 3 m from the **unshielded** LSA I material for transport?",
+        "options": [
+            "0.1 mSv/h",
+            "1 mSv/h",
+            "10 mSv/h",
+            "100 mSv/h"
+        ],
+        "answer": "10 mSv/h"
+    },
+    {
+        "question": "Which type of package is required for the transportation of LSA I material?",
+        "options": [
+            "Industrial Package Type 1 (IP-1)",
+            "Type A Package",
+            "Type B Package",
+            "Excepted Package"
+        ],
+        "answer": "Industrial Package Type 1 (IP-1)"
+    },
+    {
+        "question": "What is the radiation level limit **on the surface** of an Industrial Package Type 1 (IP-1) for NORM/TENORM transportation?",
+        "options": [
+            "< 0.1 mSv/hr",
+            "< 2 mSv/hr",
+            "< 10 mSv/hr",
+            "< 100 mSv/hr"
+        ],
+        "answer": "< 2 mSv/hr"
+    },
+    {
+        "question": "The **Transport Index (TI)** for NORM/TENORM transportation must be less than or equal to what value?",
+        "options": [
+            "1",
+            "5",
+            "10",
+            "20"
+        ],
+        "answer": "10"
+    },
+    {
+        "question": "What is the required radiation level limit **at 2 meters** from an Industrial Package Type 1 (IP-1) for NORM/TENORM transportation?",
+        "options": [
+            "< 0.1 mSv/hr",
+            "< 2 mSv/hr",
+            "< 10 mSv/hr",
+            "< 100 mSv/hr"
+        ],
+        "answer": "< 0.1 mSv/hr"
+    },
+    {
+        "question": "What must be done to NORM/TENORM waste storage places to control access and ensure safety?",
+        "options": [
+            "Only labelled",
+            "Only controlled access",
+            "Isolate, Label, Radiation Sign, Control Access",
+            "Only stored in polyester bags"
+        ],
+        "answer": "Isolate, Label, Radiation Sign, Control Access"
+    },
+    {
+        "question": "For Oil & Gas contaminated items being transported, what specific action is the RPO required to perform regarding scales?",
+        "options": [
+            "Disregard them if the dose rate is low",
+            "Estimate scale quantity and label properly",
+            "Ship them as Type B packages",
+            "Send them for chemical extraction immediately"
+        ],
+        "answer": "Estimate scale quantity and label properly"
+    },
+    {
+        "question": "What is the name of the legislative act in Malaysia that governs the dealing, possession, and disposal of radioactive materials and is referenced in the document?",
+        "options": [
+            "Environmental Quality Act 1974",
+            "Atomic Energy Licensing Act 1984 (Act 304)",
+            "Factories and Machinery Act 1967",
+            "Petroleum Development Act 1974"
+        ],
+        "answer": "Atomic Energy Licensing Act 1984 (Act 304)"
+    },
+    {
+        "question": "Which cosmogenic nuclide is a major component of cosmic radiation and has a relatively long half-life?",
+        "options": [
+            "U-238",
+            "Ra-226",
+            "C-14",
+            "Pb-206"
+        ],
+        "answer": "C-14"
+    },
+    {
+        "question": "An exposure of a domestic airline pilot to cosmic radiation is estimated to be approximately what annual dose?",
+        "options": [
+            "0.05 mSv/year",
+            "0.26 mSv/year",
+            "1.0 mSv/year",
+            "2 mSv/year"
+        ],
+        "answer": "2 mSv/year"
+    },
+    {
+        "question": "Terrestrial radiation exposure, primarily from U-238, Ra-226, and Th-232, is estimated to contribute what dose per year?",
+        "options": [
+            "0.04 mSv/year",
+            "0.26 mSv/year",
+            "1.0 mSv/year",
+            "27 mSv/year"
+        ],
+        "answer": "0.26 mSv/year"
+    },
+    {
+        "question": "What is the purpose of performing a wipe test during Working Area Monitoring?",
+        "options": [
+            "To measure external dose rate",
+            "To check the air ventilation rate",
+            "To measure surface contamination",
+            "To analyze airborne dust composition"
+        ],
+        "answer": "To measure surface contamination"
+    },
+    {
+        "question": "What is the dose rate from a chest x-ray, as an example of man-made radiation exposure?",
+        "options": [
+            "0.04 mSv",
+            "1.0 mSv",
+            "2 mSv",
+            "27 mSv"
+        ],
+        "answer": "0.04 mSv"
+    },
+    {
+        "question": "The short-lived radionuclide, **Radon-222 (Rn-222)**, has a half-life of:",
+        "options": [
+            "1.17 min",
+            "3.823 days",
+            "24.1 days",
+            "1600 years"
+        ],
+        "answer": "3.823 days"
+    },
+    {
+        "question": "Which type of primordial radionuclides exist as a chain of decay products?",
+        "options": [
+            "Non-series",
+            "Stable",
+            "Series",
+            "Cosmogenic"
+        ],
+        "answer": "Series"
+    },
+    {
+        "question": "The production of **Synthetic Rutile** and **Titanium Dioxide pigment** are processes related to which radioactive mineral?",
+        "options": [
+            "Monazite",
+            "Xenotime",
+            "Zircon",
+            "Ilmenite"
+        ],
+        "answer": "Ilmenite"
+    },
+    {
+        "question": "What is the annual dose limit for a member of the public in Malaysia, as implied by the definition of a Clean Area and the dose constraint for disposal?",
+        "options": [
+            "0.3 mSv/y",
+            "1 mSv/y",
+            "6 mSv/y",
+            "20 mSv/y"
+        ],
+        "answer": "1 mSv/y"
+    },
+    {
+        "question": "What is the general classification for NORM/TENORM waste that is stored in large volume dumps?",
+        "options": [
+            "Above ground dumps",
+            "Concrete stores",
+            "Sealed containers",
+            "Underground repositories"
+        ],
+        "answer": "Above ground dumps"
+    },
+    {
+        "question": "Which non-radiological hazard is mentioned as being associated with Gas Processing in the Oil & Gas Industry, alongside hydrogen sulfide and mercury?",
+        "options": [
+            "Carbon dioxide",
+            "Benzene",
+            "Iron sulfide",
+            "Ammonia"
+        ],
+        "answer": "Mercury (Hg)"
+    },
+    {
+        "question": "If an RIA for NORM/TENORM waste disposal results in a dose greater than the Dose Constraint, the disposal is controlled under the regulation, and the approval is only valid for what?",
+        "options": [
+            "The approved financial plan",
+            "The proposed scenario",
+            "The maximum possible dose",
+            "The next 100 years"
+        ],
+        "answer": "The proposed scenario"
+    },
+    {
+        "question": "What does a Radiation Protection Officer (RPO) need to do for contaminated items in Oil & Gas transport?",
+        "options": [
+            "Disregard them if the dose rate is low",
+            "Estimate scale quantity and label properly",
+            "Ship them as Type B packages",
+            "Send them for chemical extraction immediately"
+        ],
+        "answer": "Estimate scale quantity and label properly"
+    },
+    {
+        "question": "Which part of the body is most likely to be affected by the alpha energy deposited by Radon and Thoron daughters?",
+        "options": [
+            "Skin",
+            "Respiratory tract",
+            "Bones",
+            "Thyroid"
+        ],
+        "answer": "Respiratory tract"
+    },
+    {
+        "question": "What kind of technological process is shown in the diagram to convert NORM (Tanker Sludge) into TENORM (Sludge Ash)?",
+        "options": [
+            "Milling",
+            "Smelting",
+            "Incineration",
+            "Dredging"
+        ],
+        "answer": "Incineration"
+    },
+    {
+        "question": "What radionuclide, with a half-life of 1600 years, is the parent of Radon-222?",
+        "options": [
+            "Uranium-238",
+            "Thorium-232",
+            "Radium-226",
+            "Potassium-40"
+        ],
+        "answer": "Radium-226"
+    },
+    {
+        "question": "The non-series primordial radionuclide **Rubidium-87** has a half-life greater than how many years?",
+        "options": [
+            "10^3 years",
+            "10^5 years",
+            "10^8 years",
+            "10^10 years"
+        ],
+        "answer": "10^8 years"
+    },
+    {
+        "question": "The **Thoria Hydroxide** residue from Rare Earth Production is produced from which two radioactive minerals?",
+        "options": [
+            "Ilmenite and Zircon",
+            "Monazite and Xenotime",
+            "Lead Cake and Gypsum",
+            "Tin Ore and Mine Sand"
+        ],
+        "answer": "Monazite and Xenotime"
+    },
+    {
+        "question": "What process is used in Mineral Processing to obtain rare earth elements from Monazite and Xenotime?",
+        "options": [
+            "Physical Process",
+            "Chemical Process",
+            "Centrifugation",
+            "Electrolysis"
+        ],
+        "answer": "Chemical Process"
+    },
+    {
+        "question": "Which mineral processing activity is an example of a **Physical Process**?",
+        "options": [
+            "TiO2 production",
+            "Synthetic rutile using chloride",
+            "Tin ore mining",
+            "Rare earth elements from Monazite"
+        ],
+        "answer": "Tin ore mining"
+    },
+    {
+        "question": "What concentration level for the specific activity of U-238 or Th-232 is required for a material to be defined as 'Radioactive Material' by the regulatory authority in mineral processing?",
+        "options": [
+            "> 0.05 Bq/g",
+            "> 1 Bq/g",
+            "> 5 Bq/g",
+            "> 10 Bq/g"
+        ],
+        "answer": "> 1 Bq/g"
+    },
+    {
+        "question": "What does the procedure of **'Processing NORM in closed vessels'** aim to reduce?",
+        "options": [
+            "External Radiation only",
+            "Internal Radiation from airborne dust and Radon/Thoron progeny",
+            "Distance to the source",
+            "The volume of NORM material"
+        ],
+        "answer": "Internal Radiation from airborne dust and Radon/Thoron progeny"
+    },
+    {
+        "question": "In the Oil & Gas industry, **Radium** is more soluble than Uranium & Thorium in what type of formation water?",
+        "options": [
+            "High sulfate water",
+            "Low sulfate water",
+            "High chloride water",
+            "Fresh water"
+        ],
+        "answer": "Low sulfate water"
+    },
+    {
+        "question": "What kind of contamination occurs when sources deposit onto surfaces and is the primary concern for external exposure (not loose contamination)?",
+        "options": [
+            "Volatile contamination",
+            "Gas contamination",
+            "Fixed contamination",
+            "Alpha contamination"
+        ],
+        "answer": "Fixed contamination"
+    },
+    {
+        "question": "Which decay pattern describes a situation where a short-lived radionuclide's decay follows that of its long-lived parent?",
+        "options": [
+            "Fast decay",
+            "Unsupported decay",
+            "Secular equilibrium",
+            "Exponential decay"
+        ],
+        "answer": "Secular equilibrium"
+    },
+    {
+        "question": "Based on the UNSCEAR report 2008 cited, what percentage of global radiation sources is classified as **Man-made**?",
+        "options": [
+            "~80 %",
+            "~50 %",
+            "~20 %",
+            "~10 %"
+        ],
+        "answer": "~20 %"
+    },
+    {
+        "question": "What is the long-lived parent nuclide in the Thorium-232 decay series with a half-life of 1.41 x 10^10 years?",
+        "options": [
+            "Radium-228",
+            "Uranium-238",
+            "Thorium-232",
+            "Lead-208"
+        ],
+        "answer": "Thorium-232"
+    },
+    {
+        "question": "The presence of a **Radiation Sign** and **Control Access** are requirements for what aspect of NORM/TENORM management?",
+        "options": [
+            "Processing",
+            "Disposal",
+            "Storage",
+            "Monitoring"
+        ],
+        "answer": "Storage"
+    },
+    {
+        "question": "What is the common term for the residue or by-product left over from tin ore mining?",
+        "options": [
+            "Amang / Tailing",
+            "Tin Block",
+            "Iron Sulfide",
+            "Sludge Ash"
+        ],
+        "answer": "Amang / Tailing"
+    }
+]

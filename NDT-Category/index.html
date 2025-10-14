@@ -19,8 +19,7 @@
         <form action="quiz.html" method="GET" class="selection-form">
             <div class="selection-box">
                 <label for="question-count">Select Number of Questions:</label>
-                <select id="question-count"
-                    onchange="sessionStorage.setItem('count', value); document.getElementById('lemtek-quiz').innerHTML = `Lem Tek 33 based Quiz (${sessionStorage.getItem('count')} Q)`;">
+                <select id="question-count" onchange="sessionStorage.setItem('count', value)">
                     <option value="10">10 Questions</option>
                     <option value="25">25 Questions</option>
                     <option value="50">50 Questions</option>

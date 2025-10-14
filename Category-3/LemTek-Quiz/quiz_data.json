@@ -1,0 +1,1562 @@
+[
+    {
+        "question": "What is the full name of the material abbreviated as TENORM?",
+        "options": [
+            "Naturally Occurring Radioactive Material",
+            "Technologically Enhanced Naturally Occurring Radioactive Material",
+            "Thermal Energy and Non-radioactive Organics Material",
+            "Total Enhanced Non-Metallic Radioactive Matter"
+        ],
+        "answer": "Technologically Enhanced Naturally Occurring Radioactive Material"
+    },
+    {
+        "question": "Which two series of radionuclides are generally present in Naturally Occurring Radioactive Materials (NORM)?",
+        "options": [
+            "Polonium and Plutonium series",
+            "Uranium and Thorium series",
+            "Cesium and Strontium series",
+            "Neptunium and Curium series"
+        ],
+        "answer": "Uranium and Thorium series"
+    },
+    {
+        "question": "What is the term for water that is brought to the surface during oil and gas production and is separated from the oil and gas?",
+        "options": [
+            "Formation water",
+            "Process water",
+            "Produced water",
+            "Injection water"
+        ],
+        "answer": "Produced water"
+    },
+    {
+        "question": "The precipitation of dissolved radioactive materials to form scale in equipment is often associated with the use of which process?",
+        "options": [
+            "Crude oil distillation",
+            "Water injection to enhance reservoir pressure or maintain production",
+            "Gas flaring",
+            "Pipe descaling chemicals"
+        ],
+        "answer": "Water injection to enhance reservoir pressure or maintain production"
+    },
+    {
+        "question": "TENORM waste from oil and gas facilities is generally categorized into how many groups?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "Two"
+    },
+    {
+        "question": "What is the categorization measure for Group I TENORM waste (such as sludge and scales)?",
+        "options": [
+            "External dose rate",
+            "Activity concentration radionuclide",
+            "Surface contamination level",
+            "Toxicity level"
+        ],
+        "answer": "Activity concentration radionuclide in sludge and scales"
+    },
+    {
+        "question": "What is the categorization measure for Group II TENORM waste (such as contaminated materials like tubular and pumps)?",
+        "options": [
+            "Volume of the material",
+            "External dose rate",
+            "Activity concentration in water",
+            "Mass of the material"
+        ],
+        "answer": "External dose rate (contaminated materials such as tubular, pump etc)"
+    },
+    {
+        "question": "The presence of TENORM could lead to worker radiation exposure through external radiation from radium daughters and internal exposure through which pathways?",
+        "options": [
+            "Inhalation only",
+            "Ingestion only",
+            "Inhalation and possible ingestion of radioactive materials",
+            "Direct contact with gas only"
+        ],
+        "answer": "Inhalation (airborne dust and gas) and possible ingestion of radioactive materials at work sites"
+    },
+    {
+        "question": "What is the purpose of the Code of Practice on Radiation Protection relating to TENORM?",
+        "options": [
+            "To set mandatory dose limits for all workers globally",
+            "To provide guidance to operators to recognize TENORM and establish procedures to minimize its consequences",
+            "To manage other non-radioactive contaminants like hydrogen sulfate gas and mercury",
+            "To provide tax incentives for oil and gas facilities"
+        ],
+        "answer": "To provide guidance to operators of oil and gas facilities to assist them to recognize the presence of TENORM and establish procedures to minimize its consequences."
+    },
+    {
+        "question": "In this Code of Practice, what does the word 'shall' indicate?",
+        "options": [
+            "A recommendation",
+            "A suggestion for best practice",
+            "A necessary or essential requirement",
+            "A preferred method, but not compulsory"
+        ],
+        "answer": "A necessary or essential requirement"
+    },
+    {
+        "question": "In this Code of Practice, what does the word 'should' indicate?",
+        "options": [
+            "A mandatory legal requirement",
+            "A requirement that is to be applied, wherever practicable",
+            "An advisory note only",
+            "A suggestion for future application"
+        ],
+        "answer": "A requirement that is to be applied, wherever practicable"
+    },
+    {
+        "question": "What does 'Act 304' refer to in the document?",
+        "options": [
+            "The Environmental Quality Act",
+            "The Workers Safety and Health Act",
+            "The Atomic Energy Licensing Act 1984",
+            "The National Petroleum Code"
+        ],
+        "answer": "Atomic Energy Licensing Act 1984"
+    },
+    {
+        "question": "What is the definition of 'activity concentration'?",
+        "options": [
+            "The total activity in the facility in Becquerels",
+            "The mass of the radioactive material in grams",
+            "The activity per unit mass or volume of the material in which the radionuclides are essentially uniformly distributed",
+            "The dose received per hour"
+        ],
+        "answer": "The activity per unit mass or volume of the material in which the radionuclides are essentially uniformly distributed"
+    },
+    {
+        "question": "What is the full name of the Board established under section 3 of the Act 304?",
+        "options": [
+            "National Energy Board (NEB)",
+            "Atomic Energy Licensing Board (AELB)",
+            "Radiation Protection Monitoring Board (RPMB)",
+            "Ministry of Science, Technology and Innovation (MOSTI)"
+        ],
+        "answer": "Atomic Energy Licensing Board (AELB)"
+    },
+    {
+        "question": "What is the definition of a 'Control limit'?",
+        "options": [
+            "The legal maximum dose allowed for a member of the public",
+            "A mandatory, fixed regulatory dose limit",
+            "An established limit which may or may not be derived based on a regulatory limit",
+            "The annual average exposure in a clean area"
+        ],
+        "answer": "An established limit which may or may not derived base on regulatory limit"
+    },
+    {
+        "question": "What is a 'dose constraint' primarily intended to be used for?",
+        "options": [
+            "Setting the annual dose limit for workers",
+            "Discarding undesirable options in an optimization calculation",
+            "Measuring the total annual environmental dose",
+            "Determining the clearance level of materials"
+        ],
+        "answer": "A prospective restriction on dose, primarily intended to be used to discard undesirable options in an optimization calculation"
+    },
+    {
+        "question": "The measurement of dose or contamination for reasons related to the assessment or control of exposure to radiation is defined as what?",
+        "options": [
+            "Disposal",
+            "Exposure",
+            "Monitoring",
+            "Contamination"
+        ],
+        "answer": "Monitoring"
+    },
+    {
+        "question": "What does the abbreviation 'RPP' stand for?",
+        "options": [
+            "Routine Protection Plan",
+            "Radiation Protection Programme",
+            "Radiological Production Process",
+            "Resource Planning Protocol"
+        ],
+        "answer": "Radiation Protection Programme"
+    },
+    {
+        "question": "What is the purpose of a 'Radiation Safety Assessment (RSA)'?",
+        "options": [
+            "To monitor workers during maintenance",
+            "To assess the public dose after disposal",
+            "To determine the radiation levels at the processing facility during normal operation",
+            "To classify the waste before transport"
+        ],
+        "answer": "An assessment carried out during normal operation to determine the radiation levels at the processing facility"
+    },
+    {
+        "question": "Which term refers to monitoring carried out during normal operation to ensure the safety of the workers from radiation exposure?",
+        "options": [
+            "Specific Radiological Monitoring (SRM)",
+            "Routine Radiological Monitoring (RRM)",
+            "Post-Disposal Radiological Monitoring (PDRM)",
+            "Radiological Impact Assessment (RIA)"
+        ],
+        "answer": "Routine Radiological Monitoring (RRM)"
+    },
+    {
+        "question": "Which term refers to monitoring carried out during maintenance to determine that the control limit has not been exceeded?",
+        "options": [
+            "Routine Radiological Monitoring (RRM)",
+            "Specific Radiological Monitoring (SRM)",
+            "Post-Disposal Radiological Monitoring (PDRM)",
+            "Radiation Safety Assessment (RSA)"
+        ],
+        "answer": "Specific Radiological Monitoring (SRM)"
+    },
+    {
+        "question": "What is the abbreviation for Post-Disposal Radiological Monitoring?",
+        "options": [
+            "PDRM",
+            "SRM",
+            "RRM",
+            "RIA"
+        ],
+        "answer": "PDRM"
+    },
+    {
+        "question": "What is the abbreviation for Radiological Impact Assessment?",
+        "options": [
+            "RRM",
+            "RIA",
+            "RSA",
+            "RPP"
+        ],
+        "answer": "RIA"
+    },
+    {
+        "question": "The S.I. unit for external dose rate commonly used in the document is µSv/h. What does this unit represent?",
+        "options": [
+            "millisieverts per year",
+            "Becquerel per gram",
+            "mickrosieverts per hour",
+            "Becquerel per centimeter square"
+        ],
+        "answer": "mickrosieverts per hour"
+    },
+    {
+        "question": "What is the Control limit for the external radiation dose rate (in µSv/h)?",
+        "options": [
+            "0.1",
+            "0.3",
+            "0.5",
+            "1.0"
+        ],
+        "answer": "0.5 µSv/h"
+    },
+    {
+        "question": "The external radiation dose rate control limit of 0.5 µSv/h is applicable for which activity?",
+        "options": [
+            "RSA only",
+            "RRM and SRM only",
+            "RSA, RRM, SRM, and for the classification of radioactively contaminated materials",
+            "PDRM only"
+        ],
+        "answer": "RSA, RRM, SRM, and for the classification of radioactively contaminated materials"
+    },
+    {
+        "question": "What is the Control limit for TENORM waste (in Bq/g, inclusive background) based on the radionuclide of U-238 and Th-232?",
+        "options": [
+            "0.5",
+            "1.0",
+            "2.0",
+            "5.0"
+        ],
+        "answer": "1.0 Bq/g"
+    },
+    {
+        "question": "Waste with an activity concentration less than the 1.0 Bq/g control limit for TENORM waste is categorized as what by the appropriate authority?",
+        "options": [
+            "High-Level Waste",
+            "Controlled Waste",
+            "Not Controlled Waste",
+            "LSA-I Waste"
+        ],
+        "answer": "Not controlled by the appropriate authority"
+    },
+    {
+        "question": "Which regulation must be complied with for the transportation of TENORM waste?",
+        "options": [
+            "The Environment Quality Act",
+            "The Radiation Protection (Transport) Regulation 1989",
+            "The Atomic Energy Licensing Act 1984",
+            "The Radioactive Waste Management Regulations 2011"
+        ],
+        "answer": "The Radiation Protection (Transport) Regulation 1989"
+    },
+    {
+        "question": "TENORM waste of U-238 and Th-232 series more than 1 Bq/g is classified as what category of material for transport?",
+        "options": [
+            "High Specific Activity (HSA)",
+            "Industrial Package Type 1 (IP-1)",
+            "Low Specific Activity (LSA) material under category LSA-I",
+            "Surface Contaminated Object (SCO)"
+        ],
+        "answer": "Low Specific Activity (LSA) material under category LSA-I"
+    },
+    {
+        "question": "What is the required package type for LSA-I material during transport?",
+        "options": [
+            "Type A Package",
+            "Type B Package",
+            "Industrial Package Type 1 (IP-1)",
+            "Strong Tight Container (STC)"
+        ],
+        "answer": "Industrial Package Type 1 (IP-1)"
+    },
+    {
+        "question": "What is the maximum radiation level allowed at the surface of the conveyance during the transport of TENORM waste?",
+        "options": [
+            "0.5 µSv/h",
+            "0.1 mSv/h",
+            "2 mSv/h",
+            "5 mSv/h"
+        ],
+        "answer": "2 mSv/h"
+    },
+    {
+        "question": "What is the maximum radiation level allowed at any point 2 metre from the outer lateral surfaces of the conveyance during the transport of TENORM waste?",
+        "options": [
+            "0.05 mSv/h",
+            "0.1 mSv/h",
+            "1 mSv/h",
+            "2 mSv/h"
+        ],
+        "answer": "0.1 mSv/h"
+    },
+    {
+        "question": "What is the Control limit for TENORM waste disposal (in mSv/y) based on dose constraint?",
+        "options": [
+            "0.1",
+            "0.3",
+            "1.0",
+            "5.0"
+        ],
+        "answer": "0.3 mSv/y"
+    },
+    {
+        "question": "What must be conducted to assess the dose received by a critical group of the public as a result of TENORM waste disposal?",
+        "options": [
+            "Routine Radiological Monitoring (RRM)",
+            "Specific Radiological Monitoring (SRM)",
+            "Radiation Safety Assessment (RSA)",
+            "Radiological Impact Assessment (RIA)"
+        ],
+        "answer": "Radiological Impact Assessment (RIA)"
+    },
+    {
+        "question": "If the RIA report shows that the dose to members of the public is less than the control limit (0.3 mSv/y), the disposal is:",
+        "options": [
+            "Prohibited",
+            "Requires a license",
+            "Exempted by the Board",
+            "Requires RRM"
+        ],
+        "answer": "Exempted by the Board"
+    },
+    {
+        "question": "If the RIA report shows that the dose to members of the public is more than the control limit (0.3 mSv/y), what must the disposal site operator do?",
+        "options": [
+            "Stop operations immediately",
+            "Apply for and obtain a license prior to disposal",
+            "Conduct RSA",
+            "Apply for an exemption"
+        ],
+        "answer": "Apply for and obtain a license prior to disposal"
+    },
+    {
+        "question": "What is the initial assessment an operator must conduct to determine whether the facility needs to be licensed or registered?",
+        "options": [
+            "Routine Radiological Monitoring (RRM)",
+            "Specific Radiological Monitoring (SRM)",
+            "Radiation Safety Assessment (RSA)",
+            "Radiological Impact Assessment (RIA)"
+        ],
+        "answer": "Radiation Safety Assessment (RSA)"
+    },
+    {
+        "question": "If the RSA shows that one or more control limits is **exceeded**, the operators are required to apply for what?",
+        "options": [
+            "A registration",
+            "An exemption",
+            "A license",
+            "A transport permit"
+        ],
+        "answer": "A license"
+    },
+    {
+        "question": "If the RSA shows that the control limit is **not exceeded**, the operators are required to do what?",
+        "options": [
+            "Apply for a license",
+            "Register with the Board",
+            "Conduct PDRM",
+            "Stop all operations"
+        ],
+        "answer": "Register with the Board"
+    },
+    {
+        "question": "For a licensed facility, which monitoring is required during normal operation?",
+        "options": [
+            "Specific Radiological Monitoring (SRM)",
+            "Routine Radiological Monitoring (RRM)",
+            "Post-Disposal Radiological Monitoring (PDRM)",
+            "Radiological Impact Assessment (RIA)"
+        ],
+        "answer": "Routine Radiological Monitoring (RRM)"
+    },
+    {
+        "question": "What must be conducted prior to every maintenance work to identify whether the area or component is contaminated with TENORM?",
+        "options": [
+            "RIA",
+            "A radiation survey (using survey meter)",
+            "RPP preparation",
+            "Waste accumulation"
+        ],
+        "answer": "A radiation survey (using survey meter)"
+    },
+    {
+        "question": "If a radiation survey prior to maintenance shows a level higher than the general background of a clean area, what must the licensee conduct?",
+        "options": [
+            "Routine Radiological Monitoring (RRM)",
+            "Specific Radiological Monitoring (SRM)",
+            "Post-Disposal Radiological Monitoring (PDRM)",
+            "RIA"
+        ],
+        "answer": "Specific Radiological Monitoring (SRM)"
+    },
+    {
+        "question": "If TENORM wastes are to be accumulated and stored, the operator shall obtain what from the Board?",
+        "options": [
+            "An exemption certificate",
+            "Written authorization",
+            "A waste treatment permit",
+            "A new production license"
+        ],
+        "answer": "Written authorization"
+    },
+    {
+        "question": "What does the RPP aim to ensure?",
+        "options": [
+            "Compliance with the Environment Quality Act",
+            "Compliance with the Atomic Energy Licensing Act, 1984 and the Regulations",
+            "Compliance with international transport codes",
+            "Maximization of oil and gas production"
+        ],
+        "answer": "To ensure that the requirements of the Atomic Energy Licensing Act, 1984 and the Regulations are complied with"
+    },
+    {
+        "question": "Which of the following is an element that shall be included in the RPP?",
+        "options": [
+            "Employee tax returns",
+            "Annual budget reports",
+            "The arrangement for the medical surveillance of radiation workers",
+            "Market analysis"
+        ],
+        "answer": "The arrangement for the medical surveillance of radiation workers"
+    },
+    {
+        "question": "The RPP shall include procedures for the transportation of which materials?",
+        "options": [
+            "All chemicals on site",
+            "TENORM and contaminated items",
+            "Only produced water",
+            "Only non-radioactive waste"
+        ],
+        "answer": "TENORM and contaminated items"
+    },
+    {
+        "question": "Operational Radiation Safety Assessment (ORSA) includes which two main components?",
+        "options": [
+            "RIA and RPP",
+            "RSA after notification and monitoring",
+            "SRM and PDRM only",
+            "Licensing and Registration"
+        ],
+        "answer": "Radiation Safety Assessment (RSA) after notification and monitoring"
+    },
+    {
+        "question": "ORSA monitoring includes three types of monitoring. Which option lists all three?",
+        "options": [
+            "RSA, RIA, RPP",
+            "RRM, SRM, PDRM",
+            "NORM, TENORM, LSA-I",
+            "Group I, Group II, Group III"
+        ],
+        "answer": "RRM, SRM, PDRM"
+    },
+    {
+        "question": "Surface contamination level is measured in which S.I. unit in the context of ORSA?",
+        "options": [
+            "Bq/g",
+            "mSv/h",
+            "Bq/cm²",
+            "mSv/y"
+        ],
+        "answer": "Bq/cm²"
+    },
+    {
+        "question": "Airborne dust activity concentration (gross α) is measured in which S.I. unit in the context of ORSA?",
+        "options": [
+            "Bq/cm²",
+            "Bq/cm³",
+            "µSv/h",
+            "Bq/l"
+        ],
+        "answer": "Bq/cm³"
+    },
+    {
+        "question": "For baseline data establishment in RSA, how often are operators required to measure external dose rate and surface contamination?",
+        "options": [
+            "Once a year for two years",
+            "Once a month for six months",
+            "Once in every 6 months for a period of one year",
+            "Once every 5 years"
+        ],
+        "answer": "Once in every 6 months for a period of one year"
+    },
+    {
+        "question": "How often shall Routine Radiological Monitoring (RRM) be carried out by the operators?",
+        "options": [
+            "Once a month",
+            "Once a week",
+            "Once a year or as advised by the Board",
+            "Once every five years"
+        ],
+        "answer": "Once a year or as advised by the Board"
+    },
+    {
+        "question": "What is the primary purpose of Specific Radiological Monitoring (SRM)?",
+        "options": [
+            "To assess public dose after disposal",
+            "To ensure compliance with transport regulations",
+            "To determine whether the control limits have been exceeded during maintenance work",
+            "To establish baseline data for new facilities"
+        ],
+        "answer": "To determine whether the control limits have been exceeded during maintenance work"
+    },
+    {
+        "question": "Who is required to carry out Post-Disposal Radiological Monitoring (PDRM)?",
+        "options": [
+            "The licensee of the oil and gas facility",
+            "The Radiation Protection Officer",
+            "The disposal site operator",
+            "The consultant only"
+        ],
+        "answer": "The disposal site operator"
+    },
+    {
+        "question": "In PDRM, external radiation is measured at the disposal site how often?",
+        "options": [
+            "Once a week",
+            "Once a month",
+            "Once a year",
+            "Once every six months"
+        ],
+        "answer": "Once a year"
+    },
+    {
+        "question": "What material is defined as hard deposits comprising of sulphates and carbonates of calcium, strontium and barium, often found in the wet part of the facility?",
+        "options": [
+            "Sludge",
+            "Scales",
+            "Sand",
+            "Produced water"
+        ],
+        "answer": "Scales"
+    },
+    {
+        "question": "What are the materials that comprise wastes such as produced water, sludge and scales generally referred to as in the context of oil and gas facilities?",
+        "options": [
+            "Radioactive waste",
+            "Hazardous waste",
+            "TENORM waste",
+            "Industrial solid waste"
+        ],
+        "answer": "TENORM waste"
+    },
+    {
+        "question": "The operations intended to benefit safety and economy by changing the characteristics of the waste (e.g., volume reduction) is referred to as what?",
+        "options": [
+            "Waste transport",
+            "Waste accumulation",
+            "Waste treatment",
+            "Waste conditioning"
+        ],
+        "answer": "Waste treatment"
+    },
+    {
+        "question": "A method of disposal which may be appropriate for TENORM wastes but may not be suitable for other toxic hazardous waste must address all issues of what?",
+        "options": [
+            "Budget and schedule",
+            "Radioactive and non-radioactive contaminants",
+            "Oil and gas production limits",
+            "Worker competency"
+        ],
+        "answer": "Radioactive and non-radioactive contaminants"
+    },
+    {
+        "question": "Which of the following is a route for disposal of aqueous or slurry wastes that may be available subject to authority approval?",
+        "options": [
+            "Discharge into a public water supply",
+            "Open-pit burning",
+            "Reinjection into the oil field or abandoned well",
+            "Mixing with general industrial waste"
+        ],
+        "answer": "Reinjection of aqueous or slurry wastes into the oil field or abandoned well"
+    },
+    {
+        "question": "The decommissioning of a licensed facility is subjected to the approval of which entity?",
+        "options": [
+            "The Ministry of Environment",
+            "The facility licensee",
+            "The appropriate authority (AELB)",
+            "The oil and gas company management"
+        ],
+        "answer": "The appropriate authority (AELB)"
+    },
+    {
+        "question": "What is the abbreviation for a Radiation Protection Officer?",
+        "options": [
+            "RPS",
+            "RPO",
+            "RSA",
+            "RRM"
+        ],
+        "answer": "RPO"
+    },
+    {
+        "question": "Who is the 'registrant' in the Code of Practice?",
+        "options": [
+            "The licensed operator",
+            "The registered operator who deals with TENORM at the level below the control limit",
+            "The disposal site operator",
+            "The Radiation Protection Officer"
+        ],
+        "answer": "The registered operator with the appropriate authority who deals with TENORM at the level below the control limit"
+    },
+    {
+        "question": "Which decay products of Uranium and Thorium series are mentioned as being present in NORM?",
+        "options": [
+            "Iodine-131 and Cesium-137",
+            "Radium-226, Radium-228 and radon gas",
+            "Tritium and Carbon-14",
+            "Plutonium-239 and Americium-241"
+        ],
+        "answer": "Radium-226, Radium-228 and radon gas"
+    },
+    {
+        "question": "What non-radioactive contaminants may also be present and should require separate safety measures alongside TENORM?",
+        "options": [
+            "Carbon Dioxide, Nitrogen, Oxygen",
+            "Hydrogen sulfide gas, mercury, benzene",
+            "Water vapor, sand, clay",
+            "Sodium chloride, potassium nitrate"
+        ],
+        "answer": "Hydrogen sulfide gas, mercury, benzene, etc."
+    },
+    {
+        "question": "What type of solid material from the reservoir may come to the surface and be deposited as sludge in tanks?",
+        "options": [
+            "Glass shards",
+            "Metallic filings",
+            "Sand that had been eroded from the rocks",
+            "Plastic fragments"
+        ],
+        "answer": "Sand that had been eroded from the rocks"
+    },
+    {
+        "question": "What is 'airborne contamination' defined as in the document?",
+        "options": [
+            "The presence of any gas in the atmosphere",
+            "The activity concentration for radionuclides in the atmosphere exceeding the regulatory control limit",
+            "Any dust or mist in the air",
+            "Radon gas concentration only"
+        ],
+        "answer": "The activity concentration for radionuclides in the atmosphere exceeding the regulatory control limit"
+    },
+    {
+        "question": "What does 'LSA' stand for?",
+        "options": [
+            "Licensed Safety Area",
+            "Low Specific Activity",
+            "Loss of Substance Agreement",
+            "Liquid Solid Arrangement"
+        ],
+        "answer": "Low Specific Activity"
+    },
+    {
+        "question": "The RPP shall include the arrangement for the personal monitoring of whom?",
+        "options": [
+            "The public",
+            "Members of the critical group",
+            "Radiation workers",
+            "The Board members"
+        ],
+        "answer": "Radiation workers"
+    },
+    {
+        "question": "What document provides the details of the RPP?",
+        "options": [
+            "LEM/TEK/58",
+            "LEM/TEK/30",
+            "LEM/TEK/45",
+            "Atomic Energy Licensing Act 1984"
+        ],
+        "answer": "LEM/TEK/45"
+    },
+    {
+        "question": "Which element related to documentation is required in the RPP?",
+        "options": [
+            "Daily stock market reports",
+            "Procedures for record keeping, maintenance and surveillance of the documents",
+            "Detailed financial projections for 5 years",
+            "The licensee's personal tax records"
+        ],
+        "answer": "The procedures for record keeping, maintenance and surveillance of the documents"
+    },
+    {
+        "question": "Who must carry out the RRM?",
+        "options": [
+            "The Board",
+            "The Minister",
+            "The disposal site operator",
+            "The operators"
+        ],
+        "answer": "The operators"
+    },
+    {
+        "question": "What is the purpose of RRM in relation to TENORM?",
+        "options": [
+            "To measure oil production rate",
+            "To monitor TENORM accumulation and trends",
+            "To monitor non-radioactive contaminants only",
+            "To set the dose limit for the public"
+        ],
+        "answer": "To monitor the TENORM accumulation, trends and to identify and classify the contaminated equipment or areas"
+    },
+    {
+        "question": "In SRM, if the operation is dusty, what type of contamination shall be measured?",
+        "options": [
+            "Soil and ground water contamination",
+            "Airborne and surface contamination",
+            "Sludge contamination only",
+            "Produced water activity"
+        ],
+        "answer": "Airborne and surface contamination"
+    },
+    {
+        "question": "In PDRM, what substances, besides external radiation, shall be measured for radionuclide concentrations?",
+        "options": [
+            "Air and oil",
+            "Soil and ground water",
+            "Scales and sludge",
+            "Pipe and tubular materials"
+        ],
+        "answer": "Radionuclide concentrations in soil and ground water"
+    },
+    {
+        "question": "What is the responsibility of the operators regarding non-controlled wastes that are exempted from AELB control?",
+        "options": [
+            "To discard them without any control",
+            "To manage them in a manner that is in line with the requirement of other legislations",
+            "To send them to the AELB offices",
+            "To ensure they contain no hydrogen sulfide"
+        ],
+        "answer": "To manage non controlled wastes in a manner that is in line with the requirement of other legislations"
+    },
+    {
+        "question": "The flowcharts of licensing decision making process for operation and waste management are shown in which Appendixes?",
+        "options": [
+            "Appendix 1 and 2",
+            "Appendix 3 and 4",
+            "Appendix 5 and 6",
+            "Appendix 7 and 8"
+        ],
+        "answer": "Appendix 3 and Appendix 4"
+    },
+    {
+        "question": "If RSA results are above the control limits, which of the following actions is required by the operator?",
+        "options": [
+            "Prepare and implement the NORM Operating Manual",
+            "Conduct PDRM",
+            "Stop all production permanently",
+            "Appoint an internal auditor"
+        ],
+        "answer": "Prepare and implement the NORM Operating Manual"
+    },
+    {
+        "question": "If RSA results are below the control limits, the operator shall carry out normal radiation protection measures, similar to RRM, but at what frequency?",
+        "options": [
+            "Higher frequency",
+            "Same frequency",
+            "Lesser frequency",
+            "Once in 5 years"
+        ],
+        "answer": "Lesser frequency"
+    },
+    {
+        "question": "What is one of the requirements for waste management?",
+        "options": [
+            "Disposal",
+            "Recycling",
+            "Treatment or Recovery",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a pyrophoric material that may be formed at the gas production facility?",
+        "options": [
+            "Pyrophoric Iron Sulfide",
+            "Pyrophoric Iron Carbonate",
+            "Pyrophoric Sodium Chloride",
+            "Pyrophoric Calcium Sulfate"
+        ],
+        "answer": "Pyrophoric Iron Sulfide"
+    },
+    {
+        "question": "What is the primary way produced water is disposed of in some other countries, according to the document?",
+        "options": [
+            "Incineration",
+            "Discharged into the sea",
+            "Stored indefinitely in drums",
+            "Buried underground"
+        ],
+        "answer": "Discharged into the sea"
+    },
+    {
+        "question": "TENORM waste must be stored in a manner that it is adequately contained and cannot contaminate what?",
+        "options": [
+            "The operator's office",
+            "The local community center",
+            "Other items",
+            "The oil reservoir"
+        ],
+        "answer": "Other items"
+    },
+    {
+        "question": "What must be done with all waste generated in storage in accordance to the source of origin?",
+        "options": [
+            "Burned immediately",
+            "Mixed together",
+            "Segregated and labeled properly",
+            "Used as construction fill"
+        ],
+        "answer": "Segregated in accordance to the source of origin and with proper labeling"
+    },
+    {
+        "question": "Which of the following is a possible treatment method in waste recycling, treatment or recovery?",
+        "options": [
+            "High-pressure freezing",
+            "Low temperature recovery",
+            "Plasma gasification",
+            "Chemical titration"
+        ],
+        "answer": "Low temperature recovery"
+    },
+    {
+        "question": "The Radiological Impact Assessment (RIA) is required for TENORM wastes with radionuclide concentration higher than 1 Bq/g, disposed of by landfill or what else?",
+        "options": [
+            "Dilution in production water",
+            "Recycling only",
+            "Other methods",
+            "Storage only"
+        ],
+        "answer": "Other methods"
+    },
+    {
+        "question": "Who must submit the RIA assessment report for TENORM wastes disposed of by landfill to the Board for approval?",
+        "options": [
+            "The consultant",
+            "The operator",
+            "The disposal site operator",
+            "The RPO"
+        ],
+        "answer": "The disposal site operator"
+    },
+    {
+        "question": "What happens if the radiological monitoring result shows that the radiation level for a registrant (level below control limit) exceeded the control limits?",
+        "options": [
+            "The registrant must carry out RRM immediately.",
+            "The registrant shall apply for a license.",
+            "The registrant is automatically licensed.",
+            "The registrant must be replaced."
+        ],
+        "answer": "The registrant shall apply for a license."
+    },
+    {
+        "question": "What is the definition of 'contamination'?",
+        "options": [
+            "The presence of oil on a surface",
+            "The presence of radioactive material in or on a material or the human body or other places where they are undesirable or could be harmful",
+            "The external dose rate exceeding the control limit",
+            "The amount of ionization produced in air by ionizing radiation"
+        ],
+        "answer": "The presence of radioactive material in or on a material or the human body or other places where they are undesirable or could be harmful"
+    },
+    {
+        "question": "Which body is responsible for establishing the Radiation Protection Programme (RPP) when a facility is subjected to the conditions of a license?",
+        "options": [
+            "The AELB",
+            "The government",
+            "The licensee",
+            "The RPO"
+        ],
+        "answer": "The licensee"
+    },
+    {
+        "question": "What specific procedures are required in the RPP to ensure the safety of workers during normal operation, maintenance, and occasional entry into confined areas?",
+        "options": [
+            "Standard operating procedures",
+            "Special working procedures",
+            "General safety procedures",
+            "Emergency response procedures"
+        ],
+        "answer": "Special working procedures"
+    },
+    {
+        "question": "What is the term for a technically competent person appointed by the licensee and approved by the appropriate authority to supervise the application of appropriate radiation protection regulations?",
+        "options": [
+            "Radiation Protection Supervisor",
+            "Disposal Site Operator",
+            "Consultant",
+            "Radiation Protection Officer"
+        ],
+        "answer": "Radiation Protection Officer"
+    },
+    {
+        "question": "If RSA results are above the control limits, who must carry out the removal and surveillance during maintenance?",
+        "options": [
+            "The operator's general maintenance crew",
+            "The competent consultants",
+            "The RPO only",
+            "The AELB inspector"
+        ],
+        "answer": "The competent consultants"
+    },
+    {
+        "question": "What must the disposal site operator carry out as per licensing condition if a license is required for disposal?",
+        "options": [
+            "Routine Radiological Monitoring Program",
+            "Specific Radiological Monitoring Program",
+            "Post-Disposal Radiological Monitoring Program",
+            "Radiation Safety Assessment"
+        ],
+        "answer": "Post-Disposal Radiological Monitoring Program"
+    },
+    {
+        "question": "TENORM waste of U-238 and Th-232 series more than 1 Bq/g must satisfy the requirement of which transport package type?",
+        "options": [
+            "IP-1",
+            "Type A",
+            "Type B",
+            "SCO-I"
+        ],
+        "answer": "Industrial Package Type 1 (IP-1)"
+    },
+    {
+        "question": "Who has the legal responsibility in respect of the employment of workers on the site and the provision of safe working conditions?",
+        "options": [
+            "The consultant",
+            "The Board",
+            "The worker",
+            "The operator"
+        ],
+        "answer": "The operator"
+    },
+    {
+        "question": "What should happen to the background levels prior to comparing measured values with the control limits?",
+        "options": [
+            "They are added to the measured values.",
+            "They are subtracted from the measured values.",
+            "They are ignored.",
+            "They are multiplied by a factor of 2."
+        ],
+        "answer": "They are subtracted from the measured values"
+    },
+    {
+        "question": "If the control limit is not exceeded, the accumulation of TENORM in processing equipment may take how long to be detected?",
+        "options": [
+            "Some days",
+            "Some weeks",
+            "Some months",
+            "Some years"
+        ],
+        "answer": "Some years"
+    },
+    {
+        "question": "What must operators submit to the appropriate authority regarding monitoring?",
+        "options": [
+            "The Production Schedule",
+            "The Monitoring Program",
+            "The Financial Report",
+            "The Waste Trading License"
+        ],
+        "answer": "The Monitoring Program"
+    },
+    {
+        "question": "If the operation during SRM is dusty, how is the airborne contamination evaluation carried out?",
+        "options": [
+            "By calculating from the external dose rate",
+            "By air sampling carried out onsite and radionuclide analysis in approved laboratory",
+            "By using surface contamination measurement",
+            "By worker interview only"
+        ],
+        "answer": "By air sampling is carried out onsite and the radionuclide analysis is conducted in approved laboratory"
+    },
+    {
+        "question": "What is the purpose of PDRM?",
+        "options": [
+            "To monitor internal worker exposure only",
+            "To monitor changes of environmental radiation level and radiation exposures to members of the public as a result of the disposal",
+            "To monitor scales in tubulars",
+            "To classify the waste"
+        ],
+        "answer": "To monitor changes of environmental radiation level and radiation exposures to members of the public as a result of the disposal"
+    },
+    {
+        "question": "What is the definition of 'waste' in the context of oil and gas facilities?",
+        "options": [
+            "Any material that is sold for profit",
+            "Any materials having no foreseeable use which may or may not contain TENORM or hazardous material",
+            "Only produced water",
+            "Only materials with more than 1 Bq/g activity"
+        ],
+        "answer": "Any materials from oil and gas facilities having no foreseeable use which may or may not contain TENORM or hazardous material"
+    },
+    {
+        "question": "What is the definition of 'waste management'?",
+        "options": [
+            "All administrative and operational activities involved in the handling, pretreatment, treatment, conditioning, transportation, storage and disposal of waste",
+            "Only the disposal of waste",
+            "Only the treatment of waste to reduce volume",
+            "Only the transportation and storage of waste"
+        ],
+        "answer": "All activities, administrative and operational, that are involved in the handling, pretreatment, treatment, conditioning, transportation, storage and disposal of waste from a oil and gas Facility"
+    },
+    {
+        "question": "Which of the following describes 'produced water'?",
+        "options": [
+            "Water used to wash equipment",
+            "Water which comes to the surface of an oil well as a result of oil and gas production activities",
+            "Water injected into the reservoir",
+            "Rainwater collected on offshore platforms"
+        ],
+        "answer": "Water which comes to the surface of an oil well as a result of oil and gas production activities"
+    },
+    {
+        "question": "What are the radioactive elements found in formation water mentioned in the document?",
+        "options": [
+            "Uranium-235 and Thorium-230",
+            "Radium-226 and Radium-228",
+            "Cesium-137 and Strontium-90",
+            "Carbon-14 and Tritium"
+        ],
+        "answer": "Radium-226 and Radium-228"
+    },
+    {
+        "question": "What element commonly combines with radium to form scale (in addition to sulfates and carbonates)?",
+        "options": [
+            "Sodium",
+            "Potassium",
+            "Calcium, strontium and barium",
+            "Iron and nickel"
+        ],
+        "answer": "Calcium, strontium and barium"
+    },
+    {
+        "question": "The RPP shall include the arrangement for carrying out an area monitoring programme for what types of contamination?",
+        "options": [
+            "External radiation only",
+            "Surface contamination only",
+            "Airborne contamination only",
+            "External radiation and surface and airborne contamination"
+        ],
+        "answer": "External radiation and surface and airborne contamination"
+    },
+    {
+        "question": "The Code of Practice is a Technical Guidance issued by which board?",
+        "options": [
+            "Energy Commission",
+            "Environmental Department",
+            "Lembaga Perlesenan Tenaga Atom",
+            "Malaysian Nuclear Agency"
+        ],
+        "answer": "Lembaga Perlesenan Tenaga Atom"
+    },
+    {
+        "question": "What typically has low NORM activity concentrations?",
+        "options": [
+            "Sandstone and shale",
+            "Clay and limestone",
+            "Granite and oil",
+            "Gas and water"
+        ],
+        "answer": "Clay and limestone"
+    },
+    {
+        "question": "Besides scales, what is another form of solid material from the reservoir that can result in radioactive contamination?",
+        "options": [
+            "Produced water",
+            "Sludge",
+            "Refinery products",
+            "Gases"
+        ],
+        "answer": "Sludge"
+    },
+    {
+        "question": "The exposure to workers from TENORM is through external radiation and what type of internal exposure?",
+        "options": [
+            "Inhalation and ingestion",
+            "Absorption through skin",
+            "Direct contact with metal",
+            "Loud noise"
+        ],
+        "answer": "Inhalation (airborne dust and gas) and possible ingestion of radioactive materials"
+    },
+    {
+        "question": "What is the purpose of monitoring radiation and radioactivity levels at oil and gas facilities?",
+        "options": [
+            "To increase the speed of production",
+            "To justify an increase in worker wages",
+            "To ensure the safety of the workers involved",
+            "To reduce the license fee"
+        ],
+        "answer": "To ensure the safety of the workers involved"
+    },
+    {
+        "question": "Who must submit the monitoring report to the Board for normal operation (RRM)?",
+        "options": [
+            "The licensee",
+            "The RPO",
+            "The supervisor",
+            "The Board itself"
+        ],
+        "answer": "The licensee"
+    },
+    {
+        "question": "Who must submit the monitoring report to the Board for maintenance work (SRM)?",
+        "options": [
+            "The licensee",
+            "The consultant",
+            "The contractor",
+            "The engineer"
+        ],
+        "answer": "The licensee"
+    },
+    {
+        "question": "What is the purpose of RRM in relation to equipment?",
+        "options": [
+            "To repair it immediately",
+            "To classify the contaminated equipment or areas",
+            "To remove the equipment",
+            "To change the equipment's location"
+        ],
+        "answer": "To identify and classify the contaminated equipment or areas"
+    },
+    {
+        "question": "What is the purpose of SRM in relation to safety measures?",
+        "options": [
+            "To implement them",
+            "To delay their implementation",
+            "To confirm the effectiveness of safety measures implemented by the operator during maintenance work",
+            "To set new measures"
+        ],
+        "answer": "To confirm the effectiveness of safety measures implemented by the operator during maintenance work"
+    },
+    {
+        "question": "What must be included in the submission of the RSA report for a new and existing operator?",
+        "options": [
+            "The worker's medical records",
+            "The results of the RSA to the Board",
+            "The RPP details",
+            "The disposal plans"
+        ],
+        "answer": "The results of the RSA to the Board"
+    },
+    {
+        "question": "The operator is required to carry out RRM if the RSA results are above which levels?",
+        "options": [
+            "Background levels",
+            "Control limits",
+            "Dose constraints",
+            "Clearance levels"
+        ],
+        "answer": "Control limits"
+    },
+    {
+        "question": "If RSA results are above the control limits, what must the operator do during maintenance (removal and surveillance)?",
+        "options": [
+            "They shall be carried out by the competent consultants.",
+            "They shall be carried out by the RPO only.",
+            "They shall be carried out by the licensee.",
+            "They shall be carried out by the disposal site operator."
+        ],
+        "answer": "They shall be carried out by the competent consultants"
+    },
+    {
+        "question": "The RPP shall include the setting up of what for workers?",
+        "options": [
+            "Salaries",
+            "Operational limits",
+            "Working hours",
+            "Holidays"
+        ],
+        "answer": "Operational limits for workers"
+    },
+    {
+        "question": "What are the common forms of TENORM waste from oil and gas facilities mentioned in the document?",
+        "options": [
+            "Sludge, scales, contaminated sand, and contaminated equipment",
+            "Produced water only",
+            "Only scales",
+            "Only airborne dust"
+        ],
+        "answer": "Sludge, scales, contaminated sand, and contaminated equipment"
+    },
+    {
+        "question": "What process in the wet part of the facility has significantly reduced the volume of scales?",
+        "options": [
+            "The use of water injection",
+            "The use of scale inhibitor",
+            "The use of high pressure washing",
+            "The process of fluidization"
+        ],
+        "answer": "The use of scale inhibitor"
+    },
+    {
+        "question": "What method of waste disposal is mentioned for solids, sludge and scales?",
+        "options": [
+            "Incineration",
+            "Reinjection into the oil field",
+            "Dilution and discharge to the sea",
+            "Encapsulation and burial"
+        ],
+        "answer": "Encapsulation and burial of solids, sludge and scales"
+    },
+    {
+        "question": "What is one of the possible treatment methods for waste recycling, treatment, or recovery mentioned?",
+        "options": [
+            "Incineration or thermal treatment",
+            "High temperature fusion",
+            "Chemical reduction",
+            "Mechanical separation only"
+        ],
+        "answer": "Incineration or thermal treatment"
+    },
+    {
+        "question": "The act or condition of being subject to irradiation, or the amount of ionization produced in air by ionizing radiation, is the definition of what?",
+        "options": [
+            "Exposure",
+            "Contamination",
+            "Monitoring",
+            "Disposal"
+        ],
+        "answer": "Exposure"
+    },
+    {
+        "question": "What is the definition of 'surface contamination'?",
+        "options": [
+            "The presence of oil on a surface",
+            "The presence of any radioactive material, nuclear material or prescribed substance on a surface",
+            "The external dose rate on a surface",
+            "The contamination of the soil"
+        ],
+        "answer": "The presence of any radioactive material, nuclear material or prescribed substance on a surface"
+    },
+    {
+        "question": "Which Appendix contains the Control limits table?",
+        "options": [
+            "Appendix 1",
+            "Appendix 2",
+            "Appendix 3",
+            "Appendix 4"
+        ],
+        "answer": "Appendix 1"
+    },
+    {
+        "question": "Which Appendix contains the Licensing decision process for oil and gas facility?",
+        "options": [
+            "Appendix 1",
+            "Appendix 2",
+            "Appendix 3",
+            "Appendix 4"
+        ],
+        "answer": "Appendix 3"
+    },
+    {
+        "question": "Which Appendix contains the Waste management decision process?",
+        "options": [
+            "Appendix 1",
+            "Appendix 2",
+            "Appendix 3",
+            "Appendix 4"
+        ],
+        "answer": "Appendix 4"
+    },
+    {
+        "question": "Which Appendix contains the Monitoring checklist?",
+        "options": [
+            "Appendix 5",
+            "Appendix 6",
+            "Appendix 7",
+            "Appendix 8"
+        ],
+        "answer": "Appendix 6"
+    },
+    {
+        "question": "The Code of Practice is for what type of facilities?",
+        "options": [
+            "Medical facilities",
+            "Research reactors",
+            "Oil and gas facilities",
+            "Manufacturing plants"
+        ],
+        "answer": "Oil and gas facilities"
+    },
+    {
+        "question": "What does the abbreviation 'RPS' stand for?",
+        "options": [
+            "Routine Production Supervisor",
+            "Radiation Protection Supervisor",
+            "Radiological Production Specialist",
+            "Resource Planning Specialist"
+        ],
+        "answer": "Radiation Protection Supervisor"
+    },
+    {
+        "question": "What is the definition of a 'worker'?",
+        "options": [
+            "Only the licensee's permanent staff",
+            "Any person working under the instruction of the licensee, whether or not employed by the licensee",
+            "Only technically competent persons",
+            "Only Radiation Protection Officers"
+        ],
+        "answer": "Any person working under the instruction of the licensee, whether or not employed by the licensee, in the handling or use of, or who will come into contact with any radioactive material or irradiation apparatus."
+    },
+    {
+        "question": "What is a 'critical group'?",
+        "options": [
+            "The group of radiation workers receiving the lowest dose",
+            "A group of members of the public which is reasonably homogeneous with respect to its exposure for a given radiation source and is typical of individuals receiving the highest dose",
+            "The board of directors of the facility",
+            "The waste disposal site workers"
+        ],
+        "answer": "A group of members of the public which is reasonably homogeneous with respect to its exposure for a given radiation source and is typical of individuals receiving the highest dose through the given pathway from the given source"
+    },
+    {
+        "question": "Which type of monitoring is required for the licensee during maintenance work if the radiation survey detects a level higher than the background?",
+        "options": [
+            "RSA",
+            "SRM",
+            "RRM",
+            "PDRM"
+        ],
+        "answer": "SRM"
+    },
+    {
+        "question": "What happens if TENORM wastes are to be recovered or treated?",
+        "options": [
+            "The operator must send them for disposal.",
+            "The operator shall refer to the Board.",
+            "The operator must use Incineration.",
+            "The operator is exempt from monitoring."
+        ],
+        "answer": "The operator shall refer to the Board."
+    },
+    {
+        "question": "What is the classification of working area an element of?",
+        "options": [
+            "Operational Limits",
+            "Emergency Response Procedures",
+            "The RPP",
+            "The Licensing Decision"
+        ],
+        "answer": "The RPP"
+    },
+    {
+        "question": "What should the ORSA include measurement of besides external dose rate and contamination?",
+        "options": [
+            "Radionuclide concentration",
+            "Pipe thickness",
+            "Fluid pressure",
+            "Gas flow rate"
+        ],
+        "answer": "Radionuclide concentration"
+    },
+    {
+        "question": "Where are measurements for ORSA required, besides parts where scales or solids accumulate?",
+        "options": [
+            "Parts of the facility which may be contaminated by TENORM and is likely to be opened for the purpose of maintenance",
+            "The main administrative building",
+            "The nearest town center",
+            "The employee parking lot"
+        ],
+        "answer": "that parts of the facility which may be contaminated by TENORM and is likely to be opened for the purpose of maintenance"
+    },
+    {
+        "question": "What equipment is required to be measured for TENORM during ORSA if it may be removed for maintenance or cleaning?",
+        "options": [
+            "Only the main separation vessel",
+            "Any components that may be removed for maintenance or cleaning",
+            "Only the disposal drums",
+            "Only the survey meters"
+        ],
+        "answer": "Any components that may be removed for maintenance or cleaning"
+    },
+    {
+        "question": "Who must identify, document and notify the appropriate authority of the appropriate measurement locations?",
+        "options": [
+            "The Board",
+            "The RPO",
+            "The consultant",
+            "The operator"
+        ],
+        "answer": "The operator"
+    },
+    {
+        "question": "The purpose of RSA is to determine radiation levels and compare them with the control limits in order to decide what?",
+        "options": [
+            "Whether the oil is safe to sell",
+            "Whether authorization regulatory requirement is required for the new and existing operation",
+            "Whether the waste is Group I or Group II",
+            "Whether to stop all production"
+        ],
+        "answer": "to decide whether authorization regulatory requirement is required for the new and existing operation"
+    },
+    {
+        "question": "What type of meter is used to measure external dose rate in RSA?",
+        "options": [
+            "Contamination survey meter",
+            "pH meter",
+            "Survey meter",
+            "Radiation Protection Officer"
+        ],
+        "answer": "Survey meter"
+    },
+    {
+        "question": "What type of meter is used to measure surface contamination level in RSA?",
+        "options": [
+            "Survey meter",
+            "Contamination survey meter",
+            "Pressure gauge",
+            "Flow meter"
+        ],
+        "answer": "Contamination survey meter"
+    },
+    {
+        "question": "The PDRM program includes measuring external radiation at the disposal site, and also what other measurements?",
+        "options": [
+            "Radionuclide concentrations in soil and ground water",
+            "Airborne dust activity",
+            "Surface contamination level on equipment",
+            "External dose rate at the facility"
+        ],
+        "answer": "Radionuclide concentrations in soil and ground water"
+    },
+    {
+        "question": "The measurement of external dose rates due to sources in the environment or of radionuclide concentrations in environment media is defined as what?",
+        "options": [
+            "Dose constraint",
+            "Environmental monitoring programme",
+            "Contamination",
+            "Exposure"
+        ],
+        "answer": "environment monitoring programme"
+    },
+    {
+        "question": "What term is defined as a material in which the activity concentrations of the naturally occurring radionuclides have been technologically enhanced from its natural state?",
+        "options": [
+            "NORM",
+            "LSA-I",
+            "TENORM",
+            "Group I Waste"
+        ],
+        "answer": "TENORM"
+    },
+    {
+        "question": "Who is the 'disposal site operator'?",
+        "options": [
+            "The operator of the oil and gas facility",
+            "The Board",
+            "The operator or any other third party responsible for the disposal site",
+            "The RPO"
+        ],
+        "answer": "The operator or any other third party responsible for the disposal site"
+    },
+    {
+        "question": "For transportation, TENORM waste more than 1 Bq/g of each radionuclides from U-238 and Th-232 series is classified as what?",
+        "options": [
+            "Industrial Package Type 1 (IP-1)",
+            "Low Specific Activity (LSA) material",
+            "High Specific Activity (HSA)",
+            "Surface Contaminated Object (SCO)"
+        ],
+        "answer": "Low Specific Activity (LSA) material"
+    },
+    {
+        "question": "What is the radiation level limit at any point 2 metre from the vertical planes projected from the outer edges of the conveyance during transport?",
+        "options": [
+            "0.5 µSv/h",
+            "0.1 mSv/h",
+            "1.0 mSv/h",
+            "2 mSv/h"
+        ],
+        "answer": "0.1 mSv/h"
+    },
+    {
+        "question": "If the RIA report shows public dose is more than 0.3 mSv/y, what step must the disposal site operator take prior to disposal?",
+        "options": [
+            "Re-assess the dose constraint",
+            "Apply for and obtain a license",
+            "Conduct RRM",
+            "Stop all production"
+        ],
+        "answer": "Apply for and obtain a license"
+    },
+    {
+        "question": "What is the purpose of PDRM?",
+        "options": [
+            "To monitor changes of environment radiation level and radiation exposures to the members of the public as a result of the disposal",
+            "To ensure all waste is disposed of",
+            "To stop all future disposal",
+            "To classify the waste"
+        ],
+        "answer": "To monitor changes of environment radiation level and radiation exposures to the members of the public as a result of the disposal"
+    },
+    {
+        "question": "TENORM waste must be stored in a manner which it is adequately contained, such as in what?",
+        "options": [
+            "In the sea",
+            "In drums",
+            "In the oil field",
+            "In the open air"
+        ],
+        "answer": "In drums"
+    },
+    {
+        "question": "What is one of the possible treatment methods for waste that is destined at reducing the volume or organic content?",
+        "options": [
+            "Biological treatment or land farming",
+            "High temperature welding",
+            "Mechanical polishing",
+            "Oil-water separation"
+        ],
+        "answer": "Biological treatment or land farming"
+    },
+    {
+        "question": "What is a major potential hazard mentioned that can be released during the decontamination process of pipes and vessels?",
+        "options": [
+            "Water",
+            "Hydrogen sulfide gas, mercury, and benzene vapour",
+            "Carbon dioxide",
+            "Nitrogen"
+        ],
+        "answer": "Hydrogen sulfide gas, mercury, and benzene vapour"
+    }
+]
