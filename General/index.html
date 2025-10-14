@@ -16,6 +16,17 @@
             <a href="../">← Back to Main Menu</a>
         </div>
         <p>Choose a specific quiz based on the syllabus</p>
+        <form action="quiz.html" method="GET" class="selection-form">
+            <div class="selection-box">
+                <label for="question-count">Select Number of Questions:</label>
+                <select id="question-count" onchange="sessionStorage.setItem('count', value)">
+                    <option value="10">10 Questions</option>
+                    <option value="25">25 Questions</option>
+                    <option value="50" selected>50 Questions</option>
+                    <option value="100">100 Questions</option>
+                </select>
+            </div>
+        </form>
         <div class="navigation-grid">
             <a href="LemTek-Quiz-Bm/" class="nav-button primary">
                 Lem Tek 18 based Quiz - BM
@@ -29,6 +40,11 @@
         <div class="navigation-grid">
             <a href="Slides-Quiz/" class="nav-button primary">
                 Slides based Quiz
+            </a>
+        </div>
+        <div class="navigation-grid">
+            <a href="All/" class="nav-button primary">
+                Slides and LemTek combined
             </a>
         </div>
     </div>
