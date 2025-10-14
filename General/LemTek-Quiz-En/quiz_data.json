@@ -1,0 +1,622 @@
+[
+    {
+        "question": "What is the scope of this LEM/TEK/18 Sem.3 document limited to as a guide for?",
+        "options": [
+            "License holders regarding license applications",
+            "Radiation Protection Officers (RPO) regarding the recognition and duties of RPOs",
+            "Radiation workers regarding work procedures",
+            "Training agencies accredited by AELB"
+        ],
+        "answer": "Radiation Protection Officers (RPO) regarding the recognition and duties of RPOs"
+    },
+    {
+        "question": "What is the definition of a 'Radiation Protection Officer (RPO)'?",
+        "options": [
+            "Any person working under the direction of the license holder",
+            "A technically competent person appointed by the employer only",
+            "A technically competent person appointed by the license holder and approved by the Board to supervise the application of appropriate radiation protection regulations, measures, and procedures",
+            "The holder of a license issued under the Atomic Energy Licensing Act 1984 (Act 304)"
+        ],
+        "answer": "A technically competent person appointed by the license holder and approved by the Board to supervise the application of appropriate radiation protection regulations, measures, and procedures"
+    },
+    {
+        "question": "According to Regulation 16(1), Atomic Energy Licensing (Basic Safety Radiation Protection) Regulations 2010 [P.U.(A)46], what is the legal requirement regarding RPOs?",
+        "options": [
+            "The RPO must attend a refresher course every year",
+            "The license holder must employ a Radiation Protection Officer (RPO)",
+            "The RPO must be an operator accredited by AELB",
+            "The license holder must submit a formal application online to AELB"
+        ],
+        "answer": "The license holder must employ a Radiation Protection Officer (RPO)"
+    },
+    {
+        "question": "What is one of the criteria and conditions for RPO recognition?",
+        "options": [
+            "Has served for a minimum of 5 years in the related field",
+            "Holds a Bachelor's Degree in Physics",
+            "Attends a course for RPOs at a training agency accredited by AELB",
+            "Does not need to sit for the RPO Certification Examination"
+        ],
+        "answer": "Attends a course for RPOs at a training agency accredited by AELB"
+    },
+    {
+        "question": "For recognition purposes, how must the RPO submit a formal application to AELB?",
+        "options": [
+            "Manually via registered mail",
+            "Via email to the Director of the Policy and External Relations Division",
+            "Online (on-line) to AELB through the eLicense system",
+            "Through the license holder's legal representative"
+        ],
+        "answer": "Online (on-line) to AELB through the eLicense system"
+    },
+    {
+        "question": "What is one of the RPO's duties concerning the Radiation Protection Program, Security Plan, and Emergency Plan?",
+        "options": [
+            "Ensuring it is approved by the Atomic Energy Licensing Board (AELB) only",
+            "Outlining a Radiation Protection Program, Security Plan, and Emergency Plan (if applicable) appropriate to the activities conducted by their employer",
+            "Making amendments to the Radiation Protection Program without consulting the employer",
+            "Testing the effectiveness of the Security Plan every two years"
+        ],
+        "answer": "Outlining a Radiation Protection Program, Security Plan, and Emergency Plan (if applicable) appropriate to the activities conducted by their employer"
+    },
+    {
+        "question": "What is the maximum duration for RPO recognition?",
+        "options": [
+            "1 year",
+            "2 years",
+            "3 years",
+            "5 years"
+        ],
+        "answer": "3 years"
+    },
+    {
+        "question": "What is another condition for the RPO recognition period besides the maximum duration of 3 years?",
+        "options": [
+            "Subject to the results of the latest RPO Certification Examination",
+            "Subject to the results of the annual medical examination",
+            "Subject to the number of Continuous Education Programme (CEP) points obtained",
+            "Subject to re-recognition by the employer"
+        ],
+        "answer": "Subject to the number of Continuous Education Programme (CEP) points obtained"
+    },
+    {
+        "question": "What must be approved by AELB first before being used for the purpose of keeping and storing radioactive material, nuclear material, or prescribed substances?",
+        "options": [
+            "Radiation monitoring equipment",
+            "Proposed work procedures",
+            "Storage facility",
+            "Medical surveillance records"
+        ],
+        "answer": "Storage facility"
+    },
+    {
+        "question": "Why must the RPO check, keep, and update the 'Radiation worker exposure record' document?",
+        "options": [
+            "For financial record purposes only",
+            "To monitor acceptable practices and ensure that exposure is as low as reasonably achievable (ALARA) for every worker",
+            "To comply with established security measures",
+            "To record external radiation exposure levels at the storage site"
+        ],
+        "answer": "To monitor acceptable practices and ensure that exposure is as low as reasonably achievable (ALARA) for every worker"
+    },
+    {
+        "question": "The RPO must ensure that the transport of radioactive material, nuclear material, or prescribed substances is carried out according to what?",
+        "options": [
+            "World Health Organization (WHO) guidelines",
+            "Radiation Protection (Transport) Regulations 1989",
+            "Occupational Safety and Health Act 1994",
+            "Atomic Energy Licensing (Basic Safety Radiation Protection) Regulations 2010"
+        ],
+        "answer": "Radiation Protection (Transport) Regulations 1989"
+    },
+    {
+        "question": "What is one of the qualifications required of an RPO concerning ionising radiation?",
+        "options": [
+            "Has basic knowledge of radiation protection",
+            "Has adequate knowledge of the characteristics of ionising radiation used in the work undertaken by the license holder",
+            "Sits for and passes at least Level 1 of the Industrial Radiography course",
+            "Has knowledge of radiation exposure history"
+        ],
+        "answer": "Has adequate knowledge of the characteristics of ionising radiation used in the work undertaken by the license holder"
+    },
+    {
+        "question": "When did Regulation 16, Atomic Energy Licensing (Basic Safety Radiation Protection) Regulations 2010 [P.U.(A)46] come into force?",
+        "options": [
+            "November 9, 2017",
+            "Not stated in the document",
+            "The year 2010",
+            "1984"
+        ],
+        "answer": "The year 2010"
+    },
+    {
+        "question": "What must the license holder do for the appointed RPO to carry out their duties and responsibilities?",
+        "options": [
+            "Provide a special allowance",
+            "Supervise their every action",
+            "Grant full authority",
+            "Only consider their advice"
+        ],
+        "answer": "Grant full authority"
+    },
+    {
+        "question": "For the field of industrial radiography, the RPO must be what, as accredited by AELB?",
+        "options": [
+            "Radiation Supervisor",
+            "Laboratory Technician",
+            "Operator",
+            "Safety and Health Officer"
+        ],
+        "answer": "Operator"
+    },
+    {
+        "question": "What must the RPO report if there is any unforeseen incident that threatens the element of security?",
+        "options": [
+            "To the police only",
+            "To the employer within 48 hours",
+            "Report any unforeseen incident that threatens the element of security within 24 hours from the time of the related incident",
+            "No requirement to report"
+        ],
+        "answer": "Report any unforeseen incident that threatens the element of security within 24 hours from the time of the related incident"
+    },
+    {
+        "question": "What is meant by 'radiation equipment'?",
+        "options": [
+            "Only irradiation apparatus",
+            "Radiation source (irradiation apparatus or material capable of emitting ionising radiation) and other apparatus needed to complete the equipment",
+            "Any apparatus that can emit non-ionising radiation",
+            "Radiation detection devices and personal monitoring equipment"
+        ],
+        "answer": "Radiation source (irradiation apparatus or material capable of emitting ionising radiation) and other apparatus needed to complete the equipment"
+    },
+    {
+        "question": "What is one of the records related to medical surveillance that must be properly kept and maintained by the RPO?",
+        "options": [
+            "Records of movement/transport of radioactive material",
+            "Medical surveillance conducted related to the history of radiation exposure for all workers",
+            "Records of sealed source leak tests",
+            "Training/course records"
+        ],
+        "answer": "Medical surveillance conducted related to the history of radiation exposure for all workers"
+    },
+    {
+        "question": "What action must the RPO take if a worker is found to be in breach of the provisions of Act 304?",
+        "options": [
+            "Issue a written warning notice to the worker",
+            "Report to AELB for disciplinary action",
+            "Stop the operation of the radiation equipment",
+            "Impose a fine on the worker"
+        ],
+        "answer": "Stop the operation of the radiation equipment"
+    },
+    {
+        "question": "What records regarding radiation workers must be updated by the RPO?",
+        "options": [
+            "Records of PPE purchases",
+            "Records of Emergency Plan testing",
+            "Records of the recruitment, cessation, or transfer of radiation workers",
+            "Records of external radiation exposure levels"
+        ],
+        "answer": "Records of the recruitment, cessation, or transfer of radiation workers"
+    },
+    {
+        "question": "What is one of the RPO's duties related to training?",
+        "options": [
+            "Cancel training for absent workers",
+            "Plan appropriate training and retraining for all workers dealing with ionising radiation",
+            "Conduct training themselves without involving training agencies",
+            "Ensure all workers pass the training examination"
+        ],
+        "answer": "Plan appropriate training and retraining for all workers dealing with ionising radiation"
+    },
+    {
+        "question": "The RPO must classify and label work areas according to what?",
+        "options": [
+            "ICRP (International Commission on Radiological Protection) guidelines",
+            "Atomic Energy Licensing (Basic Safety Radiation Protection) Regulations 2010 [P.U.(A)46]",
+            "ISO 9001 Quality Standard",
+            "Industrial safety guidelines"
+        ],
+        "answer": "Atomic Energy Licensing (Basic Safety Radiation Protection) Regulations 2010 [P.U.(A)46]"
+    },
+    {
+        "question": "What must the RPO ensure regarding workers working in a controlled area?",
+        "options": [
+            "They are supplied with food supplements",
+            "They are supplied with personal monitoring equipment to record the occupational exposure received",
+            "They attend all safety meetings",
+            "They have the latest certificate of competency"
+        ],
+        "answer": "They are supplied with personal monitoring equipment to record the occupational exposure received"
+    },
+    {
+        "question": "What action must the RPO take if an unusual condition or abnormal exposure occurs?",
+        "options": [
+            "Investigate the condition and report it to AELB within 24 hours",
+            "Only prepare a specific record about it",
+            "Report to the employer within 30 days",
+            "Establish procedures for dealing with any unusual condition"
+        ],
+        "answer": "Investigate the condition and report it to AELB within 24 hours"
+    },
+    {
+        "question": "What must be prepared and submitted to AELB within 30 days after the occurrence of an unusual incident?",
+        "options": [
+            "A copy of the medical examination record",
+            "A specific record regarding the unusual condition or abnormal exposure",
+            "Notice of cessation of operational activities",
+            "AELB inspection visit report"
+        ],
+        "answer": "A specific record regarding the unusual condition or abnormal exposure"
+    },
+    {
+        "question": "What is one of the records that must be managed by the RPO regarding radiation equipment?",
+        "options": [
+            "Records of temporary placement of radiation equipment",
+            "Records of maintenance of radiation equipment",
+            "Records of the cost of purchasing radiation equipment",
+            "Records of warranty of radiation equipment"
+        ],
+        "answer": "Records of maintenance of radiation equipment"
+    },
+    {
+        "question": "What must the RPO ensure regarding the Statement of ownership of radiation equipment?",
+        "options": [
+            "Prepare the Statement of Ownership of radiation equipment (LPTA/BM/3)",
+            "Prepare the Statement of Sale of radiation equipment (LPTA/BM/2)",
+            "Keep and update the said record",
+            "Submit the statement every month"
+        ],
+        "answer": "Keep and update the said record"
+    },
+    {
+        "question": "What is the RPO's duty concerning the security of radioactive sources and the license holder's facilities?",
+        "options": [
+            "Ensuring it is always protected by licensed Security Guards",
+            "Ensuring the security of radioactive sources and the license holder's facilities is constantly monitored to prevent any risk of loss, sabotage, or theft",
+            "Ensuring all radiation workers are given security training",
+            "Ensuring only the RPO has access to radioactive sources"
+        ],
+        "answer": "Ensuring the security of radioactive sources and the license holder's facilities is constantly monitored to prevent any risk of loss, sabotage, or theft"
+    },
+    {
+        "question": "What is meant by 'employer' according to the definition in this document?",
+        "options": [
+            "Only the Chief Executive Officer of the company",
+            "Any person who has entered into a contract of service with an employee and includes a manager, agent, occupier or owner of a place of work, legal representative, and any statutory body",
+            "Only the license holder",
+            "Any person responsible for the payment of salaries or wages only"
+        ],
+        "answer": "Any person who has entered into a contract of service with an employee and includes a manager, agent, occupier or owner of a place of work, legal representative, and any statutory body"
+    },
+    {
+        "question": "What must the RPO do regarding any proposed change in the location of radiation equipment?",
+        "options": [
+            "Only inform the employer",
+            "Inform AELB first",
+            "Inform all radiation workers",
+            "Only record it in the maintenance log"
+        ],
+        "answer": "Inform AELB first"
+    },
+    {
+        "question": "What must the RPO ensure regarding radiation hazard warning signs?",
+        "options": [
+            "Appropriate radiation hazard warning signs are available, displayed when necessary, and removed when no longer needed",
+            "Warning signs only need to be displayed in the controlled area",
+            "Radiation hazard warning signs must be updated monthly",
+            "Radiation hazard warning signs are only required for the storage area"
+        ],
+        "answer": "Appropriate radiation hazard warning signs are available, displayed when necessary, and removed when no longer needed"
+    },
+    {
+        "question": "What must the RPO test the effectiveness of?",
+        "options": [
+            "Operation of radiation equipment",
+            "Proposed work procedures",
+            "Security Plan and Emergency Plan",
+            "Personal monitoring equipment"
+        ],
+        "answer": "Security Plan and Emergency Plan"
+    },
+    {
+        "question": "What is one of the records related to disposal that must be checked and kept by the RPO?",
+        "options": [
+            "Records of disposal of ordinary solid waste",
+            "Records of disposal of hazardous chemicals",
+            "Records of disposal of radiation equipment",
+            "Records of disposal of confidential documents"
+        ],
+        "answer": "Records of disposal of radiation equipment"
+    },
+    {
+        "question": "The RPO must fully implement and test the Security Plan and Emergency Plan approved by AELB, and what is the next action?",
+        "options": [
+            "Report to the Radiation Protection Committee only",
+            "Document the implementation report",
+            "Store the Plan in a safe place",
+            "Revoke the license if the test fails"
+        ],
+        "answer": "Document the implementation report"
+    },
+    {
+        "question": "What is the act under which a license is issued to the license holder?",
+        "options": [
+            "Occupational Safety and Health Act 1994",
+            "Atomic Energy Licensing Act 1984 (Act 304)",
+            "Environmental Quality Act 1974",
+            "Local Government Act 1976"
+        ],
+        "answer": "Atomic Energy Licensing Act 1984 (Act 304)"
+    },
+    {
+        "question": "What is the RPO's duty concerning the Statement of sale of radiation equipment?",
+        "options": [
+            "Keep and update the Statement of Sale of radiation equipment (LPTA/BM/2)",
+            "Only send a copy to the buyer",
+            "Cancel the sale if it does not comply with the conditions",
+            "Prepare a monthly sales statement"
+        ],
+        "answer": "Keep and update the Statement of Sale of radiation equipment (LPTA/BM/2)"
+    },
+    {
+        "question": "What must be established and complied with by the RPO for activities involving unsealed radioactive material?",
+        "options": [
+            "A work procedure that requires more frequent medical surveillance",
+            "A work procedure that requires more expensive PPE",
+            "A work procedure shall be established which makes contamination unlikely",
+            "A work procedure involving the use of radiation protection safety devices"
+        ],
+        "answer": "A work procedure shall be established which makes contamination unlikely"
+    },
+    {
+        "question": "Who must be appointed by the license holder to supervise the application of appropriate radiation protection regulations, measures, and procedures?",
+        "options": [
+            "A Project Manager",
+            "A Safety Officer",
+            "A Civil Engineer",
+            "A Radiation Protection Officer (RPO)"
+        ],
+        "answer": "A Radiation Protection Officer (RPO)"
+    },
+    {
+        "question": "What must the RPO do regarding all proposed work procedures (including new projects or changes to existing ones)?",
+        "options": [
+            "Only check AELB approval",
+            "Conduct a review",
+            "Report to the local authority",
+            "Implement the Emergency Plan"
+        ],
+        "answer": "Conduct a review"
+    },
+    {
+        "question": "What is one condition for an RPO in the Sale and Trade activity for the field of industrial radiography?",
+        "options": [
+            "Must pass the Industrial Radiography Examination Level 2",
+            "Must attend the Industrial Radiography course (minimum Level 1) without needing to sit for the Industrial Radiography Examination",
+            "Does not need to attend any course",
+            "Must be accredited as an Operator by AELB"
+        ],
+        "answer": "Must attend the Industrial Radiography course (minimum Level 1) without needing to sit for the Industrial Radiography Examination"
+    },
+    {
+        "question": "What is one of the records related to the transport of radioactive material that must be kept by the RPO?",
+        "options": [
+            "Records of transport toll fees",
+            "Records of Security Plan testing",
+            "Records of movement/transport of radioactive material",
+            "Records of maintenance of radiation equipment"
+        ],
+        "answer": "Records of movement/transport of radioactive material"
+    },
+    {
+        "question": "What records related to equipment testing must be managed by the RPO?",
+        "options": [
+            "Records of fuel quality testing",
+            "Records of sealed source leak tests",
+            "Records of water quality testing",
+            "Records of sound level testing"
+        ],
+        "answer": "Records of sealed source leak tests"
+    },
+    {
+        "question": "What are the medical examination records of radiation workers (Section A) and the radiation worker exposure records (Section B) that must be managed by the RPO?",
+        "options": [
+            "LPTA/BM/5 (Section A) and LPTA/BM/5 (Section B)",
+            "LPTA/BM/3 and LPTA/BM/2",
+            "LEM/TEK/44 (Part A)",
+            "Notification Notice No. 03/ 2017"
+        ],
+        "answer": "LPTA/BM/5 (Section A) and LPTA/BM/5 (Section B)"
+    },
+    {
+        "question": "In the context of dealing with radioactive material, what does 'urusan' (business/activity) mean?",
+        "options": [
+            "Only buying and selling",
+            "Any activity involving such radioactive material, nuclear material, prescribed substances, or irradiation apparatus that is manufactured, traded, produced, processed, purchased, possessed, used, transported, transferred, handled, sold, stored, imported, or exported",
+            "Only transport and storage",
+            "Only production and disposal"
+        ],
+        "answer": "Any activity involving such radioactive material, nuclear material, prescribed substances, or irradiation apparatus that is manufactured, traded, produced, processed, purchased, possessed, used, transported, transferred, handled, sold, stored, imported, or exported"
+    },
+    {
+        "question": "What must the RPO ensure regarding exposure time, distance, and shielding?",
+        "options": [
+            "Used only for activities involving unsealed radioactive material",
+            "Used in areas where external radiation hazards may exist",
+            "Used only for Trainee Operators",
+            "Used only for the Emergency Plan"
+        ],
+        "answer": "Used in areas where external radiation hazards may exist"
+    },
+    {
+        "question": "What is the reference related to the Radiation Protection Officer Certification Standard?",
+        "options": [
+            "LEM/TEK/44 (Part A)",
+            "Notification Notice No. 01/2014",
+            "LEM/TEK/18 Sem.3",
+            "Radiation Protection (Transport) Regulations 1989"
+        ],
+        "answer": "LEM/TEK/44 (Part A)"
+    },
+    {
+        "question": "What must the RPO do with the radiological safety survey?",
+        "options": [
+            "Keep it as a confidential document",
+            "Bring it to the knowledge of the license holder, other responsible persons, and the Radiation Protection Committee (if any)",
+            "Submit it to AELB for approval",
+            "Used for training and retraining purposes"
+        ],
+        "answer": "Bring it to the knowledge of the license holder, other responsible persons, and the Radiation Protection Committee (if any)"
+    },
+    {
+        "question": "What must the RPO do with the procedure for the disposal of any radioactive waste?",
+        "options": [
+            "Must be established and complied with, and submitted to AELB for approval",
+            "Must be established and complied with by the employer only",
+            "Established after receiving AELB approval",
+            "Used for the purpose of the Statement of ownership of radiation equipment"
+        ],
+        "answer": "Must be established and complied with, and submitted to AELB for approval"
+    },
+    {
+        "question": "Who conducts the RPO Certification Examination under the RPO Certification Scheme?",
+        "options": [
+            "Atomic Energy Licensing Board (AELB)",
+            "National RPO Certification Committee (JKPPPS)",
+            "Training agencies accredited by AELB",
+            "Ministry of Science Technology & Innovation"
+        ],
+        "answer": "National RPO Certification Committee (JKPPPS)"
+    },
+    {
+        "question": "What is one of the records related to ionising radiation that must be managed by the RPO?",
+        "options": [
+            "Records of accounting for radioactive material",
+            "Vehicle maintenance records",
+            "Records of worker competency testing",
+            "Records of office furniture purchases"
+        ],
+        "answer": "Records of accounting for radioactive material"
+    },
+    {
+        "question": "What must the RPO do concerning area and personal monitoring equipment?",
+        "options": [
+            "Calibrate every 5 years.",
+            "Ensure they are functioning well and calibrated.",
+            "Kept in a safe place without needing calibration.",
+            "Only used during an emergency."
+        ],
+        "answer": "Ensure they are functioning well and calibrated."
+    },
+    {
+        "question": "What is the License Holder's responsibility to the RPO?",
+        "options": [
+            "Grant permission to appoint a second RPO.",
+            "Provide relevant information to enable the RPO to carry out duties.",
+            "Determine the RPO's scope of work.",
+            "Approve the RPO's training program."
+        ],
+        "answer": "Provide relevant information to enable the RPO to carry out duties."
+    },
+    {
+        "question": "What must the RPO manage concerning the inventory of radioactive material?",
+        "options": [
+            "Prepare annual purchase records only.",
+            "Ensure the inventory of radioactive material is constantly updated.",
+            "Report inventory to the employer every 6 months.",
+            "Update the inventory only when a loss occurs."
+        ],
+        "answer": "Ensure the inventory of radioactive material is constantly updated."
+    },
+    {
+        "question": "When did this LEM/TEK/18 Sem.3 guidance document apply?",
+        "options": [
+            "April 7, 2014.",
+            "September 1989.",
+            "November 9, 2017.",
+            "Immediately upon ministerial approval."
+        ],
+        "answer": "November 9, 2017."
+    },
+    {
+        "question": "What must the RPO do if a situation arises that could cause radiation exposure to exceed the permissible limit?",
+        "options": [
+            "Continue operation with stricter monitoring.",
+            "Consult with the Radiation Protection Committee.",
+            "Take immediate steps to rectify the situation and ensure operations involving radiation exposure are stopped.",
+            "Report to AELB after 7 days."
+        ],
+        "answer": "Take immediate steps to rectify the situation and ensure operations involving radiation exposure are stopped."
+    },
+    {
+        "question": "What is meant by 'radiation worker'?",
+        "options": [
+            "A worker involved in any activity using radioactive material.",
+            "An employee certified by the Head of the Department/Centre and formally accredited by AELB.",
+            "Any worker who has been appointed as an RPO.",
+            "A worker who holds a license under Act 304."
+        ],
+        "answer": "An employee certified by the Head of the Department/Centre and formally accredited by AELB."
+    },
+    {
+        "question": "What must the RPO maintain regarding radiation protection devices and safety equipment?",
+        "options": [
+            "Keep records of purchase and price.",
+            "Ensure they are maintained and functioning well.",
+            "Prepare a damage report to AELB.",
+            "Ensure only radiation workers use them."
+        ],
+        "answer": "Ensure they are maintained and functioning well."
+    },
+    {
+        "question": "What must the RPO prepare for workers who cease employment?",
+        "options": [
+            "Certificate of appreciation.",
+            "Final radiation dose record.",
+            "Complete medical report.",
+            "Letter of release of responsibility."
+        ],
+        "answer": "Final radiation dose record."
+    },
+    {
+        "question": "What is the RPO's role concerning the Security Plan?",
+        "options": [
+            "Ensure the Security Plan is complied with by the public.",
+            "Prepare and update the Security Plan when necessary and as directed by AELB.",
+            "Provide financial allocation for the Security Plan.",
+            "Approve any amendment to the Security Plan."
+        ],
+        "answer": "Prepare and update the Security Plan when necessary and as directed by AELB."
+    },
+    {
+        "question": "How many Continuing Education Programme (CEP) credit points are required for RPO re-recognition?",
+        "options": [
+            "10 credit points per year.",
+            "Not specifically stated in LEM/TEK/18 Sem.3 but referenced in another document (LEM/TEK/44).",
+            "30 credit points throughout the recognition period.",
+            "No credit points required."
+        ],
+        "answer": "Not specifically stated in LEM/TEK/18 Sem.3 but referenced in another document (LEM/TEK/44)."
+    },
+    {
+        "question": "What must the RPO do with radiation equipment that is no longer in use?",
+        "options": [
+            "Only store it in the storage area.",
+            "Ensure it is disposed of or transferred according to the procedures established by AELB.",
+            "Sold to another company without AELB's knowledge.",
+            "Labelled as non-functional and left alone."
+        ],
+        "answer": "Ensure it is disposed of or transferred according to the procedures established by AELB."
+    },
+    {
+        "question": "Who must be appointed as the Chairman of the Radiation Protection Committee (JPS), if established?",
+        "options": [
+            "Radiation Protection Officer (RPO).",
+            "The License Holder.",
+            "A Senior Manager appointed by the License Holder.",
+            "Any JPS member with the highest qualification."
+        ],
+        "answer": "A Senior Manager appointed by the License Holder."
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Apakah skop dokumen LEM/TEK/18 Sem.3 ini terhad sebagai panduan kepada?",
+        "options": [
+            "Pemegang lesen berhubung permohonan lesen",
+            "Pegawai Perlindungan Sinaran (PPS) berhubung pengiktirafan dan tugas PPS",
+            "Pekerja sinaran berhubung prosedur kerja",
+            "Agensi latihan yang diiktiraf oleh AELB"
+        ],
+        "answer": "Pegawai Perlindungan Sinaran (PPS) berhubung pengiktirafan dan tugas PPS"
+    },
+    {
+        "question": "Apakah takrifan bagi 'Pegawai Perlindungan Sinaran (PPS)'?",
+        "options": [
+            "Mana-mana orang yang bekerja di bawah arahan pemegang lesen",
+            "Seorang yang berwibawa dari segi teknik yang dilantik oleh majikan sahaja",
+            "Seorang yang berwibawa dari segi teknik yang dilantik oleh pemegang lesen dan diluluskan oleh Lembaga untuk menyelia pemakaian peraturan-peraturan, langkah dan tatacara perlindungan sinaran yang bersesuaian",
+            "Pemegang suatu lesen yang dikeluarkan di bawah Akta Perlesenan Tenaga Atom 1984 (Akta 304)"
+        ],
+        "answer": "Seorang yang berwibawa dari segi teknik yang dilantik oleh pemegang lesen dan diluluskan oleh Lembaga untuk menyelia pemakaian peraturan-peraturan, langkah dan tatacara perlindungan sinaran yang bersesuaian"
+    },
+    {
+        "question": "Menurut Peraturan 16(1), Peraturan-peraturan Pelesenan Tenaga Atom (Perlindungan Sinaran Keselamatan Asas) 2010 [P.U.(A)46], apakah keperluan perundangan terhadap PPS?",
+        "options": [
+            "PPS hendaklah mengikuti kursus latihan semula setiap tahun",
+            "Pemegang lesen hendaklah mengambil kerja seorang Pegawai Perlindungan Sinaran (PPS)",
+            "PPS mesti merupakan Pengendali yang diiktiraf oleh AELB",
+            "Pemegang lesen hendaklah membuat permohonan rasmi secara atas talian kepada AELB"
+        ],
+        "answer": "Pemegang lesen hendaklah mengambil kerja seorang Pegawai Perlindungan Sinaran (PPS)"
+    },
+    {
+        "question": "Apakah salah satu kriteria dan syarat pengiktirafan PPS?",
+        "options": [
+            "Telah berkhidmat selama minimum 5 tahun dalam bidang berkaitan",
+            "Memiliki Ijazah Sarjana Muda dalam bidang Fizik",
+            "Menghadiri kursus untuk PPS di agensi latihan yang diiktiraf oleh AELB",
+            "Tidak perlu menduduki Peperiksaan Persijilan PPS"
+        ],
+        "answer": "Menghadiri kursus untuk PPS di agensi latihan yang diiktiraf oleh AELB"
+    },
+    {
+        "question": "Bagi tujuan pengiktirafan, bagaimanakah PPS hendaklah mengemukakan permohonan rasmi kepada AELB?",
+        "options": [
+            "Secara manual melalui surat berdaftar",
+            "Secara e-mel kepada Pengarah Bahagian Dasar dan Hubungan Luar",
+            "Secara atas talian (on-line) kepada AELB melalui sistem eLesen",
+            "Melalui wakil undang-undang pemegang lesen"
+        ],
+        "answer": "Secara atas talian (on-line) kepada AELB melalui sistem eLesen"
+    },
+    {
+        "question": "Apakah salah satu tugas PPS berhubung Program Perlindungan Sinaran, Pelan Sekuriti dan Pelan Kecemasan?",
+        "options": [
+            "Memastikan ianya diluluskan oleh Lembaga Pelesenan Tenaga Atom (AELB) sahaja",
+            "Menggariskan satu Program Perlindungan Sinaran, Pelan Sekuriti dan Pelan Kecemasan (jika berkenaan) yang bersesuaian dengan aktiviti yang dijalankan oleh majikannya",
+            "Membuat pindaan kepada Program Perlindungan Sinaran tanpa merujuk kepada majikan",
+            "Menguji keberkesanan Pelan Sekuriti setiap dua tahun"
+        ],
+        "answer": "Menggariskan satu Program Perlindungan Sinaran, Pelan Sekuriti dan Pelan Kecemasan (jika berkenaan) yang bersesuaian dengan aktiviti yang dijalankan oleh majikannya"
+    },
+    {
+        "question": "Apakah had maksimum tempoh pengiktirafan PPS?",
+        "options": [
+            "1 tahun",
+            "2 tahun",
+            "3 tahun",
+            "5 tahun"
+        ],
+        "answer": "3 tahun"
+    },
+    {
+        "question": "Apakah syarat lain bagi tempoh pengiktirafan PPS selain tempoh maksimum 3 tahun?",
+        "options": [
+            "Tertakluk kepada keputusan Peperiksaan Persijilan PPS yang terkini",
+            "Tertakluk kepada keputusan pemeriksaan perubatan tahunan",
+            "Tertakluk kepada jumlah mata Program Pendidikan Berterusan (Continuous Education Programme, CEP) yang diperolehi",
+            "Tertakluk kepada pengiktirafan semula oleh majikan"
+        ],
+        "answer": "Tertakluk kepada jumlah mata Program Pendidikan Berterusan (Continuous Education Programme, CEP) yang diperolehi"
+    },
+    {
+        "question": "Apakah yang perlu diluluskan oleh AELB terlebih dahulu sebelum digunakan untuk tujuan penyimpanan dan penstoran bahan radioaktif, bahan nuklear atau benda-benda ditetapkan?",
+        "options": [
+            "Peralatan pemonitoran sinaran",
+            "Prosedur kerja yang dicadangkan",
+            "Kemudahan penstoran",
+            "Rekod pengawasan perubatan"
+        ],
+        "answer": "Kemudahan penstoran"
+    },
+    {
+        "question": "Mengapakah PPS perlu memeriksa, menyimpan dan mengemaskini dokumen 'Rekod dedahan pekerja sinaran'?",
+        "options": [
+            "Untuk tujuan rekod kewangan sahaja",
+            "Untuk mengawasi praktis yang boleh diterima dan memastikan dedahan adalah serendah mungkin yang boleh dicapai oleh setiap pekerja",
+            "Untuk mematuhi langkah-langkah sekuriti yang ditetapkan",
+            "Untuk merekod paras dedahan sinaran luar di tempat penstoran"
+        ],
+        "answer": "Untuk mengawasi praktis yang boleh diterima dan memastikan dedahan adalah serendah mungkin yang boleh dicapai oleh setiap pekerja"
+    },
+    {
+        "question": "PPS hendaklah memastikan pengangkutan bahan radioaktif, bahan nuklear atau benda-benda ditetapkan dilaksanakan menurut apakah?",
+        "options": [
+            "Garis panduan Pertubuhan Kesihatan Sedunia (WHO)",
+            "Peraturan-peraturan Perlindungan Sinaran (Pengangkutan) 1989",
+            "Akta Keselamatan dan Kesihatan Pekerjaan 1994",
+            "Peraturan-peraturan Pelesenan Tenaga Atom (Perlindungan Sinaran Keselamatan Asas) 2010"
+        ],
+        "answer": "Peraturan-peraturan Perlindungan Sinaran (Pengangkutan) 1989"
+    },
+    {
+        "question": "Apakah salah satu kelayakan yang diperlukan oleh PPS berhubung dengan sinaran mengion?",
+        "options": [
+            "Mempunyai pengetahuan asas mengenai perlindungan sinaran",
+            "Mempunyai pengetahuan yang mencukupi mengenai ciri sinaran mengion yang digunakan dalam kerja yang diusahakan oleh pemegang lesen",
+            "Menduduki dan lulus sekurang-kurangnya Tahap 1 kursus Radiografi Industri",
+            "Mempunyai pengetahuan mengenai sejarah dedahan sinaran"
+        ],
+        "answer": "Mempunyai pengetahuan yang mencukupi mengenai ciri sinaran mengion yang digunakan dalam kerja yang diusahakan oleh pemegang lesen"
+    },
+    {
+        "question": "Bilakah Peraturan 16, Peraturan-peraturan Pelesenan Tenaga Atom (Perlindungan Sinaran Keselamatan Asas) 2010 [P.U.(A)46] berkuat kuasa?",
+        "options": [
+            "9 November 2017",
+            "Tidak dinyatakan dalam dokumen",
+            "Tahun 2010",
+            "1984"
+        ],
+        "answer": "Tahun 2010"
+    },
+    {
+        "question": "Apakah yang perlu dilakukan oleh pemegang lesen kepada PPS yang dilantik untuk melaksanakan tugas dan tanggungjawabnya?",
+        "options": [
+            "Menyediakan elaun khas",
+            "Menyelia setiap tindakannya",
+            "Memberi kuasa sepenuhnya",
+            "Mengambil kira nasihatnya sahaja"
+        ],
+        "answer": "Memberi kuasa sepenuhnya"
+    },
+    {
+        "question": "Bagi bidang radiografi industri, PPS hendaklah merupakan apakah yang diiktiraf oleh AELB?",
+        "options": [
+            "Penyelia Sinaran",
+            "Juruteknik Makmal",
+            "Pengendali",
+            "Pegawai Keselamatan dan Kesihatan"
+        ],
+        "answer": "Pengendali"
+    },
+    {
+        "question": "Apakah yang perlu dilaporkan oleh PPS sekiranya terdapat sebarang kejadian keadaan luar jangka yang menggugat elemen sekuriti?",
+        "options": [
+            "Kepada pihak polis sahaja",
+            "Kepada majikan dalam tempoh 48 jam",
+            "Melaporkan sebarang kejadian keadaan luar jangka yang menggugat elemen sekuriti dalam tempoh 24 jam dari masa berlakunya kejadian berkaitan",
+            "Tiada keperluan untuk melaporkan"
+        ],
+        "answer": "Melaporkan sebarang kejadian keadaan luar jangka yang menggugat elemen sekuriti dalam tempoh 24 jam dari masa berlakunya kejadian berkaitan"
+    },
+    {
+        "question": "Apakah yang dimaksudkan dengan 'peralatan sinaran'?",
+        "options": [
+            "Hanya radas penyinaran sahaja",
+            "Sumber sinaran (radas penyinaran atau bahan yang berupaya mengeluarkan sinaran mengion) dan perkakasan lain yang perlu untuk melengkapkan peralatan tersebut",
+            "Mana-mana radas yang boleh mengeluarkan sinaran yang tidak mengion",
+            "Alat pengesan sinaran dan peralatan permonitoran peribadi"
+        ],
+        "answer": "Sumber sinaran (radas penyinaran atau bahan yang berupaya mengeluarkan sinaran mengion) dan perkakasan lain yang perlu untuk melengkapkan peralatan tersebut"
+    },
+    {
+        "question": "Apakah salah satu rekod yang perlu disimpan dan diselenggara dengan betul oleh PPS berkaitan dengan pengawasan perubatan?",
+        "options": [
+            "Rekod pergerakan/pengangkutan bahan radioaktif",
+            "Pengawasan perubatan yang dilaksanakan yang berkaitan dengan sejarah dedahan sinaran untuk semua pekerja",
+            "Rekod ujian kebocoran punca terkedap",
+            "Rekod latihan/kursus"
+        ],
+        "answer": "Pengawasan perubatan yang dilaksanakan yang berkaitan dengan sejarah dedahan sinaran untuk semua pekerja"
+    },
+    {
+        "question": "Apakah yang perlu dilakukan oleh PPS jika didapati terdapat perlanggaran peruntukan Akta 304 yang dilakukan oleh pekerja?",
+        "options": [
+            "Mengeluarkan notis amaran bertulis kepada pekerja",
+            "Melaporkan kepada AELB untuk tindakan tatatertib",
+            "Memberhentikan operasi kendalian peralatan sinaran",
+            "Mengenakan denda kepada pekerja"
+        ],
+        "answer": "Memberhentikan operasi kendalian peralatan sinaran"
+    },
+    {
+        "question": "Apakah rekod-rekod yang perlu dikemaskini oleh PPS mengenai pekerja sinaran?",
+        "options": [
+            "Rekod pembelian peralatan PPE",
+            "Rekod pengujian Pelan Kecemasan",
+            "Rekod pengambilan, pemberhentian atau pertukaran pekerja sinaran",
+            "Rekod paras dedahan sinaran luar"
+        ],
+        "answer": "Rekod pengambilan, pemberhentian atau pertukaran pekerja sinaran"
+    },
+    {
+        "question": "Apakah salah satu tugas PPS berkaitan dengan latihan?",
+        "options": [
+            "Membatalkan latihan untuk pekerja yang tidak hadir",
+            "Merancang latihan dan latihan semula yang bersesuaian untuk semua pekerja yang berurusan kepada sinaran mengion",
+            "Mengendalikan latihan sendiri tanpa melibatkan agensi latihan",
+            "Memastikan semua pekerja lulus peperiksaan latihan"
+        ],
+        "answer": "Merancang latihan dan latihan semula yang bersesuaian untuk semua pekerja yang berurusan kepada sinaran mengion"
+    },
+    {
+        "question": "PPS hendaklah mengkelaskan dan melabelkan kawasan kerja mengikut apakah?",
+        "options": [
+            "Garis panduan ICRP (International Commission on Radiological Protection)",
+            "Peraturan-peraturan Pelesenan Tenaga Atom (Perlindungan Sinaran Keselamatan Asas) 2010 [P.U.(A)46]",
+            "Standard Kualiti ISO 9001",
+            "Garis panduan keselamatan industri"
+        ],
+        "answer": "Peraturan-peraturan Pelesenan Tenaga Atom (Perlindungan Sinaran Keselamatan Asas) 2010 [P.U.(A)46]"
+    },
+    {
+        "question": "Apakah yang perlu dipastikan oleh PPS berkenaan pekerja yang bekerja di kawasan kawalan?",
+        "options": [
+            "Mereka dibekalkan dengan makanan tambahan",
+            "Mereka dibekalkan dengan peralatan permonitoran peribadi untuk merekod dedahan pekerjaan yang diterima",
+            "Mereka menghadiri semua mesyuarat keselamatan",
+            "Mereka mempunyai sijil kompetensi yang terkini"
+        ],
+        "answer": "Mereka dibekalkan dengan peralatan permonitoran peribadi untuk merekod dedahan pekerjaan yang diterima"
+    },
+    {
+        "question": "Apakah tindakan yang perlu diambil oleh PPS jika berlaku keadaan luar biasa atau dedahan luar biasa?",
+        "options": [
+            "Menyiasat keadaan itu dan melaporkannya kepada AELB dalam masa 24 jam",
+            "Hanya menyediakan rekod khusus mengenainya",
+            "Melaporkan kepada majikan dalam tempoh 30 hari",
+            "Menetapkan prosedur berurusan dengan sebarang keadaan luar biasa"
+        ],
+        "answer": "Menyiasat keadaan itu dan melaporkannya kepada AELB dalam masa 24 jam"
+    },
+    {
+        "question": "Apakah yang perlu disediakan dan dikemukakan kepada AELB dalam masa 30 hari selepas berlakunya kejadian luar biasa?",
+        "options": [
+            "Satu salinan rekod pemeriksaan perubatan",
+            "Satu rekod khusus mengenai keadaan luar biasa atau dedahan luar biasa",
+            "Notis pemberhentian operasi kendalian",
+            "Laporan lawatan pemeriksaan AELB"
+        ],
+        "answer": "Satu rekod khusus mengenai keadaan luar biasa atau dedahan luar biasa"
+    },
+    {
+        "question": "Apakah salah satu rekod yang perlu diuruskan oleh PPS mengenai peralatan sinaran?",
+        "options": [
+            "Rekod penempatan sementara peralatan sinaran",
+            "Rekod penyenggaraan peralatan sinaran",
+            "Rekod kos pembelian peralatan sinaran",
+            "Rekod waranti peralatan sinaran"
+        ],
+        "answer": "Rekod penyenggaraan peralatan sinaran"
+    },
+    {
+        "question": "Apakah yang perlu dipastikan oleh PPS berkaitan dengan Penyata pemilikan peralatan sinaran?",
+        "options": [
+            "Menyediakan Penyata Pemilikan peralatan sinaran (LPTA/BM/3)",
+            "Menyediakan Penyata Penjualan peralatan sinaran (LPTA/BM/2)",
+            "Menyimpan dan mengemaskini rekod tersebut",
+            "Menghantar penyata tersebut setiap bulan"
+        ],
+        "answer": "Menyimpan dan mengemaskini rekod tersebut"
+    },
+    {
+        "question": "Apakah tugas PPS berkaitan dengan keselamatan sumber radioaktif dan kemudahan pemegang lesen?",
+        "options": [
+            "Memastikan ianya sentiasa dilindungi oleh Pengawal Keselamatan berlesen",
+            "Memastikan sekuriti terhadap punca radioaktif dan kemudahan pemegang lesen sentiasa dipantau dari semasa ke semasa bagi mengelakkan sebarang risiko kehilangan, sabotaj atau kecurian",
+            "Memastikan semua pekerja sinaran diberi latihan sekuriti",
+            "Memastikan hanya PPS sahaja yang mempunyai akses kepada sumber radioaktif"
+        ],
+        "answer": "Memastikan sekuriti terhadap punca radioaktif dan kemudahan pemegang lesen sentiasa dipantau dari semasa ke semasa bagi mengelakkan sebarang risiko kehilangan, sabotaj atau kecurian"
+    },
+    {
+        "question": "Apakah yang dimaksudkan dengan 'majikan' menurut takrifan dalam dokumen ini?",
+        "options": [
+            "Hanya Ketua Pegawai Eksekutif syarikat",
+            "Mana-mana orang yang telah membuat sesuatu kontrak perkhidmatan dengan seseorang pekerja dan termasuklah seorang pengurus, ejen, penghuni atau pemunya suatu tempat kerja, wakil undang-undang dan mana-mana badan berkanun",
+            "Hanya pemegang lesen sahaja",
+            "Mana-mana orang yang bertanggungjawab bagi pembayaran gaji atau upah sahaja"
+        ],
+        "answer": "Mana-mana orang yang telah membuat sesuatu kontrak perkhidmatan dengan seseorang pekerja dan termasuklah seorang pengurus, ejen, penghuni atau pemunya suatu tempat kerja, wakil undang-undang dan mana-mana badan berkanun"
+    },
+    {
+        "question": "Apakah yang perlu dilakukan oleh PPS berhubung sebarang perubahan lokasi peralatan sinaran yang hendak dilakukan?",
+        "options": [
+            "Dimaklumkan kepada majikan sahaja",
+            "Dimaklumkan kepada AELB terlebih dahulu",
+            "Dimaklumkan kepada semua pekerja sinaran",
+            "Dicatat dalam rekod penyenggaraan sahaja"
+        ],
+        "answer": "Dimaklumkan kepada AELB terlebih dahulu"
+    },
+    {
+        "question": "Apakah yang perlu dipastikan oleh PPS berkaitan dengan tanda-tanda amaran bahaya sinaran?",
+        "options": [
+            "Tanda-tanda amaran bahaya sinaran yang sesuai boleh didapati, dipaparkan bila perlu dan dialihkan apabila tidak diperlukan lagi",
+            "Tanda-tanda amaran hanya perlu dipaparkan di kawasan kawalan",
+            "Tanda-tanda amaran bahaya sinaran perlu dikemas kini setiap bulan",
+            "Tanda-tanda amaran bahaya sinaran hanya diperlukan untuk kawasan penstoran"
+        ],
+        "answer": "Tanda-tanda amaran bahaya sinaran yang sesuai boleh didapati, dipaparkan bila perlu dan dialihkan apabila tidak diperlukan lagi"
+    },
+    {
+        "question": "Apakah yang perlu diuji keberkesanannya oleh PPS?",
+        "options": [
+            "Pengendalian peralatan sinaran",
+            "Prosedur kerja yang dicadangkan",
+            "Pelan Sekuriti dan Pelan Kecemasan",
+            "Peralatan pemonitoran peribadi"
+        ],
+        "answer": "Pelan Sekuriti dan Pelan Kecemasan"
+    },
+    {
+        "question": "Apakah salah satu rekod yang perlu diperiksa dan disimpan oleh PPS berkaitan dengan rekod pelupusan?",
+        "options": [
+            "Rekod pelupusan sisa pepejal biasa",
+            "Rekod pelupusan bahan kimia berbahaya",
+            "Rekod pelupusan peralatan sinaran",
+            "Rekod pelupusan dokumen sulit"
+        ],
+        "answer": "Rekod pelupusan peralatan sinaran"
+    },
+    {
+        "question": "PPS hendaklah melaksana dan menguji sepenuhnya Pelan Sekuriti dan Pelan Kecemasan yang diluluskan oleh AELB serta apakah tindakan seterusnya?",
+        "options": [
+            "Melaporkan kepada Jawatankuasa Perlindungan Sinaran sahaja",
+            "Mendokumenkan laporan pelaksanaannya",
+            "Menyimpan Pelan tersebut di tempat yang selamat",
+            "Membatalkan lesen jika gagal ujian"
+        ],
+        "answer": "Mendokumenkan laporan pelaksanaannya"
+    },
+    {
+        "question": "Apakah akta di bawah mana lesen dikeluarkan kepada pemegang lesen?",
+        "options": [
+            "Akta Keselamatan dan Kesihatan Pekerjaan 1994",
+            "Akta Perlesenan Tenaga Atom 1984 (Akta 304)",
+            "Akta Kualiti Alam Sekitar 1974",
+            "Akta Kerajaan Tempatan 1976"
+        ],
+        "answer": "Akta Perlesenan Tenaga Atom 1984 (Akta 304)"
+    },
+    {
+        "question": "Apakah tugas PPS berkaitan dengan Penyata penjualan peralatan sinaran?",
+        "options": [
+            "Menyimpan dan mengemaskini Penyata penjualan peralatan sinaran (LPTA/BM/2)",
+            "Menghantar salinan kepada pembeli sahaja",
+            "Membatalkan penjualan jika tidak mematuhi syarat",
+            "Menyediakan penyata bulanan jualan"
+        ],
+        "answer": "Menyimpan dan mengemaskini Penyata penjualan peralatan sinaran (LPTA/BM/2)"
+    },
+    {
+        "question": "Apakah yang perlu diwujudkan dan dipatuhi oleh PPS untuk aktiviti yang berurusan bahan radioaktif tak terkedap?",
+        "options": [
+            "Satu prosedur kerja yang memerlukan pengawasan perubatan yang lebih kerap",
+            "Satu prosedur kerja yang memerlukan PPE yang lebih mahal",
+            "Satu prosedur kerja hendaklah diwujudkan yang tidak mungkin menyebabkan kontaminasi",
+            "Satu prosedur kerja yang melibatkan penggunaan peranti keselamatan perlindungan sinaran"
+        ],
+        "answer": "Satu prosedur kerja hendaklah diwujudkan yang tidak mungkin menyebabkan kontaminasi"
+    },
+    {
+        "question": "Siapakah yang perlu dilantik oleh pemegang lesen untuk menyelia pemakaian peraturan-peraturan, langkah dan tatacara perlindungan sinaran yang bersesuaian?",
+        "options": [
+            "Seorang Pengurus Projek",
+            "Seorang Pegawai Keselamatan",
+            "Seorang Jurutera Awam",
+            "Seorang Pegawai Perlindungan Sinaran (PPS)"
+        ],
+        "answer": "Seorang Pegawai Perlindungan Sinaran (PPS)"
+    },
+    {
+        "question": "Apakah yang perlu dilakukan oleh PPS berkaitan dengan semua prosedur kerja yang dicadangkan (termasuk projek baru atau perubahan kepada projek yang sedia ada)?",
+        "options": [
+            "Menyemak kelulusan AELB sahaja",
+            "Menjalankan kajian semula",
+            "Melaporkan kepada pihak berkuasa tempatan",
+            "Melaksanakan Pelan Kecemasan"
+        ],
+        "answer": "Menjalankan kajian semula"
+    },
+    {
+        "question": "Apakah satu syarat bagi PPS bagi aktiviti Penjualan dan Perdagangan untuk bidang radiografi industri?",
+        "options": [
+            "Perlu lulus Peperiksaan Radiografi Industri Tahap 2",
+            "Perlu menghadiri kursus Radiografi Industri (minimum Tahap 1) tanpa perlu menduduki Peperiksaan Radiografi Industri",
+            "Tidak perlu menghadiri sebarang kursus",
+            "Mesti diiktiraf sebagai Pengendali oleh AELB"
+        ],
+        "answer": "Perlu menghadiri kursus Radiografi Industri (minimum Tahap 1) tanpa perlu menduduki Peperiksaan Radiografi Industri"
+    },
+    {
+        "question": "Apakah salah satu rekod yang perlu disimpan oleh PPS berkaitan pengangkutan bahan radioaktif?",
+        "options": [
+            "Rekod bayaran tol pengangkutan",
+            "Rekod pengujian Pelan Sekuriti",
+            "Rekod pergerakan/pengangkutan bahan radioaktif",
+            "Rekod penyenggaraan peralatan sinaran"
+        ],
+        "answer": "Rekod pergerakan/pengangkutan bahan radioaktif"
+    },
+    {
+        "question": "Apakah rekod-rekod yang perlu diuruskan oleh PPS berkaitan dengan ujian peralatan?",
+        "options": [
+            "Rekod ujian kualiti bahan api",
+            "Rekod ujian kebocoran punca terkedap",
+            "Rekod ujian kualiti air",
+            "Rekod ujian paras bunyi"
+        ],
+        "answer": "Rekod ujian kebocoran punca terkedap"
+    },
+    {
+        "question": "Apakah rekod pemeriksaan perubatan pekerja sinaran (Seksyen A) dan rekod dedahan pekerja sinaran (Seksyen B) yang perlu diuruskan oleh PPS?",
+        "options": [
+            "LPTA/BM/5 (Seksyen A) dan LPTA/BM/5 (Seksyen B)",
+            "LPTA/BM/3 dan LPTA/BM/2",
+            "LEM/TEK/44 (Bahagian A)",
+            "Notis Pemberitahuan Bil. 03/ 2017"
+        ],
+        "answer": "LPTA/BM/5 (Seksyen A) dan LPTA/BM/5 (Seksyen B)"
+    },
+    {
+        "question": "Dalam konteks urusan bahan radioaktif, apakah maksud 'urusan'?",
+        "options": [
+            "Hanya pembelian dan penjualan",
+            "Apa-apa aktiviti yang melibatkan bahan radioaktif, bahan nuklear, benda ditetapkan atau radas penyinaran yang sedemikian itu yang dikilang diperdagang, dikeluar, diproses, dibeli, dipunyai, diguna, diangkut, dipindah, dikendali, dijual, distor, diimport atau dieksport",
+            "Hanya pengangkutan dan penyimpanan",
+            "Hanya pengeluaran dan pelupusan"
+        ],
+        "answer": "Apa-apa aktiviti yang melibatkan bahan radioaktif, bahan nuklear, benda ditetapkan atau radas penyinaran yang sedemikian itu yang dikilang diperdagang, dikeluar, diproses, dibeli, dipunyai, diguna, diangkut, dipindah, dikendali, dijual, distor, diimport atau dieksport"
+    },
+    {
+        "question": "Apakah yang perlu dipastikan oleh PPS berkaitan dengan tempoh masa dedahan, jarak dan perisaian?",
+        "options": [
+            "Digunakan untuk aktiviti yang berurusan bahan radioaktif tak terkedap sahaja",
+            "Digunakan dalam kawasan di mana bahaya sinaran luar mungkin wujud",
+            "Digunakan untuk Pengendali Pelatih sahaja",
+            "Digunakan untuk Pelan Kecemasan sahaja"
+        ],
+        "answer": "Digunakan dalam kawasan di mana bahaya sinaran luar mungkin wujud"
+    },
+    {
+        "question": "Apakah rujukan yang berkaitan dengan Standard Persijilan Pegawai Perlindungan Sinaran?",
+        "options": [
+            "LEM/TEK/44 (Bahagian A)",
+            "Notis Pemberitahuan Bil. 01/2014",
+            "LEM/TEK/18 Sem.3",
+            "Peraturan-peraturan Perlindungan Sinaran (Pengangkutan) 1989"
+        ],
+        "answer": "LEM/TEK/44 (Bahagian A)"
+    },
+    {
+        "question": "Apakah yang perlu dilakukan oleh PPS terhadap tinjauan keselamatan radiologi?",
+        "options": [
+            "Menyimpannya sebagai dokumen sulit",
+            "Dibawa ke pengetahuan pemegang lesen, orang-orang lain yang bertanggungjawab dan Jawatankuasa Perlindungan Sinaran (jika ada)",
+            "Dikemukakan kepada AELB untuk kelulusan",
+            "Digunakan untuk tujuan latihan dan latihan semula"
+        ],
+        "answer": "Dibawa ke pengetahuan pemegang lesen, orang-orang lain yang bertanggungjawab dan Jawatankuasa Perlindungan Sinaran (jika ada)"
+    },
+    {
+        "question": "Apakah yang perlu dilakukan oleh PPS kepada prosedur untuk pelupusan apa-apa sisa radioaktif?",
+        "options": [
+            "Diwujudkan dan dipatuhi, serta dikemukakan kepada AELB untuk kelulusan",
+            "Diwujudkan dan dipatuhi oleh majikan sahaja",
+            "Diwujudkan selepas mendapat kelulusan AELB",
+            "Digunakan untuk tujuan Penyata pemilikan peralatan sinaran"
+        ],
+        "answer": "Diwujudkan dan dipatuhi, serta dikemukakan kepada AELB untuk kelulusan"
+    },
+    {
+        "question": "Siapakah yang mengendalikan Peperiksaan Persijilan PPS di bawah Skim Persijilan PPS?",
+        "options": [
+            "Lembaga Perlesenan Tenaga Atom (AELB)",
+            "Jawatankuasa Kebangsaan Persijilan PPS (JKPPPS)",
+            "Agensi latihan yang diiktiraf oleh AELB",
+            "Kementerian Sains Teknologi & Inovasi"
+        ],
+        "answer": "Jawatankuasa Kebangsaan Persijilan PPS (JKPPPS)"
+    },
+    {
+        "question": "Apakah salah satu rekod yang perlu diuruskan oleh PPS berkaitan dengan sinaran mengion?",
+        "options": [
+            "Rekod perakaunan bahan radioaktif",
+            "Rekod penyelenggaraan kenderaan",
+            "Rekod pengujian kecekapan pekerja",
+            "Rekod pembelian perabot pejabat"
+        ],
+        "answer": "Rekod perakaunan bahan radioaktif"
+    }
+]

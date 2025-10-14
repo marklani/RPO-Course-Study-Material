@@ -9,14 +9,14 @@
 </head>
 
 <body>
-    <script>sessionStorage.setItem('count', 100)</script>
+    <script>sessionStorage.setItem('count', 50)</script>
     <div class="container">
         <h1>Non-Destructive Testing (NDT)</h1>
         <div class="back-link">
             <a href="../">← Back to Main Menu</a>
         </div>
         <p>Choose a specific quiz based on the Code of Practice.</p>
-        <form action="quiz.html" method="GET" class="selection-form">
+        <!-- <form action="quiz.html" method="GET" class="selection-form">
             <div class="selection-box">
                 <label for="question-count">Select Number of Questions:</label>
                 <select id="question-count"
@@ -27,15 +27,20 @@
                     <option value="100" selected>100 Questions (Full)</option>
                 </select>
             </div>
-        </form>
+        </form> -->
         <div class="navigation-grid">
-            <a href="LemTek-Quiz/" class="nav-button primary" id="lemtek-quiz">
-                Lem Tek 33 based Quiz
+            <a href="LemTek-Quiz-Bm/" class="nav-button primary" id="lemtek-quiz">
+                Lem Tek 18 based Quiz - BM
             </a>
         </div>
         <div class="navigation-grid">
-            <a href="ndt_slides_quiz.html" class="nav-button disabled">
-                Slides based quiz
+            <a href="LemTek-Quiz-En/" class="nav-button primary" id="lemtek-quiz">
+                Lem Tek 18 based Quiz - EN
+            </a>
+        </div>
+        <div class="navigation-grid">
+            <a href="slides_quiz.html" class="nav-button disabled">
+                Slides based Quiz
             </a>
         </div>
     </div>
