@@ -19,7 +19,7 @@ const resultContainer = document.getElementById('result-container');
 const quizContainer = document.getElementById('quiz-container');
 const scoreText = document.getElementById('score-text');
 // 1. Get the requested number of questions from sessionStorage
-const requestedCount = sessionStorage.getItem('count');
+requestedCount = sessionStorage.getItem('count');
 
 // --- Helper Functions ---
 
@@ -77,7 +77,7 @@ function loadQuestion() {
     feedbackMessageElement.innerHTML = '';
 
     // Update question number text
-    qNumberSpan.textContent = `Question ${currentQuestionIndex + 1} of ${sessionStorage.getItem('count')}`;
+    qNumberSpan.textContent = `Question ${currentQuestionIndex + 1} of ${requestedCount}`;
 
     // Update question text
     questionTextElement.innerHTML = `${currentQuestionIndex + 1}. ${currentQuestion.question}`;
