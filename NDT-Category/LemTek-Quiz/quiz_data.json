@@ -400,6 +400,26 @@
         "answer": "50"
     },
     {
+        "question": "According to ISO 3999, what is the maximum radiation leakage dose rate (µSv/hr) 1 m from the surface of a Class P exposure container when in the locked position?",
+        "options": [
+            "2000",
+            "500",
+            "50",
+            "20"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "According to ISO 3999, what is the maximum radiation leakage dose rate (µSv/hr) 50 mm from the external surface of a Class M exposure container when in the locked position?",
+        "options": [
+            "2000 or 1000",
+            "500",
+            "50",
+            "20"
+        ],
+        "answer": "50"
+    },
+    {
         "question": "What action shall be taken if the radiation leakage from an exposure container exceeds the maximum dose rate limits shown in Table 6?",
         "options": [
             "The RPO must be notified within 7 days.",
@@ -970,7 +990,7 @@
         "answer": "One"
     },
     {
-        "question": "100. What is the definition of 'potential exposure'?",
+        "question": "What is the definition of 'potential exposure'?",
         "options": [
             "An unpredictable exposure exceeding the dose limit.",
             "A voluntary exposure justified in abnormal conditions.",
