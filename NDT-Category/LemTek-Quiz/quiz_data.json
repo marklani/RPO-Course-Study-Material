@@ -10,16 +10,6 @@
         "answer": "X-ray and Gamma (γ) ray"
     },
     {
-        "question": "A requirement that is stated in the regulations or conditions of a licence is expressed using which word in the CoP?",
-        "options": [
-            "May",
-            "Should",
-            "Shall",
-            "Could"
-        ],
-        "answer": "Shall"
-    },
-    {
         "question": "Which abbreviation stands for 'As Low As Reasonable Achievable'?",
         "options": [
             "ADLS",
@@ -828,16 +818,6 @@
             "A new training program."
         ],
         "answer": "An investigation to determine the circumstances and consequences."
-    },
-    {
-        "question": "Practice-specific guidance recommending good practices is expressed using which word?",
-        "options": [
-            "Shall",
-            "Should",
-            "Must",
-            "May"
-        ],
-        "answer": "Should"
     },
     {
         "question": "What is the full meaning of DDA?",
