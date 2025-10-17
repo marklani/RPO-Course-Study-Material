@@ -13,11 +13,12 @@ jobs:
 
       - name: Start Python Static Server
         # Starts a server on port 8000 in the background
-        run: |
-          python3 -m http.server 8000 &
+        run: python3 -m http.server 8000 &
 
       - name: Install Python dependencies
-        run: pip install -r /test/requirements.txt
+        run: |
+          ls
+          pip install -r test/requirements.txt
 
       - name: Run E2E Tests with Pytest and Selenium
         run: python /test/basic_test.py
