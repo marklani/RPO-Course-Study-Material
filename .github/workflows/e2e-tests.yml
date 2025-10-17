@@ -21,4 +21,4 @@ jobs:
           pip install -r test/requirements.txt
 
       - name: Run E2E Tests with Pytest and Selenium
-        run: python /test/basic_test.py
+        run: python3 test/basic_test.py
