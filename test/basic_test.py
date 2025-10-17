@@ -30,4 +30,4 @@ def test_page(driver):
     footer = driver.find_element(By.ID, "q-number")
     result = WebDriverWait(driver, 10).until(expected_conditions.text_to_be_present_in_element((By.ID, "q-number"), "Question"))
     if result:
-        assert "test" in footer.text
+        assert "Question 1 of 50" in footer.text
