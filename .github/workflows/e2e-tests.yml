@@ -18,5 +18,11 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r test/requirements.txt
 
+      - name: Install Playwright dependencies
+        run: playwright install
+
       - name: Run E2E Tests with Pytest and Selenium
         run: pytest test/basic_test.py
+
+      - name: Run E2E Tests with Pytest and Playwright
+        run: pytest test/basic_playwright_test.py
