@@ -7068,5 +7068,1155 @@
             "Nitrogen"
         ],
         "answer": "Hydrogen sulfide gas, mercury, and benzene vapour"
+    },
+    {
+        "question": "Apakah nama penuh kementerian yang menyelia Jabatan Tenaga Atom (Atom Malaysia) mengikut slaid?",
+        "options": [
+            "Kementerian Sains, Teknologi dan Inovasi",
+            "Kementerian Tenaga, Sains dan Alam Sekitar",
+            "Kementerian Multimedia dan Telekomunikasi",
+            "Kementerian Perdagangan Dalam Negeri"
+        ],
+        "answer": "Kementerian Sains, Teknologi dan Inovasi"
+    },
+    {
+        "question": "Apakah fungsi utama Sistem Kategori punca radioaktif?",
+        "options": [
+            "Sistem pelabelan pembungkusan komersial untuk keuntungan",
+            "Sistem pengkelasan punca radioaktif berdasarkan 'ranking' dari segi potensi bahaya terhadap kesihatan manusia",
+            "Sistem yang membezakan harga punca radioaktif di pasaran terbuka",
+            "Sistem pengiraan tempoh hayat simpanan sisa toksik"
+        ],
+        "answer": "Sistem pengkelasan punca radioaktif berdasarkan 'ranking' dari segi potensi bahaya terhadap kesihatan manusia"
+    },
+    {
+        "question": "Skop kategori punca radioaktif dalam dokumen ini melibatkan punca jenis apa secara khusus?",
+        "options": [
+            "Punca tidak terkedap sahaja",
+            "Punca terkedap SAHAJA (namun boleh dipraktikkan kepada punca tidak terkedap di mana bersesuaian)",
+            "Hanya sisa radioaktif cecair",
+            "Bahan mentah uranium mentah sahaja"
+        ],
+        "answer": "Punca terkedap SAHAJA (namun boleh dipraktikkan kepada punca tidak terkedap di mana bersesuaian)"
+    },
+    {
+        "question": "Apakah formula yang digunakan untuk menentukan nisbah aktiviti bagi 'ranking' kategori punca?",
+        "options": [
+            "Aktiviti punca (A) didarab dengan nilai Danger (D)",
+            "Nilai Danger (D) dibahagikan dengan Aktiviti punca (A)",
+            "Aktiviti punca (A) dibahagikan dengan nilai spesifik radionuklid (D)",
+            "Aktiviti punca (A) ditambah dengan nilai Danger (D)"
+        ],
+        "answer": "Aktiviti punca (A) dibahagikan dengan nilai spesifik radionuklid (D)"
+    },
+    {
+        "question": "Apakah unit yang digunakan untuk menyatakan Aktiviti punca (A) dalam formula pengkategorian?",
+        "options": [
+            "Becquerel (Bq)",
+            "Terabecquerel (TBq)",
+            "Curie (Ci)",
+            "Sievert (Sv)"
+        ],
+        "answer": "Terabecquerel (TBq)"
+    },
+    {
+        "question": "Apakah takrifan bagi nilai 'D' (Danger value) dalam sistem kategori?",
+        "options": [
+            "Ketumpatan fizikal punca radioaktif",
+            "Aktiviti spesifik radionuklid yang memberi gambaran kuantitatif potensi menyebabkan kesan sangat serius terhadap kesihatan jika tidak dikawal",
+            "Jarak minimum zon selamat dari punca radioaktif",
+            "Harga kos pelupusan bahan radioaktif di peringkat antarabangsa"
+        ],
+        "answer": "Aktiviti spesifik radionuklid yang memberi gambaran kuantitatif potensi menyebabkan kesan sangat serius terhadap kesihatan jika tidak dikawal"
+    },
+    {
+        "question": "Di dalam dokumen manakah senarai lengkap nilai 'D' boleh diperolehi?",
+        "options": [
+            "EPR-D-VALUES 2006 (IAEA)",
+            "BSRP 2010 Manual",
+            "ISO 9001:2015",
+            "IAEA Safety Guide 2020"
+        ],
+        "answer": "EPR-D-VALUES 2006 (IAEA)"
+    },
+    {
+        "question": "Berapakah nilai D (TBq) bagi radionuklid Co-60?",
+        "options": [
+            "0.06",
+            "0.1",
+            "0.03",
+            "1.0"
+        ],
+        "answer": "0.03"
+    },
+    {
+        "question": "Berapakah nilai D (TBq) bagi radionuklid Cs-137?",
+        "options": [
+            "0.08",
+            "0.1",
+            "0.7",
+            "0.06"
+        ],
+        "answer": "0.1"
+    },
+    {
+        "question": "Apakah julat nisbah aktiviti (A/D) bagi Kategori 3?",
+        "options": [
+            "A/D >= 1000",
+            "1000 > A/D >= 10",
+            "10 > A/D >= 1",
+            "1 > A/D >= 0.01"
+        ],
+        "answer": "10 > A/D >= 1"
+    },
+    {
+        "question": "Manakah antara berikut merupakan contoh bagi punca Kategori 3?",
+        "options": [
+            "Punca teleterapi",
+            "Tolok industri dengan punca berkeaktifan tinggi / Tolok pengelongan lubang gerek",
+            "Punca gamma radiografi industri",
+            "Peralatan penangkap elektron"
+        ],
+        "answer": "Tolok industri dengan punca berkeaktifan tinggi / Tolok pengelongan lubang gerek"
+    },
+    {
+        "question": "Apakah tahap bahaya yang dikaitkan dengan punca Kategori 3 berdasarkan rajah perbandingan risiko?",
+        "options": [
+            "Teramat Bahaya",
+            "Sangat Bahaya",
+            "Bahaya",
+            "Kurang Bahaya"
+        ],
+        "answer": "Bahaya"
+    },
+    {
+        "question": "Manakah antara berikut contoh kehilangan kawalan secara 'Tidak Disengajakan'?",
+        "options": [
+            "Sabotaj",
+            "Salah letak, terlupa, atau terserak (kemalangan)",
+            "Penyeludupan",
+            "Dilupus di merata-rata secara sengaja"
+        ],
+        "answer": "Salah letak, terlupa, atau terserak (kemalangan)"
+    },
+    {
+        "question": "Manakah antara berikut perbuatan 'Dengan Sengaja' dalam bidang kawalan sekuriti nuklear?",
+        "options": [
+            "Terserak akibat kemalangan jalan raya",
+            "Terlupa lokasi simpanan kekal",
+            "Hilang atau dicuri (seperti kenderaan membawa punca dicuri) / Ditinggalkan dengan sengaja",
+            "Kerosakan teknikal pada tolok"
+        ],
+        "answer": "Hilang atau dicuri (seperti kenderaan membawa punca dicuri) / Ditinggalkan dengan sengaja"
+    },
+    {
+        "question": "Apakah maksud RDD dalam konteks tujuan jenayah / niat jahat?",
+        "options": [
+            "Radioactive Detection Device",
+            "Peranti Penyebaran Radiologikal (Radiological Dispersal Device)",
+            "Radiation Dose Distribution",
+            "Regulatory Disposal Department"
+        ],
+        "answer": "Peranti Penyebaran Radiologikal (Radiological Dispersal Device)"
+    },
+    {
+        "question": "Mengapakah pihak tidak bertanggungjawab mungkin memilih untuk melupuskan punca secara haram di merata-rata tempat?",
+        "options": [
+            "Untuk meningkatkan aktiviti punca",
+            "Mengurangkan kos pelupusan punca",
+            "Untuk tujuan penjenamaan semula syarikat",
+            "Memenuhi piawaian ISO terkini"
+        ],
+        "answer": "Mengurangkan kos pelupusan punca"
+    },
+    {
+        "question": "Apakah tujuan utama reka bentuk sistem sekuriti radioaktif?",
+        "options": [
+            "Memaksimumkan penggunaan tenaga nuklear",
+            "Menghalang akses tanpa kebenaran kepada punca radioaktif pada semua peringkat kitar hayatnya",
+            "Menurunkan nilai 'D' bagi radionuklid",
+            "Mempercepatkan proses import bahan radioaktif"
+        ],
+        "answer": "Menghalang akses tanpa kebenaran kepada punca radioaktif pada semua peringkat kitar hayatnya"
+    },
+    {
+        "question": "Sebutkan peringkat kitar hayat punca radioaktif yang mesti dilindungi oleh sistem sekuriti.",
+        "options": [
+            "Penyimpanan, penggunaan, pengangkutan, nyahaktif dan pelupusan",
+            "Penyimpanan dan penjualan komersial sahaja",
+            "Pengangkutan antarabangsa sahaja",
+            "Pengilangan dan pembungkusan sahaja"
+        ],
+        "answer": "Penyimpanan, penggunaan, pengangkutan, nyahaktif dan pelupusan"
+    },
+    {
+        "question": "Manakah antara berikut BUKAN matlamat utama sistem sekuriti yang direka bentuk?",
+        "options": [
+            "Menghalang kecurian punca radioaktif",
+            "Menghalang kerosakan kepada punca radioaktif",
+            "Meningkatkan separuh hayat (half-life) radionuklid",
+            "Menghalang pemindahan/penggunaan punca radioaktif tanpa kebenaran"
+        ],
+        "answer": "Meningkatkan separuh hayat (half-life) radionuklid"
+    },
+    {
+        "question": "Apakah 5 fungsi asas sekuriti yang perlu dilaksanakan untuk melindungi punca radioaktif?",
+        "options": [
+            "Penghalangan, Pengesanan, Halangan Masa, Tindak Balas/Respons, Pengurusan Sekuriti",
+            "Pembelian, Penggunaan, Penyimpanan, Pelupusan, Audit",
+            "Pengesahan, Pelesenan, Pengisytiharan, Pemeriksaan, Penyiasatan",
+            "Penggera, Kamera, Pagar, Kunci, Anggota Keselamatan"
+        ],
+        "answer": "Penghalangan, Pengesanan, Halangan Masa, Tindak Balas/Respons, Pengurusan Sekuriti"
+    },
+    {
+        "question": "Apakah objektif utama fungsi 'Penghalangan' (Deterrence)?",
+        "options": [
+            "Menangkap penceroboh selepas kejadian",
+            "Untuk menghalang pihak yang berniat jahat daripada mencuba melakukan perbuatan jahat",
+            "Mengurangkan dos sinaran kepada pekerja",
+            "Merekod data inventori punca"
+        ],
+        "answer": "Untuk menghalang pihak yang berniat jahat daripada mencuba melakukan perbuatan jahat"
+    },
+    {
+        "question": "Kesan penghalangan dicapai apabila pihak berniat jahat diyakinkan tentang perkara berikut, KECUALI:",
+        "options": [
+            "Perbuatan jahat terlalu sukar untuk dilaksanakan",
+            "Kemungkinan berjaya terlalu tidak pasti",
+            "Ganjaran kewangan yang bakal diterima adalah sangat lumayan",
+            "Akibat terhadap pelaku terlalu buruk untuk diterima"
+        ],
+        "answer": "Ganjaran kewangan yang bakal diterima adalah sangat lumayan"
+    },
+    {
+        "question": "Bilakah 'Penghalangan' (Deterrence) dianggap berlaku melalui komunikasi?",
+        "options": [
+            "Apabila tiada siapa mengetahui kewujudan stor simpanan",
+            "Apabila pihak berniat jahat menyedari kewujudan langkah keselamatan lain seperti Pengesanan, Halangan Masa, dan Tindak balas",
+            "Apabila laporan audit diterbitkan di laman web awam",
+            "Apabila permit kelulusan pengangkutan tamat tempoh"
+        ],
+        "answer": "Apabila pihak berniat jahat menyedari kewujudan langkah keselamatan lain seperti Pengesanan, Halangan Masa, dan Tindak balas"
+    },
+    {
+        "question": "Apakah definisi 'Pengesanan' dalam konteks fungsi sekuriti?",
+        "options": [
+            "Proses melambatkan penceroboh menggunakan pagar besi",
+            "Penemuan terhadap cubaan atau pencerobohan sebenar untuk mengalihkan/mensabotaj punca tanpa kebenaran",
+            "Semakan latar belakang kakitangan baharu",
+            "Proses melupuskan bahan radioaktif ke dalam sisa kekal"
+        ],
+        "answer": "Penemuan terhadap cubaan atau pencerobohan sebenar untuk mengalihkan/mensabotaj punca tanpa kebenaran"
+    },
+    {
+        "question": "Manakah antara berikut BUKAN kaedah bagi fungsi 'Pengesanan'?",
+        "options": [
+            "Pemerhatian visual dan pemantauan video (CCTV)",
+            "Sensor elektronik dan meterai keselamatan",
+            "Pagar dawai atau dinding konkrit tebal",
+            "Rekod perakaunan dan sistem pemantauan proses"
+        ],
+        "answer": "Pagar dawai atau dinding konkrit tebal"
+    },
+    {
+        "question": "Apakah maksud fungsi 'Halangan Masa' (Delay)?",
+        "options": [
+            "Melambatkan masa kelulusan lesen oleh pihak berkuasa",
+            "Melambatkan cubaan akses tanpa kebenaran, kecurian atau sabotaj melalui halangan fizikal",
+            "Menunda tempoh pengangkutan ke waktu malam",
+            "Menunggu maklum balas daripada agensi perisikan"
+        ],
+        "answer": "Melambatkan cubaan akses tanpa kebenaran, kecurian atau sabotaj melalui halangan fizikal"
+    },
+    {
+        "question": "Apakah contoh kemudahan fizikal yang digunakan untuk mencapai 'Halangan Masa' (Delay)?",
+        "options": [
+            "Dinding, pagar, dan bilik berkunci",
+            "Sensor gerakan dan CCTV",
+            "Lencana nama dan PIN peribadi",
+            "Borang inventori bulanan"
+        ],
+        "answer": "Dinding, pagar, and bilik berkunci"
+    },
+    {
+        "question": "Bagaimanakah 'Halangan Masa' diukur sebagai ukuran prestasi?",
+        "options": [
+            "Masa yang diambil untuk memohon lesen baharu",
+            "Masa antara pengesanan dan tindakan sabotaj atau kecurian (Masa untuk Mengatasi Halangan)",
+            "Tempoh jangka hayat bateri alat pengesan",
+            "Masa perbincangan jawatankuasa sekuriti"
+        ],
+        "answer": "Masa antara pengesanan dan tindakan sabotaj atau kecurian (Masa untuk Mengatasi Halangan)"
+    },
+    {
+        "question": "Apakah hubungan psikologi antara Halangan Masa dan Penghalangan?",
+        "options": [
+            "Jika musuh tahu wujudnya Halangan Masa, mereka mungkin tidak mencuba — ini menjadi satu bentuk penghalangan",
+            "Halangan Masa mengurangkan motivasi pekerja untuk bekerja lebih masa",
+            "Halangan Masa tidak mempunyai kesan psikologi kepada musuh",
+            "Musuh akan berasa lebih bermotivasi jika wujud halangan fizikal"
+        ],
+        "answer": "Jika musuh tahu wujudnya Halangan Masa, they mungkin tidak mencuba — ini menjadi satu bentuk penghalangan"
+    },
+    {
+        "question": "Apakah definisi 'Tindak Balas / Respons' dalam fungsi sekuriti?",
+        "options": [
+            "Tindakan membaiki peralatan penggera yang rosak",
+            "Tindakan yang diambil selepas pengesanan bagi menghalang penceroboh berjaya dan mengurangkan akibat serius",
+            "Proses mendokumentasikan pelan perniagaan tahunan",
+            "Tindak balas kimia bahan radioaktif terhadap asid"
+        ],
+        "answer": "Tindakan yang diambil selepas pengesanan bagi menghalang penceroboh berjaya dan mengurangkan akibat serius"
+    },
+    {
+        "question": "Manakah antara berikut BUKAN tindakan tindak balas oleh anggota sekuriti semasa insiden?",
+        "options": [
+            "Mengganggu dan menumpaskan penceroboh semasa tindakan sedang berlaku",
+            "Menghalang penceroboh daripada menggunakan punca radioaktif",
+            "Mendapatkan semula punca radioaktif",
+            "Mengubah nilai aktiviti asal punca dalam rekod sistem"
+        ],
+        "answer": "Mengubah nilai aktiviti asal punca dalam rekod sistem"
+    },
+    {
+        "question": "Apakah maksud 'Pengurusan Sekuriti' mengikut slaid?",
+        "options": [
+            "Penyediaan sumber yang mencukupi (anggota dan peruntukan kewangan) serta pembangunan dasar, prosedur, rekod, dan pelan",
+            "Pengurusan pelaburan saham syarikat nuklear",
+            "Penyelenggaraan penghawa dingin di pejabat pentadbiran",
+            "Pengambilan pekerja asing untuk sektor pembinaan stor"
+        ],
+        "answer": "Penyediaan sumber yang mencukupi (anggota dan peruntukan kewangan) serta pembangunan dasar, prosedur, rekod, dan pelan"
+    },
+    {
+        "question": "Pengurusan sekuriti juga merangkumi prosedur untuk pengendalian maklumat jenis apa?",
+        "options": [
+            "Maklumat kewangan terbuka syarikat",
+            "Pengendalian maklumat sensitif dengan betul dan perlindungan daripada pendedahan tanpa kebenaran",
+            "Maklumat peribadi pelanggan awam",
+            "Brosur promosi produk tolok industri"
+        ],
+        "answer": "Pengendalian maklumat sensitif dengan betul dan perlindungan daripada pendedahan tanpa kebenaran"
+    },
+    {
+        "question": "Apakah tiga kategori kaedah sekuriti yang perlu digabungkan untuk mencapai objektif sekuriti?",
+        "options": [
+            "Kaedah pentadbiran am, Kaedah pentadbiran (mengikut penggredan), Kaedah teknikal (mengikut penggredan)",
+            "Kaedah kewangan, Kaedah logistik, Kaedah pemasaran",
+            "Kaedah lisan, Kaedah bertulis, Kaedah digital",
+            "Kaedah fizikal, Kaedah kimia, Kaedah biologi"
+        ],
+        "answer": "Kaedah pentadbiran am, Kaedah pentadbiran (mengikut penggredan), Kaedah teknikal (mengikut penggredan)"
+    },
+    {
+        "question": "Manakah antara berikut merupakan contoh kaedah sekuriti berkaitan 'Pentadbiran'?",
+        "options": [
+            "Pagar konkrit dan sangkar besi",
+            "Prosedur kawalan akses, kawalan kunci, inventori punca, dan keselamatan maklumat",
+            "Bekas berperisai dan kunci fizikal",
+            "Sistem pengesanan pencerobohan elektronik"
+        ],
+        "answer": "Prosedur kawalan akses, kawalan kunci, inventori punca, dan keselamatan maklumat"
+    },
+    {
+        "question": "Manakah antara berikut merupakan contoh kaedah sekuriti 'Teknikal'?",
+        "options": [
+            "Pembentukan budaya keselamatan semata-mata",
+            "Pagar, dinding, sangkar, bekas berperisai, kunci, dan sistem pengesanan pencerobohan",
+            "Kebolehpercayaan dan integriti kakitangan",
+            "Undang-undang dan peraturan kebangsaan"
+        ],
+        "answer": "Pagar, dinding, sangkar, bekas berperisai, kunci, dan sistem pengesanan pencerobohan"
+    },
+    {
+        "question": "Apakah kegunaan 'Sangkar' (Cage) dalam kaedah teknikal?",
+        "options": [
+            "Untuk menyekat akses terus kepada peralatan atau bahan radioaktif",
+            "Sebagai tempat hiasan estetika fasiliti",
+            "Untuk tujuan pengangkutan jarak jauh sahaja",
+            "Untuk memerangkap haiwan liar berhampiran stor"
+        ],
+        "answer": "Untuk menyekat akses terus kepada peralatan atau bahan radioaktif"
+    },
+    {
+        "question": "Apakah Tahap Sekuriti yang ditetapkan bagi punca Kategori 3?",
+        "options": [
+            "Tahap A",
+            "Tahap B",
+            "Tahap C",
+            "Dikecualikan"
+        ],
+        "answer": "Tahap C"
+    },
+    {
+        "question": "Apakah Matlamat utama bagi Tahap Sekuriti C?",
+        "options": [
+            "Memaksimumkan dedahan radiasi kepada penceroboh",
+            "Untuk mengurangkan kebarangkalian pengalihan punca radioaktif tanpa kebenaran",
+            "Menghapuskan kos pengurusan keselamatan keseluruhan",
+            "Menghalang sebarang aktiviti pengangkutan domestik"
+        ],
+        "answer": "Untuk mengurangkan kebarangkalian pengalihan punca radioaktif tanpa kebenaran"
+    },
+    {
+        "question": "Bagi fungsi Pengesanan Tahap Sekuriti C, apakah kaedah sekuriti yang digunakan untuk mengesan percubaan pengalihan tanpa kebenaran?",
+        "options": [
+            "Peralatan pengesanan gangguan dan/atau pemeriksaan berkala oleh kakitangan operator",
+            "Satelit pemantauan cuaca global",
+            "Laporan tahunan dari audit luar sahaja",
+            "Pemeriksaan secara rawak setahun sekali"
+        ],
+        "answer": "Peralatan pengesanan gangguan dan/atau pemeriksaan berkala oleh kakitangan operator"
+    },
+    {
+        "question": "Apakah tindakan yang termasuk dalam pengesahan oleh pengendali bahawa punca berada di tempatnya?",
+        "options": [
+            "Pemeriksaan fizikal, pengesahan meterai/peranti penunjuk gangguan, serta pengukuran sinaran",
+            "Menghantar e-mel pertanyaan kepada pembekal",
+            "Menyemak baki akaun bank syarikat",
+            "Melihat gambar lama kawasan stor"
+        ],
+        "answer": "Pemeriksaan fizikal, pengesahan meterai/peranti penunjuk gangguan, serta pengukuran sinaran"
+    },
+    {
+        "question": "Jika pemeriksaan menunjukkan punca mungkin hilang, apakah objektif tindakan seterusnya bagi operator?",
+        "options": [
+            "Menutup operasi syarikat serta-merta tanpa penilaian",
+            "Penilaian segera terhadap situasi untuk menentukan sama ada pengalihan tanpa kebenaran benar-benar berlaku",
+            "Memadam rekod log penggera",
+            "Menunggu pemeriksaan berkala bulan hadapan"
+        ],
+        "answer": "Penilaian segera terhadap situasi untuk menentukan sama ada pengalihan tanpa kebenaran benar-benar berlaku"
+    },
+    {
+        "question": "Berapakah kekerapan minimum pemeriksaan pengesahan kehilangan punca untuk Tahap Sekuriti C?",
+        "options": [
+            "Setiap minggu",
+            "Pemeriksaan bulanan",
+            "Enam bulan sekali",
+            "Setahun sekali"
+        ],
+        "answer": "Pemeriksaan bulanan"
+    },
+    {
+        "question": "Apakah maksud kenyataan penting ini: 'Penggera tanpa __________ bukanlah satu pengesanan'?",
+        "options": [
+            "bunyi yang kuat",
+            "penilaian",
+            "lampu amaran",
+            "tindakan polis"
+        ],
+        "answer": "penilaian"
+    },
+    {
+        "question": "Apakah aliran proses kronologi dari bermulanya sensor sehinggalah pengesanan sebenar berlaku?",
+        "options": [
+            "Sensor Diaktifkan -> Isyarat Penggera Dimulakan -> Penggera Dilaporkan -> Penggera Dinilai",
+            "Penggera Dilaporkan -> Penggera Dinilai -> Sensor Diaktifkan",
+            "Sensor Diaktifkan -> Penggera Dinilai -> Penggera Dilaporkan",
+            "Penggera Dinilai -> Isyarat Penggera Dimulakan -> Sensor Diaktifkan"
+        ],
+        "answer": "Sensor Diaktifkan -> Isyarat Penggera Dimulakan -> Penggera Dilaporkan -> Penggera Dinilai"
+    },
+    {
+        "question": "Bagi fungsi Halangan Masa Tahap Sekuriti C, apakah kaedah reka bentuk yang digunakan?",
+        "options": [
+            "Sistem pertahanan pelbagai lapisan automatik",
+            "Sistem satu lapisan halangan (contoh: dinding, sangkar) atau di bawah pemerhatian oleh pengendali",
+            "Tiada halangan fizikal diperlukan sama sekali",
+            "Hanya menggunakan pengawal bersenjata"
+        ],
+        "answer": "Sistem satu lapisan halangan (contoh: dinding, sangkar) atau di bawah pemerhatian oleh pengendali"
+    },
+    {
+        "question": "Apakah syarat utama agar Halangan Masa dianggap berkesan mengikut graf garis masa PPS?",
+        "options": [
+            "Halangan Masa berkesan mesti berlaku selepas pengesanan (First Alarm / Detect)",
+            "Halangan Masa mesti tamat sebelum musuh datang",
+            "Halangan Masa tidak memerlukan sebarang sistem penggera",
+            "Halangan Masa sentiasa bernilai sifar"
+        ],
+        "answer": "Halangan Masa berkesan mesti berlaku selepas pengesanan (First Alarm / Detect)"
+    },
+    {
+        "question": "Apakah singkatan PPS dalam ilustrasi kaedah keselamatan?",
+        "options": [
+            "Personal Protective Suit",
+            "Physical Protection System (Sistem Perlindungan Fizikal)",
+            "Primary Power Source",
+            "Public Security Personnel"
+        ],
+        "answer": "Physical Protection System (Sistem Perlindungan Fizikal)"
+    },
+    {
+        "question": "Bagi fungsi Tindak Balas Tahap Sekuriti C, jika pengalihan tanpa kebenaran disahkan, kepada siapa ia perlu dilaporkan dengan segera?",
+        "options": [
+            "Pihak berkuasa yang berkenaan",
+            "Media massa tempatan sahaja",
+            "Syarikat insurans sahaja",
+            "Pesaing perniagaan"
+        ],
+        "answer": "Pihak berkuasa yang berkenaan"
+    },
+    {
+        "question": "Siapakah yang boleh menjadi sebahagian daripada Pasukan Tindak Balas mengikut slaid?",
+        "options": [
+            "Operator yang mengesan kejadian",
+            "Orang awam yang berada di luar kawasan fasiliti",
+            "Pekerja pelawat dari luar negara tanpa pengesahan latar belakang",
+            "Pihak vendor pembekal mesin cetak"
+        ],
+        "answer": "Operator yang mengesan kejadian"
+    },
+    {
+        "question": "Manakah antara berikut BUKAN ukuran prestasi bagi Pasukan Tindak Balas?",
+        "options": [
+            "Kebarangkalian komunikasi kepada Pasukan Tindak Balas",
+            "Masa untuk berkomunikasi dan masa untuk dikerahkan",
+            "Keberkesanan Pasukan Tindak Balas (penumpasan)",
+            "Kos elaun makan malam Pasukan Tindak Balas"
+        ],
+        "answer": "Kos elaun makan malam Pasukan Tindak Balas"
+    },
+    {
+        "question": "Apakah kaedah untuk mencapai objektif kawalan akses yang berkesan bagi Tahap Sekuriti C?",
+        "options": [
+            "Sekurang-kurangnya satu kaedah pengesahan identiti",
+            "Pemeriksaan pasport antarabangsa sahaja",
+            "Penggunaan kad perniagaan biasa",
+            "Membenarkan semua orang masuk tanpa sekatan"
+        ],
+        "answer": "Sekurang-kurangnya satu kaedah pengesahan identiti"
+    },
+    {
+        "question": "Sebutkan contoh instrumen yang boleh digunakan untuk pengesahan identiti dan kebenaran akses.",
+        "options": [
+            "Kad imbas, PIN, kata laluan komputer, kawalan kunci, atau pengesahan visual oleh petugas sah",
+            "Buku log tulisan tangan tanpa kad identiti",
+            "Sistem imbasan cap jari mainan",
+            "Kad keahlian kelab sukan"
+        ],
+        "answer": "Kad imbas, PIN, kata laluan komputer, kawalan kunci, atau pengesahan visual oleh petugas sah"
+    },
+    {
+        "question": "Apakah pengecualian/pengganti kawalan akses fizikal bagi punca jenis 'mudah alih / bergerak' semasa digunakan?",
+        "options": [
+            "Tiada kawalan diperlukan",
+            "Pengawasan visual berterusan oleh petugas",
+            "Pemasangan pagar konkrit mudah alih setinggi 3 meter",
+            "Meninggalkan punca di dalam kenderaan tanpa dikunci"
+        ],
+        "answer": "Pengawasan visual berterusan oleh petugas"
+    },
+    {
+        "question": "Bagi punca yang disimpan (stored source), kawalan akses harus mengehadkan akses ke mana?",
+        "options": [
+            "Kawasan kaunter hadapan bangunan utama",
+            "Bilik berkunci atau lokasi simpanan punca radioaktif",
+            "Kantin pekerja",
+            "Tempat letak kenderaan pelawat"
+        ],
+        "answer": "Bilik berkunci atau lokasi simpanan punca radioaktif"
+    },
+    {
+        "question": "Bagaimanakah kebolehpercayaan (trustworthiness) individu dinilai mengikut Pengurusan Sekuriti?",
+        "options": [
+            "Melalui ujian kecergasan fizikal mingguan",
+            "Melalui semakan latar belakang yang memuaskan",
+            "Berdasarkan kelayakan akademik tertinggi sahaja",
+            "Berdasarkan tempoh umur individu tersebut"
+        ],
+        "answer": "Melalui semakan latar belakang yang memuaskan"
+    },
+    {
+        "question": "Apakah dua kriteria minimum dalam semakan latar belakang seseorang kakitangan?",
+        "options": [
+            "Pengesahan identiti dan Pengesahan rujukan (untuk menentukan integriti, keperibadian & kebolehpercayaan)",
+            "Pemeriksaan akaun bank dan semakan lesen memandu",
+            "Ujian kesihatan mental dan pengesahan status perkahwinan",
+            "Semakan hobi dan kelab sosial yang disertai"
+        ],
+        "answer": "Pengesahan identiti dan Pengesahan rujukan (untuk menentukan integriti, keperibadian & kebolehpercayaan)"
+    },
+    {
+        "question": "Apakah yang mesti dilakukan oleh organisasi terhadap maklumat sekuriti sensitif (dokumen, data komputer, media)?",
+        "options": [
+            "Diterbitkan di media sosial untuk ketelusan",
+            "Dikenal pasti dan dilindungi daripada pendedahan tanpa kebenaran",
+            "Dihapuskan setiap 6 bulan tanpa sandaran (backup)",
+            "Dikongsi dengan semua kontraktor luar secara terbuka"
+        ],
+        "answer": "Dikenal pasti dan dilindungi daripada pendedahan tanpa kebenaran"
+    },
+    {
+        "question": "Susunan sekuriti dan prosedur rujukan harus diguna pakai dalam bentuk dokumen apa?",
+        "options": [
+            "Pelan Sekuriti",
+            "Sijil Penghargaan Syarikat",
+            "Laporan Kewangan Tahunan",
+            "Katalog Jualan Produk"
+        ],
+        "answer": "Pelan Sekuriti"
+    },
+    {
+        "question": "Pernyataan sekuriti / pelan kontingensi harus merangkumi prosedur untuk menyiasat dan melaporkan sebarang perkara berikut, KECUALI:",
+        "options": [
+            "Akses tanpa kebenaran kepada lokasi punca",
+            "Pengalihan punca radioaktif",
+            "Pertukaran menu makanan di kantin operator",
+            "Insiden kehilangan kawalan punca"
+        ],
+        "answer": "Pertukaran menu makanan di kantin operator"
+    },
+    {
+        "question": "Siapakah yang menetapkan tempoh masa untuk pelaporan insiden sekuriti oleh pengendali?",
+        "options": [
+            "Pihak pengurusan media tempatan",
+            "Badan pengawal selia (JTA / Atom Malaysia)",
+            "Persatuan Pekerja Nuklear Antarabangsa",
+            "Ketua Pegawai Kewangan Syarikat"
+        ],
+        "answer": "Badan pengawal selia (JTA / Atom Malaysia)"
+    },
+    {
+        "question": "Manakah antara berikut BUKAN contoh kejadian yang mempunyai kepentingan sekuriti?",
+        "options": [
+            "Ketidaksepadanan dalam data perakaunan punca",
+            "Pencerobohan tanpa kebenaran ke dalam stor penyimpanan",
+            "Penemuan bahan letupan yang disyaki/sebenar berhampiran stor",
+            "Peningkatan jumlah jualan tahunan tolok industri"
+        ],
+        "answer": "Peningkatan jumlah jualan tahunan tolok industri"
+    },
+    {
+        "question": "Manakah antara berikut insiden kepentingan sekuriti berkaitan fungsi sistem perlindungan?",
+        "options": [
+            "Kegagalan atau kehilangan sistem keselamatan yang penting untuk perlindungan punca radioaktif",
+            "Kelewatan penghantaran surat menyurat pejabat",
+            "Gangguan bekalan air di tandas bangunan pentadbiran",
+            "Kerosakan sistem penyaman udara di lobi utama"
+        ],
+        "answer": "Kegagalan atau kehilangan sistem keselamatan yang penting untuk perlindungan punca radioaktif"
+    },
+    {
+        "question": "Fasa pengangkutan bahan radioaktif merupakan fasa perantaraan antara fasa apa?",
+        "options": [
+            "Pengeluaran, penggunaan, penyimpanan, dan pelupusan",
+            "Reka bentuk dan pengiklanan produk sahaja",
+            "Pelesenan dan audit cukai",
+            "Pembungkusan dan pemulangan wang"
+        ],
+        "answer": "Pengeluaran, penggunaan, penyimpanan, dan pelupusan"
+    },
+    {
+        "question": "Adakah terdapat perbezaan dalam kemungkinan akibat radiologi akibat kehilangan/kecurian semasa fasa penggunaan, penyimpanan atau pengangkutan?",
+        "options": [
+            "Ya, fasa pengangkutan adalah 100 kali lebih bahaya dari segi radiologi",
+            "Tidak, akibat radiologi adalah tidak berbeza semasa penggunaan, penyimpanan dan pengangkutan",
+            "Akibat radiologi hanya wujud pada fasa pelupusan akhir sahaja",
+            "Penyimpanan tidak mempunyai sebarang risiko radiologi"
+        ],
+        "answer": "Tidak, akibat radiologi adalah tidak berbeza semasa penggunaan, penyimpanan dan pengangkutan"
+    },
+    {
+        "question": "Apakah faktor yang boleh menyebabkan akibat tindakan sabotaj menjadi jauh lebih besar semasa pengangkutan?",
+        "options": [
+            "Bergantung kepada lokasi berlakunya sabotaj",
+            "Jenis warna lori pengangkutan",
+            "Waktu pendaftaran kenderaan",
+            "Jenama peranti GPS yang digunakan"
+        ],
+        "answer": "Bergantung kepada lokasi berlakunya sabotaj"
+    },
+    {
+        "question": "Reka bentuk sistem keselamatan pengangkutan yang mencukupi harus merangkumi dua pendekatan utama iaitu:",
+        "options": [
+            "Pertahanan Berlapis dan Pendekatan Berperingkat",
+            "Pelaburan Modal Besar dan Pemotongan Kos",
+            "Sistem Pemasaran Agresif dan Khidmat Pelanggan",
+            "Penggajian Pengawal Luar dan Sistem Penggera Wayarles"
+        ],
+        "answer": "Pertahanan Berlapis dan Pendekatan Berperingkat"
+    },
+    {
+        "question": "Sistem sekuriti pengangkutan hendaklah direka bentuk dengan mengambil kira aspek fizikal/kimia berikut, KECUALI:",
+        "options": [
+            "Kuantiti dan bentuk fizikal serta kimia bahan radioaktif",
+            "Kaedah pengangkutan yang digunakan",
+            "Jenis bungkusan yang digunakan",
+            "Harga pasaran bahan mentah di bursa komoditi"
+        ],
+        "answer": "Harga pasaran bahan mentah di bursa komoditi"
+    },
+    {
+        "question": "Apakah langkah yang diperlukan berkaitan pemulihan bahan semasa fasa pengangkutan?",
+        "options": [
+            "Mengenal pasti keupayaan untuk memulihan bahan radioaktif yang rosak, dicuri atau hilang dan mengembalikannya di bawah kawalan peraturan",
+            "Membiarkan sahaja bahan tersebut jika kos pemulihan terlalu tinggi",
+            "Melupuskan bungkusan yang hilang dari rekod tanpa penyiasatan",
+            "Menyerahkan sepenuhnya tanggungjawab pemulihan kepada pihak media awam"
+        ],
+        "answer": "Mengenal pasti keupayaan untuk memulihan bahan radioaktif yang rosak, dicuri atau hilang dan mengembalikannya di bawah kawalan peraturan"
+    },
+    {
+        "question": "Apakah langkah pertama tanggungjawab pengendali dalam penentuan langkah-langkah sekuriti pengangkutan?",
+        "options": [
+            "Membeli insurans kenderaan pihak ketiga",
+            "Kenal pasti radionuklid dan aktivitinya dalam setiap bungkusan serta mod pengangkutan yang digunakan",
+            "Menukar pemandu lori setiap 2 jam perjalanan",
+            "Melakukan semakan harga tol jalan raya"
+        ],
+        "answer": "Kenal pasti radionuklid dan aktivitinya dalam setiap bungkusan serta mod pengangkutan yang digunakan"
+    },
+    {
+        "question": "Apakah dua Tahap Sekuriti Pengangkutan yang dibincangkan dalam dokumen ini?",
+        "options": [
+            "Tahap Sekuriti Awal dan Tahap Sekuriti Akhir",
+            "Tahap Sekuriti Asas dan Tahap Sekuriti Dipertingkatkan",
+            "Tahap Sekuriti Domestik dan Tahap Sekuriti Global",
+            "Tahap Sekuriti Minimum dan Tahap Sekuriti Maksimum"
+        ],
+        "answer": "Tahap Sekuriti Asas dan Tahap Sekuriti Dipertingkatkan"
+    },
+    {
+        "question": "Siapakah yang boleh memberikan maklumat kepada pengendali berkaitan kemungkinan perubahan ancaman semasa pengangkutan?",
+        "options": [
+            "Pihak berkuasa yang kompeten (Competent authority / JTA)",
+            "Persatuan Pemandu Lori Kebangsaan",
+            "Syarikat pembekal kenderaan",
+            "Orang awam melalui panggilan rawak"
+        ],
+        "answer": "Pihak berkuasa yang kompeten (Competent authority / JTA)"
+    },
+    {
+        "question": "Kepada siapakah bahan radioaktif boleh dipindahkan semasa proses pengangkutan?",
+        "options": [
+            "Sesiapa sahaja yang menawarkan harga pengangkutan terendah",
+            "Hanya kepada pengendali yang sah (authorized operators)",
+            "Mana-mana syarikat logistik biasa tanpa lesen nuklear",
+            "Kepada kakitangan pelatih tanpa pengesahan identiti"
+        ],
+        "answer": "Hanya kepada pengendali yang sah (authorized operators)"
+    },
+    {
+        "question": "Dalam keadaan biasa untuk pengangkutan, hubungan apa yang memadai wujud antara pembawa dan penerima/pengirim?",
+        "options": [
+            "Perjanjian lisan tanpa dokumen",
+            "Hubungan perniagaan sedia ada antara pembawa dan penerima/pengirim",
+            "Tiada hubungan diperlukan, proses dilakukan secara rahsia",
+            "Hubungan kekeluargaan antara pemandu"
+        ],
+        "answer": "Hubungan perniagaan sedia ada antara pembawa dan penerima/pengirim"
+    },
+    {
+        "question": "Kepada agensi manakah kesahihan kesesuaian/keupayaan pembawa atau penerima yang berpotensi hendaklah disahkan?",
+        "options": [
+            "JTA (Jabatan Tenaga Atom / Atom Malaysia)",
+            "Jabatan Pengangkutan Jalan (JPJ)",
+            "Kementerian Kewangan",
+            "Suruhanjaya Syarikat Malaysia (SSM)"
+        ],
+        "answer": "JTA (Jabatan Tenaga Atom / Atom Malaysia)"
+    },
+    {
+        "question": "Apakah komponen latihan yang mesti diterima oleh individu yang terlibat dalam pengangkutan bahan radioaktif?",
+        "options": [
+            "Latihan memandu kenderaan berat sahaja",
+            "Latihan kesedaran sekuriti (termasuk penerapan elemen kesedaran terhadap pelan sekuriti sepadan dengan tanggungjawab)",
+            "Latihan pemasaran digital bersepadu",
+            "Kursus pengurusan kewangan peribadi"
+        ],
+        "answer": "Latihan kesedaran sekuriti (termasuk penerapan elemen kesedaran terhadap pelan sekuriti sepadan dengan tanggungjawab)"
+    },
+    {
+        "question": "Latihan kesedaran sekuriti asas pengangkutan harus merangkumi aspek berikut, KECUALI:",
+        "options": [
+            "Sifat ancaman berkaitan sekuriti",
+            "Kaedah dan tindakan yang perlu diambil sekiranya berlaku insiden sekuriti",
+            "Formula kimia terperinci sintesis bahan letupan komersial",
+            "Penerapan elemen kesedaran terhadap pelan sekuriti"
+        ],
+        "answer": "Formula kimia terperinci sintesis bahan letupan komersial"
+    },
+    {
+        "question": "Bilakah latihan sekuriti perlu diberikan atau disahkan kepada pekerja?",
+        "options": [
+            "Semasa pengambilan pekerja dan dilengkapkan semula secara berkala mengikut keperluan JTA",
+            "Hanya selepas berlaku kemalangan atau kecurian punca",
+            "Hanya sekali seumur hidup semasa pekerja ingin bersara",
+            "Setiap minggu tanpa mengira keperluan operasi"
+        ],
+        "answer": "Semasa pengambilan pekerja dan dilengkapkan semula secara berkala mengikut keperluan JTA"
+    },
+    {
+        "question": "Siapakah yang bertanggungjawab menyimpan rekod semua latihan sekuriti pengangkutan?",
+        "options": [
+            "Pekerja itu sendiri secara peribadi di rumah sahaja",
+            "Majikan (dan menyerahkannya kepada pekerja apabila diminta)",
+            "Kaunter keselamatan bangunan JTA",
+            "Syarikat insurans kenderaan"
+        ],
+        "answer": "Majikan (and menyerahkannya kepada pekerja apabila diminta)"
+    },
+    {
+        "question": "Apakah kaedah/instrumen yang boleh diterima untuk proses pengesahan identiti personel pengangkutan?",
+        "options": [
+            "Kad pengenalan bergambar rasmi atau rekod biometrik yang unik",
+            "Kad nama perniagaan biasa yang dicetak sendiri",
+            "Sumpah lisan pemandu tanpa sebarang dokumen",
+            "Pakaian seragam syarikat tanpa lencana nama"
+        ],
+        "answer": "Kad pengenalan bergambar rasmi atau rekod biometrik yang unik"
+    },
+    {
+        "question": "Apakah tujuan melakukan pemeriksaan visual keselamatan ke atas kenderaan pengangkutan sebelum/semasa perjalanan?",
+        "options": [
+            "Untuk memastikan warna kenderaan tidak pudar",
+            "Memastikan tiada gangguan, kerosakan, atau objek mencurigakan yang boleh menjejaskan keselamatan bungkusan/kenderaan",
+            "Menyemak tahap kebersihan cermin pandang belakang untuk tujuan estetik",
+            "Mengira bilangan pelekat iklan pada badan trak"
+        ],
+        "answer": "Memastikan tiada gangguan, kerosakan, atau objek mencurigakan yang boleh menjejaskan keselamatan bungkusan/kenderaan"
+    },
+    {
+        "question": "Apakah dokumen yang perlu disediakan oleh pengendali kepada ahli krew mengenai langkah sekuriti semasa pengangkutan?",
+        "options": [
+            "Arahan tindakan bertulis",
+            "Surat khabar harian tempatan",
+            "Buku panduan pelancongan negeri",
+            "Manual reka bentuk kilang"
+        ],
+        "answer": "Arahan tindakan bertulis"
+    },
+    {
+        "question": "Bagi Tahap Sekuriti Asas, apakah butiran minimum yang memadai ada di dalam arahan bertulis tersebut?",
+        "options": [
+            "Nombor telefon kecemasan dan individu untuk dihubungi dalam keadaan insiden sekuriti",
+            "Peta terperinci seluruh rangkaian satelit negara",
+            "Sejarah penubuhan Jabatan Tenaga Atom sejak awal",
+            "Senarai harga penuh radionuklid antarabangsa"
+        ],
+        "answer": "Nombor telefon kecemasan dan individu untuk dihubungi dalam keadaan insiden sekuriti"
+    },
+    {
+        "question": "Apakah syarat atau batas penting dalam pertukaran maklumat pelaksanaan sekuriti antara operator?",
+        "options": [
+            "Pertukaran maklumat tidak boleh melanggar keperluan sekuriti berkaitan maklumat sensitif",
+            "Maklumat mesti disebarkan secara terbuka di laman blog syarikat",
+            "Pertukaran maklumat hanya dibenarkan menggunakan faks tradisional",
+            "Semua maklumat sulit negara mesti diserahkan kepada pembawa pihak ketiga"
+        ],
+        "answer": "Pertukaran maklumat tidak boleh melanggar keperluan sekuriti berkaitan maklumat sensitif"
+    },
+    {
+        "question": "Apakah instrumen penilaian kebolehpercayaan (reliability) bagi individu dalam sekuriti pengangkutan?",
+        "options": [
+            "Semakan latar belakang dan rekod jenayah (jika dibenarkan undang-undang)",
+            "Ujian kelajuan menaip komputer",
+            "Semakan akaun media sosial peribadi untuk melihat jumlah pengikut",
+            "Ujian memandu di litar lumba"
+        ],
+        "answer": "Semakan latar belakang dan rekod jenayah (jika dibenarkan undang-undang)"
+    },
+    {
+        "question": "Apakah kriteria bungkusan yang mewajibkan pelaksanaan langkah Tahap Sekuriti Dipertingkatkan?",
+        "options": [
+            "Kandungan bungkusan memenuhi atau melebihi ambang radioaktiviti untuk tahap sekuriti dipertingkatkan",
+            "Berat bungkusan melebihi 10 tan metrik",
+            "Bungkusan yang diimport dari benua Eropah sahaja",
+            "Bungkusan yang mengandungi sisa cecair domestik sahaja"
+        ],
+        "answer": "Kandungan bungkusan memenuhi atau melebihi ambang radioaktiviti untuk tahap sekuriti dipertingkatkan"
+    },
+    {
+        "question": "Bagi Tahap Sekuriti Dipertingkatkan, apakah keperluan komunikasi sebelum pengangkutan pengangkut/penghantar dilakukan?",
+        "options": [
+            "Penghantar atau pengangkut hendaklah diberi kuasa terlebih dahulu sebelum terlibat dalam pengangkutan bungkusan",
+            "Pemandu mesti menukar nombor telefon peribadi",
+            "Syarikat wajib memaparkan butiran laluan di akhbar utama",
+            "Tiada kebenaran awal diperlukan jika pengangkutan dilakukan pada waktu malam"
+        ],
+        "answer": "Penghantar atau pengangkut hendaklah diberi kuasa terlebih dahulu sebelum terlibat dalam pengangkutan bungkusan"
+    },
+    {
+        "question": "Apakah peranan 'Pemberitahuan Awal' (Advance Notification) daripada penghantar kepada penerima?",
+        "options": [
+            "Memberikan maklumat awal mengenai penghantaran yang dirancang, mod pengangkutan, dan anggaran masa penghantaran",
+            "Meminta penerima membayar deposit tambahan secara dalam talian",
+            "Memaklumkan tentang kerosakan kenderaan selepas kejadian berlaku",
+            "Menghantar invois cukai barangan dan perkhidmatan"
+        ],
+        "answer": "Memberikan maklumat awal mengenai penghantaran yang dirancang, mod pengangkutan, dan anggaran masa penghantaran"
+    },
+    {
+        "question": "Apakah tindakan yang wajib diambil oleh penerima selepas menerima Pemberitahuan Awal daripada penghantar?",
+        "options": [
+            "Mengesahkan keupayaan dan kesediaan untuk menerima penghantaran pada masa yang dijangka, sebelum pengangkutan dimulakan",
+            "Mengabaikan pemberitahuan sehingga lori tiba di pintu hadapan",
+            "Menghantar wakil tanpa pengenalan diri ke stesen transit",
+            "Membatalkan pesanan secara automatik jika waktu malam"
+        ],
+        "answer": "Mengesahkan keupayaan dan kesediaan untuk menerima penghantaran pada masa yang dijangka, sebelum pengangkutan dimulakan"
+    },
+    {
+        "question": "Kepada siapakah penghantar perlu memberikan pemberitahuan awal jika pengangkutan melibatkan pergerakan antarabangsa?",
+        "options": [
+            "Pihak berkuasa berkaitan di mana-mana Negara penerima atau Negara transit",
+            "Dewan perniagaan industri pelancongan tempatan",
+            "Kedutaan semua negara di dunia",
+            "Agensi berita global awam"
+        ],
+        "answer": "Pihak berkuasa berkaitan di mana-mana Negara penerima atau Negara transit"
+    },
+    {
+        "question": "Apakah kegunaan 'Peranti Penjejak' (Tracking Device) dalam Tahap Sekuriti Dipertingkatkan?",
+        "options": [
+            "Untuk memantau pergerakan kenderaan yang membawa bahan radioaktif",
+            "Mengurangkan penggunaan bahan api kenderaan",
+            "Mengawal kelajuan enjin secara automatik dari jauh",
+            "Mendengar perbualan peribadi krew pengangkutan"
+        ],
+        "answer": "Untuk memantau pergerakan kenderaan yang membawa bahan radioaktif"
+    },
+    {
+        "question": "Apakah status perubahan kenderaan/bahan yang boleh dikesan oleh sistem penjejakan?",
+        "options": [
+            "Mengesan pelepasan, perubahan mod pengangkutan, penyimpanan sementara, atau jika penghantaran telah diterima",
+            "Mengesan suhu tayar lori secara masa nyata",
+            "Mengesan kualiti minyak pelincir enjin lori",
+            "Mengesan tahap emisi karbon kenderaan pengiring"
+        ],
+        "answer": "Mengesan pelepasan, perubahan mod pengangkutan, penyimpanan sementara, atau jika penghantaran telah diterima"
+    },
+    {
+        "question": "Apakah contoh paling ringkas bagi sistem penjejakan status bungkusan yang dinyatakan?",
+        "options": [
+            "Sistem kod bar yang memberikan maklumat mengenai lokasi dan status bungkusan",
+            "Panggilan telefon manual setiap 10 jam perjalanan",
+            "Sistem radar tentera beresolusi tinggi",
+            "Pemeriksaan pos magnetik manual di jalan raya"
+        ],
+        "answer": "Sistem kod bar yang memberikan maklumat mengenai lokasi dan status bungkusan"
+    },
+    {
+        "question": "Kombinasi sistem penjejakan bersama sistem apa yang membolehkan tindakan tepat pada masanya terhadap kes kecurian bahan?",
+        "options": [
+            "Sistem komunikasi dan prosedur tindak balas",
+            "Sistem pengiklanan dan pemasaran korporat",
+            "Sistem pengauditan akaun kewangan syarikat",
+            "Sistem pengrekrutan pekerja baharu secara atas talian"
+        ],
+        "answer": "Sistem komunikasi dan prosedur tindak balas"
+    },
+    {
+        "question": "Manakah antara berikut BUKAN elemen wajib yang perlu ada di dalam Pelan Sekuriti Pengangkutan?",
+        "options": [
+            "Peruntukan tanggungjawab dan rekod bungkusan bahan radioaktif yang diangkut",
+            "Operasi semasa, penilaian, dan pernyataan jelas mengenai langkah-langkah sekuriti",
+            "Prosedur untuk menilai, menguji, menyemak secara berkala dan mengemaskini pelan sekuriti",
+            "Pelan susun atur ruang pameran jualan tahunan syarikat logistik"
+        ],
+        "answer": "Pelan susun atur ruang pameran jualan tahunan syarikat logistik"
+    },
+    {
+        "question": "Apakah unsur pengurusan maklumat yang wajib dimasukkan ke dalam Pelan Sekuriti Pengangkutan?",
+        "options": [
+            "Sekuriti maklumat pengangkutan dan pemantauan lokasi penghantaran",
+            "Pendedahan data peribadi pemandu kepada umum",
+            "Penerbitan jadual perjalanan lengkap di laman web agensi berita",
+            "Penyimpanan data kod laluan pada komputer awam tanpa kata laluan"
+        ],
+        "answer": "Sekuriti maklumat pengangkutan dan pemantauan lokasi penghantaran"
+    },
+    {
+        "question": "Apakah takrifan bagi 'Budaya Sekuriti Nuklear' mengikut dokumen ini?",
+        "options": [
+            "Gabungan ciri-ciri, sikap dan tingkah laku individu, organisasi dan institusi yang berfungsi sebagai kaedah untuk menyokong dan meningkatkan sekuriti nuklear",
+            "Budaya kerja 8 jam sehari tanpa sebarang cuti tahunan",
+            "Amalan memakai pakaian seragam tradisional semasa mengendalikan mesin",
+            "Sistem pematuhan kualiti pengeluaran kilang automatik"
+        ],
+        "answer": "Gabungan ciri-ciri, sikap dan tingkah laku individu, organisasi dan institusi yang berfungsi sebagai kaedah untuk menyokong dan meningkatkan sekuriti nuklear"
+    },
+    {
+        "question": "Apakah matlamat utama kewujudan Budaya Sekuriti Nuklear?",
+        "options": [
+            "Untuk memastikan pelaksanaan langkah-langkah sekuriti nuklear diberikan perhatian yang sewajarnya mengikut tahap kepentingannya",
+            "Menurunkan kos pembayaran ganti rugi insurans syarikat",
+            "Memastikan pekerja dapat menyelesaikan tugasan pentadbiran dengan cepat",
+            "Meningkatkan publisiti positif agensi di media sosial"
+        ],
+        "answer": "Untuk memastikan pelaksanaan langkah-langkah sekuriti nuklear diberikan perhatian yang sewajarnya mengikut tahap kepentingannya"
+    },
+    {
+        "question": "Manakah antara berikut tanggungjawab utama Pemegang Lesen untuk memperkukuh budaya sekuriti?",
+        "options": [
+            "Menetapkan dasar dan prosedur yang mengiktiraf sekuriti sebagai keperluan keutamaan tinggi",
+            "Mengurangkan peruntukan bajet untuk program latihan sekuriti",
+            "Menyerahkan sepenuhnya kawalan akses kepada kontraktor luar tanpa seliaan",
+            "Menyembunyikan masalah sekuriti daripada pengetahuan badan pengawal selia"
+        ],
+        "answer": "Menetapkan dasar dan prosedur yang mengiktiraf sekuriti sebagai keperluan keutamaan tinggi"
+    },
+    {
+        "question": "Apakah tindakan yang mesti diambil oleh pemegang lesen jika terdapat sebarang masalah yang menjejaskan sekuriti?",
+        "options": [
+            "Mengenal pasti dan membetulkan dengan segera sebarang masalah secara setimpal dengan tahap kepentingannya",
+            "Menunggu sehingga audit tahunan berikutnya untuk mengambil tindakan",
+            "Memadam rekod log kejadian agar tidak menjejaskan reputasi",
+            "Menurunkan pangkat pekerja yang melaporkan masalah tersebut"
+        ],
+        "answer": "Mengenal pasti dan membetulkan dengan segera sebarang masalah secara setimpal dengan tahap kepentingannya"
+    },
+    {
+        "question": "Tanggungjawab individu berkaitan sekuriti perlu ditentukan dengan jelas, dan individu tersebut mesti melalui proses berikut, KECUALI:",
+        "options": [
+            "Dilatih dengan secukupnya",
+            "Berkelayakan dalam bidang tugas berkaitan",
+            "Disahkan boleh dipercayai (trustworthy)",
+            "Mempunyai keahlian kelab politik tempatan"
+        ],
+        "answer": "Mempunyai keahlian kelab politik tempatan"
+    },
+    {
+        "question": "Bagaimanakah saluran komunikasi dalam organisasi pemegang lesen harus disusun?",
+        "options": [
+            "Untuk memastikan maklumat sekuriti mengalir dengan berkesan",
+            "Untuk menyekat maklumat daripada sampai ke peringkat pengurusan bawahan",
+            "Hanya untuk kegunaan komunikasi tidak rasmi melalui aplikasi sembang sosial",
+            "Disusun secara rawak tanpa sebarang hierarki yang jelas"
+        ],
+        "answer": "Untuk memastikan maklumat sekuriti mengalir dengan berkesan"
+    },
+    {
+        "question": "Di bawah tanggungjawab organisasi, bagaimanakah kecukupan sumber perlu diuruskan?",
+        "options": [
+            "Memastikan sumber kewangan, teknikal dan tenaga kerja mencukupi untuk melaksanakan tanggungjawab sekuriti",
+            "Memotong peruntukan bajet sekuriti untuk dialihkan kepada bahagian pemasaran",
+            "Bergantung sepenuhnya kepada bantuan kewangan daripada pihak luar / JTA",
+            "Mengurangkan bilangan pengawal keselamatan untuk menjimatkan kos operasi"
+        ],
+        "answer": "Memastikan sumber kewangan, teknikal dan tenaga kerja mencukupi untuk melaksanakan tanggungjawab sekuriti"
+    },
+    {
+        "question": "Apakah peranan pengurus dalam organisasi untuk mempengaruhi budaya sekuriti?",
+        "options": [
+            "Melalui kepimpinan dan amalan pengurusan mereka sendiri",
+            "Dengan hanya memberikan arahan bertulis tanpa memantau pelaksanaan",
+            "Menyerahkan seluruh keputusan kritikal kepada kakitangan sokongan bawahan",
+            "Mengabaikan amalan harian sekuriti demi mempercepatkan pengeluaran kilang"
+        ],
+        "answer": "Melalui kepimpinan dan amalan pengurusan mereka sendiri"
+    },
+    {
+        "question": "Apakah sikap buruk yang perlu dielakkan oleh pengurus dalam menguruskan sekuriti nuklear?",
+        "options": [
+            "Sikap leka (complacency)",
+            "Sikap proaktif",
+            "Sikap suka bertanya",
+            "Pendekatan yang teliti dan berhemat"
+        ],
+        "answer": "Sikap leka (complacency)"
+    },
+    {
+        "question": "Apakah tanggungjawab personel/pekerja secara individu terhadap sekuriti nuklear?",
+        "options": [
+            "Bertanggungjawab atas tingkah laku mereka dan bermotivasi untuk memastikan sekuriti nuklear",
+            "Menyerahkan tanggungjawab tingkah laku peribadi kepada rakan sekerja",
+            "Melaksanakan prosedur sekuriti hanya apabila dipantau oleh pengurus",
+            "Mengabaikan peraturan sekuriti jika ia melambatkan tugasan harian"
+        ],
+        "answer": "Bertanggungjawab atas tingkah laku mereka dan bermotivasi untuk memastikan sekuriti nuklear"
+    },
+    {
+        "question": "Apakah sikap yang perlu diamalkan oleh personel untuk mematuhi peraturan dan undang-undang sekuriti?",
+        "options": [
+            "Sentiasa berwaspada dan mempunyai sikap proaktif",
+            "Sikap pasif dan hanya bertindak selepas diarahkan berkali-kali",
+            "Sikap acuh tidak acuh terhadap pencerobohan asing",
+            "Sikap merahsiakan kesilapan operasi daripada penyelia"
+        ],
+        "answer": "Sentiasa berwaspada dan mempunyai sikap proaktif"
+    },
+    {
+        "question": "Apakah 'Persamaan Matlamat' antara Budaya Keselamatan (Safety) dan Budaya Sekuriti (Security)?",
+        "options": [
+            "Melindungi individu, masyarakat dan alam sekitar daripada kesan bahaya sinaran",
+            "Meningkatkan keuntungan komersial syarikat pemegang lesen",
+            "Memaksimumkan pengeluaran sisa radioaktif untuk kegunaan industri",
+            "Mempercepatkan proses kelulusan kastam di sempadan negara"
+        ],
+        "answer": "Melindungi individu, masyarakat dan alam sekitar daripada kesan bahaya sinaran"
+    },
+    {
+        "question": "Apakah takrifan spesifik bagi 'Budaya Keselamatan Nuklear' (Nuclear Safety Culture)?",
+        "options": [
+            "Gabungan ciri-ciri dan sikap dalam organisasi dan individu yang menetapkan bahawa perlindungan dan isu keselamatan diberi keutamaan utama serta perhatian sewajarnya",
+            "Sistem pemasangan pagar dawai di sekeliling bangunan stor utama",
+            "Prosedur semakan latar belakang pemandu kenderaan logistik",
+            "Undang-undang pengangkutan bahan berbahaya antarabangsa"
+        ],
+        "answer": "Gabungan ciri-ciri dan sikap dalam organisasi dan individu yang menetapkan bahawa perlindungan dan isu keselamatan diberi keutamaan utama serta perhatian sewajarnya"
+    },
+    {
+        "question": "Apakah matlamat bersama (common goal) dalam Budaya Keselamatan dan Sekuriti?",
+        "options": [
+            "Mengurangkan risiko daripada bahan radioaktif & kemudahan berkaitan",
+            "Meningkatkan kepekatan radionuklid dalam sampel industri",
+            "Menghapuskan keperluan dokumentasi pelan kontingensi",
+            "Memperbanyakkan bilangan stor simpanan tanpa lesen"
+        ],
+        "answer": "Mengurangkan risiko daripada bahan radioaktif & kemudahan berkaitan"
+    },
+    {
+        "question": "Matlamat bersama Keselamatan & Sekuriti sebahagian besarnya berdasarkan tiga prinsip bersama. Nyatakan tiga prinsip tersebut.",
+        "options": [
+            "Sikap suka bertanya, pendekatan yang teliti dan berhemat, serta komunikasi yang berkesan dan terbuka secara dua hala",
+            "Pemotongan kos, kepantasan kerja, dan kerahsiaan penuh organisasi",
+            "Penyeliaan ketat, denda kewangan, dan sistem merit pekerja",
+            "Penggunaan teknologi komputer, sensor automasi, dan robotik sahaja"
+        ],
+        "answer": "Sikap suka bertanya, pendekatan yang teliti dan berhemat, serta komunikasi yang berkesan dan terbuka secara dua hala"
+    },
+    {
+        "question": "Apakah nilai D (TBq) bagi Am-241 mengikut jadual contoh dalam slaid?",
+        "options": [
+            "0.06",
+            "0.1",
+            "0.03",
+            "0.7"
+        ],
+        "answer": "0.06"
+    },
+    {
+        "question": "Apakah nilai D (TBq) bagi Ir-192 mengikut jadual contoh dalam slaid?",
+        "options": [
+            "1.0",
+            "0.08",
+            "0.06",
+            "0.03"
+        ],
+        "answer": "0.08"
+    },
+    {
+        "question": "Apakah nilai D (TBq) bagi Sr-90 mengikut jadual contoh dalam slaid?",
+        "options": [
+            "0.7",
+            "0.1",
+            "1.0",
+            "0.06"
+        ],
+        "answer": "1.0"
+    },
+    {
+        "question": "Apakah nilai D (TBq) bagi Tc-99m mengikut jadual contoh dalam slaid?",
+        "options": [
+            "0.03",
+            "0.7",
+            "0.08",
+            "0.1"
+        ],
+        "answer": "0.7"
     }
 ]

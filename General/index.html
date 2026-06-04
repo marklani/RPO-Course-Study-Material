@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <script>sessionStorage.setItem('count', 50)</script>
+    <script>sessionStorage.setItem('count', 1000)</script>
     <div class="container">
         <h1>General</h1>
         <div class="back-link">
@@ -22,8 +22,9 @@
                 <select id="question-count" onchange="sessionStorage.setItem('count', value)">
                     <option value="10">10 Questions</option>
                     <option value="25">25 Questions</option>
-                    <option value="50" selected>50 Questions</option>
+                    <option value="50">50 Questions</option>
                     <option value="100">100 Questions</option>
+                    <option value="1000" selected>All Questions</option>
                 </select>
             </div>
         </form>
